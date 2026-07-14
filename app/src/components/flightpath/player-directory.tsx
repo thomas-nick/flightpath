@@ -47,7 +47,9 @@ export function PlayerDirectory({
         {shown.map((player) => {
           const g =
             ACCENT_GRADIENTS[(player.accent ?? 0) % ACCENT_GRADIENTS.length];
-          const f = finishesMap[player.pdga_number]?.finishes;
+          const bundle = finishesMap[player.pdga_number];
+          const open = bundle?.splits?.open.finishes ?? bundle?.finishes;
+          const am = bundle?.splits?.amateur.finishes;
           return (
             <li key={player.pdga_number}>
               <Link
@@ -69,9 +71,12 @@ export function PlayerDirectory({
                   <h3>{playerName(player)}</h3>
                   <p>
                     Rating {player.rating ?? "—"}
-                    {f
-                      ? ` · ${formatNumber(f.wins)}W · ${formatNumber(f.podiums)} podiums · ${formatNumber(f.top10)} top 10`
+                    {open
+                      ? ` · ${bundle?.open_division || player.division}: ${formatNumber(open.wins)}W / ${formatNumber(open.podiums)} podiums / ${formatNumber(open.top10)} top 10`
                       : ` · peak ${player.career.peak_rating || "—"} · ${formatNumber(player.career.tournaments)} events`}
+                    {am && am.events_tracked > 0
+                      ? ` · Am: ${formatNumber(am.wins)}W`
+                      : ""}
                     {" · "}
                     {playerLocation(player) || "—"}
                   </p>

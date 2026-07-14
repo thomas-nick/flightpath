@@ -1,5 +1,10 @@
 import { Link } from "@tanstack/react-router";
-import type { FinishBundle } from "../../lib/player-analytics";
+import { useMemo, useState } from "react";
+import {
+  getSplit,
+  type FinishBundle,
+  type FinishView,
+} from "../../lib/player-analytics";
 import {
   ACCENT_GRADIENTS,
   formatMoney,
@@ -18,13 +23,21 @@ export function PlayerProfile({
   player: Player;
   finishes: FinishBundle | null;
 }) {
+  const openLabel = finishes?.open_division || player.division || "MPO";
+  const hasAmateur = (finishes?.splits?.amateur.finishes.events_tracked ?? 0) > 0
+    || (finishes?.splits?.amateur.finishes.wins ?? 0) > 0;
+  const defaultView: FinishView =
+    (finishes?.splits?.open.finishes.events_tracked ?? 0) > 0 ? "open" : "all";
+  const [view, setView] = useState<FinishView>(defaultView);
+
+  const split = useMemo(() => getSplit(finishes, view), [finishes, view]);
+  const f = split?.finishes;
+  const careerPage = finishes?.career;
   const g = ACCENT_GRADIENTS[(player.accent ?? 0) % ACCENT_GRADIENTS.length];
   const stats = [...player.stats].sort(
     (a, b) => Number(b.year) - Number(a.year),
   );
   const name = playerName(player);
-  const f = finishes?.finishes;
-  const careerPage = finishes?.career;
 
   return (
     <article className="fp-profile">
@@ -63,6 +76,43 @@ export function PlayerProfile({
         </div>
       </header>
 
+      <div className="fp-class-toggle-wrap">
+        <div className="fp-filters fp-class-toggle" role="tablist" aria-label="Finish class">
+          <button
+            type="button"
+            role="tab"
+            aria-selected={view === "open"}
+            className={view === "open" ? "is-active" : undefined}
+            onClick={() => setView("open")}
+          >
+            {openLabel}
+          </button>
+          <button
+            type="button"
+            role="tab"
+            aria-selected={view === "amateur"}
+            className={view === "amateur" ? "is-active" : undefined}
+            onClick={() => setView("amateur")}
+            disabled={!hasAmateur && !finishes?.splits}
+          >
+            Amateur
+          </button>
+          <button
+            type="button"
+            role="tab"
+            aria-selected={view === "all"}
+            className={view === "all" ? "is-active" : undefined}
+            onClick={() => setView("all")}
+          >
+            All classes
+          </button>
+        </div>
+        <p className="fp-muted">
+          Finish tallies below follow the selected class. Career rating and
+          earnings stay overall.
+        </p>
+      </div>
+
       <section className="fp-stat-grid" aria-label="Career summary">
         <Stat label="Current rating" value={player.rating ?? "—"} />
         <Stat
@@ -70,35 +120,34 @@ export function PlayerProfile({
           value={String(player.career.peak_rating || "—")}
         />
         <Stat
-          label="Career wins"
-          value={formatNumber(f?.wins ?? careerPage?.career_wins ?? 0)}
+          label={`${split?.label || openLabel} wins`}
+          value={formatNumber(
+            f?.wins
+              ?? (view === "all" ? careerPage?.career_wins : 0)
+              ?? 0,
+          )}
         />
         <Stat
           label="Podiums"
           value={f ? formatNumber(f.podiums) : "—"}
-          hint={
-            f
-              ? `${f.podium_rate}% of recent tracked starts`
-              : "Finish window loading"
-          }
+          hint={f ? `${f.podium_rate}% of tracked ${split?.label} starts` : undefined}
         />
         <Stat
           label="Top 10s"
           value={f ? formatNumber(f.top10) : "—"}
-          hint={f ? `${f.top10_rate}% of recent tracked starts` : undefined}
+          hint={f ? `${f.top10_rate}% of tracked starts` : undefined}
         />
         <Stat label="Top 5s" value={f ? formatNumber(f.top5) : "—"} />
-        <Stat
-          label="Top 20s"
-          value={f ? formatNumber(f.top20) : "—"}
-        />
+        <Stat label="Top 20s" value={f ? formatNumber(f.top20) : "—"} />
         <Stat
           label="Avg finish"
           value={f?.avg_place != null ? String(f.avg_place) : "—"}
           hint={
             f?.events_tracked
-              ? `${formatNumber(f.events_tracked)} recent events tracked for places`
-              : undefined
+              ? `${formatNumber(f.events_tracked)} tracked ${split?.label} events`
+              : view === "amateur"
+                ? "No amateur starts in the tracked window"
+                : undefined
           }
         />
         <Stat label="Win rate" value={f ? `${f.win_rate}%` : "—"} />
@@ -118,19 +167,15 @@ export function PlayerProfile({
           label="Career points"
           value={formatNumber(Math.round(player.career.points))}
         />
-        <Stat
-          label="Seasons logged"
-          value={String(player.career.years_active)}
-        />
       </section>
 
-      <PlayerCharts player={player} finishes={finishes} />
+      <PlayerCharts player={player} finishes={finishes} split={split} />
 
-      {finishes?.recent_results?.length ? (
+      {split?.recent_results?.length ? (
         <section className="fp-history">
           <div className="fp-section-head">
-            <h2>Recent results</h2>
-            <p className="fp-muted">Latest tracked tournament finishes</p>
+            <h2>Recent {split.label} results</h2>
+            <p className="fp-muted">Latest tracked finishes in this class</p>
           </div>
           <div className="fp-table-wrap">
             <table className="fp-table">
@@ -138,17 +183,21 @@ export function PlayerProfile({
                 <tr>
                   <th>Place</th>
                   <th>Tournament</th>
+                  <th>Division</th>
                   <th>Tier</th>
                   <th>Dates</th>
-                  <th>Points</th>
                   <th>Prize</th>
                 </tr>
               </thead>
               <tbody>
-                {finishes.recent_results.map((row) => (
-                  <tr key={`${row.tournament}-${row.dates}-${row.place}`}>
+                {split.recent_results.map((row) => (
+                  <tr
+                    key={`${row.tournament}-${row.dates}-${row.place}-${row.division_code}`}
+                  >
                     <td>
-                      <span className={placeClass(row.place)}>{row.place}</span>
+                      <span className={placeClass(row.place ?? 99)}>
+                        {row.place}
+                      </span>
                     </td>
                     <td>
                       {row.event_url ? (
@@ -159,9 +208,9 @@ export function PlayerProfile({
                         row.tournament
                       )}
                     </td>
+                    <td>{row.division_code || row.division || "—"}</td>
                     <td>{row.tier || "—"}</td>
                     <td>{row.dates || "—"}</td>
-                    <td>{row.points || "—"}</td>
                     <td>{row.prize ? formatMoney(row.prize) : "—"}</td>
                   </tr>
                 ))}
@@ -171,10 +220,10 @@ export function PlayerProfile({
         </section>
       ) : null}
 
-      {finishes?.wins_list?.length ? (
+      {split?.wins_list?.length ? (
         <section className="fp-history">
           <div className="fp-section-head">
-            <h2>Win ledger</h2>
+            <h2>{split.label} win ledger</h2>
             <p className="fp-muted">Official PDGA singles-format wins</p>
           </div>
           <div className="fp-table-wrap">
@@ -183,13 +232,14 @@ export function PlayerProfile({
                 <tr>
                   <th>Dates</th>
                   <th>Tournament</th>
+                  <th>Division</th>
                   <th>Tier</th>
                   <th>Prize</th>
                 </tr>
               </thead>
               <tbody>
-                {finishes.wins_list.slice(0, 25).map((row) => (
-                  <tr key={`${row.tournament}-${row.dates}`}>
+                {split.wins_list.slice(0, 25).map((row) => (
+                  <tr key={`${row.tournament}-${row.dates}-${row.division}`}>
                     <td>{row.dates}</td>
                     <td>
                       {row.event_url ? (
@@ -200,6 +250,7 @@ export function PlayerProfile({
                         row.tournament
                       )}
                     </td>
+                    <td>{row.division_code || row.division || "—"}</td>
                     <td>{row.tier || "—"}</td>
                     <td>{row.prize ? formatMoney(row.prize) : "—"}</td>
                   </tr>
@@ -244,8 +295,8 @@ export function PlayerProfile({
           </table>
         </div>
         <p className="fp-attr">
-          Player data © 2026 PDGA · Finish tallies compiled from public PDGA
-          event results ·{" "}
+          Player data © 2026 PDGA · Open vs amateur finishes compiled from
+          public PDGA event results ·{" "}
           <a
             href={pdgaProfileUrl(player.pdga_number)}
             target="_blank"

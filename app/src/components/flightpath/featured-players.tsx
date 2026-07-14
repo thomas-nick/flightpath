@@ -26,7 +26,9 @@ export function FeaturedPlayers({ players }: { players: Player[] }) {
         {featured.map((player) => {
           const g =
             ACCENT_GRADIENTS[(player.accent ?? 0) % ACCENT_GRADIENTS.length];
-          const f = finishesMap[player.pdga_number]?.finishes;
+          const bundle = finishesMap[player.pdga_number];
+          const f = bundle?.splits?.open.finishes ?? bundle?.finishes;
+          const openLabel = bundle?.open_division || player.division;
           return (
             <Link
               key={player.pdga_number}
@@ -52,7 +54,7 @@ export function FeaturedPlayers({ players }: { players: Player[] }) {
                 <p>
                   Rating {player.rating ?? "—"}
                   {f
-                    ? ` · ${formatNumber(f.wins)} wins · ${formatNumber(f.podiums)} podiums · ${formatNumber(f.top10)} top 10s`
+                    ? ` · ${openLabel}: ${formatNumber(f.wins)} wins · ${formatNumber(f.podiums)} podiums · ${formatNumber(f.top10)} top 10s`
                     : ` · ${formatNumber(player.career.tournaments)} events · ${formatMoney(player.career.prize)} earned`}
                   .
                 </p>

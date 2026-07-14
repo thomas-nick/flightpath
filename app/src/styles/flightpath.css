@@ -626,6 +626,21 @@
   color: var(--fp-muted);
 }
 
+.fp-class-toggle-wrap {
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 0 1.5rem 0.5rem;
+}
+
+.fp-class-toggle-wrap .fp-muted {
+  margin: 0.75rem 0 0;
+}
+
+.fp-class-toggle button:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
 .fp-charts {
   max-width: 1180px;
   margin: 0 auto;

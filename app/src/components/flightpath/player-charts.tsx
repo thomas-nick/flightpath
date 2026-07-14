@@ -18,6 +18,7 @@ import {
   placeHistogramBars,
   ratingTrend,
   yearlySeries,
+  type FinishSplit,
   type FinishBundle,
 } from "../../lib/player-analytics";
 import { formatMoney, type Player } from "../../lib/players";
@@ -50,17 +51,20 @@ function ChartFrame({
 export function PlayerCharts({
   player,
   finishes,
+  split,
 }: {
   player: Player;
   finishes: FinishBundle | null;
+  split: FinishSplit | null;
 }) {
   const [ready, setReady] = useState(false);
   useEffect(() => setReady(true), []);
 
   const years = yearlySeries(player.stats);
-  const finishYears = finishTrend(finishes);
+  const finishYears = finishTrend(split?.year_finishes);
   const rating = ratingTrend(finishes, player);
-  const hist = placeHistogramBars(finishes);
+  const hist = placeHistogramBars(split?.finishes);
+  const band = split?.label || "All";
 
   if (!ready) {
     return (
@@ -78,7 +82,7 @@ export function PlayerCharts({
       <div className="fp-section-head">
         <h2>Performance graphs</h2>
         <p className="fp-muted">
-          Rating path, season volume, and finish quality across the card
+          Showing {band} finishes · rating path stays career-wide
         </p>
       </div>
 
@@ -124,10 +128,7 @@ export function PlayerCharts({
           </ResponsiveContainer>
         </ChartFrame>
 
-        <ChartFrame
-          title="Season earnings & events"
-          subtitle="PDGA year statistics"
-        >
+        <ChartFrame title="Season earnings & events" subtitle="PDGA year statistics">
           <ResponsiveContainer width="100%" height={260}>
             <ComposedChart data={years}>
               <CartesianGrid stroke="rgba(18,24,22,0.08)" vertical={false} />
@@ -159,13 +160,7 @@ export function PlayerCharts({
                 }}
               />
               <Legend />
-              <Bar
-                yAxisId="left"
-                dataKey="prize"
-                name="prize"
-                fill={pine}
-                radius={[8, 8, 0, 0]}
-              />
+              <Bar yAxisId="left" dataKey="prize" name="prize" fill={pine} radius={[8, 8, 0, 0]} />
               <Line
                 yAxisId="right"
                 type="monotone"
@@ -181,8 +176,8 @@ export function PlayerCharts({
 
         {finishYears.length ? (
           <ChartFrame
-            title="Wins · podiums · top 10s"
-            subtitle="From tracked PDGA event results (recent seasons)"
+            title={`${band}: wins · podiums · top 10s`}
+            subtitle="Tracked PDGA event results in this class"
           >
             <ResponsiveContainer width="100%" height={260}>
               <BarChart data={finishYears}>
@@ -197,9 +192,9 @@ export function PlayerCharts({
                   }}
                 />
                 <Legend />
-                <Bar dataKey="wins" stackId="a" fill={lime} name="Wins" />
-                <Bar dataKey="podiums" stackId="b" fill={pine} name="Podiums" />
-                <Bar dataKey="top10" stackId="c" fill={mist} name="Top 10" />
+                <Bar dataKey="wins" fill={lime} name="Wins" />
+                <Bar dataKey="podiums" fill={pine} name="Podiums" />
+                <Bar dataKey="top10" fill={mist} name="Top 10" />
               </BarChart>
             </ResponsiveContainer>
           </ChartFrame>
@@ -207,7 +202,7 @@ export function PlayerCharts({
 
         {hist.some((h) => h.count > 0) ? (
           <ChartFrame
-            title="Finish distribution"
+            title={`${band}: finish distribution`}
             subtitle="How often they land each place band"
           >
             <ResponsiveContainer width="100%" height={260}>
@@ -260,13 +255,11 @@ export function PlayerCharts({
 
         {finishYears.some((y) => y.avg_place != null) ? (
           <ChartFrame
-            title="Average finish by year"
+            title={`${band}: average finish`}
             subtitle="Lower is better · tracked seasons only"
           >
             <ResponsiveContainer width="100%" height={260}>
-              <ComposedChart
-                data={finishYears.filter((y) => y.avg_place != null)}
-              >
+              <ComposedChart data={finishYears.filter((y) => y.avg_place != null)}>
                 <CartesianGrid stroke="rgba(18,24,22,0.08)" vertical={false} />
                 <XAxis dataKey="year" tick={{ fill: mist, fontSize: 11 }} />
                 <YAxis

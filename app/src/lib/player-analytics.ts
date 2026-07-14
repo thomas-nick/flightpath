@@ -1,72 +1,126 @@
 import type { Player, YearStat } from "./players";
 
+export type FinishSummary = {
+  events_tracked: number;
+  wins: number;
+  podiums: number;
+  top5: number;
+  top10: number;
+  top20: number;
+  win_rate: number;
+  podium_rate: number;
+  top10_rate: number;
+  avg_place: number | null;
+  best_place: number | null;
+  place_histogram: Record<string, number>;
+};
+
+export type YearFinish = {
+  year: string;
+  events: number;
+  wins: number;
+  podiums: number;
+  top5: number;
+  top10: number;
+  top20: number;
+  avg_place: number | null;
+};
+
+export type ResultRow = {
+  place?: number;
+  points?: number;
+  tournament: string;
+  tier: string;
+  dates: string;
+  year: string | null;
+  prize: number;
+  event_url: string | null;
+  division?: string;
+  division_code?: string;
+  class_bucket?: string;
+};
+
+export type WinRow = {
+  dates: string;
+  year: string | null;
+  tournament: string;
+  tier: string;
+  prize: number;
+  event_url: string | null;
+  division?: string;
+  division_code?: string;
+  class_bucket?: string;
+};
+
+export type FinishSplit = {
+  label: string;
+  finishes: FinishSummary;
+  year_finishes: YearFinish[];
+  recent_results: ResultRow[];
+  wins_list: WinRow[];
+};
+
 export type FinishBundle = {
   pdga_number: string;
+  open_division?: "MPO" | "FPO";
   career: {
     career_events: number;
     career_wins: number;
     career_earnings: number;
     current_rating: number | null;
   };
-  finishes: {
-    events_tracked: number;
-    wins: number;
-    podiums: number;
-    top5: number;
-    top10: number;
-    top20: number;
-    win_rate: number;
-    podium_rate: number;
-    top10_rate: number;
-    avg_place: number | null;
-    best_place: number | null;
-    place_histogram: Record<string, number>;
-  };
-  year_finishes: Array<{
-    year: string;
-    events: number;
-    wins: number;
-    podiums: number;
-    top5: number;
-    top10: number;
-    top20: number;
-    avg_place: number | null;
-  }>;
-  wins_list: Array<{
-    dates: string;
-    year: string | null;
-    tournament: string;
-    tier: string;
-    prize: number;
-    event_url: string | null;
-  }>;
+  finishes: FinishSummary;
+  year_finishes: YearFinish[];
+  wins_list: WinRow[];
   rating_history: Array<{
     date: string;
     rating: number;
     rounds: number | null;
   }>;
-  recent_results: Array<{
-    place: number;
-    points: number;
-    tournament: string;
-    tier: string;
-    dates: string;
-    year: string | null;
-    prize: number;
-    event_url: string | null;
-  }>;
+  recent_results: ResultRow[];
   all_results_count: number;
+  splits?: {
+    open: FinishSplit;
+    amateur: FinishSplit;
+    all: FinishSplit;
+  };
 };
+
+export type FinishView = "open" | "amateur" | "all";
+
+export function getSplit(
+  finishes: FinishBundle | null | undefined,
+  view: FinishView,
+): FinishSplit | null {
+  if (!finishes) return null;
+  if (finishes.splits?.[view]) return finishes.splits[view];
+  // legacy fallback
+  return {
+    label: view === "open" ? finishes.open_division || "Open" : view,
+    finishes: finishes.finishes,
+    year_finishes: finishes.year_finishes,
+    recent_results: finishes.recent_results,
+    wins_list: finishes.wins_list,
+  };
+}
 
 export function yearlySeries(stats: YearStat[]) {
   const byYear = new Map<
     string,
-    { year: string; events: number; points: number; prize: number; rating: number | null; rounds: number }
+    {
+      year: string;
+      events: number;
+      points: number;
+      prize: number;
+      rating: number | null;
+      rounds: number;
+    }
   >();
 
   for (const row of stats) {
     const year = row.year;
     if (!year) continue;
+    // Prefer player's primary open division rows when available
     const prev = byYear.get(year) ?? {
       year,
       events: 0,
@@ -87,16 +141,9 @@ export function yearlySeries(stats: YearStat[]) {
   return [...byYear.values()].sort((a, b) => Number(a.year) - Number(b.year));
 }
 
-export function prizePerEvent(stats: YearStat[]) {
-  return yearlySeries(stats).map((y) => ({
-    year: y.year,
-    value: y.events ? Math.round(y.prize / y.events) : 0,
-  }));
-}
-
-export function placeHistogramBars(finishes?: FinishBundle | null) {
-  if (!finishes?.finishes.place_histogram) return [];
-  const hist = finishes.finishes.place_histogram;
+export function placeHistogramBars(summary?: FinishSummary | null) {
+  if (!summary?.place_histogram) return [];
+  const hist = summary.place_histogram;
   const bars: Array<{ label: string; count: number }> = [];
   for (let i = 1; i <= 10; i++) {
     bars.push({ label: String(i), count: hist[String(i)] ?? 0 });
@@ -114,9 +161,9 @@ export function placeHistogramBars(finishes?: FinishBundle | null) {
   return bars;
 }
 
-export function finishTrend(finishes?: FinishBundle | null) {
-  if (!finishes?.year_finishes?.length) return [];
-  return [...finishes.year_finishes]
+export function finishTrend(years?: YearFinish[] | null) {
+  if (!years?.length) return [];
+  return [...years]
     .filter((y) => y.events > 0 || y.wins > 0)
     .sort((a, b) => Number(a.year) - Number(b.year));
 }
@@ -125,9 +172,11 @@ export function ratingTrend(finishes?: FinishBundle | null, player?: Player) {
   if (finishes?.rating_history?.length) {
     return [...finishes.rating_history]
       .reverse()
-      .map((r) => ({ label: r.date.replace(/^\d{1,2}-/, "").slice(-8), rating: r.rating }));
+      .map((r) => ({
+        label: r.date.replace(/^\d{1,2}-/, "").slice(-8),
+        rating: r.rating,
+      }));
   }
-  // fallback: yearly rating from API stats
   return yearlySeries(player?.stats ?? []).map((y) => ({
     label: y.year,
     rating: y.rating ?? 0,
