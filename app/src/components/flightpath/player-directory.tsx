@@ -1,5 +1,7 @@
 import { Link } from "@tanstack/react-router";
 import { useState } from "react";
+import finishesJson from "../../data/finishes.json";
+import type { FinishBundle } from "../../lib/player-analytics";
 import {
   ACCENT_GRADIENTS,
   formatNumber,
@@ -7,6 +9,8 @@ import {
   playerName,
   type Player,
 } from "../../lib/players";
+
+const finishesMap = finishesJson as Record<string, FinishBundle>;
 
 export function PlayerDirectory({
   players,
@@ -43,6 +47,7 @@ export function PlayerDirectory({
         {shown.map((player) => {
           const g =
             ACCENT_GRADIENTS[(player.accent ?? 0) % ACCENT_GRADIENTS.length];
+          const f = finishesMap[player.pdga_number]?.finishes;
           return (
             <li key={player.pdga_number}>
               <Link
@@ -63,9 +68,11 @@ export function PlayerDirectory({
                 <div className="fp-post-copy">
                   <h3>{playerName(player)}</h3>
                   <p>
-                    Rating {player.rating ?? "—"} · peak{" "}
-                    {player.career.peak_rating || "—"} ·{" "}
-                    {formatNumber(player.career.tournaments)} events ·{" "}
+                    Rating {player.rating ?? "—"}
+                    {f
+                      ? ` · ${formatNumber(f.wins)}W · ${formatNumber(f.podiums)} podiums · ${formatNumber(f.top10)} top 10`
+                      : ` · peak ${player.career.peak_rating || "—"} · ${formatNumber(player.career.tournaments)} events`}
+                    {" · "}
                     {playerLocation(player) || "—"}
                   </p>
                   <span className="fp-tag">{player.division}</span>

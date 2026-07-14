@@ -620,6 +620,95 @@
   background: rgba(198, 232, 90, 0.12);
 }
 
+.fp-stat-hint {
+  font-style: normal;
+  font-size: 0.75rem;
+  color: var(--fp-muted);
+}
+
+.fp-charts {
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 1rem 1.5rem 2rem;
+}
+
+.fp-chart-grid {
+  display: grid;
+  gap: 1rem;
+}
+
+@media (min-width: 960px) {
+  .fp-chart-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.fp-chart-card {
+  background: #fff;
+  border: 1px solid rgba(18, 24, 22, 0.07);
+  border-radius: var(--fp-radius);
+  padding: 1rem 1rem 0.5rem;
+  overflow: hidden;
+}
+
+.fp-chart-head h3 {
+  margin: 0;
+  font-family: Syne, sans-serif;
+  font-size: 1.1rem;
+  letter-spacing: -0.03em;
+}
+
+.fp-chart-head p {
+  margin: 0.3rem 0 0.6rem;
+  color: var(--fp-muted);
+  font-size: 0.85rem;
+}
+
+.fp-chart-body {
+  width: 100%;
+  min-height: 260px;
+}
+
+.fp-place {
+  display: inline-flex;
+  min-width: 2rem;
+  justify-content: center;
+  font-family: "IBM Plex Mono", monospace;
+  font-weight: 500;
+}
+
+.fp-place-win {
+  color: var(--fp-pine);
+  background: rgba(198, 232, 90, 0.35);
+  border-radius: 999px;
+  padding: 0.1rem 0.45rem;
+}
+
+.fp-place-podium {
+  color: var(--fp-pine);
+  background: rgba(22, 56, 44, 0.1);
+  border-radius: 999px;
+  padding: 0.1rem 0.45rem;
+}
+
+.fp-place-top10 {
+  color: var(--fp-ink);
+  background: rgba(215, 227, 218, 0.7);
+  border-radius: 999px;
+  padding: 0.1rem 0.45rem;
+}
+
+.fp-table a {
+  color: var(--fp-pine);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.fp-table a:hover {
+  color: var(--fp-ink);
+  text-decoration: underline;
+}
+
 @media (prefers-reduced-motion: reduce) {
   .fp-news-card,
   .fp-cta-enter,

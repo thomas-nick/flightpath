@@ -1,4 +1,6 @@
 import { Link } from "@tanstack/react-router";
+import finishesJson from "../../data/finishes.json";
+import type { FinishBundle } from "../../lib/player-analytics";
 import {
   ACCENT_GRADIENTS,
   formatMoney,
@@ -6,6 +8,8 @@ import {
   playerName,
   type Player,
 } from "../../lib/players";
+
+const finishesMap = finishesJson as Record<string, FinishBundle>;
 
 export function FeaturedPlayers({ players }: { players: Player[] }) {
   const featured = players.slice(0, 3);
@@ -22,6 +26,7 @@ export function FeaturedPlayers({ players }: { players: Player[] }) {
         {featured.map((player) => {
           const g =
             ACCENT_GRADIENTS[(player.accent ?? 0) % ACCENT_GRADIENTS.length];
+          const f = finishesMap[player.pdga_number]?.finishes;
           return (
             <Link
               key={player.pdga_number}
@@ -45,10 +50,11 @@ export function FeaturedPlayers({ players }: { players: Player[] }) {
               <div className="fp-news-card-body">
                 <h3>{playerName(player)}</h3>
                 <p>
-                  Rating {player.rating ?? "—"} ·{" "}
-                  {formatNumber(player.career.tournaments)} career events ·{" "}
-                  {formatMoney(player.career.prize)} earned across{" "}
-                  {player.career.years_active} seasons on the PDGA card.
+                  Rating {player.rating ?? "—"}
+                  {f
+                    ? ` · ${formatNumber(f.wins)} wins · ${formatNumber(f.podiums)} podiums · ${formatNumber(f.top10)} top 10s`
+                    : ` · ${formatNumber(player.career.tournaments)} events · ${formatMoney(player.career.prize)} earned`}
+                  .
                 </p>
               </div>
             </Link>
