@@ -8,8 +8,6 @@ import {
   Scripts,
 } from "@tanstack/react-router";
 import { useEffect, type ReactNode } from "react";
-import { button } from "@higgsfield/quanta/button";
-import { NotFound } from "@higgsfield/quanta/not-found";
 
 import appCss from "../styles.css?url";
 import { reportHiggsfieldError } from "../lib/higgsfield-error-reporting";
@@ -21,8 +19,9 @@ import appMetaJson from "../app-meta.json";
 declare const __HF_DESIGN_INSPECTOR__: boolean;
 
 // Built-in defaults for any field that isn't set in app-meta.json.
-const DEFAULT_TITLE = "Higgsfield App";
-const DEFAULT_DESCRIPTION = "Higgsfield Generated Project";
+const DEFAULT_TITLE = "Flightpath — Disc Golf Pro Tour Ledger";
+const DEFAULT_DESCRIPTION =
+  "Elite Series player dossiers for the Disc Golf Pro Tour with historical PDGA stats.";
 
 type AppMeta = {
   og_title?: string | null;
@@ -95,6 +94,10 @@ function buildHead(meta: AppMeta) {
     ],
     links: [
       { rel: "stylesheet", href: appCss },
+      {
+        rel: "stylesheet",
+        href: "https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=Syne:wght@600;700;800&display=swap",
+      },
       ...(favicon ? [{ rel: "icon", href: favicon }] : []),
     ],
   };
@@ -102,17 +105,18 @@ function buildHead(meta: AppMeta) {
 
 function NotFoundComponent() {
   return (
-    <div className="flex min-h-dvh items-center justify-center bg-q-background-primary px-4">
-      <NotFound
-        className="mx-auto max-w-md"
-        icon={<span className="text-q-title-md-semi-bold text-q-text-primary">404</span>}
-        title="Page not found"
-        subtitle="The page you're looking for doesn't exist or has been moved."
-      >
-        <Link to="/" className={button({ variant: "primary", size: "md" }, "mt-3")}>
-          Go home
+    <div className="fp-shell flex min-h-dvh items-center justify-center px-4">
+      <div className="max-w-md text-center">
+        <h1 className="fp-page-top" style={{ padding: 0 }}>
+          Page not found
+        </h1>
+        <p className="fp-hero-sub" style={{ marginInline: "auto" }}>
+          That dossier isn&apos;t on the ledger.
+        </p>
+        <Link to="/" className="fp-cta-enter" style={{ marginTop: "1.25rem" }}>
+          Back to Flightpath
         </Link>
-      </NotFound>
+      </div>
     </div>
   );
 }
@@ -125,25 +129,26 @@ function ErrorComponent({ error, reset }: { error: Error; reset: () => void }) {
   }, [error]);
 
   return (
-    <div className="flex min-h-dvh items-center justify-center bg-q-background-primary px-4">
+    <div className="fp-shell flex min-h-dvh items-center justify-center px-4">
       <div className="max-w-md text-center">
-        <h1 className="text-q-title-lg-semi-bold text-q-text-primary">This page didn't load</h1>
-        <p className="mt-2 text-q-body-sm-regular text-q-text-secondary">
-          Something went wrong on our end. You can try refreshing or head back home.
+        <h1>This page didn&apos;t load</h1>
+        <p className="fp-hero-sub" style={{ marginInline: "auto" }}>
+          Something went wrong. Try again or head home.
         </p>
-        <div className="mt-4 flex flex-wrap justify-center gap-2">
+        <div className="fp-hero-actions" style={{ justifyContent: "center" }}>
           <button
+            type="button"
             onClick={() => {
               router.invalidate();
               reset();
             }}
-            className={button({ variant: "primary", size: "md" })}
+            className="fp-cta-enter"
           >
             Try again
           </button>
-          <a href="/" className={button({ variant: "outline", size: "md" })}>
+          <Link to="/" className="fp-cta-ghost">
             Go home
-          </a>
+          </Link>
         </div>
       </div>
     </div>
@@ -161,14 +166,11 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
 
 function RootShell({ children }: { children: ReactNode }) {
   return (
-    <html lang="en" data-theme="default-dark" style={{ colorScheme: "dark" }}>
-      {/* Marketplace apps are permanently dark: data-theme is pinned on <html>
-          above. Do not add quanta's bootstrapScript/ThemeController, a theme
-          toggle, or a light mode. */}
+    <html lang="en" style={{ colorScheme: "light" }}>
       <head>
         <HeadContent />
       </head>
-      <body className="bg-q-background-primary text-q-text-primary">
+      <body>
         {children}
         <Scripts />
       </body>

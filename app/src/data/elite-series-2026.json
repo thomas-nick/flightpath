@@ -1,0 +1,186 @@
+[
+  {
+    "name": "DGPT - Supreme Flight Open",
+    "tier": "ES",
+    "location": "Brooksville, Florida, United States",
+    "dates": "February 27 – March 1, 2026",
+    "tournament_id": "96401",
+    "url": "https://www.pdga.com/tour/event/96401"
+  },
+  {
+    "name": "DGPT - Big Easy Open",
+    "tier": "ES",
+    "location": "New Orleans, Louisiana, United States",
+    "dates": "March 13 – 15, 2026",
+    "tournament_id": "96402",
+    "url": "https://www.pdga.com/tour/event/96402"
+  },
+  {
+    "name": "DGPT - Queen City Classic",
+    "tier": "ES",
+    "location": "Charlotte, North Carolina, United States",
+    "dates": "March 27 – 29, 2026",
+    "tournament_id": "96403",
+    "url": "https://www.pdga.com/tour/event/96403"
+  },
+  {
+    "name": "PDGA Champions Cup",
+    "tier": "PDGA Major",
+    "location": "Lynchburg, VA, United States",
+    "dates": "April 9 – 12, 2026",
+    "tournament_id": null,
+    "url": "https://www.pdga.com/2026championscup"
+  },
+  {
+    "name": "DGPT - Jonesboro Open",
+    "tier": "ES",
+    "location": "Jonesboro, Arkansas, United States",
+    "dates": "April 17 – 19, 2026",
+    "tournament_id": "96404",
+    "url": "https://www.pdga.com/tour/event/96404"
+  },
+  {
+    "name": "DGPT - Kansas City Wide Open",
+    "tier": "ES",
+    "location": "Liberty, Missouri, United States",
+    "dates": "April 24 – 26, 2026",
+    "tournament_id": "96407",
+    "url": "https://www.pdga.com/tour/event/96407"
+  },
+  {
+    "name": "DGPT+ The Open at Austin",
+    "tier": "ES",
+    "location": "Austin, Texas, United States",
+    "dates": "May 7 – 10, 2026",
+    "tournament_id": "96408",
+    "url": "https://www.pdga.com/tour/event/96408"
+  },
+  {
+    "name": "DGPT+ OTB Open",
+    "tier": "ES",
+    "location": "Stockton, California, United States",
+    "dates": "May 21 – 24, 2026",
+    "tournament_id": "96409",
+    "url": "https://www.pdga.com/tour/event/96409"
+  },
+  {
+    "name": "DGPT+ Northwest Championship",
+    "tier": "ES",
+    "location": "Portland, Oregon, United States",
+    "dates": "June 4 – 7, 2026",
+    "tournament_id": "96410",
+    "url": "https://www.pdga.com/tour/event/96410"
+  },
+  {
+    "name": "European Open",
+    "tier": "PDGA Major",
+    "location": "Tallinn, Estonia",
+    "dates": "June 18 – 21, 2026",
+    "tournament_id": "97339",
+    "url": "https://www.pdga.com/tour/event/97339"
+  },
+  {
+    "name": "DGPT - Swedish Open",
+    "tier": "ES",
+    "location": "Boras, Sweden",
+    "dates": "June 26 – 28, 2026",
+    "tournament_id": "96411",
+    "url": "https://www.pdga.com/tour/event/96411"
+  },
+  {
+    "name": "DGPT - Ale Open",
+    "tier": "ES",
+    "location": "Nol, Sweden",
+    "dates": "July 3 – 5, 2026",
+    "tournament_id": "96412",
+    "url": "https://www.pdga.com/tour/event/96412"
+  },
+  {
+    "name": "DGPT - Heinola Open",
+    "tier": "ES",
+    "location": "Heinola, Finland",
+    "dates": "July 10 – 12, 2026",
+    "tournament_id": "96413",
+    "url": "https://www.pdga.com/tour/event/96413"
+  },
+  {
+    "name": "United States Women's Disc Golf Championships",
+    "tier": "PDGA Major",
+    "location": "Salt Lake City, Utah, United States",
+    "dates": "July 16 – 19, 2026",
+    "tournament_id": "97341",
+    "url": "https://www.pdga.com/tour/event/97341"
+  },
+  {
+    "name": "DGPT+ Ledgestone Open",
+    "tier": "ES",
+    "location": "Peoria, Illinois, United States",
+    "dates": "July 30 – August 2, 2026",
+    "tournament_id": "96414",
+    "url": "https://www.pdga.com/tour/event/96414"
+  },
+  {
+    "name": "DGPT - Discmania Challenge",
+    "tier": "ES",
+    "location": "Indianola, Iowa, United States",
+    "dates": "August 7 – 9, 2026",
+    "tournament_id": "96415",
+    "url": "https://www.pdga.com/tour/event/96415"
+  },
+  {
+    "name": "DGPT - Preserve Championship",
+    "tier": "ES",
+    "location": "Clearwater, Minnesota, United States",
+    "dates": "August 14 – 16, 2026",
+    "tournament_id": "96416",
+    "url": "https://www.pdga.com/tour/event/96416"
+  },
+  {
+    "name": "Professional Disc Golf World Championships",
+    "tier": "PDGA Major",
+    "location": "Milford, MI, United States",
+    "dates": "August 26 – 30, 2026",
+    "tournament_id": null,
+    "url": "https://www.pdga.com/2026proworlds"
+  },
+  {
+    "name": "DGPT - Open at Idlewild",
+    "tier": "ES",
+    "location": "Burlington, Kentucky, United States",
+    "dates": "September 4 – 6, 2026",
+    "tournament_id": "96417",
+    "url": "https://www.pdga.com/tour/event/96417"
+  },
+  {
+    "name": "DGPT Playoffs - Green Mountain Championship",
+    "tier": "ES",
+    "location": "Jeffersonville, Vermont, United States",
+    "dates": "September 17 – 20, 2026",
+    "tournament_id": "96418",
+    "url": "https://www.pdga.com/tour/event/96418"
+  },
+  {
+    "name": "DGPT Playoffs - MVP Open x OTB",
+    "tier": "ES",
+    "location": "Leicester, Massachusetts, United States",
+    "dates": "September 24 – 27, 2026",
+    "tournament_id": "96419",
+    "url": "https://www.pdga.com/tour/event/96419"
+  },
+  {
+    "name": "United States Disc Golf Championship",
+    "tier": "PDGA Major",
+    "location": "Rock Hill, South Carolina, United States",
+    "dates": "October 8 – 11, 2026",
+    "tournament_id": "97346",
+    "url": "https://www.pdga.com/tour/event/97346"
+  },
+  {
+    "name": "DGPT Powerball Cup",
+    "tier": "ES",
+    "location": "Lynchburg, Virginia, United States",
+    "dates": "October 15 – 18, 2026",
+    "tournament_id": "96421",
+    "url": "https://www.pdga.com/tour/event/96421"
+  }
+]

@@ -20,6 +20,7 @@
 @import "./components/icon-tile/icon-tile.css";
 
 @import "tw-animate-css";
+@import "./styles/flightpath.css";
 
 @custom-variant dark (&:where([data-theme="default-dark"], [data-theme="default-dark"] *));
 

@@ -1,7 +1,7 @@
 {
-  "og_title": null,
-  "og_description": null,
-  "og_image_url": null,
-  "favicon_url": null,
+  "og_title": "Flightpath — Disc Golf Pro Tour Ledger",
+  "og_description": "Elite Series player dossiers with historical PDGA stats for the Disc Golf Pro Tour.",
+  "og_image_url": "/assets/og-flightpath.jpg",
+  "favicon_url": "/assets/favicon.svg",
   "og_video_url": null
 }
