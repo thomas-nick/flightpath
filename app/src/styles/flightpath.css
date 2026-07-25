@@ -439,6 +439,13 @@ details.fp-collapsible[open] > summary .fp-collapsible-chevron {
   padding: 1.25rem 0.25rem 0.5rem;
 }
 
+.fp-collapsible-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  margin-bottom: 1rem;
+}
+
 /* Tighter section padding inside the country hub */
 .fp-country-hub .fp-section {
   padding: 0;

@@ -41,8 +41,8 @@ function Index() {
         title="Country hubs"
         subtitle="National boards, hosted tournaments, and all-time stats across Asia."
       />
-      <AsiaTourStandings />
-      <AsiaLeaderboard />
+      <AsiaTourStandings collapsible />
+      <AsiaLeaderboard collapsible />
       <section className="fp-section fp-close">
         <h2>The archive is growing.</h2>
         <p>

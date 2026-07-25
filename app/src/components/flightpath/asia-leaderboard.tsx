@@ -16,6 +16,7 @@ import {
   getFlightpathRating,
 } from "../../lib/flightpath-rating";
 import { AsiaAvatar } from "./asia-avatar";
+import { CollapsibleSection } from "./collapsible-section";
 import { Tip } from "./tip";
 
 type Division = "all" | "MPO" | "FPO" | "Amateur";
@@ -78,7 +79,11 @@ function metricLabel(sort: AsiaSortMode, player: AsiaPlayer, division: Division)
   return formatNumber(Math.round(bucket?.pdga_points ?? player.pdga_points));
 }
 
-export function AsiaLeaderboard() {
+export function AsiaLeaderboard({
+  collapsible = false,
+}: {
+  collapsible?: boolean;
+}) {
   const board = getAsiaBoard();
   const [division, setDivision] = useState<Division>("all");
   const [country, setCountry] = useState("all");
@@ -102,19 +107,14 @@ export function AsiaLeaderboard() {
     .filter((c) => c.player_count > 0)
     .sort((a, b) => b.player_count - a.player_count);
 
-  return (
-    <section className="fp-section" id="leaderboard">
-      <div className="fp-section-head">
-        <h2>Asia leaderboard</h2>
-        <p className="fp-muted">
-          {players.length} players · PDGA tournaments across {board.total_events} events · leagues
-          excluded
-          {sort === "flightpath"
-            ? " · sorted by Flightpath Index (Asia-weighted house rating)"
-            : ""}
-        </p>
-      </div>
+  const subtitle = `${players.length} players · PDGA tournaments across ${board.total_events} events · leagues excluded${
+    sort === "flightpath"
+      ? " · sorted by Flightpath Index (Asia-weighted house rating)"
+      : ""
+  }`;
 
+  const body = (
+    <>
       <div className="fp-filter-stack">
         <div className="fp-leader-search">
           <span className="fp-leader-search-icon" aria-hidden>
@@ -285,6 +285,29 @@ export function AsiaLeaderboard() {
           </Link>
         </p>
       )}
+    </>
+  );
+
+  if (collapsible) {
+    return (
+      <CollapsibleSection
+        id="leaderboard"
+        title="Asia leaderboard"
+        subtitle={subtitle}
+        count={players.length}
+      >
+        {body}
+      </CollapsibleSection>
+    );
+  }
+
+  return (
+    <section className="fp-section" id="leaderboard">
+      <div className="fp-section-head">
+        <h2>Asia leaderboard</h2>
+        <p className="fp-muted">{subtitle}</p>
+      </div>
+      {body}
     </section>
   );
 }

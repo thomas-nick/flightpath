@@ -8,6 +8,7 @@ export function CollapsibleSection({
   count,
   defaultOpen = false,
   className,
+  id,
   children,
 }: {
   title: string;
@@ -15,10 +16,12 @@ export function CollapsibleSection({
   count?: number;
   defaultOpen?: boolean;
   className?: string;
+  id?: string;
   children: ReactNode;
 }) {
   return (
     <details
+      id={id}
       className={`fp-section fp-collapsible ${className ?? ""}`}
       open={defaultOpen}
     >
