@@ -6,9 +6,12 @@ import {
   higgsfieldDesignSourceBabelPlugin,
 } from "./src/module/design-inspector/vite";
 import svgr from "vite-plugin-svgr";
+import { nitro } from "nitro/vite";
 import { defineConfig } from "vite";
 import tsconfigPaths from "vite-tsconfig-paths";
 import { fileURLToPath } from "node:url";
+
+const isVercel = process.env.VERCEL === "1";
 
 // The vendored @higgsfield/quanta components import their glyphs from the private
 // Nexus-only `@higgsfield-ai/icons`. Generated sites build on the PUBLIC npm
@@ -79,6 +82,9 @@ export default defineConfig(({ mode }) => {
       tanstackStart({
         server: { entry: "server" },
       }),
+      // Vercel: Nitro builds the SSR/server-function bundle for Fluid compute.
+      // Higgsfield/Cloudflare: skip Nitro — `vite build` emits dist/server for Workers.
+      ...(isVercel ? [nitro({ preset: "vercel" })] : []),
       higgsfieldDesignInspectorVitePlugin(designInspectorEnabled),
       react({
         babel: {
