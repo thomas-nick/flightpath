@@ -1,0 +1,408 @@
+{
+  "pdga": 3140,
+  "name": "Scott Stokely #3140",
+  "country": "United States",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 994,
+  "classification": "Professional",
+  "city": "Houston",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 712.5,
+  "tour_weighted_points": 210.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 6,
+  "wins": 4,
+  "podiums": 6,
+  "top5": 6,
+  "top10": 6,
+  "top20": 6,
+  "avg_finish": 1.5,
+  "win_rate": 0.667,
+  "top10_rate": 1.0,
+  "cash_earned": 1440.0,
+  "pdga_rank": 359,
+  "weighted_rank": 317,
+  "country_rank": null,
+  "am_events": 0,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 0,
+  "am_pdga_points": 0.0,
+  "last_active": "18-Jan to 19-Jan-2025",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 1,
+      "points": 230.0,
+      "weighted": 55.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 2,
+      "points": 277.5,
+      "weighted": 100.0,
+      "wins": 2
+    },
+    "c_tier": {
+      "events": 3,
+      "points": 205.0,
+      "weighted": 55.0,
+      "wins": 2
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 6,
+      "wins": 4,
+      "podiums": 6,
+      "top5": 6,
+      "top10": 6,
+      "top20": 6,
+      "pdga_points": 712.5,
+      "tour_weighted_points": 210.0,
+      "avg_finish": 1.5,
+      "win_rate": 0.667,
+      "top10_rate": 1.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "all": {
+      "events": 6,
+      "wins": 4,
+      "podiums": 6,
+      "top5": 6,
+      "top10": 6,
+      "top20": 6,
+      "pdga_points": 712.5,
+      "tour_weighted_points": 210.0,
+      "avg_finish": 1.5,
+      "win_rate": 0.667,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MPO": 6
+  },
+  "results": [
+    {
+      "event_id": "86250",
+      "title": "SE Asia Disc Golf Championship 2025",
+      "dates": "18-Jan to 19-Jan-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 1,
+      "pdga_points": 202.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$300",
+      "weighted_points": 50.0
+    },
+    {
+      "event_id": "79945",
+      "title": "Wedding of Luisa and Derek",
+      "dates": "14-Dec-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Tarlac, Tarlac, Philippines",
+      "place": 1,
+      "pdga_points": 30.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$123",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "64744",
+      "title": "The Khmer Cup 2023",
+      "dates": "17-Feb to 19-Feb-2023",
+      "year": "2023",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Siem Reap, Cambodia",
+      "place": 1,
+      "pdga_points": 75.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$340",
+      "weighted_points": 50.0
+    },
+    {
+      "event_id": "64802",
+      "title": "2022 Malaysia Disc Golf Tour (Stop #4 / Bale Club DGC)",
+      "dates": "14-Jan-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 2,
+      "pdga_points": 80.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$115",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "63765",
+      "title": "Chiang Mai Open",
+      "dates": "10-Feb to 12-Feb-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Chiang Mai, Thailand",
+      "place": 1,
+      "pdga_points": 95.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$277",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "63567",
+      "title": "Samui Swine Classic X Presented by Prodigy Discs- MPO, FPO, MP40, MP50, MA1",
+      "dates": "03-Feb to 05-Feb-2023",
+      "year": "2023",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 3,
+      "pdga_points": 230.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$285",
+      "weighted_points": 55.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "86250",
+      "title": "SE Asia Disc Golf Championship 2025",
+      "dates": "18-Jan to 19-Jan-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 1,
+      "pdga_points": 202.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$300",
+      "weighted_points": 50.0
+    },
+    {
+      "event_id": "79945",
+      "title": "Wedding of Luisa and Derek",
+      "dates": "14-Dec-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Tarlac, Tarlac, Philippines",
+      "place": 1,
+      "pdga_points": 30.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$123",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "64744",
+      "title": "The Khmer Cup 2023",
+      "dates": "17-Feb to 19-Feb-2023",
+      "year": "2023",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Siem Reap, Cambodia",
+      "place": 1,
+      "pdga_points": 75.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$340",
+      "weighted_points": 50.0
+    },
+    {
+      "event_id": "63765",
+      "title": "Chiang Mai Open",
+      "dates": "10-Feb to 12-Feb-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Chiang Mai, Thailand",
+      "place": 1,
+      "pdga_points": 95.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$277",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2025",
+      "events": 1,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 202.5,
+      "avg_finish": 1.0
+    },
+    {
+      "year": "2024",
+      "events": 1,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 30.0,
+      "avg_finish": 1.0
+    },
+    {
+      "year": "2023",
+      "events": 4,
+      "wins": 2,
+      "podiums": 4,
+      "top10": 4,
+      "pdga_points": 480.0,
+      "avg_finish": 1.75
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2023-03-14",
+      "rating": 1009,
+      "rounds": 77
+    },
+    {
+      "date": "2023-05-09",
+      "rating": 1013,
+      "rounds": 62
+    },
+    {
+      "date": "2023-06-13",
+      "rating": 1014,
+      "rounds": 62
+    },
+    {
+      "date": "2023-07-11",
+      "rating": 1013,
+      "rounds": 65
+    },
+    {
+      "date": "2023-08-08",
+      "rating": 1017,
+      "rounds": 66
+    },
+    {
+      "date": "2023-09-12",
+      "rating": 1017,
+      "rounds": 63
+    },
+    {
+      "date": "2024-03-12",
+      "rating": 1018,
+      "rounds": 35
+    },
+    {
+      "date": "2024-04-09",
+      "rating": 1013,
+      "rounds": 38
+    },
+    {
+      "date": "2024-08-13",
+      "rating": 1007,
+      "rounds": 21
+    },
+    {
+      "date": "2024-09-10",
+      "rating": 1006,
+      "rounds": 23
+    },
+    {
+      "date": "2025-01-14",
+      "rating": 1004,
+      "rounds": 24
+    },
+    {
+      "date": "2025-02-11",
+      "rating": 1003,
+      "rounds": 27
+    },
+    {
+      "date": "2025-03-11",
+      "rating": 1004,
+      "rounds": 32
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 999,
+      "rounds": 24
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 994,
+      "rounds": 20
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 102.5,
+    "season_avg": 135.0,
+    "delta_pct": -24.1
+  },
+  "pdga_url": "https://www.pdga.com/player/3140"
+}

@@ -1,0 +1,135 @@
+{
+  "event_id": "21114",
+  "title": "The 4th Fukui Open",
+  "location": "Sakai, Fukui, Japan",
+  "dates": "30-May to 31-May-2015",
+  "year": "2015",
+  "tier": "B",
+  "level": "b_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 8,
+  "avg_mpo_rating": 978.0,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "count": 8
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 8139,
+      "name": "Manabu Kajiyama",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 1,
+      "pdga_points": 60.0,
+      "rating": 1010,
+      "prize": "$80",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8060,
+      "name": "Yasushi Jitsuhiro",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 2,
+      "pdga_points": 52.5,
+      "rating": 1002,
+      "prize": "$40",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 6075,
+      "name": "Kazuo Shirai",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 3,
+      "pdga_points": 45.0,
+      "rating": 986,
+      "prize": "$24",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 59525,
+      "name": "Yusuke Takahashi",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 4,
+      "pdga_points": 37.5,
+      "rating": 942,
+      "prize": "$16",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 59529,
+      "name": "Daisuke Kuroda",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 5,
+      "pdga_points": 30.0,
+      "rating": 950,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 74697,
+      "name": "Yasutaka Okubo",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 8,
+      "pdga_points": 7.5,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    }
+  ],
+  "fpo": [
+    {
+      "pdga": 59527,
+      "name": "Hiromi Kato",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 1,
+      "pdga_points": 4.5,
+      "rating": 900,
+      "prize": "$16",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    }
+  ],
+  "amateur": [
+    {
+      "pdga": 66816,
+      "name": "Naoyo Yoshida",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 4,
+      "pdga_points": 67.5,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    }
+  ],
+  "divisions": [
+    "FPO",
+    "MA1",
+    "MPO"
+  ]
+}

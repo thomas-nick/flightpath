@@ -1,0 +1,285 @@
+{
+  "pdga": 275295,
+  "name": "Chak Wah Chan #275295",
+  "country": "Hong Kong",
+  "country_key": "HK",
+  "flag": "\ud83c\udded\ud83c\uddf0",
+  "rating": 887,
+  "classification": "Amateur",
+  "city": "Kowloon",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 225.0,
+  "tour_weighted_points": 46.5,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 5,
+  "wins": 1,
+  "podiums": 2,
+  "top5": 2,
+  "top10": 3,
+  "top20": 4,
+  "avg_finish": 11.4,
+  "win_rate": 0.2,
+  "top10_rate": 0.6,
+  "cash_earned": 0.0,
+  "pdga_rank": 769,
+  "weighted_rank": 961,
+  "country_rank": 5,
+  "am_events": 4,
+  "am_wins": 1,
+  "am_podiums": 2,
+  "am_top10": 3,
+  "am_pdga_points": 195.0,
+  "last_active": "03-May to 04-May-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 3,
+      "points": 150.0,
+      "weighted": 15.5,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 2,
+      "points": 75.0,
+      "weighted": 31.0,
+      "wins": 1
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 30.0,
+      "tour_weighted_points": 1.5,
+      "avg_finish": 32.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 4,
+      "wins": 1,
+      "podiums": 2,
+      "top5": 2,
+      "top10": 3,
+      "top20": 4,
+      "pdga_points": 195.0,
+      "tour_weighted_points": 45.0,
+      "avg_finish": 6.25,
+      "win_rate": 0.25,
+      "top10_rate": 0.75
+    },
+    "all": {
+      "events": 5,
+      "wins": 1,
+      "podiums": 2,
+      "top5": 2,
+      "top10": 3,
+      "top20": 4,
+      "pdga_points": 225.0,
+      "tour_weighted_points": 46.5,
+      "avg_finish": 11.4,
+      "win_rate": 0.2,
+      "top10_rate": 0.6
+    }
+  },
+  "division_counts": {
+    "MPO": 1,
+    "MA1": 4
+  },
+  "results": [
+    {
+      "event_id": "103363",
+      "title": "2026 Kunshan-Taiwan Disc Golf Invitational Tournament (Open & Amateur Divisions)",
+      "dates": "03-May to 04-May-2026",
+      "year": "2026",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Kunshan, Jiangsu Sheng, China",
+      "place": 15,
+      "pdga_points": 67.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "96928",
+      "title": "The 39th Kyushu Open",
+      "dates": "29-Nov to 30-Nov-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Fukuoka-shi, Fukuoka, Japan",
+      "place": 32,
+      "pdga_points": 30.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.5
+    },
+    {
+      "event_id": "86250",
+      "title": "SE Asia Disc Golf Championship 2025",
+      "dates": "18-Jan to 19-Jan-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 6,
+      "pdga_points": 52.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "89229",
+      "title": "2025 Formosa Disc Golf Championships",
+      "dates": "14-Jun to 15-Jun-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Kaohsiung City, Kaohsiung City, Chinese Taipei",
+      "place": 1,
+      "pdga_points": 45.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "86338",
+      "title": "2024 the 29th Taiwan Disc Golf Championships",
+      "dates": "14-Dec to 15-Dec-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Kaohsiung City, Kaohsiung City, Chinese Taipei",
+      "place": 3,
+      "pdga_points": 30.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "89229",
+      "title": "2025 Formosa Disc Golf Championships",
+      "dates": "14-Jun to 15-Jun-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Kaohsiung City, Kaohsiung City, Chinese Taipei",
+      "place": 1,
+      "pdga_points": 45.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 67.5,
+      "avg_finish": 15.0
+    },
+    {
+      "year": "2025",
+      "events": 3,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 2,
+      "pdga_points": 127.5,
+      "avg_finish": 13.0
+    },
+    {
+      "year": "2024",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 30.0,
+      "avg_finish": 3.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2025-01-14",
+      "rating": 853,
+      "rounds": 3
+    },
+    {
+      "date": "2025-02-11",
+      "rating": 854,
+      "rounds": 6
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 887,
+      "rounds": 9
+    }
+  ],
+  "streak": {
+    "direction": "up",
+    "recent_avg": 50.0,
+    "season_avg": 37.5,
+    "delta_pct": 33.3
+  },
+  "pdga_url": "https://www.pdga.com/player/275295"
+}

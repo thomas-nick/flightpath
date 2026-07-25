@@ -1,0 +1,511 @@
+{
+  "pdga": 9030,
+  "name": "Ron Turner #9030",
+  "country": "United States",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 966,
+  "classification": "Professional",
+  "city": "Pewaukee",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 365.0,
+  "tour_weighted_points": 187.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 11,
+  "wins": 6,
+  "podiums": 10,
+  "top5": 11,
+  "top10": 11,
+  "top20": 11,
+  "avg_finish": 1.64,
+  "win_rate": 0.545,
+  "top10_rate": 1.0,
+  "cash_earned": 811.0,
+  "pdga_rank": 564,
+  "weighted_rank": 365,
+  "country_rank": null,
+  "am_events": 0,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 0,
+  "am_pdga_points": 0.0,
+  "last_active": "19-Jan-2020",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 11,
+      "points": 365.0,
+      "weighted": 187.0,
+      "wins": 6
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 11,
+      "wins": 6,
+      "podiums": 10,
+      "top5": 11,
+      "top10": 11,
+      "top20": 11,
+      "pdga_points": 365.0,
+      "tour_weighted_points": 187.0,
+      "avg_finish": 1.64,
+      "win_rate": 0.545,
+      "top10_rate": 1.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "all": {
+      "events": 11,
+      "wins": 6,
+      "podiums": 10,
+      "top5": 11,
+      "top10": 11,
+      "top20": 11,
+      "pdga_points": 365.0,
+      "tour_weighted_points": 187.0,
+      "avg_finish": 1.64,
+      "win_rate": 0.545,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MPO": 11
+  },
+  "results": [
+    {
+      "event_id": "42689",
+      "title": "Singapore Sling 2020",
+      "dates": "19-Jan-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 2,
+      "pdga_points": 40.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$63",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "43398",
+      "title": "Shipwrecked in Malaysia",
+      "dates": "18-Jan-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 2,
+      "pdga_points": 45.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$185",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "46566",
+      "title": "The Roundabout DGC Anniversary",
+      "dates": "15-Aug-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 4,
+      "pdga_points": 15.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$12",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "44826",
+      "title": "Flying Saucers",
+      "dates": "14-Mar-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 1,
+      "pdga_points": 40.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$72",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "47147",
+      "title": "2020 Malaysia National Championships - Day 2",
+      "dates": "11-Oct-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 2,
+      "pdga_points": 20.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$36",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "47146",
+      "title": "2020 Malaysia National Championships - Day 1",
+      "dates": "10-Oct-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 1,
+      "pdga_points": 35.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$72",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "40802",
+      "title": "Beasts Unchained",
+      "dates": "27-Apr-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Gelang Patah, Johor, Malaysia",
+      "place": 2,
+      "pdga_points": 55.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$62",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "42876",
+      "title": "2019 Malaysia National Championships - Day 2",
+      "dates": "15-Sep-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Pulai, Johor, Malaysia",
+      "place": 1,
+      "pdga_points": 25.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$36",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "42687",
+      "title": "2019 Malaysia National Championships - Day 1",
+      "dates": "14-Sep-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 1,
+      "pdga_points": 35.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$60",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "41952",
+      "title": "2019 Singapore Disc Golf Championships",
+      "dates": "07-Sep-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 1,
+      "pdga_points": 35.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$73",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "40780",
+      "title": "2019 Summer Boil Open",
+      "dates": "02-Jun-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Ho Chi Minh, Vietnam",
+      "place": 1,
+      "pdga_points": 20.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$140",
+      "weighted_points": 20.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "44826",
+      "title": "Flying Saucers",
+      "dates": "14-Mar-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 1,
+      "pdga_points": 40.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$72",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "47146",
+      "title": "2020 Malaysia National Championships - Day 1",
+      "dates": "10-Oct-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 1,
+      "pdga_points": 35.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$72",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "42876",
+      "title": "2019 Malaysia National Championships - Day 2",
+      "dates": "15-Sep-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Pulai, Johor, Malaysia",
+      "place": 1,
+      "pdga_points": 25.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$36",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "42687",
+      "title": "2019 Malaysia National Championships - Day 1",
+      "dates": "14-Sep-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 1,
+      "pdga_points": 35.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$60",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "41952",
+      "title": "2019 Singapore Disc Golf Championships",
+      "dates": "07-Sep-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 1,
+      "pdga_points": 35.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$73",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "40780",
+      "title": "2019 Summer Boil Open",
+      "dates": "02-Jun-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Ho Chi Minh, Vietnam",
+      "place": 1,
+      "pdga_points": 20.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$140",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2020",
+      "events": 6,
+      "wins": 2,
+      "podiums": 5,
+      "top10": 6,
+      "pdga_points": 195.0,
+      "avg_finish": 2.0
+    },
+    {
+      "year": "2019",
+      "events": 5,
+      "wins": 4,
+      "podiums": 5,
+      "top10": 5,
+      "pdga_points": 170.0,
+      "avg_finish": 1.2
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2024-04-09",
+      "rating": 970,
+      "rounds": 21
+    },
+    {
+      "date": "2024-05-14",
+      "rating": 966,
+      "rounds": 23
+    },
+    {
+      "date": "2024-06-11",
+      "rating": 961,
+      "rounds": 29
+    },
+    {
+      "date": "2024-08-13",
+      "rating": 964,
+      "rounds": 28
+    },
+    {
+      "date": "2024-09-10",
+      "rating": 968,
+      "rounds": 27
+    },
+    {
+      "date": "2024-11-12",
+      "rating": 965,
+      "rounds": 24
+    },
+    {
+      "date": "2024-12-10",
+      "rating": 962,
+      "rounds": 24
+    },
+    {
+      "date": "2025-04-08",
+      "rating": 961,
+      "rounds": 26
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 961,
+      "rounds": 25
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 972,
+      "rounds": 19
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 977,
+      "rounds": 18
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 971,
+      "rounds": 20
+    },
+    {
+      "date": "2025-11-11",
+      "rating": 959,
+      "rounds": 16
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 963,
+      "rounds": 15
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 966,
+      "rounds": 16
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 33.3,
+    "season_avg": 33.1,
+    "delta_pct": 0.6
+  },
+  "pdga_url": "https://www.pdga.com/player/9030"
+}

@@ -1,0 +1,286 @@
+{
+  "pdga": 65737,
+  "name": "Nate Perkins #65737",
+  "country": "United States",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 984,
+  "classification": "Professional",
+  "city": "Sisters",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 767.5,
+  "tour_weighted_points": 147.5,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 3,
+  "wins": 0,
+  "podiums": 3,
+  "top5": 3,
+  "top10": 3,
+  "top20": 3,
+  "avg_finish": 2.67,
+  "win_rate": 0.0,
+  "top10_rate": 1.0,
+  "cash_earned": 1251.0,
+  "pdga_rank": 333,
+  "weighted_rank": 456,
+  "country_rank": null,
+  "am_events": 0,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 0,
+  "am_pdga_points": 0.0,
+  "last_active": "31-Jan to 02-Feb-2020",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 2,
+      "points": 490.0,
+      "weighted": 110.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 277.5,
+      "weighted": 37.5,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 3,
+      "wins": 0,
+      "podiums": 3,
+      "top5": 3,
+      "top10": 3,
+      "top20": 3,
+      "pdga_points": 767.5,
+      "tour_weighted_points": 147.5,
+      "avg_finish": 2.67,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "all": {
+      "events": 3,
+      "wins": 0,
+      "podiums": 3,
+      "top5": 3,
+      "top10": 3,
+      "top20": 3,
+      "pdga_points": 767.5,
+      "tour_weighted_points": 147.5,
+      "avg_finish": 2.67,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MPO": 3
+  },
+  "results": [
+    {
+      "event_id": "43200",
+      "title": "Samui Swine Classic VII - Pros - Presented by Innova",
+      "dates": "31-Jan to 02-Feb-2020",
+      "year": "2020",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 3,
+      "pdga_points": 280.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$448",
+      "weighted_points": 55.0
+    },
+    {
+      "event_id": "43547",
+      "title": "2020 Asia Open",
+      "dates": "08-Feb to 09-Feb-2020",
+      "year": "2020",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Kaohsiung, Kaohsiung City, Chinese Taipei",
+      "place": 2,
+      "pdga_points": 277.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$414",
+      "weighted_points": 37.5
+    },
+    {
+      "event_id": "33706",
+      "title": "Samui Swine Classic V",
+      "dates": "01-Feb to 03-Feb-2018",
+      "year": "2018",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 3,
+      "pdga_points": 210.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$389",
+      "weighted_points": 55.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2020",
+      "events": 2,
+      "wins": 0,
+      "podiums": 2,
+      "top10": 2,
+      "pdga_points": 557.5,
+      "avg_finish": 2.5
+    },
+    {
+      "year": "2018",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 210.0,
+      "avg_finish": 3.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2023-10-10",
+      "rating": 996,
+      "rounds": 63
+    },
+    {
+      "date": "2024-02-13",
+      "rating": 1000,
+      "rounds": 58
+    },
+    {
+      "date": "2024-03-12",
+      "rating": 1001,
+      "rounds": 61
+    },
+    {
+      "date": "2024-05-14",
+      "rating": 1001,
+      "rounds": 48
+    },
+    {
+      "date": "2024-06-11",
+      "rating": 1000,
+      "rounds": 44
+    },
+    {
+      "date": "2024-10-08",
+      "rating": 1000,
+      "rounds": 20
+    },
+    {
+      "date": "2024-11-12",
+      "rating": 997,
+      "rounds": 20
+    },
+    {
+      "date": "2025-01-14",
+      "rating": 991,
+      "rounds": 23
+    },
+    {
+      "date": "2025-02-11",
+      "rating": 991,
+      "rounds": 22
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 989,
+      "rounds": 24
+    },
+    {
+      "date": "2026-01-13",
+      "rating": 988,
+      "rounds": 20
+    },
+    {
+      "date": "2026-02-10",
+      "rating": 989,
+      "rounds": 19
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 982,
+      "rounds": 14
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 982,
+      "rounds": 17
+    },
+    {
+      "date": "2026-06-09",
+      "rating": 984,
+      "rounds": 14
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/65737"
+}

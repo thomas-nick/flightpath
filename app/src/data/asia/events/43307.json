@@ -1,0 +1,276 @@
+{
+  "event_id": "43307",
+  "title": "Sizzlin Saigon Winter Open 2020",
+  "location": "Ho Chi Minh City, Vietnam",
+  "dates": "10-Jan to 12-Jan-2020",
+  "year": "2020",
+  "tier": "C",
+  "level": "c_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 18,
+  "avg_mpo_rating": 941.0,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddfb\ud83c\uddf3",
+      "country": "Vietnam",
+      "count": 6
+    },
+    {
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "count": 2
+    },
+    {
+      "flag": "\ud83c\uddf8\ud83c\uddec",
+      "country": "Singapore",
+      "count": 1
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 62659,
+      "name": "David Morra",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 1,
+      "pdga_points": 30.0,
+      "rating": 949,
+      "prize": "$81",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 18801,
+      "name": "Luke Butch",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 2,
+      "pdga_points": 25.0,
+      "rating": 929,
+      "prize": "$49",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 61991,
+      "name": "Richard Kollar",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 4,
+      "pdga_points": 15.0,
+      "rating": 938,
+      "prize": "$8",
+      "flag": "\ud83c\udf10",
+      "country": "Slovakia",
+      "country_key": ""
+    },
+    {
+      "pdga": 69334,
+      "name": "Jeremy Watson",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 5,
+      "pdga_points": 10.0,
+      "rating": 944,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 38925,
+      "name": "Alan Logan",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 6,
+      "pdga_points": 5.0,
+      "rating": 945,
+      "prize": "",
+      "flag": "\ud83c\uddfb\ud83c\uddf3",
+      "country": "Vietnam",
+      "country_key": "VN"
+    }
+  ],
+  "fpo": [
+    {
+      "pdga": 61990,
+      "name": "Katka Bo\u010fov\u00e1",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 1,
+      "pdga_points": 3.0,
+      "rating": 911,
+      "prize": "$53",
+      "flag": "\ud83c\udf10",
+      "country": "Slovakia",
+      "country_key": ""
+    }
+  ],
+  "amateur": [
+    {
+      "pdga": 126605,
+      "name": "Rebeca Morra",
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 9.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 134533,
+      "name": "Nhi Nguyen Ba Hong",
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 6.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\uddfb\ud83c\uddf3",
+      "country": "Vietnam",
+      "country_key": "VN"
+    },
+    {
+      "pdga": 129439,
+      "name": "Kasper Kivi",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 60.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "Finland",
+      "country_key": ""
+    },
+    {
+      "pdga": 54567,
+      "name": "Ryan Seng",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 55.0,
+      "rating": 897,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 98495,
+      "name": "Addison Yanito",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 3,
+      "pdga_points": 50.0,
+      "rating": 882,
+      "prize": "",
+      "flag": "\ud83c\uddfb\ud83c\uddf3",
+      "country": "Vietnam",
+      "country_key": "VN"
+    },
+    {
+      "pdga": 63136,
+      "name": "Charles Czepyha",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 4,
+      "pdga_points": 45.0,
+      "rating": 898,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "Estonia",
+      "country_key": ""
+    },
+    {
+      "pdga": 114288,
+      "name": "Khyber Hill",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 6,
+      "pdga_points": 35.0,
+      "rating": 856,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 112501,
+      "name": "Robert Stevenson",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 7,
+      "pdga_points": 30.0,
+      "rating": 859,
+      "prize": "",
+      "flag": "\ud83c\uddfb\ud83c\uddf3",
+      "country": "Vietnam",
+      "country_key": "VN"
+    },
+    {
+      "pdga": 123014,
+      "name": "Christopher Day",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 8,
+      "pdga_points": 25.0,
+      "rating": 840,
+      "prize": "",
+      "flag": "\ud83c\uddfb\ud83c\uddf3",
+      "country": "Vietnam",
+      "country_key": "VN"
+    },
+    {
+      "pdga": 126826,
+      "name": "Jean-Daniel Brabant",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 9,
+      "pdga_points": 20.0,
+      "rating": 807,
+      "prize": "",
+      "flag": "\ud83c\uddf8\ud83c\uddec",
+      "country": "Singapore",
+      "country_key": "SG"
+    },
+    {
+      "pdga": 129024,
+      "name": "Ryan Longe",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 10,
+      "pdga_points": 15.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\uddfb\ud83c\uddf3",
+      "country": "Vietnam",
+      "country_key": "VN"
+    },
+    {
+      "pdga": 121870,
+      "name": "Chad Mitchell",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 11,
+      "pdga_points": 10.0,
+      "rating": 774,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    }
+  ],
+  "divisions": [
+    "FA1",
+    "FPO",
+    "MA1",
+    "MPO"
+  ]
+}

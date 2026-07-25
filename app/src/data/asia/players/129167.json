@@ -1,0 +1,599 @@
+{
+  "pdga": 129167,
+  "name": "Kevin Foster #129167",
+  "country": "Thailand",
+  "country_key": "TH",
+  "flag": "\ud83c\uddf9\ud83c\udded",
+  "rating": 684,
+  "classification": "Amateur",
+  "city": "Koh Samui",
+  "nationality": "",
+  "division": "MA3",
+  "primary_class": "amateur",
+  "pdga_points": 149.0,
+  "tour_weighted_points": 180.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 19,
+  "wins": 1,
+  "podiums": 6,
+  "top5": 11,
+  "top10": 16,
+  "top20": 18,
+  "avg_finish": 6.58,
+  "win_rate": 0.053,
+  "top10_rate": 0.842,
+  "cash_earned": 0.0,
+  "pdga_rank": 976,
+  "weighted_rank": 379,
+  "country_rank": 59,
+  "am_events": 19,
+  "am_wins": 1,
+  "am_podiums": 6,
+  "am_top10": 16,
+  "am_pdga_points": 149.0,
+  "last_active": "27-Jan to 29-Jan-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 1,
+      "points": 3.0,
+      "weighted": 16.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 2,
+      "points": 26.0,
+      "weighted": 16.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 18.0,
+      "weighted": 10.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 15,
+      "points": 102.0,
+      "weighted": 138.0,
+      "wins": 1
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 19,
+      "wins": 1,
+      "podiums": 6,
+      "top5": 11,
+      "top10": 16,
+      "top20": 18,
+      "pdga_points": 149.0,
+      "tour_weighted_points": 180.0,
+      "avg_finish": 6.58,
+      "win_rate": 0.053,
+      "top10_rate": 0.842
+    },
+    "all": {
+      "events": 19,
+      "wins": 1,
+      "podiums": 6,
+      "top5": 11,
+      "top10": 16,
+      "top20": 18,
+      "pdga_points": 149.0,
+      "tour_weighted_points": 180.0,
+      "avg_finish": 6.58,
+      "win_rate": 0.053,
+      "top10_rate": 0.842
+    }
+  },
+  "division_counts": {
+    "MA3": 8,
+    "MA50": 2,
+    "MA2": 5,
+    "MA4": 2,
+    "MA40": 1,
+    "MA1": 1
+  },
+  "results": [
+    {
+      "event_id": "95844",
+      "title": "Samui Swine Classic XIII - Ams Presented by Latitude64 - PDGA Asia Tour event #3",
+      "dates": "27-Jan to 29-Jan-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "Koh Samui, Thailand",
+      "place": 16,
+      "pdga_points": 3.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 16.0
+    },
+    {
+      "event_id": "99301",
+      "title": "The 11th Annual Hyzenbrownie Open \u201cThe Greenskeeper\u2019s Guild\u201d",
+      "dates": "24-Jan to 25-Jan-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surrathani , Thailand",
+      "place": 4,
+      "pdga_points": 4.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "101735",
+      "title": "Freedom Flight Open",
+      "dates": "09-May-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, New York, Thailand",
+      "place": 2,
+      "pdga_points": 2.0,
+      "division": "MA4",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "84698",
+      "title": "Samui Swine Classic XII - MA1, MA2, MA3, MA40, MA50, MA60, FA1 Presented by Latitude 64",
+      "dates": "28-Jan to 30-Jan-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 6,
+      "pdga_points": 9.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "87260",
+      "title": "Samui Winter Warm Up II",
+      "dates": "19-Jan-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 2,
+      "pdga_points": 3.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "95658",
+      "title": "Coco-breeze 3 - gone with the wind",
+      "dates": "06-Dec to 07-Dec-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Pattaya, Chonburi, Thailand",
+      "place": 8,
+      "pdga_points": 3.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "73676",
+      "title": "Samui Swine Classic XI - MA3, MA2, MA40, MA50, MA60",
+      "dates": "30-Jan to 01-Feb-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 6,
+      "pdga_points": 18.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "77064",
+      "title": "The Hyzenbrownie \"Yondernugget\" Open 2024 - Amateurs",
+      "dates": "24-Jan to 25-Jan-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 4,
+      "pdga_points": 3.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "74874",
+      "title": "Samui Winter Warm Up",
+      "dates": "13-Jan-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 2,
+      "pdga_points": 3.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "85902",
+      "title": "Coco-Breeze at Pattaya Disc Golf",
+      "dates": "07-Dec to 08-Dec-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Pattaya, Thailand",
+      "place": 6,
+      "pdga_points": 8.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "63795",
+      "title": "Hyzenbrownie Dreamweaver Open 2023 Powered By Innova Discs",
+      "dates": "25-Jan to 29-Jan-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui Thailand, Thailand",
+      "place": 4,
+      "pdga_points": 3.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "63567",
+      "title": "Samui Swine Classic X Presented by Prodigy Discs- MPO, FPO, MP40, MP50, MA1",
+      "dates": "03-Feb to 05-Feb-2023",
+      "year": "2023",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 25,
+      "pdga_points": 20.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 8.0
+    },
+    {
+      "event_id": "73403",
+      "title": "Coconut Open - Pattaya Open",
+      "dates": "02-Dec to 03-Dec-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Pattaya, chonburi, Thailand",
+      "place": 4,
+      "pdga_points": 4.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "56991",
+      "title": "Hyzenbrownie \"Destination Open\" 2022",
+      "dates": "29-Jan to 30-Jan-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surrathani, Thailand",
+      "place": 3,
+      "pdga_points": 20.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "55037",
+      "title": "Samui Swine Classic IX - MA3, MA2, FA1, MA40, MA50, MA60",
+      "dates": "03-Feb to 04-Feb-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 9,
+      "pdga_points": 8.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "63215",
+      "title": "Pattaya Disc Golf Open 2",
+      "dates": "03-Dec to 04-Dec-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Baan Lamung, Thailand",
+      "place": 1,
+      "pdga_points": 8.0,
+      "division": "MA4",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "49604",
+      "title": "Hyzenbrownie \"Hyzenwide Open\" 2021",
+      "dates": "30-Jan to 31-Jan-2021",
+      "year": "2021",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 3,
+      "pdga_points": 12.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "48026",
+      "title": "Samui Swine Classic VIII",
+      "dates": "26-Jan to 27-Jan-2021",
+      "year": "2021",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 4,
+      "pdga_points": 12.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "43198",
+      "title": "Samui Swine Classic VII - Ams - Presented by Innova",
+      "dates": "29-Jan to 30-Jan-2020",
+      "year": "2020",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 16,
+      "pdga_points": 6.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 8.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "63215",
+      "title": "Pattaya Disc Golf Open 2",
+      "dates": "03-Dec to 04-Dec-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Baan Lamung, Thailand",
+      "place": 1,
+      "pdga_points": 8.0,
+      "division": "MA4",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 3,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 2,
+      "pdga_points": 9.0,
+      "avg_finish": 7.33
+    },
+    {
+      "year": "2025",
+      "events": 3,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 3,
+      "pdga_points": 15.0,
+      "avg_finish": 5.33
+    },
+    {
+      "year": "2024",
+      "events": 4,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 4,
+      "pdga_points": 32.0,
+      "avg_finish": 4.5
+    },
+    {
+      "year": "2023",
+      "events": 3,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 2,
+      "pdga_points": 27.0,
+      "avg_finish": 11.0
+    },
+    {
+      "year": "2022",
+      "events": 3,
+      "wins": 1,
+      "podiums": 2,
+      "top10": 3,
+      "pdga_points": 36.0,
+      "avg_finish": 4.33
+    },
+    {
+      "year": "2021",
+      "events": 2,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 2,
+      "pdga_points": 24.0,
+      "avg_finish": 3.5
+    },
+    {
+      "year": "2020",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 6.0,
+      "avg_finish": 16.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2020-02-11",
+      "rating": 531,
+      "rounds": 2
+    },
+    {
+      "date": "2021-02-09",
+      "rating": 664,
+      "rounds": 5
+    },
+    {
+      "date": "2021-03-09",
+      "rating": 747,
+      "rounds": 5
+    },
+    {
+      "date": "2022-02-08",
+      "rating": 768,
+      "rounds": 7
+    },
+    {
+      "date": "2022-03-08",
+      "rating": 773,
+      "rounds": 9
+    },
+    {
+      "date": "2022-12-13",
+      "rating": 765,
+      "rounds": 7
+    },
+    {
+      "date": "2023-02-14",
+      "rating": 699,
+      "rounds": 8
+    },
+    {
+      "date": "2024-02-13",
+      "rating": 681,
+      "rounds": 14
+    },
+    {
+      "date": "2024-12-10",
+      "rating": 677,
+      "rounds": 11
+    },
+    {
+      "date": "2025-02-11",
+      "rating": 696,
+      "rounds": 12
+    },
+    {
+      "date": "2026-01-13",
+      "rating": 683,
+      "rounds": 11
+    },
+    {
+      "date": "2026-02-10",
+      "rating": 713,
+      "rounds": 9
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 684,
+      "rounds": 7
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 3.0,
+    "season_avg": 8.8,
+    "delta_pct": -65.7
+  },
+  "pdga_url": "https://www.pdga.com/player/129167"
+}

@@ -1,0 +1,231 @@
+{
+  "pdga": 270039,
+  "name": "Joraver Kang #270039",
+  "country": "Thailand",
+  "country_key": "TH",
+  "flag": "\ud83c\uddf9\ud83c\udded",
+  "rating": 793,
+  "classification": "Amateur",
+  "city": "Bang Lamung",
+  "nationality": "United Kingdom",
+  "division": "MA2",
+  "primary_class": "amateur",
+  "pdga_points": 118.0,
+  "tour_weighted_points": 12.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 3,
+  "wins": 0,
+  "podiums": 0,
+  "top5": 0,
+  "top10": 3,
+  "top20": 3,
+  "avg_finish": 7.67,
+  "win_rate": 0.0,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 1089,
+  "weighted_rank": 1577,
+  "country_rank": 70,
+  "am_events": 3,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 3,
+  "am_pdga_points": 118.0,
+  "last_active": "06-Dec to 07-Dec-2025",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 3,
+      "points": 118.0,
+      "weighted": 12.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 3,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 3,
+      "top20": 3,
+      "pdga_points": 118.0,
+      "tour_weighted_points": 12.0,
+      "avg_finish": 7.67,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 3,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 3,
+      "top20": 3,
+      "pdga_points": 118.0,
+      "tour_weighted_points": 12.0,
+      "avg_finish": 7.67,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA1": 1,
+    "MA2": 2
+  },
+  "results": [
+    {
+      "event_id": "95658",
+      "title": "Coco-breeze 3 - gone with the wind",
+      "dates": "06-Dec to 07-Dec-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Pattaya, Chonburi, Thailand",
+      "place": 9,
+      "pdga_points": 50.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "85901",
+      "title": "Banging Bangkok Chains @ Lakewood",
+      "dates": "23-Nov to 24-Nov-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Samut Prakarn, Thailand",
+      "place": 6,
+      "pdga_points": 32.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "73650",
+      "title": "Festival of Flight I",
+      "dates": "18-Nov to 19-Nov-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Chiang Mai, Chiang Mai, Thailand",
+      "place": 8,
+      "pdga_points": 36.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2025",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 50.0,
+      "avg_finish": 9.0
+    },
+    {
+      "year": "2024",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 32.0,
+      "avg_finish": 6.0
+    },
+    {
+      "year": "2023",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 36.0,
+      "avg_finish": 8.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2023-12-12",
+      "rating": 819,
+      "rounds": 2
+    },
+    {
+      "date": "2024-12-10",
+      "rating": 793,
+      "rounds": 7
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/270039"
+}

@@ -1,0 +1,206 @@
+{
+  "event_id": "21901",
+  "title": "The Kyoto Classics",
+  "location": "Tamba, Kyoto, Japan",
+  "dates": "07-Nov to 08-Nov-2015",
+  "year": "2015",
+  "tier": "B",
+  "level": "b_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 13,
+  "avg_mpo_rating": 956.0,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "count": 11
+    },
+    {
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "count": 2
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 8139,
+      "name": "Manabu Kajiyama",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 1,
+      "pdga_points": 52.5,
+      "rating": 1012,
+      "prize": "$160",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 6075,
+      "name": "Kazuo Shirai",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 2,
+      "pdga_points": 45.0,
+      "rating": 982,
+      "prize": "$80",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 49121,
+      "name": "Dai Ooishi",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 3,
+      "pdga_points": 37.5,
+      "rating": 955,
+      "prize": "$56",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 56592,
+      "name": "Hyundo Jang",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 5,
+      "pdga_points": 22.5,
+      "rating": 921,
+      "prize": "",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "country_key": "KR"
+    },
+    {
+      "pdga": 8206,
+      "name": "Takero Takakura",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 6,
+      "pdga_points": 15.0,
+      "rating": 910,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    }
+  ],
+  "fpo": [
+    {
+      "pdga": 8209,
+      "name": "Mayu Iwasaki",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 1,
+      "pdga_points": 27.0,
+      "rating": 928,
+      "prize": "$80",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8200,
+      "name": "Yuki Fukuhara",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 2,
+      "pdga_points": 22.5,
+      "rating": 934,
+      "prize": "$56",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 59527,
+      "name": "Hiromi Kato",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 3,
+      "pdga_points": 18.0,
+      "rating": 904,
+      "prize": "$40",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8140,
+      "name": "Rika Takaki",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 4,
+      "pdga_points": 13.5,
+      "rating": 907,
+      "prize": "$24",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 56593,
+      "name": "Jiwon Kim",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 5,
+      "pdga_points": 9.0,
+      "rating": 841,
+      "prize": "",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "country_key": "KR"
+    },
+    {
+      "pdga": 65846,
+      "name": "Yuka Nakagawara",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 6,
+      "pdga_points": 4.5,
+      "rating": 878,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    }
+  ],
+  "amateur": [
+    {
+      "pdga": 8195,
+      "name": "Kuniko Yoshioka",
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 13.5,
+      "rating": 845,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8210,
+      "name": "Ippei Nonaka",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 67.5,
+      "rating": 881,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    }
+  ],
+  "divisions": [
+    "FA1",
+    "FPO",
+    "MA1",
+    "MPO"
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "event_id": "15592",
+  "title": "27th Kyushu Open",
+  "location": "Higashi-ku, Fukuoka, Japan",
+  "dates": "30-Nov to 01-Dec-2013",
+  "year": "2013",
+  "tier": "B",
+  "level": "b_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 17,
+  "avg_mpo_rating": 946.8,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "count": 17
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 8139,
+      "name": "Manabu Kajiyama",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 1,
+      "pdga_points": 97.5,
+      "rating": 1027,
+      "prize": "$108",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 6075,
+      "name": "Kazuo Shirai",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 2,
+      "pdga_points": 90.0,
+      "rating": 989,
+      "prize": "$36",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8060,
+      "name": "Yasushi Jitsuhiro",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 3,
+      "pdga_points": 82.5,
+      "rating": 1006,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8153,
+      "name": "Masatoshi Ishihara",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 4,
+      "pdga_points": 75.0,
+      "rating": 982,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 59526,
+      "name": "Hiroki Tezuka",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 5,
+      "pdga_points": 67.5,
+      "rating": 930,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 3614,
+      "name": "Hiroshi Yokota",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 6,
+      "pdga_points": 60.0,
+      "rating": 923,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8141,
+      "name": "Yoshiyasu Kajiyama",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 7,
+      "pdga_points": 52.5,
+      "rating": 960,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 59529,
+      "name": "Daisuke Kuroda",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 8,
+      "pdga_points": 45.0,
+      "rating": 954,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 23540,
+      "name": "Jon Taylor",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 10,
+      "pdga_points": 30.0,
+      "rating": 904,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 60750,
+      "name": "Hiromichi Kawasaki",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 13,
+      "pdga_points": 7.5,
+      "rating": 793,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    }
+  ],
+  "fpo": [
+    {
+      "pdga": 8140,
+      "name": "Rika Takaki",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 1,
+      "pdga_points": 40.5,
+      "rating": 910,
+      "prize": "$96",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8209,
+      "name": "Mayu Iwasaki",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 2,
+      "pdga_points": 36.0,
+      "rating": 932,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8157,
+      "name": "Kayoko Maeda",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 4,
+      "pdga_points": 27.0,
+      "rating": 830,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 3603,
+      "name": "Reiko Kinomiya",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 5,
+      "pdga_points": 22.5,
+      "rating": 822,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 59528,
+      "name": "Shoko Honda",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 6,
+      "pdga_points": 18.0,
+      "rating": 842,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 49122,
+      "name": "Asami Ohsaki",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 7,
+      "pdga_points": 13.5,
+      "rating": 861,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    }
+  ],
+  "amateur": [
+    {
+      "pdga": 55016,
+      "name": "Hisashi Kato",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 82.5,
+      "rating": 854,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    }
+  ],
+  "divisions": [
+    "FPO",
+    "MA1",
+    "MPO"
+  ]
+}

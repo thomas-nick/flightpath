@@ -1,0 +1,200 @@
+{
+  "event_id": "9840",
+  "title": "14th Kansai Open",
+  "location": "Kakogawa, Hyogo, Japan",
+  "dates": "23-Jan to 24-Jan-2010",
+  "year": "2010",
+  "tier": "B",
+  "level": "b_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 13,
+  "avg_mpo_rating": 954.8,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "count": 13
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 8139,
+      "name": "Manabu Kajiyama",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 1,
+      "pdga_points": 90.0,
+      "rating": 1009,
+      "prize": "$72",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 6075,
+      "name": "Kazuo Shirai",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 2,
+      "pdga_points": 82.5,
+      "rating": 984,
+      "prize": "$36",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8012,
+      "name": "Hiroki Takahashi",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 3,
+      "pdga_points": 75.0,
+      "rating": 939,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8172,
+      "name": "Hideaki Matsuda",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 4,
+      "pdga_points": 67.5,
+      "rating": 984,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 6671,
+      "name": "Atsuhito Kawasaki",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 5,
+      "pdga_points": 60.0,
+      "rating": 973,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8016,
+      "name": "Yoshiki Sakai",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 6,
+      "pdga_points": 52.5,
+      "rating": 934,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 6036,
+      "name": "Takao Ehara",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 7,
+      "pdga_points": 45.0,
+      "rating": 949,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 3614,
+      "name": "Hiroshi Yokota",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 10,
+      "pdga_points": 22.5,
+      "rating": 935,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8167,
+      "name": "Keiichi Mikasa",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 11,
+      "pdga_points": 15.0,
+      "rating": 886,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    }
+  ],
+  "fpo": [
+    {
+      "pdga": 8200,
+      "name": "Yuki Fukuhara",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 1,
+      "pdga_points": 13.5,
+      "rating": 910,
+      "prize": "$27",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8140,
+      "name": "Rika Takaki",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 2,
+      "pdga_points": 9.0,
+      "rating": 911,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    }
+  ],
+  "amateur": [
+    {
+      "pdga": 8038,
+      "name": "Kazuji Takeuchi",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 7,
+      "pdga_points": 52.5,
+      "rating": 860,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 40071,
+      "name": "Seiichi Yoshida",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 12,
+      "pdga_points": 15.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    }
+  ],
+  "divisions": [
+    "FPO",
+    "MA1",
+    "MPO"
+  ]
+}

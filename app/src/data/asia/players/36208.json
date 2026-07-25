@@ -1,0 +1,201 @@
+{
+  "pdga": 36208,
+  "name": "P. Jeffrey Bagwell #36208",
+  "country": "United States",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 763,
+  "classification": "Amateur",
+  "city": "Hereford",
+  "nationality": "",
+  "division": "MA60",
+  "primary_class": "amateur",
+  "pdga_points": 5.0,
+  "tour_weighted_points": 110.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top5": 1,
+  "top10": 2,
+  "top20": 2,
+  "avg_finish": 5.0,
+  "win_rate": 0.0,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 2064,
+  "weighted_rank": 586,
+  "country_rank": null,
+  "am_events": 2,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 2,
+  "am_pdga_points": 5.0,
+  "last_active": "27-Feb to 01-Mar-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 2,
+      "points": 5.0,
+      "weighted": 110.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 1,
+      "top10": 2,
+      "top20": 2,
+      "pdga_points": 5.0,
+      "tour_weighted_points": 110.0,
+      "avg_finish": 5.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 1,
+      "top10": 2,
+      "top20": 2,
+      "pdga_points": 5.0,
+      "tour_weighted_points": 110.0,
+      "avg_finish": 5.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA60": 2
+  },
+  "results": [
+    {
+      "event_id": "97272",
+      "title": "Lipad Pilipinas IV - PDGA Asia Tour #5 presented by Province of Tarlac",
+      "dates": "27-Feb to 01-Mar-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "San Jose, Tarlac, Philippines",
+      "place": 6,
+      "pdga_points": 2.0,
+      "division": "MA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 40.0
+    },
+    {
+      "event_id": "97704",
+      "title": "The 14th Okinawa Open - PDGA  Asia Tour Event #6",
+      "dates": "06-Mar to 08-Mar-2026",
+      "year": "2026",
+      "tier": "B",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "Kunigami-gun, Okinawa, Japan",
+      "place": 4,
+      "pdga_points": 3.0,
+      "division": "MA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 70.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 2,
+      "pdga_points": 5.0,
+      "avg_finish": 5.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2008-06-24",
+      "rating": 800,
+      "rounds": 4
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 739,
+      "rounds": 3
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 763,
+      "rounds": 6
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/36208"
+}

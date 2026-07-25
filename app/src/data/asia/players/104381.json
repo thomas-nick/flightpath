@@ -1,0 +1,378 @@
+{
+  "pdga": 104381,
+  "name": "Marky Lemke #104381",
+  "country": "Thailand",
+  "country_key": "TH",
+  "flag": "\ud83c\uddf9\ud83c\udded",
+  "rating": 946,
+  "classification": "Professional",
+  "city": "Koh Samui / Surat Thani",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 645.0,
+  "tour_weighted_points": 91.1,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 8,
+  "wins": 2,
+  "podiums": 2,
+  "top5": 3,
+  "top10": 3,
+  "top20": 7,
+  "avg_finish": 11.5,
+  "win_rate": 0.25,
+  "top10_rate": 0.375,
+  "cash_earned": 0.0,
+  "pdga_rank": 388,
+  "weighted_rank": 658,
+  "country_rank": 21,
+  "am_events": 2,
+  "am_wins": 1,
+  "am_podiums": 1,
+  "am_top10": 2,
+  "am_pdga_points": 275.0,
+  "last_active": "03-Feb to 05-Feb-2023",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 4,
+      "points": 310.0,
+      "weighted": 32.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 180.0,
+      "weighted": 17.5,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 3,
+      "points": 155.0,
+      "weighted": 41.6,
+      "wins": 2
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 6,
+      "wins": 1,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 1,
+      "top20": 5,
+      "pdga_points": 370.0,
+      "tour_weighted_points": 53.6,
+      "avg_finish": 14.33,
+      "win_rate": 0.167,
+      "top10_rate": 0.167
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 2,
+      "wins": 1,
+      "podiums": 1,
+      "top5": 2,
+      "top10": 2,
+      "top20": 2,
+      "pdga_points": 275.0,
+      "tour_weighted_points": 37.5,
+      "avg_finish": 3.0,
+      "win_rate": 0.5,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 8,
+      "wins": 2,
+      "podiums": 2,
+      "top5": 3,
+      "top10": 3,
+      "top20": 7,
+      "pdga_points": 645.0,
+      "tour_weighted_points": 91.1,
+      "avg_finish": 11.5,
+      "win_rate": 0.25,
+      "top10_rate": 0.375
+    }
+  },
+  "division_counts": {
+    "MA1": 2,
+    "MPO": 6
+  },
+  "results": [
+    {
+      "event_id": "63765",
+      "title": "Chiang Mai Open",
+      "dates": "10-Feb to 12-Feb-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Chiang Mai, Thailand",
+      "place": 15,
+      "pdga_points": 25.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "63567",
+      "title": "Samui Swine Classic X Presented by Prodigy Discs- MPO, FPO, MP40, MP50, MA1",
+      "dates": "03-Feb to 05-Feb-2023",
+      "year": "2023",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 20,
+      "pdga_points": 60.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 8.0
+    },
+    {
+      "event_id": "43200",
+      "title": "Samui Swine Classic VII - Pros - Presented by Innova",
+      "dates": "31-Jan to 02-Feb-2020",
+      "year": "2020",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 21,
+      "pdga_points": 100.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 8.0
+    },
+    {
+      "event_id": "43184",
+      "title": "The 5th Annual Hyzenbrownie Open \"King Of The Island\" 2020",
+      "dates": "22-Jan to 26-Jan-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Namuang Koh Samui, Thailand",
+      "place": 1,
+      "pdga_points": 95.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "38592",
+      "title": "Samui Swine Classic VI - Presented by Dynamic Discs - Pros",
+      "dates": "08-Feb to 10-Feb-2019",
+      "year": "2019",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 15,
+      "pdga_points": 50.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 8.0
+    },
+    {
+      "event_id": "33102",
+      "title": "Third Annual Hyzenbrownie Open - The Flaskenpouch 2018",
+      "dates": "27-Jan to 28-Jan-2018",
+      "year": "2018",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 5,
+      "pdga_points": 180.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "35670",
+      "title": "Samui Shamrock Shakedown - Samui Series #1",
+      "dates": "18-Mar-2018",
+      "year": "2018",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 1,
+      "pdga_points": 35.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "33706",
+      "title": "Samui Swine Classic V",
+      "dates": "01-Feb to 03-Feb-2018",
+      "year": "2018",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 14,
+      "pdga_points": 100.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 8.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "43184",
+      "title": "The 5th Annual Hyzenbrownie Open \"King Of The Island\" 2020",
+      "dates": "22-Jan to 26-Jan-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Namuang Koh Samui, Thailand",
+      "place": 1,
+      "pdga_points": 95.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "35670",
+      "title": "Samui Shamrock Shakedown - Samui Series #1",
+      "dates": "18-Mar-2018",
+      "year": "2018",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 1,
+      "pdga_points": 35.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2023",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 85.0,
+      "avg_finish": 17.5
+    },
+    {
+      "year": "2020",
+      "events": 2,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 195.0,
+      "avg_finish": 11.0
+    },
+    {
+      "year": "2019",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 50.0,
+      "avg_finish": 15.0
+    },
+    {
+      "year": "2018",
+      "events": 3,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 2,
+      "pdga_points": 315.0,
+      "avg_finish": 6.67
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2018-03-13",
+      "rating": 935,
+      "rounds": 5
+    },
+    {
+      "date": "2018-04-17",
+      "rating": 959,
+      "rounds": 6
+    },
+    {
+      "date": "2018-05-22",
+      "rating": 959,
+      "rounds": 8
+    },
+    {
+      "date": "2019-02-26",
+      "rating": 949,
+      "rounds": 9
+    },
+    {
+      "date": "2019-05-14",
+      "rating": 946,
+      "rounds": 10
+    },
+    {
+      "date": "2020-02-11",
+      "rating": 929,
+      "rounds": 10
+    },
+    {
+      "date": "2023-02-14",
+      "rating": 907,
+      "rounds": 6
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 61.7,
+    "season_avg": 92.0,
+    "delta_pct": -33.0
+  },
+  "pdga_url": "https://www.pdga.com/player/104381"
+}

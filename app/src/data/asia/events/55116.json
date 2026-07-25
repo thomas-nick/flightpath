@@ -1,0 +1,108 @@
+{
+  "event_id": "55116",
+  "title": "Guardians of the ChiangBang Part 2",
+  "location": "Chiang Mai, Chiang Mai, Thailand",
+  "dates": "22-Jan to 23-Jan-2022",
+  "year": "2022",
+  "tier": "C",
+  "level": "c_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 6,
+  "avg_mpo_rating": 950.0,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "count": 6
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 112592,
+      "name": "Danny Diaz",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 1,
+      "pdga_points": 25.0,
+      "rating": 950,
+      "prize": "$153",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 196549,
+      "name": "Pete Laermanns",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 3,
+      "pdga_points": 15.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    }
+  ],
+  "fpo": [],
+  "amateur": [
+    {
+      "pdga": 68503,
+      "name": "Pom Holiday",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 30.0,
+      "rating": 884,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 202969,
+      "name": "Joshua Slabaugh",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 5,
+      "pdga_points": 10.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 197296,
+      "name": "Ray Dai",
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "place": 6,
+      "pdga_points": 18.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 60663,
+      "name": "MarkS Barnett",
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "place": 11,
+      "pdga_points": 3.0,
+      "rating": 680,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    }
+  ],
+  "divisions": [
+    "MA1",
+    "MA3",
+    "MPO"
+  ]
+}

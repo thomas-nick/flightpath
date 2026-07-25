@@ -1,0 +1,234 @@
+{
+  "pdga": 203458,
+  "name": "James Rothschild #203458",
+  "country": "Singapore",
+  "country_key": "SG",
+  "flag": "\ud83c\uddf8\ud83c\uddec",
+  "rating": null,
+  "classification": "Amateur",
+  "city": "Los Altos",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 50.0,
+  "tour_weighted_points": 25.6,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 3,
+  "wins": 1,
+  "podiums": 1,
+  "top5": 1,
+  "top10": 2,
+  "top20": 3,
+  "avg_finish": 7.0,
+  "win_rate": 0.333,
+  "top10_rate": 0.667,
+  "cash_earned": 0.0,
+  "pdga_rank": 1495,
+  "weighted_rank": 1247,
+  "country_rank": 50,
+  "am_events": 2,
+  "am_wins": 1,
+  "am_podiums": 1,
+  "am_top10": 1,
+  "am_pdga_points": 45.0,
+  "last_active": "13-Apr-2024",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 3,
+      "points": 50.0,
+      "weighted": 25.6,
+      "wins": 1
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 5.0,
+      "tour_weighted_points": 4.0,
+      "avg_finish": 9.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 2,
+      "wins": 1,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 1,
+      "top20": 2,
+      "pdga_points": 45.0,
+      "tour_weighted_points": 21.6,
+      "avg_finish": 6.0,
+      "win_rate": 0.5,
+      "top10_rate": 0.5
+    },
+    "all": {
+      "events": 3,
+      "wins": 1,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 2,
+      "top20": 3,
+      "pdga_points": 50.0,
+      "tour_weighted_points": 25.6,
+      "avg_finish": 7.0,
+      "win_rate": 0.333,
+      "top10_rate": 0.667
+    }
+  },
+  "division_counts": {
+    "MA1": 2,
+    "MPO": 1
+  },
+  "results": [
+    {
+      "event_id": "85079",
+      "title": "2024 Singapore Disc Golf Championships",
+      "dates": "21-Sep to 22-Sep-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 1,
+      "pdga_points": 15.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "78949",
+      "title": "4th Annual Johor State Disc Golf Championship",
+      "dates": "13-Apr-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 9,
+      "pdga_points": 5.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "55884",
+      "title": "Singapore Sling 2022",
+      "dates": "12-Feb-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 11,
+      "pdga_points": 30.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 1.6
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "85079",
+      "title": "2024 Singapore Disc Golf Championships",
+      "dates": "21-Sep to 22-Sep-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 1,
+      "pdga_points": 15.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2024",
+      "events": 2,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 2,
+      "pdga_points": 20.0,
+      "avg_finish": 5.0
+    },
+    {
+      "year": "2022",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 30.0,
+      "avg_finish": 11.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2022-03-08",
+      "rating": 872,
+      "rounds": 2
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/203458"
+}

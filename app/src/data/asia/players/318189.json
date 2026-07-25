@@ -1,0 +1,217 @@
+{
+  "pdga": 318189,
+  "name": "Shohei Takahashi #318189",
+  "country": "Japan",
+  "country_key": "JP",
+  "flag": "\ud83c\uddef\ud83c\uddf5",
+  "rating": 934,
+  "classification": "Amateur",
+  "city": "Saitama-shi",
+  "nationality": "",
+  "division": "MA1",
+  "primary_class": "amateur",
+  "pdga_points": 277.5,
+  "tour_weighted_points": 44.5,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 3,
+  "wins": 0,
+  "podiums": 1,
+  "top5": 2,
+  "top10": 3,
+  "top20": 3,
+  "avg_finish": 4.33,
+  "win_rate": 0.0,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 678,
+  "weighted_rank": 982,
+  "country_rank": 192,
+  "am_events": 3,
+  "am_wins": 0,
+  "am_podiums": 1,
+  "am_top10": 3,
+  "am_pdga_points": 277.5,
+  "last_active": "04-Apr to 05-Apr-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 2,
+      "points": 217.5,
+      "weighted": 37.5,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 1,
+      "points": 60.0,
+      "weighted": 7.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 3,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 2,
+      "top10": 3,
+      "top20": 3,
+      "pdga_points": 277.5,
+      "tour_weighted_points": 44.5,
+      "avg_finish": 4.33,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 3,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 2,
+      "top10": 3,
+      "top20": 3,
+      "pdga_points": 277.5,
+      "tour_weighted_points": 44.5,
+      "avg_finish": 4.33,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA1": 3
+  },
+  "results": [
+    {
+      "event_id": "99226",
+      "title": "4th Musashi-Kyuryo Shinrin Park Cup",
+      "dates": "31-Jan to 01-Feb-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Hiki-gun, Saitama, Japan",
+      "place": 4,
+      "pdga_points": 60.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "102933",
+      "title": "The 21st Kiyosatonomori Open",
+      "dates": "09-May to 10-May-2026",
+      "year": "2026",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Hokuto-shi, Yamanashi, Japan",
+      "place": 6,
+      "pdga_points": 45.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "100641",
+      "title": "The 30th Kanto Open (Ama)",
+      "dates": "04-Apr to 05-Apr-2026",
+      "year": "2026",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Haga-gun, Tochigi, Japan",
+      "place": 3,
+      "pdga_points": 172.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 27.5
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 3,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 3,
+      "pdga_points": 277.5,
+      "avg_finish": 4.33
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2026-03-10",
+      "rating": 917,
+      "rounds": 1
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 944,
+      "rounds": 5
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 934,
+      "rounds": 10
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/318189"
+}

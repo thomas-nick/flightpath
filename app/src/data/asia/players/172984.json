@@ -1,0 +1,271 @@
+{
+  "pdga": 172984,
+  "name": "Matt Hulett #172984",
+  "country": "United States",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 787,
+  "classification": "Amateur",
+  "city": "Terre Haute",
+  "nationality": "",
+  "division": "MA3",
+  "primary_class": "amateur",
+  "pdga_points": 30.0,
+  "tour_weighted_points": 14.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top5": 2,
+  "top10": 2,
+  "top20": 2,
+  "avg_finish": 5.0,
+  "win_rate": 0.0,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 2626,
+  "weighted_rank": 1805,
+  "country_rank": null,
+  "am_events": 2,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 2,
+  "am_pdga_points": 30.0,
+  "last_active": "18-Mar-2023",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 2,
+      "points": 30.0,
+      "weighted": 14.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 2,
+      "top10": 2,
+      "top20": 2,
+      "pdga_points": 30.0,
+      "tour_weighted_points": 14.0,
+      "avg_finish": 5.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 2,
+      "top10": 2,
+      "top20": 2,
+      "pdga_points": 30.0,
+      "tour_weighted_points": 14.0,
+      "avg_finish": 5.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA3": 1,
+    "MA4": 1
+  },
+  "results": [
+    {
+      "event_id": "67449",
+      "title": "Walnut Cracker - WIFFS (CEP Charity - Rated)",
+      "dates": "18-Mar-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Greencastle, Indiana, United States",
+      "place": 5,
+      "pdga_points": 30.0,
+      "division": "MA4",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "57268",
+      "title": "WIFFS #14 Mitten Road Trip (CEP Charity - Rated)",
+      "dates": "06-Feb-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Bowling Green, Indiana, United States",
+      "place": 5,
+      "pdga_points": 0.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2023",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 30.0,
+      "avg_finish": 5.0
+    },
+    {
+      "year": "2022",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 0.0,
+      "avg_finish": 5.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2021-07-13",
+      "rating": 767,
+      "rounds": 9
+    },
+    {
+      "date": "2021-09-14",
+      "rating": 769,
+      "rounds": 18
+    },
+    {
+      "date": "2021-11-09",
+      "rating": 787,
+      "rounds": 25
+    },
+    {
+      "date": "2022-02-08",
+      "rating": 794,
+      "rounds": 28
+    },
+    {
+      "date": "2022-03-08",
+      "rating": 797,
+      "rounds": 32
+    },
+    {
+      "date": "2022-05-10",
+      "rating": 799,
+      "rounds": 30
+    },
+    {
+      "date": "2022-06-14",
+      "rating": 790,
+      "rounds": 34
+    },
+    {
+      "date": "2022-07-12",
+      "rating": 806,
+      "rounds": 31
+    },
+    {
+      "date": "2022-09-13",
+      "rating": 807,
+      "rounds": 35
+    },
+    {
+      "date": "2022-11-08",
+      "rating": 789,
+      "rounds": 37
+    },
+    {
+      "date": "2023-01-10",
+      "rating": 781,
+      "rounds": 34
+    },
+    {
+      "date": "2023-04-11",
+      "rating": 782,
+      "rounds": 31
+    },
+    {
+      "date": "2023-05-09",
+      "rating": 771,
+      "rounds": 32
+    },
+    {
+      "date": "2023-06-13",
+      "rating": 775,
+      "rounds": 34
+    },
+    {
+      "date": "2023-07-11",
+      "rating": 775,
+      "rounds": 35
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/172984"
+}

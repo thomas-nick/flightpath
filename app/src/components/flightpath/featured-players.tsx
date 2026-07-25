@@ -1,68 +1,142 @@
 import { Link } from "@tanstack/react-router";
-import finishesJson from "../../data/finishes.json";
-import type { FinishBundle } from "../../lib/player-analytics";
 import {
-  ACCENT_GRADIENTS,
-  formatMoney,
   formatNumber,
-  playerName,
-  type Player,
-} from "../../lib/players";
+  playerDisplayName,
+  type AsiaPlayer,
+} from "../../lib/asia";
+import type { FlightpathRating } from "../../lib/flightpath-rating";
+import {
+  FLIGHTPATH_RATING_NOTES,
+  METRIC_TIPS,
+  flightpathFactorTip,
+} from "../../lib/flightpath-rating";
+import { Tip } from "./tip";
 
-const finishesMap = finishesJson as Record<string, FinishBundle>;
+type FeaturedPlayer = AsiaPlayer & { flightpath?: FlightpathRating };
 
-export function FeaturedPlayers({ players }: { players: Player[] }) {
-  const featured = players.slice(0, 3);
+export function FeaturedPlayers({ asiaPlayers }: { asiaPlayers: FeaturedPlayer[] }) {
+  const podium = asiaPlayers.slice(0, 3);
+  const rest = asiaPlayers.slice(3, 10);
 
   return (
     <section id="featured" className="fp-section fp-featured">
       <div className="fp-section-head">
-        <h2>Latest from the ledger.</h2>
-        <Link to="/players" className="fp-cta-ghost">
-          View roster →
-        </Link>
+        <h2>Flightpath Top 10</h2>
+        <a href="#leaderboard" className="fp-cta-ghost">
+          Full board →
+        </a>
       </div>
-      <div className="fp-card-grid">
-        {featured.map((player) => {
-          const g =
-            ACCENT_GRADIENTS[(player.accent ?? 0) % ACCENT_GRADIENTS.length];
-          const bundle = finishesMap[player.pdga_number];
-          const f = bundle?.splits?.open.finishes ?? bundle?.finishes;
-          const openLabel = bundle?.open_division || player.division;
+      <p className="fp-muted fp-featured-blurb">{FLIGHTPATH_RATING_NOTES}</p>
+
+      <div className="fp-podium-kit">
+        {podium.map((player, i) => {
+          const name = playerDisplayName(player.name);
+          const rank = player.flightpath?.rank ?? i + 1;
+          const countryCode = (player.country_key || "FP").toUpperCase();
+          const fp = player.flightpath;
+          const medalClass =
+            rank === 1
+              ? " fp-kit-card-gold"
+              : rank === 2
+                ? " fp-kit-card-silver"
+                : rank === 3
+                  ? " fp-kit-card-bronze"
+                  : "";
+          const formDir = player.streak?.direction;
           return (
             <Link
-              key={player.pdga_number}
+              key={player.pdga}
               to="/players/$slug"
               params={{ slug: player.slug }}
-              className="fp-news-card"
+              className={`fp-kit-card${medalClass}`}
             >
-              <div className="fp-news-card-art" style={{ background: g }}>
-                <span className="fp-news-card-flare" aria-hidden />
-                <span className="fp-news-card-initials">
-                  {playerName(player)
-                    .split(" ")
-                    .map((w) => w[0])
-                    .join("")
-                    .slice(0, 2)}
+              <div className="fp-kit-crest">
+                <span className="fp-kit-rank-badge" aria-hidden>
+                  {rank}
                 </span>
-                <span className="fp-news-card-meta">
-                  {player.division} · #{player.pdga_number}
+                <span className="fp-kit-seal" aria-hidden>
+                  <span className="fp-kit-seal-ring" />
+                  <span className="fp-kit-seal-code">{countryCode}</span>
                 </span>
               </div>
-              <div className="fp-news-card-body">
-                <h3>{playerName(player)}</h3>
-                <p>
-                  Rating {player.rating ?? "—"}
-                  {f
-                    ? ` · ${openLabel}: ${formatNumber(f.wins)} wins · ${formatNumber(f.podiums)} podiums · ${formatNumber(f.top10)} top 10s`
-                    : ` · ${formatNumber(player.career.tournaments)} events · ${formatMoney(player.career.prize)} earned`}
-                  .
+              <div className="fp-kit-body">
+                <h3>
+                  {name}
+                  {formDir ? (
+                    <span
+                      className={`fp-kit-form fp-kit-form-${formDir}`}
+                      aria-hidden
+                      title={
+                        formDir === "up"
+                          ? "Heating up"
+                          : formDir === "down"
+                            ? "Cooling"
+                            : "Steady"
+                      }
+                    >
+                      {formDir === "up" ? "↑" : formDir === "down" ? "↓" : "→"}
+                    </span>
+                  ) : null}
+                </h3>
+                <p className="fp-kit-country">
+                  <span className="fp-kit-flag" aria-hidden>
+                    {player.flag}
+                  </span>
+                  {player.country_key || "INT"} · {player.division || "Open"}
+                </p>
+                <div className="fp-kit-stats">
+                  <div className="fp-kit-stat">
+                    <Tip text={fp ? flightpathFactorTip(fp) : METRIC_TIPS.flightpath}>
+                      <strong>{fp ? formatNumber(Math.round(fp.index)) : "—"}</strong>
+                    </Tip>
+                    <span>Flightpath</span>
+                  </div>
+                  <div className="fp-kit-stat fp-kit-stat-2">
+                    <strong>{formatNumber(player.wins)}</strong>
+                    <span>Wins</span>
+                  </div>
+                </div>
+                <p className="fp-kit-meta">
+                  Rating {player.rating ?? "—"} · {formatNumber(player.events_played)} starts
                 </p>
               </div>
             </Link>
           );
         })}
       </div>
+
+      {rest.length > 0 && (
+        <ol className="fp-fp-top-list">
+          {rest.map((player, i) => {
+            const fp = player.flightpath;
+            const rank = fp?.rank ?? i + 4;
+            return (
+              <li key={player.pdga}>
+                <Link
+                  to="/players/$slug"
+                  params={{ slug: player.slug }}
+                  className="fp-fp-top-row"
+                >
+                  <span className="fp-fp-top-rank">{rank}</span>
+                  <span className="fp-fp-top-flag" aria-hidden>
+                    {player.flag}
+                  </span>
+                  <span className="fp-fp-top-name">
+                    {playerDisplayName(player.name)}
+                    <em>
+                      {player.division}
+                      {player.rating != null ? ` · ${player.rating}` : ""}
+                    </em>
+                  </span>
+                  <Tip text={fp ? flightpathFactorTip(fp) : METRIC_TIPS.flightpath}>
+                    <strong>{fp ? formatNumber(Math.round(fp.index)) : "—"}</strong>
+                  </Tip>
+                </Link>
+              </li>
+            );
+          })}
+        </ol>
+      )}
     </section>
   );
 }

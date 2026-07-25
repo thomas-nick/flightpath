@@ -1,0 +1,286 @@
+{
+  "pdga": 294262,
+  "name": "Jorn Daanen #294262",
+  "country": "Australia",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 886,
+  "classification": "Professional",
+  "city": "PERTH",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 272.0,
+  "tour_weighted_points": 46.7,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 5,
+  "wins": 0,
+  "podiums": 2,
+  "top5": 3,
+  "top10": 3,
+  "top20": 5,
+  "avg_finish": 6.4,
+  "win_rate": 0.0,
+  "top10_rate": 0.6,
+  "cash_earned": 150.0,
+  "pdga_rank": 687,
+  "weighted_rank": 958,
+  "country_rank": null,
+  "am_events": 2,
+  "am_wins": 0,
+  "am_podiums": 1,
+  "am_top10": 2,
+  "am_pdga_points": 99.5,
+  "last_active": "28-Jan to 30-Jan-2025",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 67.5,
+      "weighted": 17.5,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 4,
+      "points": 204.5,
+      "weighted": 29.2,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 3,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 1,
+      "top20": 3,
+      "pdga_points": 172.5,
+      "tour_weighted_points": 18.2,
+      "avg_finish": 8.33,
+      "win_rate": 0.0,
+      "top10_rate": 0.333
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 2,
+      "top10": 2,
+      "top20": 2,
+      "pdga_points": 99.5,
+      "tour_weighted_points": 28.5,
+      "avg_finish": 3.5,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 5,
+      "wins": 0,
+      "podiums": 2,
+      "top5": 3,
+      "top10": 3,
+      "top20": 5,
+      "pdga_points": 272.0,
+      "tour_weighted_points": 46.7,
+      "avg_finish": 6.4,
+      "win_rate": 0.0,
+      "top10_rate": 0.6
+    }
+  },
+  "division_counts": {
+    "MA2": 1,
+    "MPO": 3,
+    "MA1": 1
+  },
+  "results": [
+    {
+      "event_id": "85341",
+      "title": "Samui Swine Classic XII - MPO, MP40, MP50, FPO Presented by Latitude 64",
+      "dates": "31-Jan to 02-Feb-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 11,
+      "pdga_points": 125.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$88",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "84698",
+      "title": "Samui Swine Classic XII - MA1, MA2, MA3, MA40, MA50, MA60, FA1 Presented by Latitude 64",
+      "dates": "28-Jan to 30-Jan-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 3,
+      "pdga_points": 32.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "87026",
+      "title": "LIPAD PILIPINAS III Island of Palawan Edition",
+      "dates": "22-Feb to 23-Feb-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Quezon, Palawan, Philippines",
+      "place": 2,
+      "pdga_points": 35.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$62",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "86250",
+      "title": "SE Asia Disc Golf Championship 2025",
+      "dates": "18-Jan to 19-Jan-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 4,
+      "pdga_points": 67.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "87653",
+      "title": "Siem Reap Singles",
+      "dates": "04-Jan to 08-Feb-2025",
+      "year": "2025",
+      "tier": "",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Siem Reap, Cambodia",
+      "place": 12,
+      "pdga_points": 12.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.6
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2025",
+      "events": 5,
+      "wins": 0,
+      "podiums": 2,
+      "top10": 3,
+      "pdga_points": 272.0,
+      "avg_finish": 6.4
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2024-10-08",
+      "rating": 860,
+      "rounds": 3
+    },
+    {
+      "date": "2025-02-11",
+      "rating": 909,
+      "rounds": 14
+    },
+    {
+      "date": "2025-03-11",
+      "rating": 905,
+      "rounds": 19
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 904,
+      "rounds": 24
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 898,
+      "rounds": 29
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 899,
+      "rounds": 31
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 901,
+      "rounds": 33
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 894,
+      "rounds": 35
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 883,
+      "rounds": 20
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 886,
+      "rounds": 22
+    }
+  ],
+  "streak": {
+    "direction": "up",
+    "recent_avg": 64.0,
+    "season_avg": 40.0,
+    "delta_pct": 60.0
+  },
+  "pdga_url": "https://www.pdga.com/player/294262"
+}

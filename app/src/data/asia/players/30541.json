@@ -1,0 +1,304 @@
+{
+  "pdga": 30541,
+  "name": "Chad Nelson #30541",
+  "country": "Australia",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 959,
+  "classification": "Professional",
+  "city": "Carters Ridge",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 1436.0,
+  "tour_weighted_points": 215.6,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 3,
+  "wins": 1,
+  "podiums": 2,
+  "top5": 2,
+  "top10": 2,
+  "top20": 2,
+  "avg_finish": 11.33,
+  "win_rate": 0.333,
+  "top10_rate": 0.667,
+  "cash_earned": 484.0,
+  "pdga_rank": 145,
+  "weighted_rank": 306,
+  "country_rank": null,
+  "am_events": 1,
+  "am_wins": 1,
+  "am_podiums": 1,
+  "am_top10": 1,
+  "am_pdga_points": 56.0,
+  "last_active": "27-Jan to 29-Jan-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 1,
+      "points": 56.0,
+      "weighted": 200.0,
+      "wins": 1
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 2,
+      "points": 1380.0,
+      "weighted": 15.6,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 1380.0,
+      "tour_weighted_points": 15.6,
+      "avg_finish": 16.5,
+      "win_rate": 0.0,
+      "top10_rate": 0.5
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 1,
+      "wins": 1,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 56.0,
+      "tour_weighted_points": 200.0,
+      "avg_finish": 1.0,
+      "win_rate": 1.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 3,
+      "wins": 1,
+      "podiums": 2,
+      "top5": 2,
+      "top10": 2,
+      "top20": 2,
+      "pdga_points": 1436.0,
+      "tour_weighted_points": 215.6,
+      "avg_finish": 11.33,
+      "win_rate": 0.333,
+      "top10_rate": 0.667
+    }
+  },
+  "division_counts": {
+    "MA40": 1,
+    "MPO": 2
+  },
+  "results": [
+    {
+      "event_id": "95844",
+      "title": "Samui Swine Classic XIII - Ams Presented by Latitude64 - PDGA Asia Tour event #3",
+      "dates": "27-Jan to 29-Jan-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "Koh Samui, Thailand",
+      "place": 1,
+      "pdga_points": 56.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 200.0
+    },
+    {
+      "event_id": "98036",
+      "title": "The 7th Annual Khmer Cup",
+      "dates": "13-Feb to 15-Feb-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Siem Reap, Cambodia",
+      "place": 2,
+      "pdga_points": 60.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$190",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "15768",
+      "title": "The 2014 Japan Open",
+      "dates": "05-Jun to 07-Jun-2014",
+      "year": "2014",
+      "tier": "",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Nasu Shiobara, Tochigi, Japan",
+      "place": 31,
+      "pdga_points": 1320.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$294",
+      "weighted_points": 0.6
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "95844",
+      "title": "Samui Swine Classic XIII - Ams Presented by Latitude64 - PDGA Asia Tour event #3",
+      "dates": "27-Jan to 29-Jan-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "Koh Samui, Thailand",
+      "place": 1,
+      "pdga_points": 56.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 200.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 2,
+      "wins": 1,
+      "podiums": 2,
+      "top10": 2,
+      "pdga_points": 116.0,
+      "avg_finish": 1.5
+    },
+    {
+      "year": "2014",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 1320.0,
+      "avg_finish": 31.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2013-10-01",
+      "rating": 961,
+      "rounds": 45
+    },
+    {
+      "date": "2013-11-19",
+      "rating": 967,
+      "rounds": 37
+    },
+    {
+      "date": "2014-05-27",
+      "rating": 963,
+      "rounds": 38
+    },
+    {
+      "date": "2014-07-15",
+      "rating": 961,
+      "rounds": 31
+    },
+    {
+      "date": "2014-08-26",
+      "rating": 967,
+      "rounds": 28
+    },
+    {
+      "date": "2014-09-30",
+      "rating": 966,
+      "rounds": 15
+    },
+    {
+      "date": "2014-11-18",
+      "rating": 962,
+      "rounds": 18
+    },
+    {
+      "date": "2015-03-24",
+      "rating": 958,
+      "rounds": 16
+    },
+    {
+      "date": "2015-04-28",
+      "rating": 951,
+      "rounds": 17
+    },
+    {
+      "date": "2015-06-23",
+      "rating": 953,
+      "rounds": 20
+    },
+    {
+      "date": "2016-04-19",
+      "rating": 943,
+      "rounds": 9
+    },
+    {
+      "date": "2024-12-10",
+      "rating": 907,
+      "rounds": 6
+    },
+    {
+      "date": "2026-02-10",
+      "rating": 949,
+      "rounds": 9
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 969,
+      "rounds": 9
+    },
+    {
+      "date": "2026-07-14",
+      "rating": 959,
+      "rounds": 12
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/30541"
+}

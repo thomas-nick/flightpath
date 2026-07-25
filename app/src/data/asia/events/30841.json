@@ -1,0 +1,135 @@
+{
+  "event_id": "30841",
+  "title": "The 3rd Kagoshima Open",
+  "location": "Kagoshima, Kagoshima, Japan",
+  "dates": "28-Jan to 29-Jan-2017",
+  "year": "2017",
+  "tier": "B",
+  "level": "b_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 8,
+  "avg_mpo_rating": 918.0,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "count": 8
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 44496,
+      "name": "Andy Painter",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 1,
+      "pdga_points": 52.5,
+      "rating": 941,
+      "prize": "$56",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8209,
+      "name": "Mayu Iwasaki",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 2,
+      "pdga_points": 45.0,
+      "rating": 937,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 3614,
+      "name": "Hiroshi Yokota",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 4,
+      "pdga_points": 30.0,
+      "rating": 951,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 60750,
+      "name": "Hiromichi Kawasaki",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 5,
+      "pdga_points": 22.5,
+      "rating": 843,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    }
+  ],
+  "fpo": [
+    {
+      "pdga": 59527,
+      "name": "Hiromi Kato",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 1,
+      "pdga_points": 13.5,
+      "rating": 915,
+      "prize": "$24",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8140,
+      "name": "Rika Takaki",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 2,
+      "pdga_points": 9.0,
+      "rating": 917,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 65846,
+      "name": "Yuka Nakagawara",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 3,
+      "pdga_points": 4.5,
+      "rating": 885,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    }
+  ],
+  "amateur": [
+    {
+      "pdga": 8210,
+      "name": "Ippei Nonaka",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 45.0,
+      "rating": 928,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    }
+  ],
+  "divisions": [
+    "FPO",
+    "MA1",
+    "MPO"
+  ]
+}

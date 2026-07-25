@@ -1,0 +1,589 @@
+{
+  "pdga": 8167,
+  "name": "Keiichi Mikasa #8167",
+  "country": "Japan",
+  "country_key": "JP",
+  "flag": "\ud83c\uddef\ud83c\uddf5",
+  "rating": 880,
+  "classification": "Professional",
+  "city": "Dazaifu-shi",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 565.0,
+  "tour_weighted_points": 143.1,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 18,
+  "wins": 0,
+  "podiums": 0,
+  "top5": 1,
+  "top10": 11,
+  "top20": 17,
+  "avg_finish": 9.94,
+  "win_rate": 0.0,
+  "top10_rate": 0.611,
+  "cash_earned": 0.0,
+  "pdga_rank": 420,
+  "weighted_rank": 465,
+  "country_rank": 148,
+  "am_events": 0,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 0,
+  "am_pdga_points": 0.0,
+  "last_active": "07-Jun to 08-Jun-2025",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 17,
+      "points": 480.0,
+      "weighted": 141.5,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 1,
+      "points": 85.0,
+      "weighted": 1.6,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 18,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 1,
+      "top10": 11,
+      "top20": 17,
+      "pdga_points": 565.0,
+      "tour_weighted_points": 143.1,
+      "avg_finish": 9.94,
+      "win_rate": 0.0,
+      "top10_rate": 0.611
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "all": {
+      "events": 18,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 1,
+      "top10": 11,
+      "top20": 17,
+      "pdga_points": 565.0,
+      "tour_weighted_points": 143.1,
+      "avg_finish": 9.94,
+      "win_rate": 0.0,
+      "top10_rate": 0.611
+    }
+  },
+  "division_counts": {
+    "MPO": 18
+  },
+  "results": [
+    {
+      "event_id": "90302",
+      "title": "The 2nd Minamata Open",
+      "dates": "07-Jun to 08-Jun-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Minamata-shi, Kumamoto, Japan",
+      "place": 12,
+      "pdga_points": 85.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "86185",
+      "title": "The 38th Kyushu Open",
+      "dates": "30-Nov to 01-Dec-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Fukuoka-shi, Fukuoka, Japan",
+      "place": 22,
+      "pdga_points": 7.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "63115",
+      "title": "Disc Golf Asia Championships",
+      "dates": "27-Aug to 28-Aug-2022",
+      "year": "2022",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Fukuoka City, Fukuoka, Japan",
+      "place": 17,
+      "pdga_points": 37.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "21321",
+      "title": "The 15th Aso Open",
+      "dates": "25-Jul to 26-Jul-2015",
+      "year": "2015",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Aso, Kumamoto, Japan",
+      "place": 6,
+      "pdga_points": 52.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "17575",
+      "title": "14th Aso Open",
+      "dates": "26-Jul to 27-Jul-2014",
+      "year": "2014",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Aso, Kumamoto, Japan",
+      "place": 9,
+      "pdga_points": 37.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "15588",
+      "title": "13th Aso Open",
+      "dates": "27-Jul to 28-Jul-2013",
+      "year": "2013",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Aso, Kumamoto, Japan",
+      "place": 7,
+      "pdga_points": 22.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "13643",
+      "title": "12th Aso Open",
+      "dates": "28-Jul to 29-Jul-2012",
+      "year": "2012",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Aso, Kumamoto, Japan",
+      "place": 10,
+      "pdga_points": 22.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "13641",
+      "title": "1st Hokkaido Open",
+      "dates": "23-Jun to 24-Jun-2012",
+      "year": "2012",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Yakumo, Hokkaido, Japan",
+      "place": 7,
+      "pdga_points": 7.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "12606",
+      "title": "1st Okinawa Open",
+      "dates": "11-Feb to 12-Feb-2012",
+      "year": "2012",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Nakijin, Okinawa, Japan",
+      "place": 14,
+      "pdga_points": 67.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "13636",
+      "title": "10th Saga Open",
+      "dates": "07-Apr to 08-Apr-2012",
+      "year": "2012",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Kanzaki, Saga, Japan",
+      "place": 7,
+      "pdga_points": 7.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "11825",
+      "title": "25th Kyushu Open",
+      "dates": "26-Nov to 27-Nov-2011",
+      "year": "2011",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Higashi-ku, Fukuoka, Japan",
+      "place": 11,
+      "pdga_points": 30.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "11818",
+      "title": "11th Aso Open",
+      "dates": "23-Jul to 24-Jul-2011",
+      "year": "2011",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Aso, Kumamoto, Japan",
+      "place": 8,
+      "pdga_points": 22.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "11814",
+      "title": "9th Saga Open",
+      "dates": "09-Apr to 10-Apr-2011",
+      "year": "2011",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Kanzaki, Saga, Japan",
+      "place": 7,
+      "pdga_points": 15.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "10281",
+      "title": "24th Kyushu Open",
+      "dates": "27-Nov to 28-Nov-2010",
+      "year": "2010",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Higashi-ku, Fukuoka, Japan",
+      "place": 8,
+      "pdga_points": 45.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "10273",
+      "title": "10th Aso Open",
+      "dates": "24-Jul to 25-Jul-2010",
+      "year": "2010",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Aso, Kumamoto, Japan",
+      "place": 13,
+      "pdga_points": 45.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "10279",
+      "title": "13th Chu-Shikoku Open",
+      "dates": "23-Oct to 24-Oct-2010",
+      "year": "2010",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Niimi, Okayama, Japan",
+      "place": 4,
+      "pdga_points": 22.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "9840",
+      "title": "14th Kansai Open",
+      "dates": "23-Jan to 24-Jan-2010",
+      "year": "2010",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Kakogawa, Hyogo, Japan",
+      "place": 11,
+      "pdga_points": 15.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "10268",
+      "title": "8th Saga Open",
+      "dates": "10-Apr to 11-Apr-2010",
+      "year": "2010",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Kanzaki, Saga, Japan",
+      "place": 6,
+      "pdga_points": 22.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 10.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2025",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 85.0,
+      "avg_finish": 12.0
+    },
+    {
+      "year": "2024",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 7.5,
+      "avg_finish": 22.0
+    },
+    {
+      "year": "2022",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 37.5,
+      "avg_finish": 17.0
+    },
+    {
+      "year": "2015",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 52.5,
+      "avg_finish": 6.0
+    },
+    {
+      "year": "2014",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 37.5,
+      "avg_finish": 9.0
+    },
+    {
+      "year": "2013",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 22.5,
+      "avg_finish": 7.0
+    },
+    {
+      "year": "2012",
+      "events": 4,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 3,
+      "pdga_points": 105.0,
+      "avg_finish": 9.5
+    },
+    {
+      "year": "2011",
+      "events": 3,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 2,
+      "pdga_points": 67.5,
+      "avg_finish": 8.67
+    },
+    {
+      "year": "2010",
+      "events": 5,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 3,
+      "pdga_points": 150.0,
+      "avg_finish": 8.4
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2012-05-15",
+      "rating": 919,
+      "rounds": 15
+    },
+    {
+      "date": "2012-08-14",
+      "rating": 911,
+      "rounds": 12
+    },
+    {
+      "date": "2012-09-18",
+      "rating": 913,
+      "rounds": 15
+    },
+    {
+      "date": "2013-10-01",
+      "rating": 908,
+      "rounds": 9
+    },
+    {
+      "date": "2014-08-26",
+      "rating": 914,
+      "rounds": 9
+    },
+    {
+      "date": "2015-09-01",
+      "rating": 910,
+      "rounds": 9
+    },
+    {
+      "date": "2022-09-13",
+      "rating": 907,
+      "rounds": 3
+    },
+    {
+      "date": "2023-09-12",
+      "rating": 907,
+      "rounds": 3
+    },
+    {
+      "date": "2024-05-14",
+      "rating": 913,
+      "rounds": 6
+    },
+    {
+      "date": "2024-09-10",
+      "rating": 908,
+      "rounds": 9
+    },
+    {
+      "date": "2024-12-10",
+      "rating": 881,
+      "rounds": 9
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 880,
+      "rounds": 12
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 891,
+      "rounds": 11
+    },
+    {
+      "date": "2026-01-13",
+      "rating": 887,
+      "rounds": 9
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 880,
+      "rounds": 10
+    }
+  ],
+  "streak": {
+    "direction": "up",
+    "recent_avg": 43.3,
+    "season_avg": 29.0,
+    "delta_pct": 49.4
+  },
+  "pdga_url": "https://www.pdga.com/player/8167"
+}

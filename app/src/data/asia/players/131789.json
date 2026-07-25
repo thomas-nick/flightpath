@@ -1,0 +1,324 @@
+{
+  "pdga": 131789,
+  "name": "Laura Pyykk\u00f6nen #131789",
+  "country": "Finland",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": null,
+  "classification": "Amateur",
+  "city": "Kokkola",
+  "nationality": "",
+  "division": "FPO",
+  "primary_class": "open_fpo",
+  "pdga_points": 63.0,
+  "tour_weighted_points": 117.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 6,
+  "wins": 3,
+  "podiums": 4,
+  "top5": 6,
+  "top10": 6,
+  "top20": 6,
+  "avg_finish": 2.33,
+  "win_rate": 0.5,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 1387,
+  "weighted_rank": 550,
+  "country_rank": null,
+  "am_events": 5,
+  "am_wins": 3,
+  "am_podiums": 3,
+  "am_top10": 5,
+  "am_pdga_points": 57.0,
+  "last_active": "31-Jan to 02-Feb-2023",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 1,
+      "points": 30.0,
+      "weighted": 35.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 5,
+      "points": 33.0,
+      "weighted": 82.0,
+      "wins": 3
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 6.0,
+      "tour_weighted_points": 15.0,
+      "avg_finish": 2.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "amateur": {
+      "events": 5,
+      "wins": 3,
+      "podiums": 3,
+      "top5": 5,
+      "top10": 5,
+      "top20": 5,
+      "pdga_points": 57.0,
+      "tour_weighted_points": 102.0,
+      "avg_finish": 2.4,
+      "win_rate": 0.6,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 6,
+      "wins": 3,
+      "podiums": 4,
+      "top5": 6,
+      "top10": 6,
+      "top20": 6,
+      "pdga_points": 63.0,
+      "tour_weighted_points": 117.0,
+      "avg_finish": 2.33,
+      "win_rate": 0.5,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "FA1": 5,
+    "FPO": 1
+  },
+  "results": [
+    {
+      "event_id": "63564",
+      "title": "Samui Swine Classic X Presented by Prodigy Discs- MA3, MA2, FA1, MA40, MA50, MA60",
+      "dates": "31-Jan to 02-Feb-2023",
+      "year": "2023",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 5,
+      "pdga_points": 30.0,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 35.0
+    },
+    {
+      "event_id": "63795",
+      "title": "Hyzenbrownie Dreamweaver Open 2023 Powered By Innova Discs",
+      "dates": "25-Jan to 29-Jan-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui Thailand, Thailand",
+      "place": 4,
+      "pdga_points": 3.0,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "56991",
+      "title": "Hyzenbrownie \"Destination Open\" 2022",
+      "dates": "29-Jan to 30-Jan-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surrathani, Thailand",
+      "place": 1,
+      "pdga_points": 6.0,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "55860",
+      "title": "Pattaya Disc Golf Open",
+      "dates": "26-Feb-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Pattaya, Thailand",
+      "place": 1,
+      "pdga_points": 9.0,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "55055",
+      "title": "Samui Swine Classic IX - MPO, MP40, MP50, MA1",
+      "dates": "05-Feb to 06-Feb-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 2,
+      "pdga_points": 6.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "55037",
+      "title": "Samui Swine Classic IX - MA3, MA2, FA1, MA40, MA50, MA60",
+      "dates": "03-Feb to 04-Feb-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 1,
+      "pdga_points": 9.0,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "56991",
+      "title": "Hyzenbrownie \"Destination Open\" 2022",
+      "dates": "29-Jan to 30-Jan-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surrathani, Thailand",
+      "place": 1,
+      "pdga_points": 6.0,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "55860",
+      "title": "Pattaya Disc Golf Open",
+      "dates": "26-Feb-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Pattaya, Thailand",
+      "place": 1,
+      "pdga_points": 9.0,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "55037",
+      "title": "Samui Swine Classic IX - MA3, MA2, FA1, MA40, MA50, MA60",
+      "dates": "03-Feb to 04-Feb-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 1,
+      "pdga_points": 9.0,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2023",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 2,
+      "pdga_points": 33.0,
+      "avg_finish": 4.5
+    },
+    {
+      "year": "2022",
+      "events": 4,
+      "wins": 3,
+      "podiums": 4,
+      "top10": 4,
+      "pdga_points": 30.0,
+      "avg_finish": 1.25
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2022-02-08",
+      "rating": 773,
+      "rounds": 6
+    },
+    {
+      "date": "2022-03-08",
+      "rating": 769,
+      "rounds": 10
+    },
+    {
+      "date": "2023-02-14",
+      "rating": 750,
+      "rounds": 13
+    }
+  ],
+  "streak": {
+    "direction": "up",
+    "recent_avg": 13.0,
+    "season_avg": 8.0,
+    "delta_pct": 62.5
+  },
+  "pdga_url": "https://www.pdga.com/player/131789"
+}

@@ -1,0 +1,86 @@
+{
+  "th": {
+    "key": "th",
+    "name": "Thailand",
+    "animal": "Asian elephant",
+    "file": "th.png",
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_39h80lzz60IwE2wBs9tjlb23QNM/hf_20260719_034535_5c4af453-93fd-416a-b7da-8776f4d3b93e.png"
+  },
+  "cn": {
+    "key": "cn",
+    "name": "China",
+    "animal": "a playful giant panda bear",
+    "file": "cn.png",
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_39h80lzz60IwE2wBs9tjlb23QNM/hf_20260719_034647_79bd34e5-fd00-4810-99fb-c8663d82a3f9.png"
+  },
+  "jp": {
+    "key": "jp",
+    "name": "Japan",
+    "animal": "a playful Japanese tanuki (raccoon dog)",
+    "file": "jp.png",
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_39h80lzz60IwE2wBs9tjlb23QNM/hf_20260719_034719_ff0a3d91-3291-4a4d-82bc-f13ad52ca7b0.png"
+  },
+  "kr": {
+    "key": "kr",
+    "name": "South Korea",
+    "animal": "a playful Korean tiger",
+    "file": "kr.png",
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_39h80lzz60IwE2wBs9tjlb23QNM/hf_20260719_034757_cd9d8652-e1ed-4e9f-a9c1-6e10bfdc9de7.png"
+  },
+  "ph": {
+    "key": "ph",
+    "name": "Philippines",
+    "animal": "a playful carabao (Philippine water buffalo)",
+    "file": "ph.png",
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_39h80lzz60IwE2wBs9tjlb23QNM/hf_20260719_034835_50127a98-91a9-4025-a9fb-ed2f72692c3b.png"
+  },
+  "sg": {
+    "key": "sg",
+    "name": "Singapore",
+    "animal": "a playful smooth-coated otter",
+    "file": "sg.png",
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_39h80lzz60IwE2wBs9tjlb23QNM/hf_20260719_034910_b76a4d94-b22e-4ff1-8fb0-85cf309abecf.png"
+  },
+  "my": {
+    "key": "my",
+    "name": "Malaysia",
+    "animal": "a playful Malayan tapir",
+    "file": "my.png",
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_39h80lzz60IwE2wBs9tjlb23QNM/hf_20260719_034948_7f5d0d14-1c0e-4679-b137-bfa31eae7f1b.png"
+  },
+  "tw": {
+    "key": "tw",
+    "name": "Chinese Taipei",
+    "animal": "a playful Formosan black bear",
+    "file": "tw.png",
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_39h80lzz60IwE2wBs9tjlb23QNM/hf_20260719_035044_b65506ff-726f-44f6-9d21-017600354e56.png"
+  },
+  "vn": {
+    "key": "vn",
+    "name": "Vietnam",
+    "animal": "a playful water buffalo",
+    "file": "vn.png",
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_39h80lzz60IwE2wBs9tjlb23QNM/hf_20260719_035119_4be90151-90a7-4d7d-9b17-b4a308ad67e0.png"
+  },
+  "kh": {
+    "key": "kh",
+    "name": "Cambodia",
+    "animal": "a playful peacock with bold graphic plumage",
+    "file": "kh.png",
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_39h80lzz60IwE2wBs9tjlb23QNM/hf_20260719_035154_49bd27ba-599e-42c6-808b-1a2c0292cb94.png"
+  },
+  "hk": {
+    "key": "hk",
+    "name": "Hong Kong",
+    "animal": "a playful Chinese white dolphin (pink dolphin)",
+    "file": "hk.png",
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_39h80lzz60IwE2wBs9tjlb23QNM/hf_20260719_035226_cebf5f9f-6318-46b9-b640-13d263cfb836.png"
+  },
+  "mn": {
+    "key": "mn",
+    "name": "Mongolia",
+    "animal": "a playful Mongolian horse",
+    "file": "mn.png",
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_39h80lzz60IwE2wBs9tjlb23QNM/hf_20260719_035322_9ae25980-ca4b-499b-b3bc-e63d5970bb0b.png"
+  }
+}

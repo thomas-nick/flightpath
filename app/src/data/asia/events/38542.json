@@ -1,0 +1,160 @@
+{
+  "event_id": "38542",
+  "title": "The 14th Kyoto Classic",
+  "location": "Funai gun, Kyoto, Japan",
+  "dates": "17-Nov to 18-Nov-2018",
+  "year": "2018",
+  "tier": "B",
+  "level": "b_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 10,
+  "avg_mpo_rating": 948.4,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "count": 10
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 80387,
+      "name": "Yutaro Sakai",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 1,
+      "pdga_points": 60.0,
+      "rating": 987,
+      "prize": "$90",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 6075,
+      "name": "Kazuo Shirai",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 2,
+      "pdga_points": 52.5,
+      "rating": 998,
+      "prize": "$45",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 102802,
+      "name": "Kouichi Fukuta",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 3,
+      "pdga_points": 45.0,
+      "rating": 989,
+      "prize": "$18",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 59529,
+      "name": "Daisuke Kuroda",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 4,
+      "pdga_points": 37.5,
+      "rating": 962,
+      "prize": "$9",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 44496,
+      "name": "Andy Painter",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 5,
+      "pdga_points": 30.0,
+      "rating": 944,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 113402,
+      "name": "Kansuke Sakai",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 6,
+      "pdga_points": 22.5,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 92763,
+      "name": "Takumi Kitamura",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 7,
+      "pdga_points": 15.0,
+      "rating": 915,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 60750,
+      "name": "Hiromichi Kawasaki",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 7,
+      "pdga_points": 15.0,
+      "rating": 844,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    }
+  ],
+  "fpo": [],
+  "amateur": [
+    {
+      "pdga": 8038,
+      "name": "Kazuji Takeuchi",
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 24.0,
+      "rating": 917,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 6683,
+      "name": "Hiroyoshi Hirai",
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 22.5,
+      "rating": 838,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    }
+  ],
+  "divisions": [
+    "MA40",
+    "MA50",
+    "MPO"
+  ]
+}

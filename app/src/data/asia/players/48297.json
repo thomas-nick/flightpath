@@ -1,0 +1,245 @@
+{
+  "pdga": 48297,
+  "name": "Andrew Biggs",
+  "country": "India",
+  "country_key": "IN",
+  "flag": "\ud83c\uddee\ud83c\uddf3",
+  "rating": 970,
+  "classification": "Pro",
+  "city": "",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 5.0,
+  "tour_weighted_points": 4.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top5": 0,
+  "top10": 1,
+  "top20": 1,
+  "avg_finish": 10.0,
+  "win_rate": 0.0,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 3413,
+  "weighted_rank": 2992,
+  "country_rank": 1211,
+  "am_events": 0,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 0,
+  "am_pdga_points": 0.0,
+  "last_active": "28-Mar-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 1,
+      "points": 5.0,
+      "weighted": 4.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 5.0,
+      "tour_weighted_points": 4.0,
+      "avg_finish": 10.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "all": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 5.0,
+      "tour_weighted_points": 4.0,
+      "avg_finish": 10.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MPO": 1
+  },
+  "results": [
+    {
+      "event_id": "99336",
+      "title": "Sloppy Seconds presented by Frozen Chosen & SJVDGC",
+      "dates": "28-Mar-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Mishawaka, Indiana, United States",
+      "place": 10,
+      "pdga_points": 5.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 5.0,
+      "avg_finish": 10.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2025-01-14",
+      "rating": 966,
+      "rounds": 90
+    },
+    {
+      "date": "2025-02-11",
+      "rating": 967,
+      "rounds": 92
+    },
+    {
+      "date": "2025-03-11",
+      "rating": 968,
+      "rounds": 87
+    },
+    {
+      "date": "2025-04-08",
+      "rating": 970,
+      "rounds": 88
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 973,
+      "rounds": 82
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 974,
+      "rounds": 82
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 976,
+      "rounds": 81
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 975,
+      "rounds": 78
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 971,
+      "rounds": 77
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 973,
+      "rounds": 71
+    },
+    {
+      "date": "2025-11-11",
+      "rating": 970,
+      "rounds": 71
+    },
+    {
+      "date": "2025-12-09",
+      "rating": 970,
+      "rounds": 71
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 969,
+      "rounds": 62
+    },
+    {
+      "date": "2026-06-09",
+      "rating": 958,
+      "rounds": 46
+    },
+    {
+      "date": "2026-07-14",
+      "rating": 958,
+      "rounds": 43
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/48297"
+}

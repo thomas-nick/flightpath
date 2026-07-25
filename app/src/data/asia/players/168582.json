@@ -1,0 +1,619 @@
+{
+  "pdga": 168582,
+  "name": "Masahiro Nakamura #168582",
+  "country": "Japan",
+  "country_key": "JP",
+  "flag": "\ud83c\uddef\ud83c\uddf5",
+  "rating": 894,
+  "classification": "Amateur",
+  "city": "Shizuoka-shi",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 1447.5,
+  "tour_weighted_points": 248.5,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 21,
+  "wins": 1,
+  "podiums": 2,
+  "top5": 7,
+  "top10": 12,
+  "top20": 19,
+  "avg_finish": 10.52,
+  "win_rate": 0.048,
+  "top10_rate": 0.571,
+  "cash_earned": 0.0,
+  "pdga_rank": 141,
+  "weighted_rank": 256,
+  "country_rank": 74,
+  "am_events": 19,
+  "am_wins": 1,
+  "am_podiums": 2,
+  "am_top10": 12,
+  "am_pdga_points": 1380.0,
+  "last_active": "19-Apr to 20-Apr-2025",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 21,
+      "points": 1447.5,
+      "weighted": 248.5,
+      "wins": 1
+    },
+    "c_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 1,
+      "pdga_points": 67.5,
+      "tour_weighted_points": 5.5,
+      "avg_finish": 26.5,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 19,
+      "wins": 1,
+      "podiums": 2,
+      "top5": 7,
+      "top10": 12,
+      "top20": 18,
+      "pdga_points": 1380.0,
+      "tour_weighted_points": 243.0,
+      "avg_finish": 8.84,
+      "win_rate": 0.053,
+      "top10_rate": 0.632
+    },
+    "all": {
+      "events": 21,
+      "wins": 1,
+      "podiums": 2,
+      "top5": 7,
+      "top10": 12,
+      "top20": 19,
+      "pdga_points": 1447.5,
+      "tour_weighted_points": 248.5,
+      "avg_finish": 10.52,
+      "win_rate": 0.048,
+      "top10_rate": 0.571
+    }
+  },
+  "division_counts": {
+    "MA1": 19,
+    "MPO": 2
+  },
+  "results": [
+    {
+      "event_id": "90538",
+      "title": "The 32nd Tokyo Open",
+      "dates": "19-Apr to 20-Apr-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Koto-ku, Tokyo, Japan",
+      "place": 10,
+      "pdga_points": 52.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "92377",
+      "title": "The 27th Nippon Open Presented by DISCRAFT",
+      "dates": "05-Jul to 06-Jul-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Yasu-shi, Shiga, Japan",
+      "place": 4,
+      "pdga_points": 127.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "86185",
+      "title": "The 38th Kyushu Open",
+      "dates": "30-Nov to 01-Dec-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Fukuoka-shi, Fukuoka, Japan",
+      "place": 14,
+      "pdga_points": 120.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "85798",
+      "title": "The 3rd Maiko Classic",
+      "dates": "26-Oct to 27-Oct-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Minamiuonuma-shi, Niigata, Japan",
+      "place": 9,
+      "pdga_points": 67.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "82950",
+      "title": "The 26th Nippon Open Presented by Prodigy Disc",
+      "dates": "20-Jul to 21-Jul-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Yasu-shi, Shiga, Japan",
+      "place": 13,
+      "pdga_points": 52.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "79081",
+      "title": "The 31st Tokyo Open sponsored by RPM Discs",
+      "dates": "20-Apr to 21-Apr-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Koto-ku, Tokyo, Japan",
+      "place": 11,
+      "pdga_points": 45.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "83205",
+      "title": "The 1st Uminaka Classic",
+      "dates": "17-Aug to 18-Aug-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Fukuoka-shi, Fukuoka, Japan",
+      "place": 3,
+      "pdga_points": 90.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 27.5
+    },
+    {
+      "event_id": "81085",
+      "title": "The 19th Kiyosatonomori Open",
+      "dates": "11-May to 12-May-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Hokuto-shi, Yamanashi, Japan",
+      "place": 4,
+      "pdga_points": 135.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "81355",
+      "title": "The 36th National Championships (AM)",
+      "dates": "05-May to 06-May-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Minamisouma-shi, Fukushima, Japan",
+      "place": 13,
+      "pdga_points": 60.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "78423",
+      "title": "2024 National Doubles Championships - Mixed",
+      "dates": "02-Mar to 03-Mar-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Hitachinaka, Ibaraki, Japan",
+      "place": 12,
+      "pdga_points": 45.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "66722",
+      "title": "The 18th Kiyosatonomori Open",
+      "dates": "20-May to 21-May-2023",
+      "year": "2023",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Kiyosato, Yamanashi, Japan",
+      "place": 13,
+      "pdga_points": 60.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "66068",
+      "title": "The 11th Okinawa Open",
+      "dates": "18-Feb to 19-Feb-2023",
+      "year": "2023",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Nakijin, Okinawa, Japan",
+      "place": 1,
+      "pdga_points": 52.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 50.0
+    },
+    {
+      "event_id": "71461",
+      "title": "The 22nd Chubu Open",
+      "dates": "16-Dec to 17-Dec-2023",
+      "year": "2023",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Mikawa, Aichi, Japan",
+      "place": 9,
+      "pdga_points": 45.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "70095",
+      "title": "The 2nd Disc Golf Japan Series",
+      "dates": "15-Jul to 17-Jul-2023",
+      "year": "2023",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Utsunomiya, Tochigi, Japan",
+      "place": 40,
+      "pdga_points": 52.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.5
+    },
+    {
+      "event_id": "66721",
+      "title": "The 30th Tokyo Open",
+      "dates": "15-Apr to 16-Apr-2023",
+      "year": "2023",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Tatsumi, Tokyo, Japan",
+      "place": 10,
+      "pdga_points": 97.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "71459",
+      "title": "The 2nd Maiko Classics",
+      "dates": "14-Oct to 15-Oct-2023",
+      "year": "2023",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Maiko, Niigata, Japan",
+      "place": 4,
+      "pdga_points": 142.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "70094",
+      "title": "The 25th Nippon Open",
+      "dates": "08-Jul to 09-Jul-2023",
+      "year": "2023",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Ryuo, Shiga, Japan",
+      "place": 5,
+      "pdga_points": 82.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "62984",
+      "title": "The 1st. Maiko Classic",
+      "dates": "22-Oct to 23-Oct-2022",
+      "year": "2022",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Minamiuonuma, Niigata, Japan",
+      "place": 4,
+      "pdga_points": 37.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "56393",
+      "title": "Mikawa Open",
+      "dates": "12-Feb to 13-Feb-2022",
+      "year": "2022",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Toyokawa City, Aichi, Japan",
+      "place": 13,
+      "pdga_points": 15.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "58410",
+      "title": "The 34th Japan National Championships",
+      "dates": "04-May to 05-May-2022",
+      "year": "2022",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Minamisoma City, Fukushima, Japan",
+      "place": 21,
+      "pdga_points": 7.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "54457",
+      "title": "2021 Amateur Japan National Tournament",
+      "dates": "23-Oct to 24-Oct-2021",
+      "year": "2021",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Nantan city, Kyoto, Japan",
+      "place": 8,
+      "pdga_points": 60.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 10.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "66068",
+      "title": "The 11th Okinawa Open",
+      "dates": "18-Feb to 19-Feb-2023",
+      "year": "2023",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Nakijin, Okinawa, Japan",
+      "place": 1,
+      "pdga_points": 52.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 50.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2025",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 2,
+      "pdga_points": 180.0,
+      "avg_finish": 7.0
+    },
+    {
+      "year": "2024",
+      "events": 8,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 3,
+      "pdga_points": 615.0,
+      "avg_finish": 9.88
+    },
+    {
+      "year": "2023",
+      "events": 7,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 5,
+      "pdga_points": 532.5,
+      "avg_finish": 11.71
+    },
+    {
+      "year": "2022",
+      "events": 3,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 60.0,
+      "avg_finish": 12.67
+    },
+    {
+      "year": "2021",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 60.0,
+      "avg_finish": 8.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2022-11-08",
+      "rating": 897,
+      "rounds": 12
+    },
+    {
+      "date": "2023-03-14",
+      "rating": 881,
+      "rounds": 9
+    },
+    {
+      "date": "2023-05-09",
+      "rating": 860,
+      "rounds": 12
+    },
+    {
+      "date": "2023-06-13",
+      "rating": 898,
+      "rounds": 10
+    },
+    {
+      "date": "2023-08-08",
+      "rating": 905,
+      "rounds": 17
+    },
+    {
+      "date": "2023-11-14",
+      "rating": 907,
+      "rounds": 20
+    },
+    {
+      "date": "2024-01-09",
+      "rating": 907,
+      "rounds": 18
+    },
+    {
+      "date": "2024-05-14",
+      "rating": 908,
+      "rounds": 16
+    },
+    {
+      "date": "2024-06-11",
+      "rating": 910,
+      "rounds": 22
+    },
+    {
+      "date": "2024-08-13",
+      "rating": 901,
+      "rounds": 15
+    },
+    {
+      "date": "2024-09-10",
+      "rating": 904,
+      "rounds": 18
+    },
+    {
+      "date": "2024-11-12",
+      "rating": 903,
+      "rounds": 18
+    },
+    {
+      "date": "2024-12-10",
+      "rating": 894,
+      "rounds": 20
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 896,
+      "rounds": 22
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 902,
+      "rounds": 17
+    }
+  ],
+  "streak": {
+    "direction": "up",
+    "recent_avg": 100.0,
+    "season_avg": 63.8,
+    "delta_pct": 56.9
+  },
+  "pdga_url": "https://www.pdga.com/player/168582"
+}

@@ -24,6 +24,7 @@ export default defineConfig(({ mode }) => {
 
   return {
     resolve: {
+      dedupe: ["react", "react-dom"],
       alias: [{ find: /^@higgsfield-ai\/icons(\/.*)?$/, replacement: QUANTA_ICONS_SHIM }],
     },
     // The server bundle runs as a Cloudflare Worker — there is no node_modules
@@ -32,7 +33,11 @@ export default defineConfig(({ mode }) => {
     // server but throw "No such module" in a Worker. Bundle them all in.
     // (node: builtins stay external — nodejs_compat provides them.)
     ssr: {
-      noExternal: true,
+      // Production Worker builds must bundle npm deps (no node_modules at runtime).
+      // Local `vite dev` must NOT — Node needs to load CJS packages like react
+      // natively. Forcing noExternal in dev causes:
+      //   ReferenceError: module is not defined
+      ...(mode === "production" ? { noExternal: true as const } : {}),
       // `cloudflare:workers` is a workerd runtime built-in that exposes the Worker
       // env / bindings (D1 `DB`, R2 `STORAGE`). Like node: builtins it must NOT be
       // bundled; the runtime provides it. (`ssr.external` is typed string[].)

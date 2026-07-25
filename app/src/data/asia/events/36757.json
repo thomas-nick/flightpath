@@ -1,0 +1,148 @@
+{
+  "event_id": "36757",
+  "title": "The 21st. Kansai Open",
+  "location": "Nantan, Kyoto, Japan",
+  "dates": "01-Sep to 02-Sep-2018",
+  "year": "2018",
+  "tier": "B",
+  "level": "b_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 9,
+  "avg_mpo_rating": 956.4,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "count": 9
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 102802,
+      "name": "Kouichi Fukuta",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 1,
+      "pdga_points": 67.5,
+      "rating": 980,
+      "prize": "$90",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 80387,
+      "name": "Yutaro Sakai",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 2,
+      "pdga_points": 60.0,
+      "rating": 987,
+      "prize": "$36",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 49121,
+      "name": "Dai Ooishi",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 3,
+      "pdga_points": 52.5,
+      "rating": 967,
+      "prize": "$18",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 6026,
+      "name": "Hayato Hikari",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 4,
+      "pdga_points": 45.0,
+      "rating": 955,
+      "prize": "$9",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8163,
+      "name": "Koji Takayama",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 6,
+      "pdga_points": 30.0,
+      "rating": 893,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    }
+  ],
+  "fpo": [],
+  "amateur": [
+    {
+      "pdga": 92763,
+      "name": "Takumi Kitamura",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 52.5,
+      "rating": 902,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8038,
+      "name": "Kazuji Takeuchi",
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 42.0,
+      "rating": 927,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8070,
+      "name": "Masakazu Kobayashi",
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "place": 4,
+      "pdga_points": 36.0,
+      "rating": 906,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 6683,
+      "name": "Hiroyoshi Hirai",
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "place": 6,
+      "pdga_points": 27.0,
+      "rating": 838,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    }
+  ],
+  "divisions": [
+    "MA1",
+    "MA40",
+    "MA50",
+    "MPO"
+  ]
+}

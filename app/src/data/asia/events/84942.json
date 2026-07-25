@@ -1,0 +1,160 @@
+{
+  "event_id": "84942",
+  "title": "Chains on Fire 2",
+  "location": "Chiang Mai, Thailand",
+  "dates": "07-Sep-2024",
+  "year": "2024",
+  "tier": "C",
+  "level": "c_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 10,
+  "avg_mpo_rating": 939.8,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "count": 7
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 196549,
+      "name": "Pete Laermanns",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 1,
+      "pdga_points": 20.0,
+      "rating": 966,
+      "prize": "$24",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 84867,
+      "name": "Tomi Lehtonen",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 2,
+      "pdga_points": 15.0,
+      "rating": 978,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 282484,
+      "name": "Patiparn Arjor",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 2,
+      "pdga_points": 15.0,
+      "rating": 916,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 64368,
+      "name": "David Rodriguez",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 4,
+      "pdga_points": 5.0,
+      "rating": 899,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    }
+  ],
+  "fpo": [],
+  "amateur": [
+    {
+      "pdga": 268939,
+      "name": "Mai Khwanprapa Poonpantulap",
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 12.0,
+      "rating": 748,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 271812,
+      "name": "Suvapriya Mook Pimkwang",
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 9.0,
+      "rating": 746,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 271811,
+      "name": "Kanchaya Dtaeng Mo Herman",
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "place": 3,
+      "pdga_points": 6.0,
+      "rating": 700,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 270444,
+      "name": "Saiphin Saengsala",
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "place": 4,
+      "pdga_points": 3.0,
+      "rating": 606,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 97295,
+      "name": "Aaron Herman",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 15.0,
+      "rating": 847,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 90556,
+      "name": "Monir Farhadi",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 3,
+      "pdga_points": 10.0,
+      "rating": 861,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "Australia",
+      "country_key": ""
+    }
+  ],
+  "divisions": [
+    "FA1",
+    "MA1",
+    "MPO"
+  ]
+}

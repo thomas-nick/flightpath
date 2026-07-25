@@ -1,0 +1,429 @@
+{
+  "pdga": 244317,
+  "name": "Christoffer Wir\u00e9n #244317",
+  "country": "Norway",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 896,
+  "classification": "Amateur",
+  "city": "Lillestr\u00f8m",
+  "nationality": "",
+  "division": "MA1",
+  "primary_class": "amateur",
+  "pdga_points": 564.0,
+  "tour_weighted_points": 255.6,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 9,
+  "wins": 2,
+  "podiums": 5,
+  "top5": 5,
+  "top10": 8,
+  "top20": 9,
+  "avg_finish": 4.78,
+  "win_rate": 0.222,
+  "top10_rate": 0.889,
+  "cash_earned": 0.0,
+  "pdga_rank": 422,
+  "weighted_rank": 248,
+  "country_rank": null,
+  "am_events": 9,
+  "am_wins": 2,
+  "am_podiums": 5,
+  "am_top10": 8,
+  "am_pdga_points": 564.0,
+  "last_active": "27-Jan to 29-Jan-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 1,
+      "points": 55.0,
+      "weighted": 150.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 1,
+      "points": 180.0,
+      "weighted": 20.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 165.0,
+      "weighted": 10.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 6,
+      "points": 164.0,
+      "weighted": 75.6,
+      "wins": 2
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 9,
+      "wins": 2,
+      "podiums": 5,
+      "top5": 5,
+      "top10": 8,
+      "top20": 9,
+      "pdga_points": 564.0,
+      "tour_weighted_points": 255.6,
+      "avg_finish": 4.78,
+      "win_rate": 0.222,
+      "top10_rate": 0.889
+    },
+    "all": {
+      "events": 9,
+      "wins": 2,
+      "podiums": 5,
+      "top5": 5,
+      "top10": 8,
+      "top20": 9,
+      "pdga_points": 564.0,
+      "tour_weighted_points": 255.6,
+      "avg_finish": 4.78,
+      "win_rate": 0.222,
+      "top10_rate": 0.889
+    }
+  },
+  "division_counts": {
+    "MA1": 8,
+    "MA2": 1
+  },
+  "results": [
+    {
+      "event_id": "95844",
+      "title": "Samui Swine Classic XIII - Ams Presented by Latitude64 - PDGA Asia Tour event #3",
+      "dates": "27-Jan to 29-Jan-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "Koh Samui, Thailand",
+      "place": 2,
+      "pdga_points": 55.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 150.0
+    },
+    {
+      "event_id": "84698",
+      "title": "Samui Swine Classic XII - MA1, MA2, MA3, MA40, MA50, MA60, FA1 Presented by Latitude 64",
+      "dates": "28-Jan to 30-Jan-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 12,
+      "pdga_points": 75.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "87260",
+      "title": "Samui Winter Warm Up II",
+      "dates": "19-Jan-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 1,
+      "pdga_points": 15.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "77064",
+      "title": "The Hyzenbrownie \"Yondernugget\" Open 2024 - Amateurs",
+      "dates": "24-Jan to 25-Jan-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 2,
+      "pdga_points": 5.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "77293",
+      "title": "Ace Run IV",
+      "dates": "20-Jan-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "koh phangan, Surat Thani, Thailand",
+      "place": 1,
+      "pdga_points": 30.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "74874",
+      "title": "Samui Winter Warm Up",
+      "dates": "13-Jan-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 2,
+      "pdga_points": 24.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "73691",
+      "title": "Samui Swine Classic XI - MPO, FPO, MP40, MP50, MA1, FA1",
+      "dates": "02-Feb to 04-Feb-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 8,
+      "pdga_points": 165.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "63795",
+      "title": "Hyzenbrownie Dreamweaver Open 2023 Powered By Innova Discs",
+      "dates": "25-Jan to 29-Jan-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui Thailand, Thailand",
+      "place": 6,
+      "pdga_points": 15.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "63567",
+      "title": "Samui Swine Classic X Presented by Prodigy Discs- MPO, FPO, MP40, MP50, MA1",
+      "dates": "03-Feb to 05-Feb-2023",
+      "year": "2023",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 9,
+      "pdga_points": 180.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "87260",
+      "title": "Samui Winter Warm Up II",
+      "dates": "19-Jan-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 1,
+      "pdga_points": 15.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "77293",
+      "title": "Ace Run IV",
+      "dates": "20-Jan-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "koh phangan, Surat Thani, Thailand",
+      "place": 1,
+      "pdga_points": 30.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 55.0,
+      "avg_finish": 2.0
+    },
+    {
+      "year": "2025",
+      "events": 2,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 90.0,
+      "avg_finish": 6.5
+    },
+    {
+      "year": "2024",
+      "events": 4,
+      "wins": 1,
+      "podiums": 3,
+      "top10": 4,
+      "pdga_points": 224.0,
+      "avg_finish": 3.25
+    },
+    {
+      "year": "2023",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 2,
+      "pdga_points": 195.0,
+      "avg_finish": 7.5
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2023-02-14",
+      "rating": 878,
+      "rounds": 7
+    },
+    {
+      "date": "2023-06-13",
+      "rating": 875,
+      "rounds": 9
+    },
+    {
+      "date": "2024-02-13",
+      "rating": 885,
+      "rounds": 16
+    },
+    {
+      "date": "2024-11-12",
+      "rating": 878,
+      "rounds": 13
+    },
+    {
+      "date": "2025-02-11",
+      "rating": 895,
+      "rounds": 10
+    },
+    {
+      "date": "2025-04-08",
+      "rating": 910,
+      "rounds": 10
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 903,
+      "rounds": 13
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 884,
+      "rounds": 17
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 883,
+      "rounds": 19
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 888,
+      "rounds": 21
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 891,
+      "rounds": 24
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 890,
+      "rounds": 27
+    },
+    {
+      "date": "2026-02-10",
+      "rating": 898,
+      "rounds": 26
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 896,
+      "rounds": 25
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 48.3,
+    "season_avg": 69.8,
+    "delta_pct": -30.8
+  },
+  "pdga_url": "https://www.pdga.com/player/244317"
+}

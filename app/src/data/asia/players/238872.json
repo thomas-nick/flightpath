@@ -1,0 +1,424 @@
+{
+  "pdga": 238872,
+  "name": "Mehdi Benchoula #238872",
+  "country": "Thailand",
+  "country_key": "TH",
+  "flag": "\ud83c\uddf9\ud83c\udded",
+  "rating": 883,
+  "classification": "Professional",
+  "city": "Pattaya",
+  "nationality": "France",
+  "division": "MA1",
+  "primary_class": "amateur",
+  "pdga_points": 407.0,
+  "tour_weighted_points": 78.2,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 10,
+  "wins": 1,
+  "podiums": 3,
+  "top5": 6,
+  "top10": 7,
+  "top20": 10,
+  "avg_finish": 7.9,
+  "win_rate": 0.1,
+  "top10_rate": 0.7,
+  "cash_earned": 0.0,
+  "pdga_rank": 526,
+  "weighted_rank": 722,
+  "country_rank": 27,
+  "am_events": 10,
+  "am_wins": 1,
+  "am_podiums": 3,
+  "am_top10": 7,
+  "am_pdga_points": 407.0,
+  "last_active": "15-Nov to 16-Nov-2025",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 1,
+      "points": 70.0,
+      "weighted": 8.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 9,
+      "points": 337.0,
+      "weighted": 70.2,
+      "wins": 1
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 10,
+      "wins": 1,
+      "podiums": 3,
+      "top5": 6,
+      "top10": 7,
+      "top20": 10,
+      "pdga_points": 407.0,
+      "tour_weighted_points": 78.2,
+      "avg_finish": 7.9,
+      "win_rate": 0.1,
+      "top10_rate": 0.7
+    },
+    "all": {
+      "events": 10,
+      "wins": 1,
+      "podiums": 3,
+      "top5": 6,
+      "top10": 7,
+      "top20": 10,
+      "pdga_points": 407.0,
+      "tour_weighted_points": 78.2,
+      "avg_finish": 7.9,
+      "win_rate": 0.1,
+      "top10_rate": 0.7
+    }
+  },
+  "division_counts": {
+    "MA1": 6,
+    "MA2": 4
+  },
+  "results": [
+    {
+      "event_id": "96619",
+      "title": "Bangkok Open 2025",
+      "dates": "22-Nov to 23-Nov-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Bangkok, Thailand",
+      "place": 18,
+      "pdga_points": 30.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "92013",
+      "title": "Coco-Splash!",
+      "dates": "19-Apr to 20-Apr-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Baan Lamung, Thailand",
+      "place": 1,
+      "pdga_points": 55.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "96436",
+      "title": "Trat Disc Golf Open 2025",
+      "dates": "15-Nov to 16-Nov-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Trat, Thailand",
+      "place": 7,
+      "pdga_points": 30.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "85901",
+      "title": "Banging Bangkok Chains @ Lakewood",
+      "dates": "23-Nov to 24-Nov-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Samut Prakarn, Thailand",
+      "place": 3,
+      "pdga_points": 44.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "85411",
+      "title": "Jungle Jam",
+      "dates": "13-Oct-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Chiang Mai, Thailand",
+      "place": 3,
+      "pdga_points": 45.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "74984",
+      "title": "Chiang Mai Open",
+      "dates": "09-Feb to 11-Feb-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Chiang Mai, Thailand",
+      "place": 13,
+      "pdga_points": 25.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "73650",
+      "title": "Festival of Flight I",
+      "dates": "18-Nov to 19-Nov-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Chiang Mai, Chiang Mai, Thailand",
+      "place": 5,
+      "pdga_points": 48.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "63765",
+      "title": "Chiang Mai Open",
+      "dates": "10-Feb to 12-Feb-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Chiang Mai, Thailand",
+      "place": 5,
+      "pdga_points": 52.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "63567",
+      "title": "Samui Swine Classic X Presented by Prodigy Discs- MPO, FPO, MP40, MP50, MA1",
+      "dates": "03-Feb to 05-Feb-2023",
+      "year": "2023",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 20,
+      "pdga_points": 70.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 8.0
+    },
+    {
+      "event_id": "63215",
+      "title": "Pattaya Disc Golf Open 2",
+      "dates": "03-Dec to 04-Dec-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Baan Lamung, Thailand",
+      "place": 4,
+      "pdga_points": 8.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "92013",
+      "title": "Coco-Splash!",
+      "dates": "19-Apr to 20-Apr-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Baan Lamung, Thailand",
+      "place": 1,
+      "pdga_points": 55.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2025",
+      "events": 3,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 2,
+      "pdga_points": 115.0,
+      "avg_finish": 8.67
+    },
+    {
+      "year": "2024",
+      "events": 3,
+      "wins": 0,
+      "podiums": 2,
+      "top10": 2,
+      "pdga_points": 114.0,
+      "avg_finish": 6.33
+    },
+    {
+      "year": "2023",
+      "events": 3,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 2,
+      "pdga_points": 170.0,
+      "avg_finish": 10.0
+    },
+    {
+      "year": "2022",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 8.0,
+      "avg_finish": 4.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2022-12-13",
+      "rating": 769,
+      "rounds": 3
+    },
+    {
+      "date": "2023-02-14",
+      "rating": 811,
+      "rounds": 9
+    },
+    {
+      "date": "2023-12-12",
+      "rating": 823,
+      "rounds": 11
+    },
+    {
+      "date": "2024-02-13",
+      "rating": 834,
+      "rounds": 10
+    },
+    {
+      "date": "2024-11-12",
+      "rating": 851,
+      "rounds": 10
+    },
+    {
+      "date": "2024-12-10",
+      "rating": 863,
+      "rounds": 9
+    },
+    {
+      "date": "2025-02-11",
+      "rating": 867,
+      "rounds": 12
+    },
+    {
+      "date": "2025-03-11",
+      "rating": 877,
+      "rounds": 13
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 890,
+      "rounds": 16
+    },
+    {
+      "date": "2025-11-11",
+      "rating": 884,
+      "rounds": 16
+    },
+    {
+      "date": "2025-12-09",
+      "rating": 881,
+      "rounds": 20
+    },
+    {
+      "date": "2026-02-10",
+      "rating": 883,
+      "rounds": 20
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 883,
+      "rounds": 20
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 38.3,
+    "season_avg": 41.7,
+    "delta_pct": -8.1
+  },
+  "pdga_url": "https://www.pdga.com/player/238872"
+}

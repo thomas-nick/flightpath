@@ -1,0 +1,86 @@
+{
+  "th": {
+    "key": "th",
+    "name": "Thailand",
+    "animal": "Asian elephant",
+    "file": "th.png",
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_39h80lzz60IwE2wBs9tjlb23QNM/hf_20260719_043418_8437b214-27a7-422d-87ef-742db618d01e.png"
+  },
+  "cn": {
+    "key": "cn",
+    "name": "China",
+    "animal": "a playful giant panda bear holding a disc golf disc with its paws",
+    "file": "cn.png",
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_39h80lzz60IwE2wBs9tjlb23QNM/hf_20260719_043456_ba63b7fa-3b1b-4c43-a79f-02def3537501.png"
+  },
+  "jp": {
+    "key": "jp",
+    "name": "Japan",
+    "animal": "a playful Japanese tanuki (raccoon dog) holding a disc golf disc with its paws",
+    "file": "jp.png",
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_39h80lzz60IwE2wBs9tjlb23QNM/hf_20260719_043525_f7e309e3-c690-455a-b169-0dc94a65bf21.png"
+  },
+  "kr": {
+    "key": "kr",
+    "name": "South Korea",
+    "animal": "a playful Korean tiger holding a disc golf disc with its paws",
+    "file": "kr.png",
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_39h80lzz60IwE2wBs9tjlb23QNM/hf_20260719_043557_639010f1-3590-41e4-abd8-d7887d922f0a.png"
+  },
+  "ph": {
+    "key": "ph",
+    "name": "Philippines",
+    "animal": "a playful carabao (Philippine water buffalo) holding a disc golf disc with a hoof",
+    "file": "ph.png",
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_39h80lzz60IwE2wBs9tjlb23QNM/hf_20260719_043627_1d7f8a81-fad8-4b4e-8668-6a9c8c004367.png"
+  },
+  "sg": {
+    "key": "sg",
+    "name": "Singapore",
+    "animal": "a playful smooth-coated otter holding a disc golf disc with its paws",
+    "file": "sg.png",
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_39h80lzz60IwE2wBs9tjlb23QNM/hf_20260719_043656_117b5f9e-e090-4465-b634-95672fe0502b.png"
+  },
+  "my": {
+    "key": "my",
+    "name": "Malaysia",
+    "animal": "a playful Malayan tapir holding a disc golf disc with its snout or hoof",
+    "file": "my.png",
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_39h80lzz60IwE2wBs9tjlb23QNM/hf_20260719_043740_a8f1bfc8-ca90-4025-bfa6-06346c92fdd5.png"
+  },
+  "tw": {
+    "key": "tw",
+    "name": "Chinese Taipei",
+    "animal": "a playful Formosan black bear holding a disc golf disc with its paws",
+    "file": "tw.png",
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_39h80lzz60IwE2wBs9tjlb23QNM/hf_20260719_043809_a1cf6db8-9565-4a5a-a345-2f16bb6f84fa.png"
+  },
+  "vn": {
+    "key": "vn",
+    "name": "Vietnam",
+    "animal": "a playful water buffalo holding a disc golf disc with a hoof",
+    "file": "vn.png",
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_39h80lzz60IwE2wBs9tjlb23QNM/hf_20260719_043838_fe3b7a6e-14db-4b2f-bd6c-710555f6a368.png"
+  },
+  "kh": {
+    "key": "kh",
+    "name": "Cambodia",
+    "animal": "a playful peacock with bold plumage holding a disc golf disc with a claw",
+    "file": "kh.png",
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_39h80lzz60IwE2wBs9tjlb23QNM/hf_20260719_043908_b8d0f17d-3793-461a-a6f8-0d349796fc50.png"
+  },
+  "hk": {
+    "key": "hk",
+    "name": "Hong Kong",
+    "animal": "a playful Chinese white dolphin (pink dolphin) holding a disc golf disc with a flipper",
+    "file": "hk.png",
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_39h80lzz60IwE2wBs9tjlb23QNM/hf_20260719_043937_e0fb2f06-595f-4ce3-b9de-f5ca5d59c824.png"
+  },
+  "mn": {
+    "key": "mn",
+    "name": "Mongolia",
+    "animal": "a playful Mongolian horse holding a disc golf disc with a hoof or mouth",
+    "file": "mn.png",
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_39h80lzz60IwE2wBs9tjlb23QNM/hf_20260719_044018_b3a41af9-9c87-4381-bfcc-6a96a960ed25.png"
+  }
+}

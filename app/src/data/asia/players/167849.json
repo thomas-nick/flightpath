@@ -1,0 +1,303 @@
+{
+  "pdga": 167849,
+  "name": "Danny McGovern",
+  "country": "India",
+  "country_key": "IN",
+  "flag": "\ud83c\uddee\ud83c\uddf3",
+  "rating": 885,
+  "classification": "Pro",
+  "city": "",
+  "nationality": "",
+  "division": "MA2",
+  "primary_class": "amateur",
+  "pdga_points": 133.5,
+  "tour_weighted_points": 39.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 4,
+  "wins": 0,
+  "podiums": 2,
+  "top5": 3,
+  "top10": 4,
+  "top20": 4,
+  "avg_finish": 4.25,
+  "win_rate": 0.0,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 1547,
+  "weighted_rank": 972,
+  "country_rank": 600,
+  "am_events": 4,
+  "am_wins": 0,
+  "am_podiums": 2,
+  "am_top10": 4,
+  "am_pdga_points": 133.5,
+  "last_active": "19-Feb-2023",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 37.5,
+      "weighted": 10.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 3,
+      "points": 96.0,
+      "weighted": 29.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 4,
+      "wins": 0,
+      "podiums": 2,
+      "top5": 3,
+      "top10": 4,
+      "top20": 4,
+      "pdga_points": 133.5,
+      "tour_weighted_points": 39.0,
+      "avg_finish": 4.25,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 4,
+      "wins": 0,
+      "podiums": 2,
+      "top5": 3,
+      "top10": 4,
+      "top20": 4,
+      "pdga_points": 133.5,
+      "tour_weighted_points": 39.0,
+      "avg_finish": 4.25,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA2": 2,
+    "MA1": 2
+  },
+  "results": [
+    {
+      "event_id": "69291",
+      "title": "BC3 Fall Classic",
+      "dates": "21-Oct-2023",
+      "year": "2023",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Nashville, Indiana, United States",
+      "place": 6,
+      "pdga_points": 37.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "66360",
+      "title": "WIFFS The Nashville Chill sponsored by Westside Discs (CEP Charity - Rated)",
+      "dates": "19-Feb-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Nashville, Indiana, United States",
+      "place": 3,
+      "pdga_points": 20.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "56568",
+      "title": "WIFFS #17 - The Nashville Chill sponsored by Westside Discs (CEP Charity - Rated)",
+      "dates": "19-Feb-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Nashville, Indiana, United States",
+      "place": 3,
+      "pdga_points": 56.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "62558",
+      "title": "2022 limestone open by BDGC",
+      "dates": "17-Sep-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Ellettsville , Indiana, United States",
+      "place": 5,
+      "pdga_points": 20.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2023",
+      "events": 2,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 2,
+      "pdga_points": 57.5,
+      "avg_finish": 4.5
+    },
+    {
+      "year": "2022",
+      "events": 2,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 2,
+      "pdga_points": 76.0,
+      "avg_finish": 4.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2024-08-13",
+      "rating": 934,
+      "rounds": 28
+    },
+    {
+      "date": "2024-09-10",
+      "rating": 937,
+      "rounds": 30
+    },
+    {
+      "date": "2024-11-12",
+      "rating": 943,
+      "rounds": 27
+    },
+    {
+      "date": "2024-12-10",
+      "rating": 943,
+      "rounds": 23
+    },
+    {
+      "date": "2025-03-11",
+      "rating": 946,
+      "rounds": 26
+    },
+    {
+      "date": "2025-04-08",
+      "rating": 946,
+      "rounds": 28
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 951,
+      "rounds": 22
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 950,
+      "rounds": 16
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 950,
+      "rounds": 16
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 952,
+      "rounds": 15
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 953,
+      "rounds": 17
+    },
+    {
+      "date": "2025-11-11",
+      "rating": 952,
+      "rounds": 17
+    },
+    {
+      "date": "2025-12-09",
+      "rating": 948,
+      "rounds": 18
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 948,
+      "rounds": 16
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 949,
+      "rounds": 15
+    }
+  ],
+  "streak": {
+    "direction": "up",
+    "recent_avg": 37.8,
+    "season_avg": 20.0,
+    "delta_pct": 89.2
+  },
+  "pdga_url": "https://www.pdga.com/player/167849"
+}

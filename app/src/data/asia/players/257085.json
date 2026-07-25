@@ -1,0 +1,319 @@
+{
+  "pdga": 257085,
+  "name": "Severi Mustap\u00e4\u00e4 #257085",
+  "country": "Finland",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 926,
+  "classification": "Amateur",
+  "city": "Oulu",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 130.0,
+  "tour_weighted_points": 68.5,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 5,
+  "wins": 3,
+  "podiums": 3,
+  "top5": 4,
+  "top10": 4,
+  "top20": 4,
+  "avg_finish": 7.2,
+  "win_rate": 0.6,
+  "top10_rate": 0.8,
+  "cash_earned": 0.0,
+  "pdga_rank": 1030,
+  "weighted_rank": 788,
+  "country_rank": null,
+  "am_events": 3,
+  "am_wins": 2,
+  "am_podiums": 2,
+  "am_top10": 2,
+  "am_pdga_points": 95.0,
+  "last_active": "02-Feb to 04-Feb-2024",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 0.0,
+      "weighted": 1.5,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 4,
+      "points": 130.0,
+      "weighted": 67.0,
+      "wins": 3
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 2,
+      "wins": 1,
+      "podiums": 1,
+      "top5": 2,
+      "top10": 2,
+      "top20": 2,
+      "pdga_points": 35.0,
+      "tour_weighted_points": 27.0,
+      "avg_finish": 3.0,
+      "win_rate": 0.5,
+      "top10_rate": 1.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 3,
+      "wins": 2,
+      "podiums": 2,
+      "top5": 2,
+      "top10": 2,
+      "top20": 2,
+      "pdga_points": 95.0,
+      "tour_weighted_points": 41.5,
+      "avg_finish": 10.0,
+      "win_rate": 0.667,
+      "top10_rate": 0.667
+    },
+    "all": {
+      "events": 5,
+      "wins": 3,
+      "podiums": 3,
+      "top5": 4,
+      "top10": 4,
+      "top20": 4,
+      "pdga_points": 130.0,
+      "tour_weighted_points": 68.5,
+      "avg_finish": 7.2,
+      "win_rate": 0.6,
+      "top10_rate": 0.8
+    }
+  },
+  "division_counts": {
+    "MA1": 3,
+    "MPO": 2
+  },
+  "results": [
+    {
+      "event_id": "77064",
+      "title": "The Hyzenbrownie \"Yondernugget\" Open 2024 - Amateurs",
+      "dates": "24-Jan to 25-Jan-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 1,
+      "pdga_points": 10.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "77293",
+      "title": "Ace Run IV",
+      "dates": "20-Jan-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "koh phangan, Surat Thani, Thailand",
+      "place": 1,
+      "pdga_points": 25.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "74874",
+      "title": "Samui Winter Warm Up",
+      "dates": "13-Jan-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 5,
+      "pdga_points": 10.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "74984",
+      "title": "Chiang Mai Open",
+      "dates": "09-Feb to 11-Feb-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Chiang Mai, Thailand",
+      "place": 1,
+      "pdga_points": 85.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "73691",
+      "title": "Samui Swine Classic XI - MPO, FPO, MP40, MP50, MA1, FA1",
+      "dates": "02-Feb to 04-Feb-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 28,
+      "pdga_points": 0.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 1.5
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "77064",
+      "title": "The Hyzenbrownie \"Yondernugget\" Open 2024 - Amateurs",
+      "dates": "24-Jan to 25-Jan-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 1,
+      "pdga_points": 10.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "77293",
+      "title": "Ace Run IV",
+      "dates": "20-Jan-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "koh phangan, Surat Thani, Thailand",
+      "place": 1,
+      "pdga_points": 25.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "74984",
+      "title": "Chiang Mai Open",
+      "dates": "09-Feb to 11-Feb-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Chiang Mai, Thailand",
+      "place": 1,
+      "pdga_points": 85.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2024",
+      "events": 5,
+      "wins": 3,
+      "podiums": 3,
+      "top10": 4,
+      "pdga_points": 130.0,
+      "avg_finish": 7.2
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2023-06-13",
+      "rating": 935,
+      "rounds": 2
+    },
+    {
+      "date": "2023-07-11",
+      "rating": 930,
+      "rounds": 7
+    },
+    {
+      "date": "2023-09-12",
+      "rating": 926,
+      "rounds": 9
+    },
+    {
+      "date": "2023-10-10",
+      "rating": 926,
+      "rounds": 9
+    },
+    {
+      "date": "2024-02-13",
+      "rating": 930,
+      "rounds": 22
+    },
+    {
+      "date": "2024-09-10",
+      "rating": 931,
+      "rounds": 15
+    },
+    {
+      "date": "2024-10-08",
+      "rating": 935,
+      "rounds": 17
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 15.0,
+    "season_avg": 42.5,
+    "delta_pct": -64.7
+  },
+  "pdga_url": "https://www.pdga.com/player/257085"
+}

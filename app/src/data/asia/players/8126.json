@@ -1,0 +1,343 @@
+{
+  "pdga": 8126,
+  "name": "Hiroaki Oohata #8126",
+  "country": "Japan",
+  "country_key": "JP",
+  "flag": "\ud83c\uddef\ud83c\uddf5",
+  "rating": 912,
+  "classification": "Professional",
+  "city": "Setagaya-ku",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 297.5,
+  "tour_weighted_points": 24.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 6,
+  "wins": 0,
+  "podiums": 0,
+  "top5": 0,
+  "top10": 1,
+  "top20": 6,
+  "avg_finish": 14.17,
+  "win_rate": 0.0,
+  "top10_rate": 0.167,
+  "cash_earned": 0.0,
+  "pdga_rank": 650,
+  "weighted_rank": 1261,
+  "country_rank": 186,
+  "am_events": 0,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 0,
+  "am_pdga_points": 0.0,
+  "last_active": "11-Jan to 12-Jan-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 5,
+      "points": 277.5,
+      "weighted": 20.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 1,
+      "points": 20.0,
+      "weighted": 4.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 6,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 1,
+      "top20": 6,
+      "pdga_points": 297.5,
+      "tour_weighted_points": 24.0,
+      "avg_finish": 14.17,
+      "win_rate": 0.0,
+      "top10_rate": 0.167
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "all": {
+      "events": 6,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 1,
+      "top20": 6,
+      "pdga_points": 297.5,
+      "tour_weighted_points": 24.0,
+      "avg_finish": 14.17,
+      "win_rate": 0.0,
+      "top10_rate": 0.167
+    }
+  },
+  "division_counts": {
+    "MPO": 6
+  },
+  "results": [
+    {
+      "event_id": "97441",
+      "title": "Japan National Team Championship 2026 2Day (Open)",
+      "dates": "11-Jan to 12-Jan-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Oyama-shi, Tochigi, Japan",
+      "place": 7,
+      "pdga_points": 20.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "67931",
+      "title": "The 6th Gifu Hirugano Open",
+      "dates": "27-May to 28-May-2023",
+      "year": "2023",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Hirugano Kogen, Gifu, Japan",
+      "place": 12,
+      "pdga_points": 22.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "63248",
+      "title": "The 36th Kyushu Open",
+      "dates": "26-Nov to 27-Nov-2022",
+      "year": "2022",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Fukuoka, Fukuoka, Japan",
+      "place": 14,
+      "pdga_points": 127.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "58648",
+      "title": "The 17th Kiyosatonomori Open",
+      "dates": "21-May to 22-May-2022",
+      "year": "2022",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Kiyosato, Yamanashi, Japan",
+      "place": 17,
+      "pdga_points": 30.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "63249",
+      "title": "The 21st Chubu Open",
+      "dates": "17-Dec to 18-Dec-2022",
+      "year": "2022",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Mikawa, Aichi, Japan",
+      "place": 17,
+      "pdga_points": 67.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "63247",
+      "title": "The 25th Kansai Open",
+      "dates": "12-Nov to 13-Nov-2022",
+      "year": "2022",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Hiyoshi, Kyoto, Japan",
+      "place": 18,
+      "pdga_points": 30.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 20.0,
+      "avg_finish": 7.0
+    },
+    {
+      "year": "2023",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 22.5,
+      "avg_finish": 12.0
+    },
+    {
+      "year": "2022",
+      "events": 4,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 255.0,
+      "avg_finish": 16.5
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2023-10-10",
+      "rating": 946,
+      "rounds": 26
+    },
+    {
+      "date": "2023-12-12",
+      "rating": 946,
+      "rounds": 25
+    },
+    {
+      "date": "2024-01-09",
+      "rating": 942,
+      "rounds": 26
+    },
+    {
+      "date": "2024-05-14",
+      "rating": 937,
+      "rounds": 23
+    },
+    {
+      "date": "2024-07-09",
+      "rating": 940,
+      "rounds": 20
+    },
+    {
+      "date": "2024-09-10",
+      "rating": 936,
+      "rounds": 20
+    },
+    {
+      "date": "2024-11-12",
+      "rating": 921,
+      "rounds": 16
+    },
+    {
+      "date": "2025-03-11",
+      "rating": 907,
+      "rounds": 3
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 913,
+      "rounds": 17
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 904,
+      "rounds": 17
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 893,
+      "rounds": 17
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 894,
+      "rounds": 17
+    },
+    {
+      "date": "2026-01-13",
+      "rating": 903,
+      "rounds": 16
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 904,
+      "rounds": 25
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 912,
+      "rounds": 21
+    }
+  ],
+  "streak": {
+    "direction": "up",
+    "recent_avg": 56.7,
+    "season_avg": 42.5,
+    "delta_pct": 33.3
+  },
+  "pdga_url": "https://www.pdga.com/player/8126"
+}

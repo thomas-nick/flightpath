@@ -1,0 +1,174 @@
+{
+  "event_id": "15588",
+  "title": "13th Aso Open",
+  "location": "Aso, Kumamoto, Japan",
+  "dates": "27-Jul to 28-Jul-2013",
+  "year": "2013",
+  "tier": "B",
+  "level": "b_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 11,
+  "avg_mpo_rating": 962.0,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "count": 11
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 8145,
+      "name": "Tetsuya T2 Kikuchi",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 1,
+      "pdga_points": 67.5,
+      "rating": 1018,
+      "prize": "$108",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8172,
+      "name": "Hideaki Matsuda",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 2,
+      "pdga_points": 60.0,
+      "rating": 1006,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8141,
+      "name": "Yoshiyasu Kajiyama",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 3,
+      "pdga_points": 52.5,
+      "rating": 961,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 6676,
+      "name": "Mamoru Yoshioka",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 4,
+      "pdga_points": 45.0,
+      "rating": 894,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 59525,
+      "name": "Yusuke Takahashi",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 5,
+      "pdga_points": 37.5,
+      "rating": 980,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8167,
+      "name": "Keiichi Mikasa",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 7,
+      "pdga_points": 22.5,
+      "rating": 913,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    }
+  ],
+  "fpo": [
+    {
+      "pdga": 8140,
+      "name": "Rika Takaki",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 1,
+      "pdga_points": 22.5,
+      "rating": 917,
+      "prize": "$60",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 59527,
+      "name": "Hiromi Kato",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 2,
+      "pdga_points": 18.0,
+      "rating": 884,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 4510,
+      "name": "Naoko Inami",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 3,
+      "pdga_points": 13.5,
+      "rating": 885,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    }
+  ],
+  "amateur": [
+    {
+      "pdga": 23540,
+      "name": "Jon Taylor",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 30.0,
+      "rating": 892,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 55016,
+      "name": "Hisashi Kato",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 4,
+      "pdga_points": 7.5,
+      "rating": 848,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    }
+  ],
+  "divisions": [
+    "FPO",
+    "MA1",
+    "MPO"
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "event_id": "78954",
+  "title": "6th Annual Malaysia National Disc Golf Championship",
+  "location": "Johor Bahru, Johor, Malaysia",
+  "dates": "03-Aug to 04-Aug-2024",
+  "year": "2024",
+  "tier": "C",
+  "level": "c_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 17,
+  "avg_mpo_rating": 862.5,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "count": 9
+    },
+    {
+      "flag": "\ud83c\uddf8\ud83c\uddec",
+      "country": "Singapore",
+      "count": 2
+    },
+    {
+      "flag": "\ud83c\uddf5\ud83c\udded",
+      "country": "Philippines",
+      "count": 1
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 190658,
+      "name": "Caspian Zumwalt",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 1,
+      "pdga_points": 105.0,
+      "rating": 932,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 276077,
+      "name": "Rik Dewit",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 2,
+      "pdga_points": 100.0,
+      "rating": 929,
+      "prize": "$56",
+      "flag": "\ud83c\udf10",
+      "country": "Belgium",
+      "country_key": ""
+    },
+    {
+      "pdga": 190655,
+      "name": "Koa Zumwalt",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 3,
+      "pdga_points": 95.0,
+      "rating": 952,
+      "prize": "$44",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 115447,
+      "name": "Eric Grover",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 4,
+      "pdga_points": 90.0,
+      "rating": 960,
+      "prize": "$33",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    },
+    {
+      "pdga": 116486,
+      "name": "Sean Raj",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 5,
+      "pdga_points": 85.0,
+      "rating": 923,
+      "prize": "$11",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    },
+    {
+      "pdga": 263885,
+      "name": "Wesley de Ridder",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 6,
+      "pdga_points": 80.0,
+      "rating": 864,
+      "prize": "",
+      "flag": "\ud83c\uddf8\ud83c\uddec",
+      "country": "Singapore",
+      "country_key": "SG"
+    },
+    {
+      "pdga": 277447,
+      "name": "Zhe Yi Tai",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 7,
+      "pdga_points": 75.0,
+      "rating": 731,
+      "prize": "",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    },
+    {
+      "pdga": 277751,
+      "name": "Ben Clark",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 8,
+      "pdga_points": 70.0,
+      "rating": 818,
+      "prize": "",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    },
+    {
+      "pdga": 240163,
+      "name": "Anthony Wong Siewhong",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 11,
+      "pdga_points": 55.0,
+      "rating": 727,
+      "prize": "",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    },
+    {
+      "pdga": 284729,
+      "name": "Bernard Tai",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 12,
+      "pdga_points": 50.0,
+      "rating": 692,
+      "prize": "",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    },
+    {
+      "pdga": 8419,
+      "name": "Gilles Ban",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 14,
+      "pdga_points": 0.0,
+      "rating": 859,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "France",
+      "country_key": ""
+    },
+    {
+      "pdga": 143646,
+      "name": "Clarence Jeffery III",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 14,
+      "pdga_points": 0.0,
+      "rating": 914,
+      "prize": "",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    },
+    {
+      "pdga": 76088,
+      "name": "Tom Walker",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 14,
+      "pdga_points": 0.0,
+      "rating": 912,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    }
+  ],
+  "fpo": [
+    {
+      "pdga": 118261,
+      "name": "Jenna Jiaxin Tan",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 1,
+      "pdga_points": 18.0,
+      "rating": 891,
+      "prize": "$67",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    },
+    {
+      "pdga": 190653,
+      "name": "Kathy Zumwalt",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 2,
+      "pdga_points": 15.0,
+      "rating": 841,
+      "prize": "",
+      "flag": "\ud83c\uddf8\ud83c\uddec",
+      "country": "Singapore",
+      "country_key": "SG"
+    },
+    {
+      "pdga": 130936,
+      "name": "Rosalie Pili",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 3,
+      "pdga_points": 12.0,
+      "rating": 815,
+      "prize": "$11",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    },
+    {
+      "pdga": 150296,
+      "name": "Joanna Mae Guzman",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 4,
+      "pdga_points": 9.0,
+      "rating": 712,
+      "prize": "",
+      "flag": "\ud83c\uddf5\ud83c\udded",
+      "country": "Philippines",
+      "country_key": "PH"
+    }
+  ],
+  "amateur": [],
+  "divisions": [
+    "FPO",
+    "MPO"
+  ]
+}

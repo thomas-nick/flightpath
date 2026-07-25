@@ -1,0 +1,287 @@
+{
+  "pdga": 147237,
+  "name": "Hayden Nowakowski",
+  "country": "India",
+  "country_key": "IN",
+  "flag": "\ud83c\uddee\ud83c\uddf3",
+  "rating": 833,
+  "classification": "Pro",
+  "city": "",
+  "nationality": "",
+  "division": "MA3",
+  "primary_class": "amateur",
+  "pdga_points": 71.0,
+  "tour_weighted_points": 29.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 3,
+  "wins": 0,
+  "podiums": 2,
+  "top5": 3,
+  "top10": 3,
+  "top20": 3,
+  "avg_finish": 3.33,
+  "win_rate": 0.0,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 2022,
+  "weighted_rank": 1177,
+  "country_rank": 730,
+  "am_events": 3,
+  "am_wins": 0,
+  "am_podiums": 2,
+  "am_top10": 3,
+  "am_pdga_points": 71.0,
+  "last_active": "12-Mar-2022",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 3,
+      "points": 71.0,
+      "weighted": 29.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 3,
+      "wins": 0,
+      "podiums": 2,
+      "top5": 3,
+      "top10": 3,
+      "top20": 3,
+      "pdga_points": 71.0,
+      "tour_weighted_points": 29.0,
+      "avg_finish": 3.33,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 3,
+      "wins": 0,
+      "podiums": 2,
+      "top5": 3,
+      "top10": 3,
+      "top20": 3,
+      "pdga_points": 71.0,
+      "tour_weighted_points": 29.0,
+      "avg_finish": 3.33,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA3": 2,
+    "MA2": 1
+  },
+  "results": [
+    {
+      "event_id": "59744",
+      "title": "King of the Hill",
+      "dates": "30-Apr-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Danville, Indiana, United States",
+      "place": 3,
+      "pdga_points": 8.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "57111",
+      "title": "WIFFS #25 - Broadside of the Hill (CEP Charity - Rated)",
+      "dates": "12-Mar-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Danville, Indiana, United States",
+      "place": 4,
+      "pdga_points": 30.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "54102",
+      "title": "Yeet For Gold Fundraiser",
+      "dates": "25-Sep-2021",
+      "year": "2021",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Danville, Indiana, United States",
+      "place": 3,
+      "pdga_points": 33.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2022",
+      "events": 2,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 2,
+      "pdga_points": 38.0,
+      "avg_finish": 3.5
+    },
+    {
+      "year": "2021",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 33.0,
+      "avg_finish": 3.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2023-11-14",
+      "rating": 912,
+      "rounds": 23
+    },
+    {
+      "date": "2024-05-14",
+      "rating": 911,
+      "rounds": 20
+    },
+    {
+      "date": "2024-06-11",
+      "rating": 914,
+      "rounds": 21
+    },
+    {
+      "date": "2024-07-09",
+      "rating": 938,
+      "rounds": 20
+    },
+    {
+      "date": "2024-08-13",
+      "rating": 930,
+      "rounds": 24
+    },
+    {
+      "date": "2024-10-08",
+      "rating": 933,
+      "rounds": 22
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 935,
+      "rounds": 20
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 936,
+      "rounds": 21
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 939,
+      "rounds": 25
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 936,
+      "rounds": 22
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 958,
+      "rounds": 17
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 957,
+      "rounds": 21
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 957,
+      "rounds": 19
+    },
+    {
+      "date": "2026-06-09",
+      "rating": 956,
+      "rounds": 19
+    },
+    {
+      "date": "2026-07-14",
+      "rating": 958,
+      "rounds": 18
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/147237"
+}

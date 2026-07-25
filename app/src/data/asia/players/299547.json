@@ -1,0 +1,253 @@
+{
+  "pdga": 299547,
+  "name": "Seungwook Jeon #299547",
+  "country": "South Korea",
+  "country_key": "KR",
+  "flag": "\ud83c\uddf0\ud83c\uddf7",
+  "rating": 894,
+  "classification": "Professional",
+  "city": "Seoul",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 157.5,
+  "tour_weighted_points": 8.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 5,
+  "wins": 0,
+  "podiums": 0,
+  "top5": 0,
+  "top10": 0,
+  "top20": 5,
+  "avg_finish": 14.8,
+  "win_rate": 0.0,
+  "top10_rate": 0.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 934,
+  "weighted_rank": 1716,
+  "country_rank": 51,
+  "am_events": 0,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 0,
+  "am_pdga_points": 0.0,
+  "last_active": "14-Mar to 15-Mar-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 5,
+      "points": 157.5,
+      "weighted": 8.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 5,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 5,
+      "pdga_points": 157.5,
+      "tour_weighted_points": 8.0,
+      "avg_finish": 14.8,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "all": {
+      "events": 5,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 5,
+      "pdga_points": 157.5,
+      "tour_weighted_points": 8.0,
+      "avg_finish": 14.8,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    }
+  },
+  "division_counts": {
+    "MPO": 5
+  },
+  "results": [
+    {
+      "event_id": "99088",
+      "title": "Pump it up #1",
+      "dates": "25-Jan-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Yeongdong-gun, Chungcheongbuk-do, South Korea",
+      "place": 13,
+      "pdga_points": 5.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "100120",
+      "title": "3rd YeongDong OPEN",
+      "dates": "14-Mar to 15-Mar-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "yeongdong gun, Chungcheongbuk-do, South Korea",
+      "place": 16,
+      "pdga_points": 22.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "101295",
+      "title": "14th DAEGU OPEN",
+      "dates": "12-Apr-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "DAEGU, Daegu, South Korea",
+      "place": 15,
+      "pdga_points": 15.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "96085",
+      "title": "1st Yangju Art Valley International Open - MPO, FPO",
+      "dates": "25-Oct-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Yangju, Gyeonggi-do, South Korea",
+      "place": 19,
+      "pdga_points": 80.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "88635",
+      "title": "2nd Go for it Republic of Korea",
+      "dates": "23-Mar-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Yeongdong, Chungcheongbuk-do, South Korea",
+      "place": 11,
+      "pdga_points": 35.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.6
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 3,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 42.5,
+      "avg_finish": 14.67
+    },
+    {
+      "year": "2025",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 115.0,
+      "avg_finish": 15.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2025-04-08",
+      "rating": 905,
+      "rounds": 2
+    },
+    {
+      "date": "2025-11-11",
+      "rating": 911,
+      "rounds": 4
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 14.2,
+    "season_avg": 57.5,
+    "delta_pct": -75.4
+  },
+  "pdga_url": "https://www.pdga.com/player/299547"
+}

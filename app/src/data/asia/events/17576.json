@@ -1,0 +1,175 @@
+{
+  "event_id": "17576",
+  "title": "14th Chubu Open",
+  "location": "Mikawa, Aichi, Japan",
+  "dates": "13-Dec to 14-Dec-2014",
+  "year": "2014",
+  "tier": "B",
+  "level": "b_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 11,
+  "avg_mpo_rating": 969.3,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "count": 11
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 8060,
+      "name": "Yasushi Jitsuhiro",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 1,
+      "pdga_points": 75.0,
+      "rating": 1001,
+      "prize": "$144",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 6075,
+      "name": "Kazuo Shirai",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 2,
+      "pdga_points": 67.5,
+      "rating": 985,
+      "prize": "$60",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8207,
+      "name": "Dai Takakura",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 3,
+      "pdga_points": 60.0,
+      "rating": 975,
+      "prize": "$36",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 6671,
+      "name": "Atsuhito Kawasaki",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 4,
+      "pdga_points": 52.5,
+      "rating": 981,
+      "prize": "$18",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 59529,
+      "name": "Daisuke Kuroda",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 5,
+      "pdga_points": 45.0,
+      "rating": 942,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 54327,
+      "name": "Noriaki Tanji",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 6,
+      "pdga_points": 37.5,
+      "rating": 932,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8086,
+      "name": "Junnichi Sugibuchi",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 8,
+      "pdga_points": 22.5,
+      "rating": 969,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    }
+  ],
+  "fpo": [
+    {
+      "pdga": 8200,
+      "name": "Yuki Fukuhara",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 1,
+      "pdga_points": 9.0,
+      "rating": 931,
+      "prize": "$48",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 59527,
+      "name": "Hiromi Kato",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 2,
+      "pdga_points": 4.5,
+      "rating": 903,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    }
+  ],
+  "amateur": [
+    {
+      "pdga": 6692,
+      "name": "Mitsuko Tsuchida",
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 13.5,
+      "rating": 819,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 6025,
+      "name": "Yatuka Harashina",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 97.5,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    }
+  ],
+  "divisions": [
+    "FA1",
+    "FPO",
+    "MA1",
+    "MPO"
+  ]
+}

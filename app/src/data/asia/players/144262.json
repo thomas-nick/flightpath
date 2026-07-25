@@ -1,0 +1,232 @@
+{
+  "pdga": 144262,
+  "name": "Michael Wood #144262",
+  "country": "United States",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 871,
+  "classification": "Amateur",
+  "city": "Perry",
+  "nationality": "",
+  "division": "MA1",
+  "primary_class": "amateur",
+  "pdga_points": 55.0,
+  "tour_weighted_points": 200.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 1,
+  "wins": 1,
+  "podiums": 1,
+  "top5": 1,
+  "top10": 1,
+  "top20": 1,
+  "avg_finish": 1.0,
+  "win_rate": 1.0,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 1449,
+  "weighted_rank": 334,
+  "country_rank": null,
+  "am_events": 1,
+  "am_wins": 1,
+  "am_podiums": 1,
+  "am_top10": 1,
+  "am_pdga_points": 55.0,
+  "last_active": "27-Feb to 01-Mar-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 1,
+      "points": 55.0,
+      "weighted": 200.0,
+      "wins": 1
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 1,
+      "wins": 1,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 55.0,
+      "tour_weighted_points": 200.0,
+      "avg_finish": 1.0,
+      "win_rate": 1.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 1,
+      "wins": 1,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 55.0,
+      "tour_weighted_points": 200.0,
+      "avg_finish": 1.0,
+      "win_rate": 1.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA1": 1
+  },
+  "results": [
+    {
+      "event_id": "97272",
+      "title": "Lipad Pilipinas IV - PDGA Asia Tour #5 presented by Province of Tarlac",
+      "dates": "27-Feb to 01-Mar-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "San Jose, Tarlac, Philippines",
+      "place": 1,
+      "pdga_points": 55.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 200.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "97272",
+      "title": "Lipad Pilipinas IV - PDGA Asia Tour #5 presented by Province of Tarlac",
+      "dates": "27-Feb to 01-Mar-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "San Jose, Tarlac, Philippines",
+      "place": 1,
+      "pdga_points": 55.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 200.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 1,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 55.0,
+      "avg_finish": 1.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2020-11-10",
+      "rating": 910,
+      "rounds": 6
+    },
+    {
+      "date": "2021-01-12",
+      "rating": 910,
+      "rounds": 6
+    },
+    {
+      "date": "2023-02-14",
+      "rating": 904,
+      "rounds": 1
+    },
+    {
+      "date": "2023-03-14",
+      "rating": 890,
+      "rounds": 2
+    },
+    {
+      "date": "2023-05-09",
+      "rating": 881,
+      "rounds": 4
+    },
+    {
+      "date": "2023-08-08",
+      "rating": 893,
+      "rounds": 5
+    },
+    {
+      "date": "2023-11-14",
+      "rating": 895,
+      "rounds": 6
+    },
+    {
+      "date": "2024-06-11",
+      "rating": 895,
+      "rounds": 6
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 871,
+      "rounds": 4
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/144262"
+}

@@ -1,0 +1,125 @@
+{
+  "event_id": "17589",
+  "title": "Kansai Open",
+  "location": "Fuminnomori, Kyoto, Japan",
+  "dates": "15-Nov to 16-Nov-2014",
+  "year": "2014",
+  "tier": "B",
+  "level": "b_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 7,
+  "avg_mpo_rating": 954.0,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "count": 4
+    },
+    {
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "count": 2
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 8139,
+      "name": "Manabu Kajiyama",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 1,
+      "pdga_points": 30.0,
+      "rating": 1009,
+      "prize": "$240",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 59529,
+      "name": "Daisuke Kuroda",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 2,
+      "pdga_points": 22.5,
+      "rating": 945,
+      "prize": "$120",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 56592,
+      "name": "Hyundo Jang",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 3,
+      "pdga_points": 15.0,
+      "rating": 918,
+      "prize": "$60",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "country_key": "KR"
+    },
+    {
+      "pdga": 8206,
+      "name": "Takero Takakura",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 4,
+      "pdga_points": 7.5,
+      "rating": 944,
+      "prize": "$36",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    }
+  ],
+  "fpo": [
+    {
+      "pdga": 59527,
+      "name": "Hiromi Kato",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 1,
+      "pdga_points": 13.5,
+      "rating": 895,
+      "prize": "$120",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 56593,
+      "name": "Jiwon Kim",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 2,
+      "pdga_points": 9.0,
+      "rating": 861,
+      "prize": "$60",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "country_key": "KR"
+    },
+    {
+      "pdga": 61501,
+      "name": "Shoko Steslicke",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 3,
+      "pdga_points": 4.5,
+      "rating": 797,
+      "prize": "$36",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    }
+  ],
+  "amateur": [],
+  "divisions": [
+    "FPO",
+    "MPO"
+  ]
+}

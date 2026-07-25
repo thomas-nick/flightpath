@@ -1,0 +1,418 @@
+{
+  "pdga": 51201,
+  "name": "Shane Jeffreys #51201",
+  "country": "United States",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 936,
+  "classification": "Professional",
+  "city": "Saint Ignace",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 705.0,
+  "tour_weighted_points": 132.5,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 8,
+  "wins": 2,
+  "podiums": 3,
+  "top5": 4,
+  "top10": 8,
+  "top20": 8,
+  "avg_finish": 5.25,
+  "win_rate": 0.25,
+  "top10_rate": 1.0,
+  "cash_earned": 166.0,
+  "pdga_rank": 362,
+  "weighted_rank": 499,
+  "country_rank": null,
+  "am_events": 4,
+  "am_wins": 2,
+  "am_podiums": 3,
+  "am_top10": 4,
+  "am_pdga_points": 325.0,
+  "last_active": "31-Jan to 02-Feb-2020",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 2,
+      "points": 330.0,
+      "weighted": 40.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 105.0,
+      "weighted": 37.5,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 5,
+      "points": 270.0,
+      "weighted": 55.0,
+      "wins": 2
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 4,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 1,
+      "top10": 4,
+      "top20": 4,
+      "pdga_points": 380.0,
+      "tour_weighted_points": 51.0,
+      "avg_finish": 7.75,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 4,
+      "wins": 2,
+      "podiums": 3,
+      "top5": 3,
+      "top10": 4,
+      "top20": 4,
+      "pdga_points": 325.0,
+      "tour_weighted_points": 81.5,
+      "avg_finish": 2.75,
+      "win_rate": 0.5,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 8,
+      "wins": 2,
+      "podiums": 3,
+      "top5": 4,
+      "top10": 8,
+      "top20": 8,
+      "pdga_points": 705.0,
+      "tour_weighted_points": 132.5,
+      "avg_finish": 5.25,
+      "win_rate": 0.25,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MPO": 4,
+    "MA1": 4
+  },
+  "results": [
+    {
+      "event_id": "43200",
+      "title": "Samui Swine Classic VII - Pros - Presented by Innova",
+      "dates": "31-Jan to 02-Feb-2020",
+      "year": "2020",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 9,
+      "pdga_points": 220.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$166",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "38592",
+      "title": "Samui Swine Classic VI - Presented by Dynamic Discs - Pros",
+      "dates": "08-Feb to 10-Feb-2019",
+      "year": "2019",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 9,
+      "pdga_points": 110.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "30447",
+      "title": "Hyzenbrownie Open 2017 - \"The Legend of Laem Sor\"",
+      "dates": "21-Jan to 22-Jan-2017",
+      "year": "2017",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 8,
+      "pdga_points": 30.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "30925",
+      "title": "Samui Origins",
+      "dates": "07-Feb-2017",
+      "year": "2017",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Bophut, Koh Samui, Surat Thani, Thailand",
+      "place": 5,
+      "pdga_points": 20.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "30246",
+      "title": "Samui Swine Classic IV",
+      "dates": "04-Feb to 05-Feb-2017",
+      "year": "2017",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Maenam, Koh Samui, Surat Thani, Thailand",
+      "place": 2,
+      "pdga_points": 105.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 37.5
+    },
+    {
+      "event_id": "30551",
+      "title": "Koh Som Invitational 2",
+      "dates": "01-Feb-2017",
+      "year": "2017",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Som, Koh Samui, Surat Thani, Thailand",
+      "place": 7,
+      "pdga_points": 50.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "22285",
+      "title": "Samui Swine Classic III",
+      "dates": "06-Feb to 07-Feb-2016",
+      "year": "2016",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Mae Nam, Koh Samui, Thailand",
+      "place": 1,
+      "pdga_points": 95.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "24324",
+      "title": "Koh Som Invitational",
+      "dates": "04-Feb-2016",
+      "year": "2016",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 1,
+      "pdga_points": 75.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "22285",
+      "title": "Samui Swine Classic III",
+      "dates": "06-Feb to 07-Feb-2016",
+      "year": "2016",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Mae Nam, Koh Samui, Thailand",
+      "place": 1,
+      "pdga_points": 95.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "24324",
+      "title": "Koh Som Invitational",
+      "dates": "04-Feb-2016",
+      "year": "2016",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 1,
+      "pdga_points": 75.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2020",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 220.0,
+      "avg_finish": 9.0
+    },
+    {
+      "year": "2019",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 110.0,
+      "avg_finish": 9.0
+    },
+    {
+      "year": "2017",
+      "events": 4,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 4,
+      "pdga_points": 205.0,
+      "avg_finish": 5.5
+    },
+    {
+      "year": "2016",
+      "events": 2,
+      "wins": 2,
+      "podiums": 2,
+      "top10": 2,
+      "pdga_points": 170.0,
+      "avg_finish": 1.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2016-03-22",
+      "rating": 907,
+      "rounds": 8
+    },
+    {
+      "date": "2016-04-19",
+      "rating": 915,
+      "rounds": 10
+    },
+    {
+      "date": "2017-03-28",
+      "rating": 944,
+      "rounds": 10
+    },
+    {
+      "date": "2017-04-26",
+      "rating": 945,
+      "rounds": 8
+    },
+    {
+      "date": "2017-05-23",
+      "rating": 946,
+      "rounds": 10
+    },
+    {
+      "date": "2019-02-26",
+      "rating": 948,
+      "rounds": 5
+    },
+    {
+      "date": "2019-05-14",
+      "rating": 936,
+      "rounds": 6
+    },
+    {
+      "date": "2020-02-11",
+      "rating": 953,
+      "rounds": 6
+    },
+    {
+      "date": "2021-04-13",
+      "rating": 929,
+      "rounds": 6
+    },
+    {
+      "date": "2022-08-09",
+      "rating": 894,
+      "rounds": 4
+    },
+    {
+      "date": "2023-12-12",
+      "rating": 888,
+      "rounds": 2
+    },
+    {
+      "date": "2024-03-12",
+      "rating": 894,
+      "rounds": 4
+    },
+    {
+      "date": "2025-03-11",
+      "rating": 903,
+      "rounds": 4
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 903,
+      "rounds": 8
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 912,
+      "rounds": 9
+    }
+  ],
+  "streak": {
+    "direction": "up",
+    "recent_avg": 120.0,
+    "season_avg": 69.0,
+    "delta_pct": 73.9
+  },
+  "pdga_url": "https://www.pdga.com/player/51201"
+}

@@ -1,0 +1,252 @@
+{
+  "pdga": 40071,
+  "name": "Seiichi Yoshida #40071",
+  "country": "Japan",
+  "country_key": "JP",
+  "flag": "\ud83c\uddef\ud83c\uddf5",
+  "rating": null,
+  "classification": "Amateur",
+  "city": "Kobe-Shi",
+  "nationality": "",
+  "division": "MA1",
+  "primary_class": "amateur",
+  "pdga_points": 166.5,
+  "tour_weighted_points": 61.5,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 5,
+  "wins": 0,
+  "podiums": 1,
+  "top5": 1,
+  "top10": 4,
+  "top20": 5,
+  "avg_finish": 7.4,
+  "win_rate": 0.0,
+  "top10_rate": 0.8,
+  "cash_earned": 0.0,
+  "pdga_rank": 903,
+  "weighted_rank": 833,
+  "country_rank": 219,
+  "am_events": 5,
+  "am_wins": 0,
+  "am_podiums": 1,
+  "am_top10": 4,
+  "am_pdga_points": 166.5,
+  "last_active": "15-Jul to 16-Jul-2012",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 5,
+      "points": 166.5,
+      "weighted": 61.5,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 5,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 4,
+      "top20": 5,
+      "pdga_points": 166.5,
+      "tour_weighted_points": 61.5,
+      "avg_finish": 7.4,
+      "win_rate": 0.0,
+      "top10_rate": 0.8
+    },
+    "all": {
+      "events": 5,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 4,
+      "top20": 5,
+      "pdga_points": 166.5,
+      "tour_weighted_points": 61.5,
+      "avg_finish": 7.4,
+      "win_rate": 0.0,
+      "top10_rate": 0.8
+    }
+  },
+  "division_counts": {
+    "MA1": 4,
+    "MA2": 1
+  },
+  "results": [
+    {
+      "event_id": "14250",
+      "title": "the 8th Kyoto Classic",
+      "dates": "15-Jul to 16-Jul-2012",
+      "year": "2012",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Fuminnomori, Kyoto, Japan",
+      "place": 3,
+      "pdga_points": 24.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 27.5
+    },
+    {
+      "event_id": "11158",
+      "title": "15th Kansai Open",
+      "dates": "22-Jan to 23-Jan-2011",
+      "year": "2011",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Kakogawa, Hyogo, Japan",
+      "place": 7,
+      "pdga_points": 52.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "11819",
+      "title": "17th Kansai Open",
+      "dates": "06-Aug to 07-Aug-2011",
+      "year": "2011",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Tamba, Hyogo, Japan",
+      "place": 7,
+      "pdga_points": 67.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "9840",
+      "title": "14th Kansai Open",
+      "dates": "23-Jan to 24-Jan-2010",
+      "year": "2010",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Kakogawa, Hyogo, Japan",
+      "place": 12,
+      "pdga_points": 15.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "10267",
+      "title": "6th Kohchi Open",
+      "dates": "20-Mar to 21-Mar-2010",
+      "year": "2010",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Tosayamada, Kohchi, Japan",
+      "place": 8,
+      "pdga_points": 7.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 10.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2012",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 24.0,
+      "avg_finish": 3.0
+    },
+    {
+      "year": "2011",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 2,
+      "pdga_points": 120.0,
+      "avg_finish": 7.0
+    },
+    {
+      "year": "2010",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 22.5,
+      "avg_finish": 10.0
+    }
+  ],
+  "rating_history": [],
+  "streak": {
+    "direction": "up",
+    "recent_avg": 48.0,
+    "season_avg": 11.2,
+    "delta_pct": 326.7
+  },
+  "pdga_url": "https://www.pdga.com/player/40071"
+}

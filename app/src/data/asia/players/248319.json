@@ -1,0 +1,322 @@
+{
+  "pdga": 248319,
+  "name": "Daryl Dunbar #248319",
+  "country": "Singapore",
+  "country_key": "SG",
+  "flag": "\ud83c\uddf8\ud83c\uddec",
+  "rating": 707,
+  "classification": "Amateur",
+  "city": "Singapore",
+  "nationality": "",
+  "division": "MA3",
+  "primary_class": "amateur",
+  "pdga_points": 35.0,
+  "tour_weighted_points": 44.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 7,
+  "wins": 0,
+  "podiums": 1,
+  "top5": 4,
+  "top10": 7,
+  "top20": 7,
+  "avg_finish": 5.86,
+  "win_rate": 0.0,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 1640,
+  "weighted_rank": 989,
+  "country_rank": 56,
+  "am_events": 7,
+  "am_wins": 0,
+  "am_podiums": 1,
+  "am_top10": 7,
+  "am_pdga_points": 35.0,
+  "last_active": "11-Jan to 12-Jan-2025",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 7,
+      "points": 35.0,
+      "weighted": 44.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 7,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 4,
+      "top10": 7,
+      "top20": 7,
+      "pdga_points": 35.0,
+      "tour_weighted_points": 44.0,
+      "avg_finish": 5.86,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 7,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 4,
+      "top10": 7,
+      "top20": 7,
+      "pdga_points": 35.0,
+      "tour_weighted_points": 44.0,
+      "avg_finish": 5.86,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA3": 3,
+    "MA2": 1,
+    "MA50": 2,
+    "MA40": 1
+  },
+  "results": [
+    {
+      "event_id": "90385",
+      "title": "Dover Dash 2025",
+      "dates": "22-Mar-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 5,
+      "pdga_points": 9.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "87020",
+      "title": "Singapore Sling 2025",
+      "dates": "11-Jan to 12-Jan-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 10,
+      "pdga_points": 4.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "78012",
+      "title": "2024 Tanglin Hill Safari",
+      "dates": "16-Mar-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore, AP, Singapore",
+      "place": 5,
+      "pdga_points": 3.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "75766",
+      "title": "Singapore Sling 2024",
+      "dates": "13-Jan-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 3,
+      "pdga_points": 3.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "66066",
+      "title": "Singapore Sling 2023",
+      "dates": "25-Feb-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 8,
+      "pdga_points": 6.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "71837",
+      "title": "Kallang Roar at Kallang Riverside Park",
+      "dates": "08-Jul-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 4,
+      "pdga_points": 6.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "71095",
+      "title": "Dover Dash 2023",
+      "dates": "03-Jun-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 6,
+      "pdga_points": 4.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2025",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 2,
+      "pdga_points": 13.0,
+      "avg_finish": 7.5
+    },
+    {
+      "year": "2024",
+      "events": 2,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 2,
+      "pdga_points": 6.0,
+      "avg_finish": 4.0
+    },
+    {
+      "year": "2023",
+      "events": 3,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 3,
+      "pdga_points": 16.0,
+      "avg_finish": 6.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2023-03-14",
+      "rating": 565,
+      "rounds": 2
+    },
+    {
+      "date": "2023-06-13",
+      "rating": 594,
+      "rounds": 3
+    },
+    {
+      "date": "2023-07-11",
+      "rating": 616,
+      "rounds": 4
+    },
+    {
+      "date": "2024-02-13",
+      "rating": 654,
+      "rounds": 6
+    },
+    {
+      "date": "2024-04-09",
+      "rating": 673,
+      "rounds": 6
+    },
+    {
+      "date": "2025-01-14",
+      "rating": 711,
+      "rounds": 7
+    },
+    {
+      "date": "2025-04-08",
+      "rating": 707,
+      "rounds": 8
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 5.3,
+    "season_avg": 4.8,
+    "delta_pct": 12.3
+  },
+  "pdga_url": "https://www.pdga.com/player/248319"
+}

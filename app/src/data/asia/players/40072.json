@@ -1,0 +1,336 @@
+{
+  "pdga": 40072,
+  "name": "Noriyuki Okaue #40072",
+  "country": "Japan",
+  "country_key": "JP",
+  "flag": "\ud83c\uddef\ud83c\uddf5",
+  "rating": 926,
+  "classification": "Professional",
+  "city": "Akashi-shi",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 480.0,
+  "tour_weighted_points": 29.5,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 5,
+  "wins": 0,
+  "podiums": 0,
+  "top5": 0,
+  "top10": 2,
+  "top20": 3,
+  "avg_finish": 16.2,
+  "win_rate": 0.0,
+  "top10_rate": 0.4,
+  "cash_earned": 0.0,
+  "pdga_rank": 466,
+  "weighted_rank": 1188,
+  "country_rank": 161,
+  "am_events": 0,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 0,
+  "am_pdga_points": 0.0,
+  "last_active": "05-Jul to 06-Jul-2025",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 5,
+      "points": 480.0,
+      "weighted": 29.5,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 5,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 2,
+      "top20": 3,
+      "pdga_points": 480.0,
+      "tour_weighted_points": 29.5,
+      "avg_finish": 16.2,
+      "win_rate": 0.0,
+      "top10_rate": 0.4
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "all": {
+      "events": 5,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 2,
+      "top20": 3,
+      "pdga_points": 480.0,
+      "tour_weighted_points": 29.5,
+      "avg_finish": 16.2,
+      "win_rate": 0.0,
+      "top10_rate": 0.4
+    }
+  },
+  "division_counts": {
+    "MPO": 5
+  },
+  "results": [
+    {
+      "event_id": "92377",
+      "title": "The 27th Nippon Open Presented by DISCRAFT",
+      "dates": "05-Jul to 06-Jul-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Yasu-shi, Shiga, Japan",
+      "place": 21,
+      "pdga_points": 45.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "66069",
+      "title": "National Doubles Championships",
+      "dates": "04-Mar to 05-Mar-2023",
+      "year": "2023",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Hitachinaka, Ibaraki, Japan",
+      "place": 6,
+      "pdga_points": 105.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "59456",
+      "title": "The 24th Nippon Open",
+      "dates": "11-Jun to 12-Jun-2022",
+      "year": "2022",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Gamo-gun, Shiga, Japan",
+      "place": 30,
+      "pdga_points": 180.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.5
+    },
+    {
+      "event_id": "54455",
+      "title": "The 24th Kansai Open",
+      "dates": "23-Oct to 24-Oct-2021",
+      "year": "2021",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Nantan city, Kyoto, Japan",
+      "place": 16,
+      "pdga_points": 120.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "55134",
+      "title": "The 17th Kyoto Classic",
+      "dates": "04-Dec to 05-Dec-2021",
+      "year": "2021",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Funai-gun, Kyoto, Japan",
+      "place": 8,
+      "pdga_points": 30.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 10.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2025",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 45.0,
+      "avg_finish": 21.0
+    },
+    {
+      "year": "2023",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 105.0,
+      "avg_finish": 6.0
+    },
+    {
+      "year": "2022",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 180.0,
+      "avg_finish": 30.0
+    },
+    {
+      "year": "2021",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 150.0,
+      "avg_finish": 12.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2017-06-27",
+      "rating": 930,
+      "rounds": 8
+    },
+    {
+      "date": "2017-09-26",
+      "rating": 924,
+      "rounds": 8
+    },
+    {
+      "date": "2018-05-22",
+      "rating": 940,
+      "rounds": 8
+    },
+    {
+      "date": "2018-10-09",
+      "rating": 938,
+      "rounds": 9
+    },
+    {
+      "date": "2019-10-08",
+      "rating": 966,
+      "rounds": 8
+    },
+    {
+      "date": "2019-12-10",
+      "rating": 943,
+      "rounds": 9
+    },
+    {
+      "date": "2020-10-13",
+      "rating": 946,
+      "rounds": 8
+    },
+    {
+      "date": "2020-12-08",
+      "rating": 951,
+      "rounds": 7
+    },
+    {
+      "date": "2021-12-14",
+      "rating": 950,
+      "rounds": 8
+    },
+    {
+      "date": "2022-07-12",
+      "rating": 946,
+      "rounds": 11
+    },
+    {
+      "date": "2022-09-13",
+      "rating": 946,
+      "rounds": 14
+    },
+    {
+      "date": "2023-10-10",
+      "rating": 945,
+      "rounds": 9
+    },
+    {
+      "date": "2024-11-12",
+      "rating": 929,
+      "rounds": 6
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 932,
+      "rounds": 9
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 926,
+      "rounds": 9
+    }
+  ],
+  "streak": {
+    "direction": "up",
+    "recent_avg": 110.0,
+    "season_avg": 75.0,
+    "delta_pct": 46.7
+  },
+  "pdga_url": "https://www.pdga.com/player/40072"
+}

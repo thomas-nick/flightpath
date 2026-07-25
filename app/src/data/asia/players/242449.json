@@ -1,0 +1,218 @@
+{
+  "pdga": 242449,
+  "name": "Pracha Pliansri #242449",
+  "country": "Thailand",
+  "country_key": "TH",
+  "flag": "\ud83c\uddf9\ud83c\udded",
+  "rating": null,
+  "classification": "Professional",
+  "city": "Baan Lamung",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 153.0,
+  "tour_weighted_points": 20.6,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 3,
+  "wins": 0,
+  "podiums": 1,
+  "top5": 1,
+  "top10": 1,
+  "top20": 3,
+  "avg_finish": 10.33,
+  "win_rate": 0.0,
+  "top10_rate": 0.333,
+  "cash_earned": 0.0,
+  "pdga_rank": 959,
+  "weighted_rank": 1330,
+  "country_rank": 56,
+  "am_events": 2,
+  "am_wins": 0,
+  "am_podiums": 1,
+  "am_top10": 1,
+  "am_pdga_points": 153.0,
+  "last_active": "23-Mar to 24-Mar-2024",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 1,
+      "points": 150.0,
+      "weighted": 8.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 2,
+      "points": 3.0,
+      "weighted": 12.6,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 1,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 1.6,
+      "avg_finish": 16.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 1,
+      "top20": 2,
+      "pdga_points": 153.0,
+      "tour_weighted_points": 19.0,
+      "avg_finish": 7.5,
+      "win_rate": 0.0,
+      "top10_rate": 0.5
+    },
+    "all": {
+      "events": 3,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 1,
+      "top20": 3,
+      "pdga_points": 153.0,
+      "tour_weighted_points": 20.6,
+      "avg_finish": 10.33,
+      "win_rate": 0.0,
+      "top10_rate": 0.333
+    }
+  },
+  "division_counts": {
+    "MA1": 1,
+    "MPO": 1,
+    "MA50": 1
+  },
+  "results": [
+    {
+      "event_id": "79470",
+      "title": "RSU x Sky Open",
+      "dates": "23-Mar to 24-Mar-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Rangsit, Thailand",
+      "place": 16,
+      "pdga_points": 0.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "80743",
+      "title": "Trat DGC Grand Opening",
+      "dates": "01-Jun-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Trat, Surat Thani, Thailand",
+      "place": 3,
+      "pdga_points": 3.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "63567",
+      "title": "Samui Swine Classic X Presented by Prodigy Discs- MPO, FPO, MP40, MP50, MA1",
+      "dates": "03-Feb to 05-Feb-2023",
+      "year": "2023",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 12,
+      "pdga_points": 150.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 8.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2024",
+      "events": 2,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 3.0,
+      "avg_finish": 9.5
+    },
+    {
+      "year": "2023",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 150.0,
+      "avg_finish": 12.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2023-02-14",
+      "rating": 883,
+      "rounds": 3
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/242449"
+}

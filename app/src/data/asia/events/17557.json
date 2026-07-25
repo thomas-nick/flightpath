@@ -1,0 +1,159 @@
+{
+  "event_id": "17557",
+  "title": "Japan Doubles Championships",
+  "location": "Hitachi, Ibaraki, Japan",
+  "dates": "06-Mar to 07-Mar-2015",
+  "year": "2015",
+  "tier": "B",
+  "level": "b_tier",
+  "is_asia_tour": false,
+  "status": "Event complete.",
+  "field_size": 10,
+  "avg_mpo_rating": 962.6,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "count": 6
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 8145,
+      "name": "Tetsuya T2 Kikuchi",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 1,
+      "pdga_points": 82.5,
+      "rating": 1007,
+      "prize": "$33",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 6036,
+      "name": "Takao Ehara",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 2,
+      "pdga_points": 67.5,
+      "rating": 941,
+      "prize": "$25",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8085,
+      "name": "Toshihito Fujinohara",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 3,
+      "pdga_points": 52.5,
+      "rating": 934,
+      "prize": "$16",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 59525,
+      "name": "Yusuke Takahashi",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 4,
+      "pdga_points": 37.5,
+      "rating": 945,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8207,
+      "name": "Dai Takakura",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 5,
+      "pdga_points": 22.5,
+      "rating": 986,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 918,
+      "name": "8206",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 3750,
+      "pdga_points": 0.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 877,
+      "name": "8196",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 5250,
+      "pdga_points": 0.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 946,
+      "name": "8071",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 6750,
+      "pdga_points": 0.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 971,
+      "name": "8117",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 8250,
+      "pdga_points": 0.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    }
+  ],
+  "fpo": [],
+  "amateur": [
+    {
+      "pdga": 8203,
+      "name": "Masaki Aoki",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 5,
+      "pdga_points": 22.5,
+      "rating": 921,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    }
+  ],
+  "divisions": [
+    "MA1",
+    "MPO"
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "pdga": 171128,
+  "name": "Brendan Coraggio",
+  "country": "India",
+  "country_key": "IN",
+  "flag": "\ud83c\uddee\ud83c\uddf3",
+  "rating": 821,
+  "classification": "Pro",
+  "city": "",
+  "nationality": "",
+  "division": "MA3",
+  "primary_class": "amateur",
+  "pdga_points": 235.5,
+  "tour_weighted_points": 52.1,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 6,
+  "wins": 0,
+  "podiums": 1,
+  "top5": 4,
+  "top10": 4,
+  "top20": 6,
+  "avg_finish": 6.67,
+  "win_rate": 0.0,
+  "top10_rate": 0.667,
+  "cash_earned": 0.0,
+  "pdga_rank": 1145,
+  "weighted_rank": 805,
+  "country_rank": 472,
+  "am_events": 6,
+  "am_wins": 0,
+  "am_podiums": 1,
+  "am_top10": 4,
+  "am_pdga_points": 235.5,
+  "last_active": "18-Mar-2023",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 2,
+      "points": 139.5,
+      "weighted": 21.5,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 4,
+      "points": 96.0,
+      "weighted": 30.6,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 6,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 4,
+      "top10": 4,
+      "top20": 6,
+      "pdga_points": 235.5,
+      "tour_weighted_points": 52.1,
+      "avg_finish": 6.67,
+      "win_rate": 0.0,
+      "top10_rate": 0.667
+    },
+    "all": {
+      "events": 6,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 4,
+      "top10": 4,
+      "top20": 6,
+      "pdga_points": 235.5,
+      "tour_weighted_points": 52.1,
+      "avg_finish": 6.67,
+      "win_rate": 0.0,
+      "top10_rate": 0.667
+    }
+  },
+  "division_counts": {
+    "MA3": 3,
+    "MA2": 3
+  },
+  "results": [
+    {
+      "event_id": "67449",
+      "title": "Walnut Cracker - WIFFS (CEP Charity - Rated)",
+      "dates": "18-Mar-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Greencastle, Indiana, United States",
+      "place": 5,
+      "pdga_points": 4.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "71253",
+      "title": "Hendricks County Open",
+      "dates": "08-Jul-2023",
+      "year": "2023",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Danville, Indiana, United States",
+      "place": 5,
+      "pdga_points": 36.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "55823",
+      "title": "Wiffs Finale \"Winters Last Hurrah\" (CEP Charity - Rated)",
+      "dates": "27-Mar-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Monrovia, Indiana, United States",
+      "place": 11,
+      "pdga_points": 33.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "62558",
+      "title": "2022 limestone open by BDGC",
+      "dates": "17-Sep-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Ellettsville , Indiana, United States",
+      "place": 2,
+      "pdga_points": 32.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "58782",
+      "title": "The UFO at BC3 3rd annual",
+      "dates": "16-Apr-2022",
+      "year": "2022",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Nashville, Indiana, United States",
+      "place": 12,
+      "pdga_points": 103.5,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "57111",
+      "title": "WIFFS #25 - Broadside of the Hill (CEP Charity - Rated)",
+      "dates": "12-Mar-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Danville, Indiana, United States",
+      "place": 5,
+      "pdga_points": 27.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2023",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 2,
+      "pdga_points": 40.0,
+      "avg_finish": 5.0
+    },
+    {
+      "year": "2022",
+      "events": 4,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 2,
+      "pdga_points": 195.5,
+      "avg_finish": 7.5
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2023-01-10",
+      "rating": 871,
+      "rounds": 40
+    },
+    {
+      "date": "2023-02-14",
+      "rating": 871,
+      "rounds": 44
+    },
+    {
+      "date": "2023-03-14",
+      "rating": 875,
+      "rounds": 48
+    },
+    {
+      "date": "2023-04-11",
+      "rating": 879,
+      "rounds": 46
+    },
+    {
+      "date": "2023-05-09",
+      "rating": 890,
+      "rounds": 46
+    },
+    {
+      "date": "2023-06-13",
+      "rating": 894,
+      "rounds": 45
+    },
+    {
+      "date": "2023-07-11",
+      "rating": 898,
+      "rounds": 50
+    },
+    {
+      "date": "2023-08-08",
+      "rating": 903,
+      "rounds": 57
+    },
+    {
+      "date": "2023-09-12",
+      "rating": 899,
+      "rounds": 55
+    },
+    {
+      "date": "2023-10-10",
+      "rating": 901,
+      "rounds": 63
+    },
+    {
+      "date": "2023-11-14",
+      "rating": 907,
+      "rounds": 77
+    },
+    {
+      "date": "2024-02-13",
+      "rating": 905,
+      "rounds": 77
+    },
+    {
+      "date": "2024-03-12",
+      "rating": 905,
+      "rounds": 76
+    },
+    {
+      "date": "2024-04-09",
+      "rating": 911,
+      "rounds": 70
+    },
+    {
+      "date": "2024-05-14",
+      "rating": 911,
+      "rounds": 69
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 24.3,
+    "season_avg": 54.2,
+    "delta_pct": -55.1
+  },
+  "pdga_url": "https://www.pdga.com/player/171128"
+}

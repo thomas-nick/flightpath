@@ -1,0 +1,177 @@
+{
+  "event_id": "17583",
+  "title": "3rd Fukui Open",
+  "location": "Sakai, Fukui, Japan",
+  "dates": "25-Oct to 26-Oct-2014",
+  "year": "2014",
+  "tier": "B",
+  "level": "b_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 11,
+  "avg_mpo_rating": 959.4,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "count": 9
+    },
+    {
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "count": 2
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 8145,
+      "name": "Tetsuya T2 Kikuchi",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 1,
+      "pdga_points": 82.5,
+      "rating": 1007,
+      "prize": "$120",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8060,
+      "name": "Yasushi Jitsuhiro",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 2,
+      "pdga_points": 75.0,
+      "rating": 993,
+      "prize": "$60",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8165,
+      "name": "Youhei Ohtaki",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 3,
+      "pdga_points": 67.5,
+      "rating": 997,
+      "prize": "$36",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 6075,
+      "name": "Kazuo Shirai",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 4,
+      "pdga_points": 60.0,
+      "rating": 987,
+      "prize": "$24",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 59525,
+      "name": "Yusuke Takahashi",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 5,
+      "pdga_points": 52.5,
+      "rating": 934,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 59529,
+      "name": "Daisuke Kuroda",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 7,
+      "pdga_points": 37.5,
+      "rating": 945,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 65847,
+      "name": "Sou Miura",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 9,
+      "pdga_points": 22.5,
+      "rating": 894,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 56592,
+      "name": "Hyundo Jang",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 11,
+      "pdga_points": 7.5,
+      "rating": 918,
+      "prize": "",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "country_key": "KR"
+    }
+  ],
+  "fpo": [
+    {
+      "pdga": 8200,
+      "name": "Yuki Fukuhara",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 1,
+      "pdga_points": 13.5,
+      "rating": 926,
+      "prize": "$36",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 59527,
+      "name": "Hiromi Kato",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 2,
+      "pdga_points": 9.0,
+      "rating": 895,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 56593,
+      "name": "Jiwon Kim",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 3,
+      "pdga_points": 4.5,
+      "rating": 861,
+      "prize": "",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "country_key": "KR"
+    }
+  ],
+  "amateur": [],
+  "divisions": [
+    "FPO",
+    "MPO"
+  ]
+}

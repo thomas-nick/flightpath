@@ -1,0 +1,159 @@
+{
+  "event_id": "16213",
+  "title": "6th Korea National Championship",
+  "location": "Cheon An City, South Korea",
+  "dates": "28-Sep to 29-Sep-2013",
+  "year": "2013",
+  "tier": "C",
+  "level": "c_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 10,
+  "avg_mpo_rating": 917.4,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "count": 4
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 54094,
+      "name": "Eric Fitzsimons",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 1,
+      "pdga_points": 85.0,
+      "rating": 942,
+      "prize": "$169",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 18614,
+      "name": "Kris Wong",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 2,
+      "pdga_points": 80.0,
+      "rating": 925,
+      "prize": "$94",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 9508,
+      "name": "Joe Vetne",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 3,
+      "pdga_points": 75.0,
+      "rating": null,
+      "prize": "$66",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 51693,
+      "name": "Seung Cheol Jeong",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 5,
+      "pdga_points": 65.0,
+      "rating": 920,
+      "prize": "$169",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "country_key": "KR"
+    },
+    {
+      "pdga": 23781,
+      "name": "Jason Di Gennaro",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 5,
+      "pdga_points": 65.0,
+      "rating": 937,
+      "prize": "",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "country_key": "KR"
+    },
+    {
+      "pdga": 49394,
+      "name": "James Pearson",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 10,
+      "pdga_points": 40.0,
+      "rating": 943,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "Germany",
+      "country_key": ""
+    },
+    {
+      "pdga": 8734,
+      "name": "Sung Bae Kim",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 11,
+      "pdga_points": 35.0,
+      "rating": 891,
+      "prize": "",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "country_key": "KR"
+    },
+    {
+      "pdga": 59174,
+      "name": "Byeong Wook Baek",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 12,
+      "pdga_points": 30.0,
+      "rating": null,
+      "prize": "$66",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "country_key": "KR"
+    },
+    {
+      "pdga": 49277,
+      "name": "Gregory Horst",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 13,
+      "pdga_points": 25.0,
+      "rating": 864,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    }
+  ],
+  "fpo": [],
+  "amateur": [
+    {
+      "pdga": 55114,
+      "name": "Andrew Big Country Belet",
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 52.0,
+      "rating": 839,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    }
+  ],
+  "divisions": [
+    "MA2",
+    "MPO"
+  ]
+}

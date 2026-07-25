@@ -1,0 +1,310 @@
+{
+  "pdga": 127458,
+  "name": "Patrick Yu #127458",
+  "country": "United States",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 996,
+  "classification": "Professional",
+  "city": "Madison",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 572.5,
+  "tour_weighted_points": 106.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 4,
+  "wins": 1,
+  "podiums": 4,
+  "top5": 4,
+  "top10": 4,
+  "top20": 4,
+  "avg_finish": 2.0,
+  "win_rate": 0.25,
+  "top10_rate": 1.0,
+  "cash_earned": 1743.0,
+  "pdga_rank": 417,
+  "weighted_rank": 597,
+  "country_rank": null,
+  "am_events": 0,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 0,
+  "am_pdga_points": 0.0,
+  "last_active": "11-Oct to 13-Oct-2025",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 2,
+      "points": 352.5,
+      "weighted": 75.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 2,
+      "points": 220.0,
+      "weighted": 31.0,
+      "wins": 1
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 4,
+      "wins": 1,
+      "podiums": 4,
+      "top5": 4,
+      "top10": 4,
+      "top20": 4,
+      "pdga_points": 572.5,
+      "tour_weighted_points": 106.0,
+      "avg_finish": 2.0,
+      "win_rate": 0.25,
+      "top10_rate": 1.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "all": {
+      "events": 4,
+      "wins": 1,
+      "podiums": 4,
+      "top5": 4,
+      "top10": 4,
+      "top20": 4,
+      "pdga_points": 572.5,
+      "tour_weighted_points": 106.0,
+      "avg_finish": 2.0,
+      "win_rate": 0.25,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MPO": 4
+  },
+  "results": [
+    {
+      "event_id": "96085",
+      "title": "1st Yangju Art Valley International Open - MPO, FPO",
+      "dates": "25-Oct-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Yangju, Gyeonggi-do, South Korea",
+      "place": 3,
+      "pdga_points": 160.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$1,046",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "94576",
+      "title": "Chairman's Challenge 2025",
+      "dates": "14-Sep-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Daegu, Daegu, South Korea",
+      "place": 1,
+      "pdga_points": 60.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$217",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "94274",
+      "title": "The 37th National Championships",
+      "dates": "11-Oct to 13-Oct-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Haramachi-ku, Fukushima, Japan",
+      "place": 2,
+      "pdga_points": 112.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$300",
+      "weighted_points": 37.5
+    },
+    {
+      "event_id": "96234",
+      "title": "2025\u957f\u4e09\u89d2\u63b7\u51c6\u98de\u76d8\uff08\u6606\u5c71\uff09\u516c\u5f00\u8d5b\u66a8CDGC\u98de\u76d8\u9ad8\u5c14\u592b\u5de1\u56de\u8d5b\u603b\u51b3\u8d5b-2025 Yangzi River Delta Disc Golf  (KUNSHAN) Open - All Other Divisions",
+      "dates": "04-Oct to 05-Oct-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Kunshan, Jiangsu Sheng, China",
+      "place": 2,
+      "pdga_points": 240.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$180",
+      "weighted_points": 37.5
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "94576",
+      "title": "Chairman's Challenge 2025",
+      "dates": "14-Sep-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Daegu, Daegu, South Korea",
+      "place": 1,
+      "pdga_points": 60.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$217",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2025",
+      "events": 4,
+      "wins": 1,
+      "podiums": 4,
+      "top10": 4,
+      "pdga_points": 572.5,
+      "avg_finish": 2.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2024-09-10",
+      "rating": 988,
+      "rounds": 28
+    },
+    {
+      "date": "2024-10-08",
+      "rating": 986,
+      "rounds": 32
+    },
+    {
+      "date": "2024-11-12",
+      "rating": 989,
+      "rounds": 34
+    },
+    {
+      "date": "2024-12-10",
+      "rating": 990,
+      "rounds": 31
+    },
+    {
+      "date": "2025-04-08",
+      "rating": 991,
+      "rounds": 33
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 989,
+      "rounds": 33
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 993,
+      "rounds": 32
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 991,
+      "rounds": 33
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 995,
+      "rounds": 40
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 996,
+      "rounds": 43
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 1000,
+      "rounds": 38
+    },
+    {
+      "date": "2025-11-11",
+      "rating": 1001,
+      "rounds": 42
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 997,
+      "rounds": 45
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 995,
+      "rounds": 46
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 996,
+      "rounds": 43
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 110.8,
+    "season_avg": 240.0,
+    "delta_pct": -53.8
+  },
+  "pdga_url": "https://www.pdga.com/player/127458"
+}

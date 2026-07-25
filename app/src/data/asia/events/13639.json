@@ -1,0 +1,187 @@
+{
+  "event_id": "13639",
+  "title": "7th Kiyosatonomori Open",
+  "location": "Kiyosato, Yamanashi, Japan",
+  "dates": "19-May to 20-May-2012",
+  "year": "2012",
+  "tier": "B",
+  "level": "b_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 12,
+  "avg_mpo_rating": 958.4,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "count": 12
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 6075,
+      "name": "Kazuo Shirai",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 1,
+      "pdga_points": 82.5,
+      "rating": 993,
+      "prize": "$72",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 6671,
+      "name": "Atsuhito Kawasaki",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 2,
+      "pdga_points": 75.0,
+      "rating": 976,
+      "prize": "$24",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8060,
+      "name": "Yasushi Jitsuhiro",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 3,
+      "pdga_points": 67.5,
+      "rating": 1005,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8172,
+      "name": "Hideaki Matsuda",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 4,
+      "pdga_points": 60.0,
+      "rating": 994,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8071,
+      "name": "Jun Mochizuki",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 5,
+      "pdga_points": 52.5,
+      "rating": 939,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 40069,
+      "name": "masaki kanaya",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 6,
+      "pdga_points": 45.0,
+      "rating": 943,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8196,
+      "name": "Shin Asaya",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 9,
+      "pdga_points": 22.5,
+      "rating": 859,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    }
+  ],
+  "fpo": [
+    {
+      "pdga": 8111,
+      "name": "Sachiko Sato",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 1,
+      "pdga_points": 36.0,
+      "rating": 900,
+      "prize": "$60",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8056,
+      "name": "Kayoko Jitsuhiro",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 2,
+      "pdga_points": 31.5,
+      "rating": 870,
+      "prize": "$12",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8157,
+      "name": "Kayoko Maeda",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 5,
+      "pdga_points": 18.0,
+      "rating": 831,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 3603,
+      "name": "Reiko Kinomiya",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 6,
+      "pdga_points": 13.5,
+      "rating": 818,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    }
+  ],
+  "amateur": [
+    {
+      "pdga": 6041,
+      "name": "Shinsuke Nishino",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 82.5,
+      "rating": 914,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    }
+  ],
+  "divisions": [
+    "FPO",
+    "MA1",
+    "MPO"
+  ]
+}

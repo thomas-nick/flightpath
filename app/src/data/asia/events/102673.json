@@ -1,0 +1,211 @@
+{
+  "event_id": "102673",
+  "title": "Shanghai Disc Golf Monthly Tournament (March)",
+  "location": "Shanghai, Shanghai Shi, China",
+  "dates": "27-Mar-2026",
+  "year": "2026",
+  "tier": "C",
+  "level": "c_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 14,
+  "avg_mpo_rating": 877.2,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "count": 13
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 149000,
+      "name": "Liqiang Jia",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 1,
+      "pdga_points": 55.0,
+      "rating": 947,
+      "prize": "$29",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 293944,
+      "name": "\u7ee7\u9f99 \u5218",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 1,
+      "pdga_points": 55.0,
+      "rating": 910,
+      "prize": "$29",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 129667,
+      "name": "Bixi Zhou",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 3,
+      "pdga_points": 45.0,
+      "rating": 886,
+      "prize": "$12",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 241646,
+      "name": "Gang Qian",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 4,
+      "pdga_points": 40.0,
+      "rating": 908,
+      "prize": "$7",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 292145,
+      "name": "Haijiang Liu",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 5,
+      "pdga_points": 35.0,
+      "rating": 886,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "Netherlands",
+      "country_key": ""
+    },
+    {
+      "pdga": 296893,
+      "name": "TIANLUN QIN",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 6,
+      "pdga_points": 30.0,
+      "rating": 850,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 283642,
+      "name": "\u5218 \u677e\u6d9b",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 6,
+      "pdga_points": 30.0,
+      "rating": 891,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 148896,
+      "name": "Eazy Cai",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 8,
+      "pdga_points": 20.0,
+      "rating": 884,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 315701,
+      "name": "Dong Wang",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 8,
+      "pdga_points": 20.0,
+      "rating": 859,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 304961,
+      "name": "Zihui Zhou",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 10,
+      "pdga_points": 10.0,
+      "rating": 807,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 229701,
+      "name": "Hui Huang",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 11,
+      "pdga_points": 5.0,
+      "rating": 821,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    }
+  ],
+  "fpo": [],
+  "amateur": [
+    {
+      "pdga": 305157,
+      "name": "Weikun Huang",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 15.0,
+      "rating": 844,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 312467,
+      "name": "Xiaoyan Lv",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 10.0,
+      "rating": 852,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 312469,
+      "name": "Rongqian Na",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 3,
+      "pdga_points": 5.0,
+      "rating": 765,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    }
+  ],
+  "divisions": [
+    "MA1",
+    "MPO"
+  ]
+}

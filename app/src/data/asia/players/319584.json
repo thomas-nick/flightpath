@@ -1,0 +1,254 @@
+{
+  "pdga": 319584,
+  "name": "Jinsu Kim #319584",
+  "country": "South Korea",
+  "country_key": "KR",
+  "flag": "\ud83c\uddf0\ud83c\uddf7",
+  "rating": 797,
+  "classification": "Professional",
+  "city": "Uijeongbu-si",
+  "nationality": "",
+  "division": "MA1",
+  "primary_class": "amateur",
+  "pdga_points": 85.0,
+  "tour_weighted_points": 36.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 5,
+  "wins": 0,
+  "podiums": 1,
+  "top5": 4,
+  "top10": 5,
+  "top20": 5,
+  "avg_finish": 4.2,
+  "win_rate": 0.0,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 1238,
+  "weighted_rank": 1085,
+  "country_rank": 67,
+  "am_events": 5,
+  "am_wins": 0,
+  "am_podiums": 1,
+  "am_top10": 5,
+  "am_pdga_points": 85.0,
+  "last_active": "14-Mar to 15-Mar-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 5,
+      "points": 85.0,
+      "weighted": 36.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 5,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 4,
+      "top10": 5,
+      "top20": 5,
+      "pdga_points": 85.0,
+      "tour_weighted_points": 36.0,
+      "avg_finish": 4.2,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 5,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 4,
+      "top10": 5,
+      "top20": 5,
+      "pdga_points": 85.0,
+      "tour_weighted_points": 36.0,
+      "avg_finish": 4.2,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA1": 5
+  },
+  "results": [
+    {
+      "event_id": "101741",
+      "title": "Pump it up #3 Doubles (OPEN)",
+      "dates": "29-Mar-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Yeongdong-gun, Chungcheongbuk-do, South Korea",
+      "place": 4,
+      "pdga_points": 20.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "103086",
+      "title": "Pump it up #4",
+      "dates": "26-Apr-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Yeongdong-gun, Chungcheongbuk-do, South Korea",
+      "place": 4,
+      "pdga_points": 5.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "99088",
+      "title": "Pump it up #1",
+      "dates": "25-Jan-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Yeongdong-gun, Chungcheongbuk-do, South Korea",
+      "place": 4,
+      "pdga_points": 30.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "99966",
+      "title": "Pump it up #2",
+      "dates": "22-Feb-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Yeongdong-gun, Chungcheongbuk-do, South Korea",
+      "place": 3,
+      "pdga_points": 25.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "100120",
+      "title": "3rd YeongDong OPEN",
+      "dates": "14-Mar to 15-Mar-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "yeongdong gun, Chungcheongbuk-do, South Korea",
+      "place": 6,
+      "pdga_points": 5.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 5,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 5,
+      "pdga_points": 85.0,
+      "avg_finish": 4.2
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2026-02-10",
+      "rating": 809,
+      "rounds": 2
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 821,
+      "rounds": 4
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 806,
+      "rounds": 6
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 797,
+      "rounds": 8
+    }
+  ],
+  "streak": {
+    "direction": "up",
+    "recent_avg": 18.3,
+    "season_avg": 15.0,
+    "delta_pct": 22.2
+  },
+  "pdga_url": "https://www.pdga.com/player/319584"
+}

@@ -1,0 +1,169 @@
+{
+  "pdga": 315729,
+  "name": "Situ Zheng #315729",
+  "country": "China",
+  "country_key": "CN",
+  "flag": "\ud83c\udde8\ud83c\uddf3",
+  "rating": 834,
+  "classification": "Amateur",
+  "city": "Dalian",
+  "nationality": "",
+  "division": "MA2",
+  "primary_class": "amateur",
+  "pdga_points": 108.0,
+  "tour_weighted_points": 4.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top5": 0,
+  "top10": 0,
+  "top20": 1,
+  "avg_finish": 18.0,
+  "win_rate": 0.0,
+  "top10_rate": 0.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 1133,
+  "weighted_rank": 1951,
+  "country_rank": 183,
+  "am_events": 1,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 0,
+  "am_pdga_points": 108.0,
+  "last_active": "04-Oct to 05-Oct-2025",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 108.0,
+      "weighted": 4.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 1,
+      "pdga_points": 108.0,
+      "tour_weighted_points": 4.0,
+      "avg_finish": 18.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "all": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 1,
+      "pdga_points": 108.0,
+      "tour_weighted_points": 4.0,
+      "avg_finish": 18.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    }
+  },
+  "division_counts": {
+    "MA2": 1
+  },
+  "results": [
+    {
+      "event_id": "96234",
+      "title": "2025\u957f\u4e09\u89d2\u63b7\u51c6\u98de\u76d8\uff08\u6606\u5c71\uff09\u516c\u5f00\u8d5b\u66a8CDGC\u98de\u76d8\u9ad8\u5c14\u592b\u5de1\u56de\u8d5b\u603b\u51b3\u8d5b-2025 Yangzi River Delta Disc Golf  (KUNSHAN) Open - All Other Divisions",
+      "dates": "04-Oct to 05-Oct-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Kunshan, Jiangsu Sheng, China",
+      "place": 18,
+      "pdga_points": 108.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2025",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 108.0,
+      "avg_finish": 18.0
+    }
+  ],
+  "rating_history": [],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/315729"
+}

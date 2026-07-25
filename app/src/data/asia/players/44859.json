@@ -1,0 +1,226 @@
+{
+  "pdga": 44859,
+  "name": "Jarmo Aulu #44859",
+  "country": "Finland",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 967,
+  "classification": "Professional",
+  "city": "J\u00e4\u00e4li",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 317.5,
+  "tour_weighted_points": 41.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 4,
+  "wins": 0,
+  "podiums": 1,
+  "top5": 1,
+  "top10": 2,
+  "top20": 4,
+  "avg_finish": 8.5,
+  "win_rate": 0.0,
+  "top10_rate": 0.5,
+  "cash_earned": 200.0,
+  "pdga_rank": 625,
+  "weighted_rank": 1009,
+  "country_rank": null,
+  "am_events": 0,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 0,
+  "am_pdga_points": 0.0,
+  "last_active": "12-Feb to 13-Feb-2019",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 2,
+      "points": 190.0,
+      "weighted": 16.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 97.5,
+      "weighted": 10.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 1,
+      "points": 30.0,
+      "weighted": 15.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 4,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 2,
+      "top20": 4,
+      "pdga_points": 317.5,
+      "tour_weighted_points": 41.0,
+      "avg_finish": 8.5,
+      "win_rate": 0.0,
+      "top10_rate": 0.5
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "all": {
+      "events": 4,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 2,
+      "top20": 4,
+      "pdga_points": 317.5,
+      "tour_weighted_points": 41.0,
+      "avg_finish": 8.5,
+      "win_rate": 0.0,
+      "top10_rate": 0.5
+    }
+  },
+  "division_counts": {
+    "MPO": 4
+  },
+  "results": [
+    {
+      "event_id": "38591",
+      "title": "Hyzenbrownie Open \"Hurljam 2019\" - Pros",
+      "dates": "12-Feb to 13-Feb-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Namuang, Thailand",
+      "place": 2,
+      "pdga_points": 30.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$200",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "38592",
+      "title": "Samui Swine Classic VI - Presented by Dynamic Discs - Pros",
+      "dates": "08-Feb to 10-Feb-2019",
+      "year": "2019",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 13,
+      "pdga_points": 70.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 8.0
+    },
+    {
+      "event_id": "33102",
+      "title": "Third Annual Hyzenbrownie Open - The Flaskenpouch 2018",
+      "dates": "27-Jan to 28-Jan-2018",
+      "year": "2018",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 7,
+      "pdga_points": 97.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "33706",
+      "title": "Samui Swine Classic V",
+      "dates": "01-Feb to 03-Feb-2018",
+      "year": "2018",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 12,
+      "pdga_points": 120.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 8.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2019",
+      "events": 2,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 100.0,
+      "avg_finish": 7.5
+    },
+    {
+      "year": "2018",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 217.5,
+      "avg_finish": 9.5
+    }
+  ],
+  "rating_history": [],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 65.8,
+    "season_avg": 120.0,
+    "delta_pct": -45.1
+  },
+  "pdga_url": "https://www.pdga.com/player/44859"
+}

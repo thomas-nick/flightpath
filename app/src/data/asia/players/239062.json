@@ -1,0 +1,287 @@
+{
+  "pdga": 239062,
+  "name": "Karen Anne Aya #239062",
+  "country": "Philippines",
+  "country_key": "PH",
+  "flag": "\ud83c\uddf5\ud83c\udded",
+  "rating": null,
+  "classification": "Amateur",
+  "city": "Silang",
+  "nationality": "",
+  "division": "FA3",
+  "primary_class": "amateur",
+  "pdga_points": 13.0,
+  "tour_weighted_points": 52.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 5,
+  "wins": 1,
+  "podiums": 2,
+  "top5": 5,
+  "top10": 5,
+  "top20": 5,
+  "avg_finish": 3.2,
+  "win_rate": 0.2,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 1926,
+  "weighted_rank": 907,
+  "country_rank": 121,
+  "am_events": 5,
+  "am_wins": 1,
+  "am_podiums": 2,
+  "am_top10": 5,
+  "am_pdga_points": 13.0,
+  "last_active": "18-May to 19-May-2024",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 5,
+      "points": 13.0,
+      "weighted": 52.0,
+      "wins": 1
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 5,
+      "wins": 1,
+      "podiums": 2,
+      "top5": 5,
+      "top10": 5,
+      "top20": 5,
+      "pdga_points": 13.0,
+      "tour_weighted_points": 52.0,
+      "avg_finish": 3.2,
+      "win_rate": 0.2,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 5,
+      "wins": 1,
+      "podiums": 2,
+      "top5": 5,
+      "top10": 5,
+      "top20": 5,
+      "pdga_points": 13.0,
+      "tour_weighted_points": 52.0,
+      "avg_finish": 3.2,
+      "win_rate": 0.2,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "FA3": 2,
+    "FA4": 1,
+    "FA2": 2
+  },
+  "results": [
+    {
+      "event_id": "80554",
+      "title": "Drifwoods Action Park DGC Inaugural Open & WGE",
+      "dates": "18-May to 19-May-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Indang, Cavite, Philippines",
+      "place": 1,
+      "pdga_points": 2.0,
+      "division": "FA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "72188",
+      "title": "National Amateur Championship",
+      "dates": "08-Oct-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Tarlac, Tarlac, Philippines",
+      "place": 3,
+      "pdga_points": 1.5,
+      "division": "FA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "72511",
+      "title": "The Damascus Last Hurrah! (Jon Mough and Fig Tree Tribute Tournament)",
+      "dates": "05-Aug-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Amadeo, Cavite, Philippines",
+      "place": 4,
+      "pdga_points": 1.0,
+      "division": "FA4",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "64710",
+      "title": "DGAP LIPAD PILIPINAS OPEN 2023 presented by Divergent Discs",
+      "dates": "04-Mar to 05-Mar-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Amadeo, Cavite, Philippines",
+      "place": 4,
+      "pdga_points": 4.5,
+      "division": "FA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "75358",
+      "title": "DGAP One Year Anniversary Tournament at Nayong Pilipino",
+      "dates": "03-Dec-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Paranaque, Metro Manila, Philippines",
+      "place": 4,
+      "pdga_points": 4.0,
+      "division": "FA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "80554",
+      "title": "Drifwoods Action Park DGC Inaugural Open & WGE",
+      "dates": "18-May to 19-May-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Indang, Cavite, Philippines",
+      "place": 1,
+      "pdga_points": 2.0,
+      "division": "FA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2024",
+      "events": 1,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 2.0,
+      "avg_finish": 1.0
+    },
+    {
+      "year": "2023",
+      "events": 4,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 4,
+      "pdga_points": 11.0,
+      "avg_finish": 3.75
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2023-03-14",
+      "rating": 486,
+      "rounds": 2
+    },
+    {
+      "date": "2023-08-08",
+      "rating": 430,
+      "rounds": 3
+    },
+    {
+      "date": "2023-10-10",
+      "rating": 508,
+      "rounds": 3
+    },
+    {
+      "date": "2023-12-12",
+      "rating": 490,
+      "rounds": 4
+    },
+    {
+      "date": "2024-06-11",
+      "rating": 490,
+      "rounds": 6
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 1.5,
+    "season_avg": 4.2,
+    "delta_pct": -64.7
+  },
+  "pdga_url": "https://www.pdga.com/player/239062"
+}

@@ -1,0 +1,322 @@
+{
+  "pdga": 319066,
+  "name": "Ai Fukano #319066",
+  "country": "Japan",
+  "country_key": "JP",
+  "flag": "\ud83c\uddef\ud83c\uddf5",
+  "rating": 906,
+  "classification": "Amateur",
+  "city": "Edogawa-ku",
+  "nationality": "",
+  "division": "FPO",
+  "primary_class": "open_fpo",
+  "pdga_points": 223.0,
+  "tour_weighted_points": 187.5,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 7,
+  "wins": 2,
+  "podiums": 6,
+  "top5": 7,
+  "top10": 7,
+  "top20": 7,
+  "avg_finish": 2.29,
+  "win_rate": 0.286,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 780,
+  "weighted_rank": 364,
+  "country_rank": 200,
+  "am_events": 6,
+  "am_wins": 2,
+  "am_podiums": 5,
+  "am_top10": 6,
+  "am_pdga_points": 218.5,
+  "last_active": "04-Apr to 05-Apr-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 5,
+      "points": 204.0,
+      "weighted": 147.5,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 2,
+      "points": 19.0,
+      "weighted": 40.0,
+      "wins": 2
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 4.5,
+      "tour_weighted_points": 27.5,
+      "avg_finish": 3.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "amateur": {
+      "events": 6,
+      "wins": 2,
+      "podiums": 5,
+      "top5": 6,
+      "top10": 6,
+      "top20": 6,
+      "pdga_points": 218.5,
+      "tour_weighted_points": 160.0,
+      "avg_finish": 2.17,
+      "win_rate": 0.333,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 7,
+      "wins": 2,
+      "podiums": 6,
+      "top5": 7,
+      "top10": 7,
+      "top20": 7,
+      "pdga_points": 223.0,
+      "tour_weighted_points": 187.5,
+      "avg_finish": 2.29,
+      "win_rate": 0.286,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "FA1": 3,
+    "FPO": 1,
+    "FA40": 2,
+    "MA1": 1
+  },
+  "results": [
+    {
+      "event_id": "99226",
+      "title": "4th Musashi-Kyuryo Shinrin Park Cup",
+      "dates": "31-Jan to 01-Feb-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Hiki-gun, Saitama, Japan",
+      "place": 1,
+      "pdga_points": 15.0,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "99361",
+      "title": "The 21st Japan Masters National Championships",
+      "dates": "28-Feb to 01-Mar-2026",
+      "year": "2026",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Hitachinaka-shi, Ibaraki, Japan",
+      "place": 4,
+      "pdga_points": 6.0,
+      "division": "FA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "103589",
+      "title": "The 4th Michinoku Queen's Cup +WGE",
+      "dates": "23-May to 24-May-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Kitakami-shi, Iwate, Japan",
+      "place": 1,
+      "pdga_points": 4.0,
+      "division": "FA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "99882",
+      "title": "The 33rd Tokyo Open (Amateur)",
+      "dates": "14-Mar to 15-Mar-2026",
+      "year": "2026",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Koto-ku, Tokyo, Japan",
+      "place": 3,
+      "pdga_points": 27.0,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 27.5
+    },
+    {
+      "event_id": "103926",
+      "title": "2026 Japan National Doubles Championships - Mixed",
+      "dates": "13-Jun to 14-Jun-2026",
+      "year": "2026",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Inashiki-gun, Ibaraki, Japan",
+      "place": 2,
+      "pdga_points": 135.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 37.5
+    },
+    {
+      "event_id": "102933",
+      "title": "The 21st Kiyosatonomori Open",
+      "dates": "09-May to 10-May-2026",
+      "year": "2026",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Hokuto-shi, Yamanashi, Japan",
+      "place": 3,
+      "pdga_points": 4.5,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "",
+      "weighted_points": 27.5
+    },
+    {
+      "event_id": "100641",
+      "title": "The 30th Kanto Open (Ama)",
+      "dates": "04-Apr to 05-Apr-2026",
+      "year": "2026",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Haga-gun, Tochigi, Japan",
+      "place": 2,
+      "pdga_points": 31.5,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 37.5
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "99226",
+      "title": "4th Musashi-Kyuryo Shinrin Park Cup",
+      "dates": "31-Jan to 01-Feb-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Hiki-gun, Saitama, Japan",
+      "place": 1,
+      "pdga_points": 15.0,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "103589",
+      "title": "The 4th Michinoku Queen's Cup +WGE",
+      "dates": "23-May to 24-May-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Kitakami-shi, Iwate, Japan",
+      "place": 1,
+      "pdga_points": 4.0,
+      "division": "FA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 7,
+      "wins": 2,
+      "podiums": 6,
+      "top10": 7,
+      "pdga_points": 223.0,
+      "avg_finish": 2.29
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2026-03-10",
+      "rating": 877,
+      "rounds": 4
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 888,
+      "rounds": 10
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 889,
+      "rounds": 13
+    },
+    {
+      "date": "2026-06-09",
+      "rating": 906,
+      "rounds": 17
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 8.3,
+    "season_avg": 49.5,
+    "delta_pct": -83.2
+  },
+  "pdga_url": "https://www.pdga.com/player/319066"
+}

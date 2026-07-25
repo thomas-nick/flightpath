@@ -1,0 +1,463 @@
+{
+  "pdga": 14097,
+  "name": "Jay Carson",
+  "country": "India",
+  "country_key": "IN",
+  "flag": "\ud83c\uddee\ud83c\uddf3",
+  "rating": 900,
+  "classification": "Pro",
+  "city": "",
+  "nationality": "",
+  "division": "MA50",
+  "primary_class": "amateur",
+  "pdga_points": 111.0,
+  "tour_weighted_points": 181.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 9,
+  "wins": 5,
+  "podiums": 8,
+  "top5": 9,
+  "top10": 9,
+  "top20": 9,
+  "avg_finish": 1.78,
+  "win_rate": 0.556,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 1672,
+  "weighted_rank": 266,
+  "country_rank": 631,
+  "am_events": 9,
+  "am_wins": 5,
+  "am_podiums": 8,
+  "am_top10": 9,
+  "am_pdga_points": 111.0,
+  "last_active": "19-Feb-2023",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 2,
+      "points": 27.0,
+      "weighted": 55.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 7,
+      "points": 84.0,
+      "weighted": 126.0,
+      "wins": 5
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 9,
+      "wins": 5,
+      "podiums": 8,
+      "top5": 9,
+      "top10": 9,
+      "top20": 9,
+      "pdga_points": 111.0,
+      "tour_weighted_points": 181.0,
+      "avg_finish": 1.78,
+      "win_rate": 0.556,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 9,
+      "wins": 5,
+      "podiums": 8,
+      "top5": 9,
+      "top10": 9,
+      "top20": 9,
+      "pdga_points": 111.0,
+      "tour_weighted_points": 181.0,
+      "avg_finish": 1.78,
+      "win_rate": 0.556,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA50": 9
+  },
+  "results": [
+    {
+      "event_id": "69291",
+      "title": "BC3 Fall Classic",
+      "dates": "21-Oct-2023",
+      "year": "2023",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Nashville, Indiana, United States",
+      "place": 4,
+      "pdga_points": 18.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "66360",
+      "title": "WIFFS The Nashville Chill sponsored by Westside Discs (CEP Charity - Rated)",
+      "dates": "19-Feb-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Nashville, Indiana, United States",
+      "place": 1,
+      "pdga_points": 12.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "67449",
+      "title": "Walnut Cracker - WIFFS (CEP Charity - Rated)",
+      "dates": "18-Mar-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Greencastle, Indiana, United States",
+      "place": 3,
+      "pdga_points": 9.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "71253",
+      "title": "Hendricks County Open",
+      "dates": "08-Jul-2023",
+      "year": "2023",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Danville, Indiana, United States",
+      "place": 2,
+      "pdga_points": 9.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 37.5
+    },
+    {
+      "event_id": "57571",
+      "title": "WIFFS #21 - Unfrozen Open (CEP Charity - Rated)",
+      "dates": "27-Feb-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Richmond, Indiana, United States",
+      "place": 1,
+      "pdga_points": 15.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "56568",
+      "title": "WIFFS #17 - The Nashville Chill sponsored by Westside Discs (CEP Charity - Rated)",
+      "dates": "19-Feb-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Nashville, Indiana, United States",
+      "place": 1,
+      "pdga_points": 18.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "55941",
+      "title": "WIFFS #5 - Wabash Winter Bash (CEP Charity - Rated)",
+      "dates": "15-Jan-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Wabash, Indiana, United States",
+      "place": 2,
+      "pdga_points": 18.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "56370",
+      "title": "WIFFS #23 - MoRE Madness (CEP Charity - Rated)",
+      "dates": "06-Mar-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Rushville, Indiana, United States",
+      "place": 1,
+      "pdga_points": 6.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "57268",
+      "title": "WIFFS #14 Mitten Road Trip (CEP Charity - Rated)",
+      "dates": "06-Feb-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Bowling Green, Indiana, United States",
+      "place": 1,
+      "pdga_points": 6.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "66360",
+      "title": "WIFFS The Nashville Chill sponsored by Westside Discs (CEP Charity - Rated)",
+      "dates": "19-Feb-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Nashville, Indiana, United States",
+      "place": 1,
+      "pdga_points": 12.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "57571",
+      "title": "WIFFS #21 - Unfrozen Open (CEP Charity - Rated)",
+      "dates": "27-Feb-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Richmond, Indiana, United States",
+      "place": 1,
+      "pdga_points": 15.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "56568",
+      "title": "WIFFS #17 - The Nashville Chill sponsored by Westside Discs (CEP Charity - Rated)",
+      "dates": "19-Feb-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Nashville, Indiana, United States",
+      "place": 1,
+      "pdga_points": 18.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "56370",
+      "title": "WIFFS #23 - MoRE Madness (CEP Charity - Rated)",
+      "dates": "06-Mar-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Rushville, Indiana, United States",
+      "place": 1,
+      "pdga_points": 6.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "57268",
+      "title": "WIFFS #14 Mitten Road Trip (CEP Charity - Rated)",
+      "dates": "06-Feb-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Bowling Green, Indiana, United States",
+      "place": 1,
+      "pdga_points": 6.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2023",
+      "events": 4,
+      "wins": 1,
+      "podiums": 3,
+      "top10": 4,
+      "pdga_points": 48.0,
+      "avg_finish": 2.5
+    },
+    {
+      "year": "2022",
+      "events": 5,
+      "wins": 4,
+      "podiums": 5,
+      "top10": 5,
+      "pdga_points": 63.0,
+      "avg_finish": 1.2
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2025-04-08",
+      "rating": 885,
+      "rounds": 44
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 882,
+      "rounds": 41
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 887,
+      "rounds": 48
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 890,
+      "rounds": 51
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 885,
+      "rounds": 54
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 885,
+      "rounds": 58
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 883,
+      "rounds": 59
+    },
+    {
+      "date": "2025-11-11",
+      "rating": 882,
+      "rounds": 60
+    },
+    {
+      "date": "2026-01-13",
+      "rating": 883,
+      "rounds": 62
+    },
+    {
+      "date": "2026-02-10",
+      "rating": 885,
+      "rounds": 63
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 891,
+      "rounds": 61
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 891,
+      "rounds": 60
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 897,
+      "rounds": 58
+    },
+    {
+      "date": "2026-06-09",
+      "rating": 896,
+      "rounds": 61
+    },
+    {
+      "date": "2026-07-14",
+      "rating": 900,
+      "rounds": 65
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 13.0,
+    "season_avg": 12.0,
+    "delta_pct": 8.3
+  },
+  "pdga_url": "https://www.pdga.com/player/14097"
+}

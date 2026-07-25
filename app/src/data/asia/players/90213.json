@@ -1,0 +1,329 @@
+{
+  "pdga": 90213,
+  "name": "Thor Wallgren #90213",
+  "country": "Paraguay",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 899,
+  "classification": "Professional",
+  "city": "Caaguaz\u00fa",
+  "nationality": "",
+  "division": "MA50",
+  "primary_class": "amateur",
+  "pdga_points": 354.0,
+  "tour_weighted_points": 187.5,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 4,
+  "wins": 1,
+  "podiums": 1,
+  "top5": 4,
+  "top10": 4,
+  "top20": 4,
+  "avg_finish": 3.75,
+  "win_rate": 0.25,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 580,
+  "weighted_rank": 363,
+  "country_rank": null,
+  "am_events": 4,
+  "am_wins": 1,
+  "am_podiums": 1,
+  "am_top10": 4,
+  "am_pdga_points": 354.0,
+  "last_active": "31-Jan to 02-Feb-2023",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 3,
+      "points": 264.0,
+      "weighted": 170.0,
+      "wins": 1
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 90.0,
+      "weighted": 17.5,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 4,
+      "wins": 1,
+      "podiums": 1,
+      "top5": 4,
+      "top10": 4,
+      "top20": 4,
+      "pdga_points": 354.0,
+      "tour_weighted_points": 187.5,
+      "avg_finish": 3.75,
+      "win_rate": 0.25,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 4,
+      "wins": 1,
+      "podiums": 1,
+      "top5": 4,
+      "top10": 4,
+      "top20": 4,
+      "pdga_points": 354.0,
+      "tour_weighted_points": 187.5,
+      "avg_finish": 3.75,
+      "win_rate": 0.25,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA50": 2,
+    "MA40": 2
+  },
+  "results": [
+    {
+      "event_id": "63564",
+      "title": "Samui Swine Classic X Presented by Prodigy Discs- MA3, MA2, FA1, MA40, MA50, MA60",
+      "dates": "31-Jan to 02-Feb-2023",
+      "year": "2023",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 1,
+      "pdga_points": 78.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 100.0
+    },
+    {
+      "event_id": "38588",
+      "title": "Samui Swine Classic VI - Presented by Dynamic Discs - Ams",
+      "dates": "06-Feb to 07-Feb-2019",
+      "year": "2019",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 4,
+      "pdga_points": 66.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 35.0
+    },
+    {
+      "event_id": "33102",
+      "title": "Third Annual Hyzenbrownie Open - The Flaskenpouch 2018",
+      "dates": "27-Jan to 28-Jan-2018",
+      "year": "2018",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 5,
+      "pdga_points": 90.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "33706",
+      "title": "Samui Swine Classic V",
+      "dates": "01-Feb to 03-Feb-2018",
+      "year": "2018",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 5,
+      "pdga_points": 120.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 35.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "63564",
+      "title": "Samui Swine Classic X Presented by Prodigy Discs- MA3, MA2, FA1, MA40, MA50, MA60",
+      "dates": "31-Jan to 02-Feb-2023",
+      "year": "2023",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 1,
+      "pdga_points": 78.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 100.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2023",
+      "events": 1,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 78.0,
+      "avg_finish": 1.0
+    },
+    {
+      "year": "2019",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 66.0,
+      "avg_finish": 4.0
+    },
+    {
+      "year": "2018",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 2,
+      "pdga_points": 210.0,
+      "avg_finish": 5.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2023-08-08",
+      "rating": 886,
+      "rounds": 45
+    },
+    {
+      "date": "2023-09-12",
+      "rating": 893,
+      "rounds": 37
+    },
+    {
+      "date": "2024-04-09",
+      "rating": 883,
+      "rounds": 20
+    },
+    {
+      "date": "2024-05-14",
+      "rating": 874,
+      "rounds": 16
+    },
+    {
+      "date": "2024-06-11",
+      "rating": 885,
+      "rounds": 17
+    },
+    {
+      "date": "2024-07-09",
+      "rating": 885,
+      "rounds": 22
+    },
+    {
+      "date": "2024-08-13",
+      "rating": 887,
+      "rounds": 24
+    },
+    {
+      "date": "2024-09-10",
+      "rating": 888,
+      "rounds": 26
+    },
+    {
+      "date": "2024-10-08",
+      "rating": 886,
+      "rounds": 28
+    },
+    {
+      "date": "2024-11-12",
+      "rating": 883,
+      "rounds": 30
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 887,
+      "rounds": 20
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 886,
+      "rounds": 21
+    },
+    {
+      "date": "2025-11-11",
+      "rating": 897,
+      "rounds": 10
+    },
+    {
+      "date": "2025-12-09",
+      "rating": 908,
+      "rounds": 11
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 899,
+      "rounds": 15
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 78.0,
+    "season_avg": 120.0,
+    "delta_pct": -35.0
+  },
+  "pdga_url": "https://www.pdga.com/player/90213"
+}

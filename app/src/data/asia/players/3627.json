@@ -1,0 +1,287 @@
+{
+  "pdga": 3627,
+  "name": "Toshiya Sugimoto #3627",
+  "country": "Japan",
+  "country_key": "JP",
+  "flag": "\ud83c\uddef\ud83c\uddf5",
+  "rating": 930,
+  "classification": "Professional",
+  "city": "Akaho",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 157.5,
+  "tour_weighted_points": 45.5,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 6,
+  "wins": 0,
+  "podiums": 0,
+  "top5": 0,
+  "top10": 4,
+  "top20": 5,
+  "avg_finish": 12.33,
+  "win_rate": 0.0,
+  "top10_rate": 0.667,
+  "cash_earned": 0.0,
+  "pdga_rank": 935,
+  "weighted_rank": 972,
+  "country_rank": 225,
+  "am_events": 0,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 0,
+  "am_pdga_points": 0.0,
+  "last_active": "23-Oct to 24-Oct-2021",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 6,
+      "points": 157.5,
+      "weighted": 45.5,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 6,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 4,
+      "top20": 5,
+      "pdga_points": 157.5,
+      "tour_weighted_points": 45.5,
+      "avg_finish": 12.33,
+      "win_rate": 0.0,
+      "top10_rate": 0.667
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "all": {
+      "events": 6,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 4,
+      "top20": 5,
+      "pdga_points": 157.5,
+      "tour_weighted_points": 45.5,
+      "avg_finish": 12.33,
+      "win_rate": 0.0,
+      "top10_rate": 0.667
+    }
+  },
+  "division_counts": {
+    "MPO": 6
+  },
+  "results": [
+    {
+      "event_id": "54455",
+      "title": "The 24th Kansai Open",
+      "dates": "23-Oct to 24-Oct-2021",
+      "year": "2021",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Nantan city, Kyoto, Japan",
+      "place": 28,
+      "pdga_points": 30.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.5
+    },
+    {
+      "event_id": "55134",
+      "title": "The 17th Kyoto Classic",
+      "dates": "04-Dec to 05-Dec-2021",
+      "year": "2021",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Funai-gun, Kyoto, Japan",
+      "place": 10,
+      "pdga_points": 15.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "45289",
+      "title": "The 16th Kyoto Classic",
+      "dates": "21-Nov to 22-Nov-2020",
+      "year": "2020",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Funai-gun, Kyoto, Japan",
+      "place": 9,
+      "pdga_points": 45.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "45286",
+      "title": "The 23rd. Kansai Open",
+      "dates": "05-Sep to 06-Sep-2020",
+      "year": "2020",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Nantan, Kyoto, Japan",
+      "place": 12,
+      "pdga_points": 30.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "42479",
+      "title": "The 22nd Kansai Open",
+      "dates": "31-Aug to 01-Sep-2019",
+      "year": "2019",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Nantan-shi, Kyoto, Japan",
+      "place": 7,
+      "pdga_points": 30.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "15587",
+      "title": "Kyoto Open 2013",
+      "dates": "14-Jul to 15-Jul-2013",
+      "year": "2013",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Fuminnomori, Kyoto, Japan",
+      "place": 8,
+      "pdga_points": 7.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 10.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2021",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 45.0,
+      "avg_finish": 19.0
+    },
+    {
+      "year": "2020",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 75.0,
+      "avg_finish": 10.5
+    },
+    {
+      "year": "2019",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 30.0,
+      "avg_finish": 7.0
+    },
+    {
+      "year": "2013",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 7.5,
+      "avg_finish": 8.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2005-02-15",
+      "rating": 874,
+      "rounds": 8
+    },
+    {
+      "date": "2005-09-15",
+      "rating": 867,
+      "rounds": 9
+    }
+  ],
+  "streak": {
+    "direction": "up",
+    "recent_avg": 30.0,
+    "season_avg": 22.5,
+    "delta_pct": 33.3
+  },
+  "pdga_url": "https://www.pdga.com/player/3627"
+}

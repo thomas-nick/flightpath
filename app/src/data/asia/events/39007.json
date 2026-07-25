@@ -1,0 +1,120 @@
+{
+  "event_id": "39007",
+  "title": "National Team Championship - Divisional",
+  "location": "Oyama, Tochigi, Japan",
+  "dates": "13-Jan to 14-Jan-2019",
+  "year": "2019",
+  "tier": "C",
+  "level": "c_tier",
+  "is_asia_tour": false,
+  "status": "Event complete.",
+  "field_size": 7,
+  "avg_mpo_rating": 938.5,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "count": 3
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 8105,
+      "name": "Yasuo Sakurai",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 1,
+      "pdga_points": 50.0,
+      "rating": 943,
+      "prize": "$18",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 65847,
+      "name": "Sou Miura",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 2,
+      "pdga_points": 25.0,
+      "rating": 934,
+      "prize": "$14",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 927,
+      "name": "92674",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 2500,
+      "pdga_points": 0.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 891,
+      "name": "8131",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 5000,
+      "pdga_points": 0.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    }
+  ],
+  "fpo": [],
+  "amateur": [
+    {
+      "pdga": 68572,
+      "name": "John Reid",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 75.0,
+      "rating": 907,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 8047,
+      "name": "Yasuhiko Morita",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 3,
+      "pdga_points": 25.0,
+      "rating": 837,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 874,
+      "name": "8083",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 2500,
+      "pdga_points": 0.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    }
+  ],
+  "divisions": [
+    "MA1",
+    "MPO"
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "pdga": 293918,
+  "name": "Teemu Kaonp\u00e4\u00e4 #293918",
+  "country": "Finland",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": null,
+  "classification": "Amateur",
+  "city": "Helsinki",
+  "nationality": "",
+  "division": "MA1",
+  "primary_class": "amateur",
+  "pdga_points": 80.0,
+  "tour_weighted_points": 30.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 4,
+  "wins": 0,
+  "podiums": 1,
+  "top5": 2,
+  "top10": 4,
+  "top20": 4,
+  "avg_finish": 4.75,
+  "win_rate": 0.0,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 1277,
+  "weighted_rank": 1180,
+  "country_rank": null,
+  "am_events": 4,
+  "am_wins": 0,
+  "am_podiums": 1,
+  "am_top10": 4,
+  "am_pdga_points": 80.0,
+  "last_active": "13-Oct-2024",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 4,
+      "points": 80.0,
+      "weighted": 30.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 4,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 2,
+      "top10": 4,
+      "top20": 4,
+      "pdga_points": 80.0,
+      "tour_weighted_points": 30.0,
+      "avg_finish": 4.75,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 4,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 2,
+      "top10": 4,
+      "top20": 4,
+      "pdga_points": 80.0,
+      "tour_weighted_points": 30.0,
+      "avg_finish": 4.75,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA1": 4
+  },
+  "results": [
+    {
+      "event_id": "85901",
+      "title": "Banging Bangkok Chains @ Lakewood",
+      "dates": "23-Nov to 24-Nov-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Samut Prakarn, Thailand",
+      "place": 7,
+      "pdga_points": 0.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "85570",
+      "title": "Festival of Flight II",
+      "dates": "16-Nov to 17-Nov-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Chiang Mai, Thailand",
+      "place": 4,
+      "pdga_points": 30.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "85411",
+      "title": "Jungle Jam",
+      "dates": "13-Oct-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Chiang Mai, Thailand",
+      "place": 2,
+      "pdga_points": 50.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "85902",
+      "title": "Coco-Breeze at Pattaya Disc Golf",
+      "dates": "07-Dec to 08-Dec-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Pattaya, Thailand",
+      "place": 6,
+      "pdga_points": 0.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2024",
+      "events": 4,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 4,
+      "pdga_points": 80.0,
+      "avg_finish": 4.75
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2024-11-12",
+      "rating": 875,
+      "rounds": 2
+    },
+    {
+      "date": "2024-12-10",
+      "rating": 838,
+      "rounds": 7
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 26.666666666666668,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/293918"
+}

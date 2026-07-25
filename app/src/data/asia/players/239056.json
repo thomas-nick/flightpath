@@ -1,0 +1,350 @@
+{
+  "pdga": 239056,
+  "name": "Krista Sherryl Laroza #239056",
+  "country": "Philippines",
+  "country_key": "PH",
+  "flag": "\ud83c\uddf5\ud83c\udded",
+  "rating": 663,
+  "classification": "Amateur",
+  "city": "Silang",
+  "nationality": "",
+  "division": "FA1",
+  "primary_class": "amateur",
+  "pdga_points": 44.0,
+  "tour_weighted_points": 148.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 8,
+  "wins": 0,
+  "podiums": 6,
+  "top5": 7,
+  "top10": 8,
+  "top20": 8,
+  "avg_finish": 3.25,
+  "win_rate": 0.0,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 1558,
+  "weighted_rank": 455,
+  "country_rank": 67,
+  "am_events": 8,
+  "am_wins": 0,
+  "am_podiums": 6,
+  "am_top10": 8,
+  "am_pdga_points": 44.0,
+  "last_active": "27-Feb to 01-Mar-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 1,
+      "points": 4.0,
+      "weighted": 70.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 7,
+      "points": 40.0,
+      "weighted": 78.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 8,
+      "wins": 0,
+      "podiums": 6,
+      "top5": 7,
+      "top10": 8,
+      "top20": 8,
+      "pdga_points": 44.0,
+      "tour_weighted_points": 148.0,
+      "avg_finish": 3.25,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 8,
+      "wins": 0,
+      "podiums": 6,
+      "top5": 7,
+      "top10": 8,
+      "top20": 8,
+      "pdga_points": 44.0,
+      "tour_weighted_points": 148.0,
+      "avg_finish": 3.25,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "FA2": 3,
+    "FA1": 5
+  },
+  "results": [
+    {
+      "event_id": "97272",
+      "title": "Lipad Pilipinas IV - PDGA Asia Tour #5 presented by Province of Tarlac",
+      "dates": "27-Feb to 01-Mar-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "San Jose, Tarlac, Philippines",
+      "place": 4,
+      "pdga_points": 4.0,
+      "division": "FA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 70.0
+    },
+    {
+      "event_id": "89767",
+      "title": "Enkantierra Nature Park Disc Golf Course  Inaugural Tournament",
+      "dates": "29-Mar-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Santo Tomas, Batangas, Philippines",
+      "place": 6,
+      "pdga_points": 6.0,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "75357",
+      "title": "LIPAD PILIPINAS OPEN 2024 presented by Provincial Government of Tarlac",
+      "dates": "24-Feb to 25-Feb-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Tarlac, Tarlac, Philippines",
+      "place": 3,
+      "pdga_points": 3.0,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "80554",
+      "title": "Drifwoods Action Park DGC Inaugural Open & WGE",
+      "dates": "18-May to 19-May-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Indang, Cavite, Philippines",
+      "place": 2,
+      "pdga_points": 6.0,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "72188",
+      "title": "National Amateur Championship",
+      "dates": "08-Oct-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Tarlac, Tarlac, Philippines",
+      "place": 3,
+      "pdga_points": 8.0,
+      "division": "FA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "72511",
+      "title": "The Damascus Last Hurrah! (Jon Mough and Fig Tree Tribute Tournament)",
+      "dates": "05-Aug-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Amadeo, Cavite, Philippines",
+      "place": 3,
+      "pdga_points": 3.0,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "64710",
+      "title": "DGAP LIPAD PILIPINAS OPEN 2023 presented by Divergent Discs",
+      "dates": "04-Mar to 05-Mar-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Amadeo, Cavite, Philippines",
+      "place": 2,
+      "pdga_points": 8.0,
+      "division": "FA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "75358",
+      "title": "DGAP One Year Anniversary Tournament at Nayong Pilipino",
+      "dates": "03-Dec-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Paranaque, Metro Manila, Philippines",
+      "place": 3,
+      "pdga_points": 6.0,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 4.0,
+      "avg_finish": 4.0
+    },
+    {
+      "year": "2025",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 6.0,
+      "avg_finish": 6.0
+    },
+    {
+      "year": "2024",
+      "events": 2,
+      "wins": 0,
+      "podiums": 2,
+      "top10": 2,
+      "pdga_points": 9.0,
+      "avg_finish": 2.5
+    },
+    {
+      "year": "2023",
+      "events": 4,
+      "wins": 0,
+      "podiums": 4,
+      "top10": 4,
+      "pdga_points": 25.0,
+      "avg_finish": 2.75
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2023-03-14",
+      "rating": 636,
+      "rounds": 2
+    },
+    {
+      "date": "2023-08-08",
+      "rating": 598,
+      "rounds": 3
+    },
+    {
+      "date": "2023-10-10",
+      "rating": 549,
+      "rounds": 4
+    },
+    {
+      "date": "2023-12-12",
+      "rating": 569,
+      "rounds": 5
+    },
+    {
+      "date": "2024-03-12",
+      "rating": 644,
+      "rounds": 6
+    },
+    {
+      "date": "2024-06-11",
+      "rating": 652,
+      "rounds": 8
+    },
+    {
+      "date": "2025-04-08",
+      "rating": 666,
+      "rounds": 7
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 663,
+      "rounds": 6
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 4.3,
+    "season_avg": 6.2,
+    "delta_pct": -30.1
+  },
+  "pdga_url": "https://www.pdga.com/player/239056"
+}

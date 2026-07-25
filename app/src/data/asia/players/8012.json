@@ -1,0 +1,227 @@
+{
+  "pdga": 8012,
+  "name": "Hiroki Takahashi #8012",
+  "country": "Japan",
+  "country_key": "JP",
+  "flag": "\ud83c\uddef\ud83c\uddf5",
+  "rating": 939,
+  "classification": "Professional",
+  "city": "Musashino",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 174.0,
+  "tour_weighted_points": 90.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 4,
+  "wins": 0,
+  "podiums": 2,
+  "top5": 4,
+  "top10": 4,
+  "top20": 4,
+  "avg_finish": 3.75,
+  "win_rate": 0.0,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 888,
+  "weighted_rank": 664,
+  "country_rank": 216,
+  "am_events": 1,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 1,
+  "am_pdga_points": 9.0,
+  "last_active": "11-Aug to 12-Aug-2019",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 4,
+      "points": 174.0,
+      "weighted": 90.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 3,
+      "wins": 0,
+      "podiums": 2,
+      "top5": 3,
+      "top10": 3,
+      "top20": 3,
+      "pdga_points": 165.0,
+      "tour_weighted_points": 72.5,
+      "avg_finish": 3.67,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 1,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 9.0,
+      "tour_weighted_points": 17.5,
+      "avg_finish": 4.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 4,
+      "wins": 0,
+      "podiums": 2,
+      "top5": 4,
+      "top10": 4,
+      "top20": 4,
+      "pdga_points": 174.0,
+      "tour_weighted_points": 90.0,
+      "avg_finish": 3.75,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MPO": 3,
+    "MA50": 1
+  },
+  "results": [
+    {
+      "event_id": "41246",
+      "title": "The 14th Michinoku Open",
+      "dates": "11-Aug to 12-Aug-2019",
+      "year": "2019",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Kitakami, Iwate, Japan",
+      "place": 4,
+      "pdga_points": 9.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "9840",
+      "title": "14th Kansai Open",
+      "dates": "23-Jan to 24-Jan-2010",
+      "year": "2010",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Kakogawa, Hyogo, Japan",
+      "place": 3,
+      "pdga_points": 75.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 27.5
+    },
+    {
+      "event_id": "10345",
+      "title": "Chiba Open",
+      "dates": "20-Feb to 21-Feb-2010",
+      "year": "2010",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Minamiboso, Japan",
+      "place": 3,
+      "pdga_points": 45.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 27.5
+    },
+    {
+      "event_id": "9842",
+      "title": "6th Kinki Open",
+      "dates": "06-Mar to 07-Mar-2010",
+      "year": "2010",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Mtsuzaka, Mie, Japan",
+      "place": 5,
+      "pdga_points": 45.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 17.5
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2019",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 9.0,
+      "avg_finish": 4.0
+    },
+    {
+      "year": "2010",
+      "events": 3,
+      "wins": 0,
+      "podiums": 2,
+      "top10": 3,
+      "pdga_points": 165.0,
+      "avg_finish": 3.67
+    }
+  ],
+  "rating_history": [],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 43.0,
+    "season_avg": 45.0,
+    "delta_pct": -4.4
+  },
+  "pdga_url": "https://www.pdga.com/player/8012"
+}

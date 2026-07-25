@@ -1,0 +1,227 @@
+{
+  "event_id": "79794",
+  "title": "The 2nd Michinoku Queen's Cup +WGE",
+  "location": "Kitakami-shi, Iwate, Japan",
+  "dates": "18-May to 19-May-2024",
+  "year": "2024",
+  "tier": "C",
+  "level": "c_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 15,
+  "avg_mpo_rating": 924.7,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "count": 15
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 239872,
+      "name": "Kaede Matayoshi",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 1,
+      "pdga_points": 50.0,
+      "rating": 969,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 59530,
+      "name": "Shuhei Kurobuchi",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 2,
+      "pdga_points": 45.0,
+      "rating": 955,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8130,
+      "name": "Eiji Kaneko",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 3,
+      "pdga_points": 40.0,
+      "rating": 949,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8071,
+      "name": "Jun Mochizuki",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 5,
+      "pdga_points": 30.0,
+      "rating": 931,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8182,
+      "name": "Makoto Takahashi",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 7,
+      "pdga_points": 20.0,
+      "rating": 886,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 6036,
+      "name": "Takao Ehara",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 9,
+      "pdga_points": 10.0,
+      "rating": 907,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 151261,
+      "name": "Yoshihiro Abe",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 10,
+      "pdga_points": 5.0,
+      "rating": 876,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    }
+  ],
+  "fpo": [
+    {
+      "pdga": 241401,
+      "name": "Marina Saitou",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 2,
+      "pdga_points": 15.0,
+      "rating": 887,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 151864,
+      "name": "Reiko Ito",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 5,
+      "pdga_points": 6.0,
+      "rating": 825,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    }
+  ],
+  "amateur": [
+    {
+      "pdga": 240381,
+      "name": "Haruna Akaishi",
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 9.0,
+      "rating": 889,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 155089,
+      "name": "Mihoko Kitahara",
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 6.0,
+      "rating": 815,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 240380,
+      "name": "Tomoe Mieda",
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "place": 3,
+      "pdga_points": 3.0,
+      "rating": 805,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 240382,
+      "name": "Kazunori Akaishi",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 55.0,
+      "rating": 912,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 155088,
+      "name": "Hiroaki Kitahara",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 50.0,
+      "rating": 904,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 272618,
+      "name": "Naoki Mieda",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 3,
+      "pdga_points": 45.0,
+      "rating": 899,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    }
+  ],
+  "divisions": [
+    "FA1",
+    "FPO",
+    "MA1",
+    "MPO"
+  ]
+}

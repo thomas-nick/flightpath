@@ -1,0 +1,214 @@
+{
+  "event_id": "36414",
+  "title": "The 13th Kiyosatonomori Open",
+  "location": "Hokuto City, Yamanashi, Japan",
+  "dates": "19-May to 20-May-2018",
+  "year": "2018",
+  "tier": "B",
+  "level": "b_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 14,
+  "avg_mpo_rating": 967.9,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "count": 14
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 8172,
+      "name": "Hideaki Matsuda",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 1,
+      "pdga_points": 67.5,
+      "rating": 1009,
+      "prize": "$108",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 6075,
+      "name": "Kazuo Shirai",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 2,
+      "pdga_points": 60.0,
+      "rating": 1003,
+      "prize": "$54",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 102802,
+      "name": "Kouichi Fukuta",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 3,
+      "pdga_points": 52.5,
+      "rating": 990,
+      "prize": "$36",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8177,
+      "name": "Kenta Nagaoka",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 4,
+      "pdga_points": 45.0,
+      "rating": 960,
+      "prize": "$18",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 65847,
+      "name": "Sou Miura",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 6,
+      "pdga_points": 30.0,
+      "rating": 933,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 59526,
+      "name": "Hiroki Tezuka",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 7,
+      "pdga_points": 22.5,
+      "rating": 947,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 59525,
+      "name": "Yusuke Takahashi",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 8,
+      "pdga_points": 15.0,
+      "rating": 933,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    }
+  ],
+  "fpo": [
+    {
+      "pdga": 4510,
+      "name": "Naoko Inami",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 1,
+      "pdga_points": 36.0,
+      "rating": 896,
+      "prize": "$90",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 107165,
+      "name": "Narumi Kanehiro",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 2,
+      "pdga_points": 31.5,
+      "rating": null,
+      "prize": "$54",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8111,
+      "name": "Sachiko Sato",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 3,
+      "pdga_points": 27.0,
+      "rating": 916,
+      "prize": "$36",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 3603,
+      "name": "Reiko Kinomiya",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 5,
+      "pdga_points": 18.0,
+      "rating": 856,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    }
+  ],
+  "amateur": [
+    {
+      "pdga": 8083,
+      "name": "Michio Kusayanagi",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 5,
+      "pdga_points": 30.0,
+      "rating": 739,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 74911,
+      "name": "Akira Takano",
+      "division": "MA60",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 12.0,
+      "rating": 842,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8047,
+      "name": "Yasuhiko Morita",
+      "division": "MA60",
+      "class_bucket": "amateur",
+      "place": 3,
+      "pdga_points": 9.0,
+      "rating": 814,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    }
+  ],
+  "divisions": [
+    "FPO",
+    "MA1",
+    "MA60",
+    "MPO"
+  ]
+}

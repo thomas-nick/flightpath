@@ -1,0 +1,210 @@
+{
+  "pdga": 283952,
+  "name": "Nanke Ming #283952",
+  "country": "China",
+  "country_key": "CN",
+  "flag": "\ud83c\udde8\ud83c\uddf3",
+  "rating": 754,
+  "classification": "Amateur",
+  "city": "Ch\u00f3ngq\u00ecng Sh\u00ec",
+  "nationality": "",
+  "division": "MA2",
+  "primary_class": "amateur",
+  "pdga_points": 56.0,
+  "tour_weighted_points": 5.2,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 3,
+  "wins": 0,
+  "podiums": 0,
+  "top5": 0,
+  "top10": 0,
+  "top20": 1,
+  "avg_finish": 22.0,
+  "win_rate": 0.0,
+  "top10_rate": 0.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 1443,
+  "weighted_rank": 1888,
+  "country_rank": 230,
+  "am_events": 3,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 0,
+  "am_pdga_points": 56.0,
+  "last_active": "05-Apr to 06-Apr-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 24.0,
+      "weighted": 4.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 2,
+      "points": 32.0,
+      "weighted": 1.2,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 3,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 1,
+      "pdga_points": 56.0,
+      "tour_weighted_points": 5.2,
+      "avg_finish": 22.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "all": {
+      "events": 3,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 1,
+      "pdga_points": 56.0,
+      "tour_weighted_points": 5.2,
+      "avg_finish": 22.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    }
+  },
+  "division_counts": {
+    "MA2": 3
+  },
+  "results": [
+    {
+      "event_id": "103293",
+      "title": "CDGT Championship Beijing - China Disc Golf Course Tour Event #2",
+      "dates": "30-May to 31-May-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Beijing, Beijing Shi, China",
+      "place": 26,
+      "pdga_points": 0.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 0.6
+    },
+    {
+      "event_id": "101188",
+      "title": "CDGT Championship Kunshan - China Disc Golf Course Tour Event #1",
+      "dates": "05-Apr to 06-Apr-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Kunshan, Jiangsu Sheng, China",
+      "place": 27,
+      "pdga_points": 32.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 0.6
+    },
+    {
+      "event_id": "90038",
+      "title": "2025 CDGC\u98de\u76d8\u9ad8\u5c14\u592b\u5de1\u56de\u8d5b-\u91cd\u5e86  2025 CDGC Disc Golf Tour - Chongqing",
+      "dates": "29-Mar to 30-Mar-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Chongqing, Chongqing Shi, China",
+      "place": 13,
+      "pdga_points": 24.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 32.0,
+      "avg_finish": 26.5
+    },
+    {
+      "year": "2025",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 24.0,
+      "avg_finish": 13.0
+    }
+  ],
+  "rating_history": [],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/283952"
+}

@@ -1,0 +1,261 @@
+{
+  "pdga": 309591,
+  "name": "ZHOU JING #309591",
+  "country": "China",
+  "country_key": "CN",
+  "flag": "\ud83c\udde8\ud83c\uddf3",
+  "rating": 791,
+  "classification": "Amateur",
+  "city": "Beijing",
+  "nationality": "",
+  "division": "MA50",
+  "primary_class": "amateur",
+  "pdga_points": 164.0,
+  "tour_weighted_points": 41.1,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 5,
+  "wins": 0,
+  "podiums": 1,
+  "top5": 3,
+  "top10": 4,
+  "top20": 5,
+  "avg_finish": 6.6,
+  "win_rate": 0.0,
+  "top10_rate": 0.8,
+  "cash_earned": 0.0,
+  "pdga_rank": 917,
+  "weighted_rank": 1008,
+  "country_rank": 151,
+  "am_events": 5,
+  "am_wins": 0,
+  "am_podiums": 1,
+  "am_top10": 4,
+  "am_pdga_points": 164.0,
+  "last_active": "07-Mar-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 18.0,
+      "weighted": 17.5,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 4,
+      "points": 146.0,
+      "weighted": 23.6,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 5,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 3,
+      "top10": 4,
+      "top20": 5,
+      "pdga_points": 164.0,
+      "tour_weighted_points": 41.1,
+      "avg_finish": 6.6,
+      "win_rate": 0.0,
+      "top10_rate": 0.8
+    },
+    "all": {
+      "events": 5,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 3,
+      "top10": 4,
+      "top20": 5,
+      "pdga_points": 164.0,
+      "tour_weighted_points": 41.1,
+      "avg_finish": 6.6,
+      "win_rate": 0.0,
+      "top10_rate": 0.8
+    }
+  },
+  "division_counts": {
+    "MA50": 2,
+    "MA2": 1,
+    "MA60": 1,
+    "MA1": 1
+  },
+  "results": [
+    {
+      "event_id": "101178",
+      "title": "Spring of Wenyu River 2026 - \u5317\u4eac\u6e29\u6986\u6cb3\u6625\u5b63\u516c\u5f00\u8d5b2026 - MA2, FA2, MA50, FA50, MJ15",
+      "dates": "07-Mar-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Beijing, Beijing Shi, China",
+      "place": 5,
+      "pdga_points": 9.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "89067",
+      "title": "2025 Autumn Open of Beijing Wenyu River-2025\u5317\u4eac\u6e29\u6986\u6cb3\u79cb\u5b63\u516c\u5f00\u8d5b",
+      "dates": "20-Sep-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Beijing, Beijing Shi, China",
+      "place": 6,
+      "pdga_points": 36.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "90013",
+      "title": "\u534e\u590f\u8054\u8d5b-2025 \u4e09\u90e8\u66f2\u6311\u6218\u8d5b\uff08Trilogy Challenge\uff09",
+      "dates": "20-Sep-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Beijing, Beijing Shi, China",
+      "place": 14,
+      "pdga_points": 95.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "90011",
+      "title": "\u9996\u5c4a\u201c\u4e91\u9876\u676f\u201d\u98de\u76d8\u9ad8\u5c14\u592b\u9080\u8bf7\u8d5b\u66a8\u534e\u590f\u98de\u76d8\u9ad8\u5c14\u592b\u8054\u8d5b",
+      "dates": "05-Jul-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "baishan shi, Jilin Sheng, China",
+      "place": 3,
+      "pdga_points": 6.0,
+      "division": "MA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "96234",
+      "title": "2025\u957f\u4e09\u89d2\u63b7\u51c6\u98de\u76d8\uff08\u6606\u5c71\uff09\u516c\u5f00\u8d5b\u66a8CDGC\u98de\u76d8\u9ad8\u5c14\u592b\u5de1\u56de\u8d5b\u603b\u51b3\u8d5b-2025 Yangzi River Delta Disc Golf  (KUNSHAN) Open - All Other Divisions",
+      "dates": "04-Oct to 05-Oct-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Kunshan, Jiangsu Sheng, China",
+      "place": 5,
+      "pdga_points": 18.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 17.5
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 9.0,
+      "avg_finish": 5.0
+    },
+    {
+      "year": "2025",
+      "events": 4,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 3,
+      "pdga_points": 155.0,
+      "avg_finish": 7.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2025-07-08",
+      "rating": 809,
+      "rounds": 2
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 771,
+      "rounds": 4
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 791,
+      "rounds": 8
+    }
+  ],
+  "streak": {
+    "direction": "up",
+    "recent_avg": 46.7,
+    "season_avg": 12.0,
+    "delta_pct": 288.9
+  },
+  "pdga_url": "https://www.pdga.com/player/309591"
+}

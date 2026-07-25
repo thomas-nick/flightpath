@@ -1,0 +1,394 @@
+{
+  "pdga": 195346,
+  "name": "Casper Gronbjerg #195346",
+  "country": "Denmark",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 855,
+  "classification": "Amateur",
+  "city": "Silkeborg",
+  "nationality": "",
+  "division": "MA50",
+  "primary_class": "amateur",
+  "pdga_points": 265.5,
+  "tour_weighted_points": 86.5,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 7,
+  "wins": 2,
+  "podiums": 3,
+  "top5": 4,
+  "top10": 6,
+  "top20": 7,
+  "avg_finish": 6.0,
+  "win_rate": 0.286,
+  "top10_rate": 0.857,
+  "cash_earned": 0.0,
+  "pdga_rank": 699,
+  "weighted_rank": 679,
+  "country_rank": null,
+  "am_events": 7,
+  "am_wins": 2,
+  "am_podiums": 3,
+  "am_top10": 6,
+  "am_pdga_points": 265.5,
+  "last_active": "28-Jan to 30-Jan-2025",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 2,
+      "points": 175.5,
+      "weighted": 31.5,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 5,
+      "points": 90.0,
+      "weighted": 55.0,
+      "wins": 2
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 7,
+      "wins": 2,
+      "podiums": 3,
+      "top5": 4,
+      "top10": 6,
+      "top20": 7,
+      "pdga_points": 265.5,
+      "tour_weighted_points": 86.5,
+      "avg_finish": 6.0,
+      "win_rate": 0.286,
+      "top10_rate": 0.857
+    },
+    "all": {
+      "events": 7,
+      "wins": 2,
+      "podiums": 3,
+      "top5": 4,
+      "top10": 6,
+      "top20": 7,
+      "pdga_points": 265.5,
+      "tour_weighted_points": 86.5,
+      "avg_finish": 6.0,
+      "win_rate": 0.286,
+      "top10_rate": 0.857
+    }
+  },
+  "division_counts": {
+    "MA50": 4,
+    "MA1": 2,
+    "MA40": 1
+  },
+  "results": [
+    {
+      "event_id": "84698",
+      "title": "Samui Swine Classic XII - MA1, MA2, MA3, MA40, MA50, MA60, FA1 Presented by Latitude 64",
+      "dates": "28-Jan to 30-Jan-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 6,
+      "pdga_points": 30.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "90385",
+      "title": "Dover Dash 2025",
+      "dates": "22-Mar-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 1,
+      "pdga_points": 21.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "95233",
+      "title": "2025 Singapore Disc Golf Championships",
+      "dates": "16-Aug to 17-Aug-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 5,
+      "pdga_points": 6.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "74304",
+      "title": "SE Asia Disc Golf Championship 2024",
+      "dates": "26-Jan to 28-Jan-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 3,
+      "pdga_points": 78.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 27.5
+    },
+    {
+      "event_id": "85079",
+      "title": "2024 Singapore Disc Golf Championships",
+      "dates": "21-Sep to 22-Sep-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 1,
+      "pdga_points": 18.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "73691",
+      "title": "Samui Swine Classic XI - MPO, FPO, MP40, MP50, MA1, FA1",
+      "dates": "02-Feb to 04-Feb-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 17,
+      "pdga_points": 97.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "73950",
+      "title": "2023 Singapore Disc Golf Championships",
+      "dates": "23-Sep to 24-Sep-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 9,
+      "pdga_points": 15.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "90385",
+      "title": "Dover Dash 2025",
+      "dates": "22-Mar-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 1,
+      "pdga_points": 21.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "85079",
+      "title": "2024 Singapore Disc Golf Championships",
+      "dates": "21-Sep to 22-Sep-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 1,
+      "pdga_points": 18.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2025",
+      "events": 3,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 3,
+      "pdga_points": 57.0,
+      "avg_finish": 4.0
+    },
+    {
+      "year": "2024",
+      "events": 3,
+      "wins": 1,
+      "podiums": 2,
+      "top10": 2,
+      "pdga_points": 193.5,
+      "avg_finish": 7.0
+    },
+    {
+      "year": "2023",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 15.0,
+      "avg_finish": 9.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2024-05-14",
+      "rating": 857,
+      "rounds": 12
+    },
+    {
+      "date": "2024-06-11",
+      "rating": 847,
+      "rounds": 16
+    },
+    {
+      "date": "2024-07-09",
+      "rating": 854,
+      "rounds": 18
+    },
+    {
+      "date": "2024-08-13",
+      "rating": 853,
+      "rounds": 21
+    },
+    {
+      "date": "2024-10-08",
+      "rating": 856,
+      "rounds": 23
+    },
+    {
+      "date": "2024-12-10",
+      "rating": 864,
+      "rounds": 24
+    },
+    {
+      "date": "2025-01-14",
+      "rating": 867,
+      "rounds": 27
+    },
+    {
+      "date": "2025-02-11",
+      "rating": 863,
+      "rounds": 27
+    },
+    {
+      "date": "2025-04-08",
+      "rating": 866,
+      "rounds": 24
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 855,
+      "rounds": 25
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 859,
+      "rounds": 30
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 859,
+      "rounds": 26
+    },
+    {
+      "date": "2026-01-13",
+      "rating": 854,
+      "rounds": 24
+    },
+    {
+      "date": "2026-02-10",
+      "rating": 854,
+      "rounds": 21
+    },
+    {
+      "date": "2026-06-09",
+      "rating": 855,
+      "rounds": 21
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 19.0,
+    "season_avg": 52.1,
+    "delta_pct": -63.5
+  },
+  "pdga_url": "https://www.pdga.com/player/195346"
+}

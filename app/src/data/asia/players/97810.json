@@ -1,0 +1,268 @@
+{
+  "pdga": 97810,
+  "name": "Youngja Yun #97810",
+  "country": "South Korea",
+  "country_key": "KR",
+  "flag": "\ud83c\uddf0\ud83c\uddf7",
+  "rating": 764,
+  "classification": "Amateur",
+  "city": "Daegu",
+  "nationality": "",
+  "division": "FPO",
+  "primary_class": "open_fpo",
+  "pdga_points": 78.5,
+  "tour_weighted_points": 27.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 6,
+  "wins": 0,
+  "podiums": 0,
+  "top5": 1,
+  "top10": 6,
+  "top20": 6,
+  "avg_finish": 7.17,
+  "win_rate": 0.0,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 1285,
+  "weighted_rank": 1224,
+  "country_rank": 70,
+  "am_events": 0,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 0,
+  "am_pdga_points": 0.0,
+  "last_active": "14-Mar to 15-Mar-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 6,
+      "points": 78.5,
+      "weighted": 27.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 1,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 20.0,
+      "tour_weighted_points": 7.0,
+      "avg_finish": 5.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "open_fpo": {
+      "events": 5,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 5,
+      "top20": 5,
+      "pdga_points": 58.5,
+      "tour_weighted_points": 20.0,
+      "avg_finish": 7.6,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "amateur": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "all": {
+      "events": 6,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 1,
+      "top10": 6,
+      "top20": 6,
+      "pdga_points": 78.5,
+      "tour_weighted_points": 27.0,
+      "avg_finish": 7.17,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "FPO": 5,
+    "MPO": 1
+  },
+  "results": [
+    {
+      "event_id": "101742",
+      "title": "Pump it up #3 Doubles (MIXED)",
+      "dates": "29-Mar-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Yeongdong-gun, Chungcheongbuk-do, South Korea",
+      "place": 5,
+      "pdga_points": 20.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "99088",
+      "title": "Pump it up #1",
+      "dates": "25-Jan-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Yeongdong-gun, Chungcheongbuk-do, South Korea",
+      "place": 7,
+      "pdga_points": 9.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "99966",
+      "title": "Pump it up #2",
+      "dates": "22-Feb-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Yeongdong-gun, Chungcheongbuk-do, South Korea",
+      "place": 8,
+      "pdga_points": 6.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "100120",
+      "title": "3rd YeongDong OPEN",
+      "dates": "14-Mar to 15-Mar-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "yeongdong gun, Chungcheongbuk-do, South Korea",
+      "place": 10,
+      "pdga_points": 22.5,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "80259",
+      "title": "12th Daegu International Open",
+      "dates": "18-May to 19-May-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Daegu, Daegu, South Korea",
+      "place": 7,
+      "pdga_points": 12.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "73757",
+      "title": "2023 Chairman's Tournament",
+      "dates": "15-Oct-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Daegu, Daegu, South Korea",
+      "place": 6,
+      "pdga_points": 9.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "",
+      "weighted_points": 4.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 4,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 4,
+      "pdga_points": 57.5,
+      "avg_finish": 7.5
+    },
+    {
+      "year": "2024",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 12.0,
+      "avg_finish": 7.0
+    },
+    {
+      "year": "2023",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 9.0,
+      "avg_finish": 6.0
+    }
+  ],
+  "rating_history": [],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 11.7,
+    "season_avg": 14.5,
+    "delta_pct": -19.5
+  },
+  "pdga_url": "https://www.pdga.com/player/97810"
+}

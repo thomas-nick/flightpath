@@ -1,0 +1,245 @@
+{
+  "pdga": 41561,
+  "name": "Mark Huether #41561",
+  "country": "United States",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 983,
+  "classification": "Professional",
+  "city": "Charlotte",
+  "nationality": "",
+  "division": "MA1",
+  "primary_class": "amateur",
+  "pdga_points": 4140.0,
+  "tour_weighted_points": 12.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top5": 0,
+  "top10": 0,
+  "top20": 0,
+  "avg_finish": 60.0,
+  "win_rate": 0.0,
+  "top10_rate": 0.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 77,
+  "weighted_rank": 1866,
+  "country_rank": null,
+  "am_events": 1,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 0,
+  "am_pdga_points": 4140.0,
+  "last_active": "21-Jun to 25-Jun-2022",
+  "by_level": {
+    "major": {
+      "events": 1,
+      "points": 4140.0,
+      "weighted": 12.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 4140.0,
+      "tour_weighted_points": 12.0,
+      "avg_finish": 60.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "all": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 4140.0,
+      "tour_weighted_points": 12.0,
+      "avg_finish": 60.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    }
+  },
+  "division_counts": {
+    "MA1": 1
+  },
+  "results": [
+    {
+      "event_id": "55453",
+      "title": "2022 PDGA Amateur Disc Golf World Championships presented by Toyota",
+      "dates": "21-Jun to 25-Jun-2022",
+      "year": "2022",
+      "tier": "",
+      "level": "major",
+      "is_asia_tour": false,
+      "location": "Princeton, Indiana, United States",
+      "place": 60,
+      "pdga_points": 4140.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 12.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2022",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 4140.0,
+      "avg_finish": 60.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2018-09-11",
+      "rating": 1000,
+      "rounds": 12
+    },
+    {
+      "date": "2018-10-30",
+      "rating": 1000,
+      "rounds": 10
+    },
+    {
+      "date": "2019-04-09",
+      "rating": 984,
+      "rounds": 14
+    },
+    {
+      "date": "2019-05-14",
+      "rating": 991,
+      "rounds": 13
+    },
+    {
+      "date": "2021-04-13",
+      "rating": 990,
+      "rounds": 9
+    },
+    {
+      "date": "2021-07-13",
+      "rating": 983,
+      "rounds": 6
+    },
+    {
+      "date": "2022-04-12",
+      "rating": 981,
+      "rounds": 9
+    },
+    {
+      "date": "2022-07-12",
+      "rating": 964,
+      "rounds": 8
+    },
+    {
+      "date": "2023-04-11",
+      "rating": 976,
+      "rounds": 11
+    },
+    {
+      "date": "2023-06-13",
+      "rating": 968,
+      "rounds": 11
+    },
+    {
+      "date": "2023-07-11",
+      "rating": 983,
+      "rounds": 10
+    },
+    {
+      "date": "2023-09-12",
+      "rating": 983,
+      "rounds": 10
+    },
+    {
+      "date": "2023-11-14",
+      "rating": 978,
+      "rounds": 12
+    },
+    {
+      "date": "2024-04-09",
+      "rating": 980,
+      "rounds": 15
+    },
+    {
+      "date": "2024-10-08",
+      "rating": 983,
+      "rounds": 9
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/41561"
+}

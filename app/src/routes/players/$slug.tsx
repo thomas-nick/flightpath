@@ -1,101 +1,74 @@
 import { createFileRoute, notFound } from "@tanstack/react-router";
 import { createServerFn } from "@tanstack/react-start";
 import { z } from "zod";
-import { PlayerProfile } from "../../components/flightpath/player-profile";
+import { AsiaPlayerProfileView } from "../../components/flightpath/asia-player-profile";
 import { PageShell } from "../../components/flightpath/site-chrome";
-import finishesJson from "../../data/finishes.json";
-import type { FinishBundle } from "../../lib/player-analytics";
 import {
-  getPlayerBySlug,
-  playerName,
-  type Player,
-  type YearStat,
-} from "../../lib/players";
+  cashFromResults,
+  getAsiaPlayerBySlug,
+  getAsiaTourStanding,
+  playerDisplayName,
+} from "../../lib/asia";
+import { loadAsiaProfile } from "../../lib/asia-profiles";
+import { fetchPdgaCareerHeader } from "../../lib/pdga-career.server";
 
-const finishesMap = finishesJson as Record<string, FinishBundle>;
-
-const loadPlayerDossier = createServerFn({ method: "GET" })
+const loadAsiaDossier = createServerFn({ method: "GET" })
   .validator(z.object({ slug: z.string().min(1) }))
   .handler(async ({ data }) => {
-    const base = getPlayerBySlug(data.slug);
-    if (!base) return null;
+    const boardPlayer = getAsiaPlayerBySlug(data.slug);
+    if (!boardPlayer) return null;
+    const profile = await loadAsiaProfile(boardPlayer.pdga);
+    if (!profile) return null;
 
-    const finishes = finishesMap[base.pdga_number] ?? null;
-    let player: Player = base;
-
-    // Live refresh when credentials are present; fall back to cache.
-    try {
-      const { fetchPlayer, fetchPlayerStatistics } = await import(
-        "../../lib/pdga.server"
-      );
-      const [live, stats] = await Promise.all([
-        fetchPlayer(base.pdga_number),
-        fetchPlayerStatistics(base.pdga_number),
-      ]);
-      if (live) {
-        const yearStats = (stats as YearStat[]).sort(
-          (a, b) => Number(a.year) - Number(b.year),
-        );
-        player = {
-          ...base,
-          first_name: live.first_name || base.first_name,
-          last_name: live.last_name || base.last_name,
-          city: live.city ?? base.city,
-          state_prov: live.state_prov ?? base.state_prov,
-          country: live.country ?? base.country,
-          classification: live.classification ?? base.classification,
-          membership_status: live.membership_status ?? base.membership_status,
-          rating: live.rating ?? base.rating,
-          rating_effective_date:
-            live.rating_effective_date ?? base.rating_effective_date,
-          official_status: live.official_status ?? base.official_status,
-          upcoming_events: live.upcoming_events ?? base.upcoming_events,
-          stats: yearStats.length ? yearStats : base.stats,
-          career: {
-            years_active: yearStats.length || base.career.years_active,
-            tournaments: yearStats.length
-              ? yearStats.reduce((n, s) => n + Number(s.tournaments || 0), 0)
-              : base.career.tournaments,
-            points: yearStats.length
-              ? yearStats.reduce((n, s) => n + Number(s.points || 0), 0)
-              : base.career.points,
-            prize: yearStats.length
-              ? yearStats.reduce((n, s) => n + Number(s.prize || 0), 0)
-              : base.career.prize,
-            peak_rating: yearStats.length
-              ? Math.max(
-                  ...yearStats.map((s) => Number(s.rating || 0)),
-                  Number(live.rating || 0),
-                )
-              : base.career.peak_rating,
-            latest_year: yearStats.length
-              ? yearStats[yearStats.length - 1]?.year ?? null
-              : base.career.latest_year,
-          },
-        };
-      }
-    } catch {
-      // keep cached player
-    }
-
-    return { player, finishes };
+    const career = await fetchPdgaCareerHeader(boardPlayer.pdga);
+    const tourStanding = getAsiaTourStanding(boardPlayer.pdga);
+    const cash =
+      boardPlayer.cash_earned ??
+      profile.cash_earned ??
+      cashFromResults(profile.results);
+    return {
+      player: {
+        ...profile,
+        slug: boardPlayer.slug,
+        rating: career?.rating ?? profile.rating ?? boardPlayer.rating,
+        classification: career?.classification || profile.classification,
+        city: career?.city || profile.city,
+        pdga_rank: boardPlayer.pdga_rank ?? profile.pdga_rank,
+        weighted_rank: boardPlayer.weighted_rank ?? profile.weighted_rank,
+        country_rank: boardPlayer.country_rank ?? profile.country_rank,
+        cash_earned: cash,
+        streak: boardPlayer.streak ?? profile.streak,
+        tour_weighted_points:
+          boardPlayer.tour_weighted_points ?? profile.tour_weighted_points,
+        tour_standing: tourStanding,
+        pdga_career: career ?? undefined,
+      },
+      accent: (boardPlayer.pdga_rank || 0) % 6,
+    };
   });
 
 export const Route = createFileRoute("/players/$slug")({
   loader: async ({ params }) => {
-    const dossier = await loadPlayerDossier({ data: { slug: params.slug } });
+    const dossier = await loadAsiaDossier({ data: { slug: params.slug } });
     if (!dossier) throw notFound();
     return dossier;
   },
   head: ({ loaderData }) => {
-    const player = loaderData?.player;
-    const name = player ? playerName(player) : "Player";
+    const name = loaderData
+      ? playerDisplayName(loaderData.player.name)
+      : "Player";
+    const careerWins = loaderData?.player.pdga_career?.career_wins;
+    const asiaWins = loaderData?.player.wins;
     return {
       meta: [
-        { title: `${name} — Flightpath` },
+        { title: `${name} — Flightpath Asia` },
         {
           name: "description",
-          content: `Historical PDGA stats, podiums, top 10s, and career graphs for ${name}.`,
+          content: loaderData
+            ? `${name}: ${asiaWins ?? 0} Asia-archive wins` +
+              (careerWins != null ? ` · ${careerWins} PDGA career wins` : "") +
+              ` · ${loaderData.player.events_played} Asia tournaments tracked.`
+            : "Asia disc golf player dossier.",
         },
       ],
     };
@@ -104,10 +77,10 @@ export const Route = createFileRoute("/players/$slug")({
 });
 
 function PlayerPage() {
-  const { player, finishes } = Route.useLoaderData();
+  const { player, accent } = Route.useLoaderData();
   return (
     <PageShell>
-      <PlayerProfile player={player} finishes={finishes} />
+      <AsiaPlayerProfileView player={player} accent={accent} />
     </PageShell>
   );
 }

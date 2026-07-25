@@ -1,0 +1,232 @@
+{
+  "event_id": "33688",
+  "title": "Daegu Open",
+  "location": "Daegu, Daegu, South Korea",
+  "dates": "28-Oct to 29-Oct-2017",
+  "year": "2017",
+  "tier": "C",
+  "level": "c_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 15,
+  "avg_mpo_rating": 907.6,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "count": 11
+    },
+    {
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "count": 1
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 8139,
+      "name": "Manabu Kajiyama",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 1,
+      "pdga_points": 105.0,
+      "rating": 1033,
+      "prize": "$153",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 82677,
+      "name": "Jaehyeon Kim",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 2,
+      "pdga_points": 100.0,
+      "rating": 858,
+      "prize": "$97",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "country_key": "KR"
+    },
+    {
+      "pdga": 45430,
+      "name": "George Kamenos",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 7,
+      "pdga_points": 75.0,
+      "rating": 885,
+      "prize": "",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "country_key": "KR"
+    },
+    {
+      "pdga": 117283,
+      "name": "Dylan Bollard",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 8,
+      "pdga_points": 70.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 49394,
+      "name": "James Pearson",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 10,
+      "pdga_points": 60.0,
+      "rating": 924,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "Germany",
+      "country_key": ""
+    },
+    {
+      "pdga": 95957,
+      "name": "Gregory Miller",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 15,
+      "pdga_points": 35.0,
+      "rating": 810,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 65374,
+      "name": "Sang Yong Lee",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 18,
+      "pdga_points": 0.0,
+      "rating": 900,
+      "prize": "",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "country_key": "KR"
+    },
+    {
+      "pdga": 56592,
+      "name": "Hyundo Jang",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 18,
+      "pdga_points": 0.0,
+      "rating": 943,
+      "prize": "",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "country_key": "KR"
+    }
+  ],
+  "fpo": [
+    {
+      "pdga": 56593,
+      "name": "Jiwon Kim",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 1,
+      "pdga_points": 15.0,
+      "rating": 850,
+      "prize": "$42",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "country_key": "KR"
+    }
+  ],
+  "amateur": [
+    {
+      "pdga": 97809,
+      "name": "Heesun Lee",
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 6.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "country_key": "KR"
+    },
+    {
+      "pdga": 96808,
+      "name": "Sunggon Bang",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 105.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "country_key": "KR"
+    },
+    {
+      "pdga": 96804,
+      "name": "Dukho Hwang",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 6,
+      "pdga_points": 85.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "country_key": "KR"
+    },
+    {
+      "pdga": 96799,
+      "name": "Seonrak Jeong",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 10,
+      "pdga_points": 65.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "country_key": "KR"
+    },
+    {
+      "pdga": 91683,
+      "name": "Tae Woo Lee",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 11,
+      "pdga_points": 60.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "country_key": "KR"
+    },
+    {
+      "pdga": 76685,
+      "name": "Seong Taek Lim",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 20,
+      "pdga_points": 15.0,
+      "rating": 727,
+      "prize": "",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "country_key": "KR"
+    }
+  ],
+  "divisions": [
+    "FA1",
+    "FPO",
+    "MA1",
+    "MPO"
+  ]
+}

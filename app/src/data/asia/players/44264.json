@@ -1,0 +1,580 @@
+{
+  "pdga": 44264,
+  "name": "Tatsuya Ohshima #44264",
+  "country": "Japan",
+  "country_key": "JP",
+  "flag": "\ud83c\uddef\ud83c\uddf5",
+  "rating": 893,
+  "classification": "Professional",
+  "city": "Hitachi Omiya-shi",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 1432.5,
+  "tour_weighted_points": 328.5,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 17,
+  "wins": 2,
+  "podiums": 6,
+  "top5": 9,
+  "top10": 13,
+  "top20": 13,
+  "avg_finish": 12.12,
+  "win_rate": 0.118,
+  "top10_rate": 0.765,
+  "cash_earned": 0.0,
+  "pdga_rank": 146,
+  "weighted_rank": 181,
+  "country_rank": 75,
+  "am_events": 12,
+  "am_wins": 2,
+  "am_podiums": 6,
+  "am_top10": 12,
+  "am_pdga_points": 922.5,
+  "last_active": "11-Jun to 12-Jun-2022",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 17,
+      "points": 1432.5,
+      "weighted": 328.5,
+      "wins": 2
+    },
+    "c_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 5,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 510.0,
+      "tour_weighted_points": 16.0,
+      "avg_finish": 31.6,
+      "win_rate": 0.0,
+      "top10_rate": 0.2
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 12,
+      "wins": 2,
+      "podiums": 6,
+      "top5": 9,
+      "top10": 12,
+      "top20": 12,
+      "pdga_points": 922.5,
+      "tour_weighted_points": 312.5,
+      "avg_finish": 4.0,
+      "win_rate": 0.167,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 17,
+      "wins": 2,
+      "podiums": 6,
+      "top5": 9,
+      "top10": 13,
+      "top20": 13,
+      "pdga_points": 1432.5,
+      "tour_weighted_points": 328.5,
+      "avg_finish": 12.12,
+      "win_rate": 0.118,
+      "top10_rate": 0.765
+    }
+  },
+  "division_counts": {
+    "MPO": 5,
+    "MA1": 12
+  },
+  "results": [
+    {
+      "event_id": "61988",
+      "title": "Japan Series Disc Golf Championships",
+      "dates": "17-Sep to 19-Sep-2022",
+      "year": "2022",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Utsunomiya, Tochigi, Japan",
+      "place": 45,
+      "pdga_points": 180.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.5
+    },
+    {
+      "event_id": "59456",
+      "title": "The 24th Nippon Open",
+      "dates": "11-Jun to 12-Jun-2022",
+      "year": "2022",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Gamo-gun, Shiga, Japan",
+      "place": 42,
+      "pdga_points": 90.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.5
+    },
+    {
+      "event_id": "41245",
+      "title": "The 7th Asia Championship",
+      "dates": "03-Aug to 04-Aug-2019",
+      "year": "2019",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Fukuoka, Fukuoka, Japan",
+      "place": 36,
+      "pdga_points": 82.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.5
+    },
+    {
+      "event_id": "36415",
+      "title": "The 20th Nippon Open",
+      "dates": "26-May to 27-May-2018",
+      "year": "2018",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Fukui City, Fukui, Japan",
+      "place": 28,
+      "pdga_points": 120.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.5
+    },
+    {
+      "event_id": "13643",
+      "title": "12th Aso Open",
+      "dates": "28-Jul to 29-Jul-2012",
+      "year": "2012",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Aso, Kumamoto, Japan",
+      "place": 5,
+      "pdga_points": 52.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "12605",
+      "title": "Japan Team Championships",
+      "dates": "14-Jan to 15-Jan-2012",
+      "year": "2012",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Hitachi, Ibaraki, Japan",
+      "place": 7,
+      "pdga_points": 37.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "11822",
+      "title": "23rd National Championships",
+      "dates": "24-Sep to 25-Sep-2011",
+      "year": "2011",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Fuminnomori, Kyoto, Japan",
+      "place": 3,
+      "pdga_points": 112.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 27.5
+    },
+    {
+      "event_id": "11818",
+      "title": "11th Aso Open",
+      "dates": "23-Jul to 24-Jul-2011",
+      "year": "2011",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Aso, Kumamoto, Japan",
+      "place": 2,
+      "pdga_points": 60.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 37.5
+    },
+    {
+      "event_id": "11820",
+      "title": "6th Michinoku Open - GDGT",
+      "dates": "20-Aug to 21-Aug-2011",
+      "year": "2011",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Kitakami, Iwate, Japan",
+      "place": 5,
+      "pdga_points": 112.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "11159",
+      "title": "Japan Doubles Championships",
+      "dates": "12-Feb to 13-Feb-2011",
+      "year": "2011",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Hitachi, Ibaraki, Japan",
+      "place": 1,
+      "pdga_points": 97.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 50.0
+    },
+    {
+      "event_id": "11823",
+      "title": "11th Tohoku Open",
+      "dates": "09-Oct to 10-Oct-2011",
+      "year": "2011",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Yurihonjo, Akita, Japan",
+      "place": 1,
+      "pdga_points": 45.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 50.0
+    },
+    {
+      "event_id": "11817",
+      "title": "15th Kanto Open",
+      "dates": "02-Jul to 03-Jul-2011",
+      "year": "2011",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Oyama, Tochigi, Japan",
+      "place": 4,
+      "pdga_points": 135.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "10281",
+      "title": "24th Kyushu Open",
+      "dates": "27-Nov to 28-Nov-2010",
+      "year": "2010",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Higashi-ku, Fukuoka, Japan",
+      "place": 2,
+      "pdga_points": 37.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 37.5
+    },
+    {
+      "event_id": "10269",
+      "title": "21st Tokyo Open",
+      "dates": "24-Apr to 25-Apr-2010",
+      "year": "2010",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Tatsumi,Tokyo, Japan",
+      "place": 8,
+      "pdga_points": 52.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "10278",
+      "title": "10th Tohoku Open",
+      "dates": "09-Oct to 10-Oct-2010",
+      "year": "2010",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Hokuonomori, Akita, Japan",
+      "place": 3,
+      "pdga_points": 30.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 27.5
+    },
+    {
+      "event_id": "10274",
+      "title": "5th Michinoku Open",
+      "dates": "07-Aug to 08-Aug-2010",
+      "year": "2010",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Kitakami, Iwate, Japan",
+      "place": 6,
+      "pdga_points": 75.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "10270",
+      "title": "21st National Championships",
+      "dates": "03-May to 05-May-2010",
+      "year": "2010",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Minamisoma, Fukushima, Japan",
+      "place": 8,
+      "pdga_points": 112.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 10.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "11159",
+      "title": "Japan Doubles Championships",
+      "dates": "12-Feb to 13-Feb-2011",
+      "year": "2011",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Hitachi, Ibaraki, Japan",
+      "place": 1,
+      "pdga_points": 97.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 50.0
+    },
+    {
+      "event_id": "11823",
+      "title": "11th Tohoku Open",
+      "dates": "09-Oct to 10-Oct-2011",
+      "year": "2011",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Yurihonjo, Akita, Japan",
+      "place": 1,
+      "pdga_points": 45.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 50.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2022",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 270.0,
+      "avg_finish": 43.5
+    },
+    {
+      "year": "2019",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 82.5,
+      "avg_finish": 36.0
+    },
+    {
+      "year": "2018",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 120.0,
+      "avg_finish": 28.0
+    },
+    {
+      "year": "2012",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 2,
+      "pdga_points": 90.0,
+      "avg_finish": 6.0
+    },
+    {
+      "year": "2011",
+      "events": 6,
+      "wins": 2,
+      "podiums": 4,
+      "top10": 6,
+      "pdga_points": 562.5,
+      "avg_finish": 2.67
+    },
+    {
+      "year": "2010",
+      "events": 5,
+      "wins": 0,
+      "podiums": 2,
+      "top10": 5,
+      "pdga_points": 307.5,
+      "avg_finish": 5.4
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2024-05-14",
+      "rating": 912,
+      "rounds": 28
+    },
+    {
+      "date": "2024-07-09",
+      "rating": 910,
+      "rounds": 28
+    },
+    {
+      "date": "2024-08-13",
+      "rating": 908,
+      "rounds": 28
+    },
+    {
+      "date": "2024-10-08",
+      "rating": 905,
+      "rounds": 19
+    },
+    {
+      "date": "2024-11-12",
+      "rating": 914,
+      "rounds": 19
+    },
+    {
+      "date": "2024-12-10",
+      "rating": 910,
+      "rounds": 19
+    },
+    {
+      "date": "2025-03-11",
+      "rating": 889,
+      "rounds": 20
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 887,
+      "rounds": 19
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 888,
+      "rounds": 19
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 883,
+      "rounds": 22
+    },
+    {
+      "date": "2026-01-13",
+      "rating": 880,
+      "rounds": 19
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 880,
+      "rounds": 19
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 884,
+      "rounds": 19
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 888,
+      "rounds": 21
+    },
+    {
+      "date": "2026-07-14",
+      "rating": 893,
+      "rounds": 21
+    }
+  ],
+  "streak": {
+    "direction": "up",
+    "recent_avg": 117.5,
+    "season_avg": 77.1,
+    "delta_pct": 52.3
+  },
+  "pdga_url": "https://www.pdga.com/player/44264"
+}

@@ -1,0 +1,159 @@
+{
+  "event_id": "47253",
+  "title": "2020 Changbai  Mountain Disc Golf Tournament- CDGC series",
+  "location": "Baishan, Jilin Sheng, China",
+  "dates": "06-Oct to 07-Oct-2020",
+  "year": "2020",
+  "tier": "C",
+  "level": "c_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 10,
+  "avg_mpo_rating": 808.0,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "count": 9
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 114467,
+      "name": "Yuhan Sun",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 1,
+      "pdga_points": 70.0,
+      "rating": 846,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 110420,
+      "name": "Tim Flanders",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 2,
+      "pdga_points": 65.0,
+      "rating": 886,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 118055,
+      "name": "Meelis Aas",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 3,
+      "pdga_points": 60.0,
+      "rating": 847,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "Belgium",
+      "country_key": ""
+    },
+    {
+      "pdga": 129352,
+      "name": "Haijun Liu",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 4,
+      "pdga_points": 55.0,
+      "rating": 713,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 148896,
+      "name": "Eazy Cai",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 5,
+      "pdga_points": 50.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 149190,
+      "name": "Rongqi Wei",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 7,
+      "pdga_points": 40.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 149543,
+      "name": "Chufeng Li",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 8,
+      "pdga_points": 35.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 149023,
+      "name": "Enmin Jiang",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 9,
+      "pdga_points": 30.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 113957,
+      "name": "Kun Zhang",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 14,
+      "pdga_points": 0.0,
+      "rating": 748,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    }
+  ],
+  "fpo": [
+    {
+      "pdga": 128828,
+      "name": "Xinying Li",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 1,
+      "pdga_points": 3.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    }
+  ],
+  "amateur": [],
+  "divisions": [
+    "FPO",
+    "MPO"
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "pdga": 97545,
+  "name": "Tristan Cooley",
+  "country": "India",
+  "country_key": "IN",
+  "flag": "\ud83c\uddee\ud83c\uddf3",
+  "rating": 862,
+  "classification": "Pro",
+  "city": "",
+  "nationality": "",
+  "division": "MA3",
+  "primary_class": "amateur",
+  "pdga_points": 69.0,
+  "tour_weighted_points": 20.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 1,
+  "wins": 1,
+  "podiums": 1,
+  "top5": 1,
+  "top10": 1,
+  "top20": 1,
+  "avg_finish": 1.0,
+  "win_rate": 1.0,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 2053,
+  "weighted_rank": 1420,
+  "country_rank": 740,
+  "am_events": 1,
+  "am_wins": 1,
+  "am_podiums": 1,
+  "am_top10": 1,
+  "am_pdga_points": 69.0,
+  "last_active": "19-Feb-2023",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 1,
+      "points": 69.0,
+      "weighted": 20.0,
+      "wins": 1
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 1,
+      "wins": 1,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 69.0,
+      "tour_weighted_points": 20.0,
+      "avg_finish": 1.0,
+      "win_rate": 1.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 1,
+      "wins": 1,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 69.0,
+      "tour_weighted_points": 20.0,
+      "avg_finish": 1.0,
+      "win_rate": 1.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA3": 1
+  },
+  "results": [
+    {
+      "event_id": "66360",
+      "title": "WIFFS The Nashville Chill sponsored by Westside Discs (CEP Charity - Rated)",
+      "dates": "19-Feb-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Nashville, Indiana, United States",
+      "place": 1,
+      "pdga_points": 69.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "66360",
+      "title": "WIFFS The Nashville Chill sponsored by Westside Discs (CEP Charity - Rated)",
+      "dates": "19-Feb-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Nashville, Indiana, United States",
+      "place": 1,
+      "pdga_points": 69.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2023",
+      "events": 1,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 69.0,
+      "avg_finish": 1.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2024-08-13",
+      "rating": 898,
+      "rounds": 54
+    },
+    {
+      "date": "2024-09-10",
+      "rating": 909,
+      "rounds": 58
+    },
+    {
+      "date": "2024-10-08",
+      "rating": 913,
+      "rounds": 62
+    },
+    {
+      "date": "2024-11-12",
+      "rating": 913,
+      "rounds": 65
+    },
+    {
+      "date": "2024-12-10",
+      "rating": 911,
+      "rounds": 68
+    },
+    {
+      "date": "2025-02-11",
+      "rating": 914,
+      "rounds": 59
+    },
+    {
+      "date": "2025-03-11",
+      "rating": 915,
+      "rounds": 56
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 927,
+      "rounds": 31
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 923,
+      "rounds": 21
+    },
+    {
+      "date": "2026-02-10",
+      "rating": 942,
+      "rounds": 8
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 926,
+      "rounds": 8
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 935,
+      "rounds": 10
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 921,
+      "rounds": 13
+    },
+    {
+      "date": "2026-06-09",
+      "rating": 924,
+      "rounds": 16
+    },
+    {
+      "date": "2026-07-14",
+      "rating": 921,
+      "rounds": 17
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/97545"
+}

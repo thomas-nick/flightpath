@@ -1,0 +1,257 @@
+{
+  "pdga": 132814,
+  "name": "Soonhwa Hong #132814",
+  "country": "South Korea",
+  "country_key": "KR",
+  "flag": "\ud83c\uddf0\ud83c\uddf7",
+  "rating": 720,
+  "classification": "Amateur",
+  "city": "Ulsan",
+  "nationality": "",
+  "division": "FA1",
+  "primary_class": "amateur",
+  "pdga_points": 12.0,
+  "tour_weighted_points": 46.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 3,
+  "wins": 1,
+  "podiums": 3,
+  "top5": 3,
+  "top10": 3,
+  "top20": 3,
+  "avg_finish": 2.0,
+  "win_rate": 0.333,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 1944,
+  "weighted_rank": 969,
+  "country_rank": 99,
+  "am_events": 3,
+  "am_wins": 1,
+  "am_podiums": 3,
+  "am_top10": 3,
+  "am_pdga_points": 12.0,
+  "last_active": "26-Oct-2025",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 3,
+      "points": 12.0,
+      "weighted": 46.0,
+      "wins": 1
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 3,
+      "wins": 1,
+      "podiums": 3,
+      "top5": 3,
+      "top10": 3,
+      "top20": 3,
+      "pdga_points": 12.0,
+      "tour_weighted_points": 46.0,
+      "avg_finish": 2.0,
+      "win_rate": 0.333,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 3,
+      "wins": 1,
+      "podiums": 3,
+      "top5": 3,
+      "top10": 3,
+      "top20": 3,
+      "pdga_points": 12.0,
+      "tour_weighted_points": 46.0,
+      "avg_finish": 2.0,
+      "win_rate": 0.333,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "FA1": 3
+  },
+  "results": [
+    {
+      "event_id": "96091",
+      "title": "1st Yangju Art Valley International Open - MA1, MA2, FA1, FA2, MA65",
+      "dates": "26-Oct-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Yangju, Gyeonggi-do, South Korea",
+      "place": 3,
+      "pdga_points": 3.0,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "68443",
+      "title": "11th Daegu International Open",
+      "dates": "30-Apr-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Daegu, Daegu, South Korea",
+      "place": 2,
+      "pdga_points": 6.0,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "43511",
+      "title": "Inaugural Silla Open",
+      "dates": "22-Feb-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Gyeongju, Gyeongsangbuk-do, South Korea",
+      "place": 1,
+      "pdga_points": 3.0,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "43511",
+      "title": "Inaugural Silla Open",
+      "dates": "22-Feb-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Gyeongju, Gyeongsangbuk-do, South Korea",
+      "place": 1,
+      "pdga_points": 3.0,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2025",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 3.0,
+      "avg_finish": 3.0
+    },
+    {
+      "year": "2023",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 6.0,
+      "avg_finish": 2.0
+    },
+    {
+      "year": "2020",
+      "events": 1,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 3.0,
+      "avg_finish": 1.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2020-03-10",
+      "rating": 675,
+      "rounds": 2
+    },
+    {
+      "date": "2021-02-09",
+      "rating": 667,
+      "rounds": 4
+    },
+    {
+      "date": "2023-05-09",
+      "rating": 675,
+      "rounds": 2
+    },
+    {
+      "date": "2025-11-11",
+      "rating": 720,
+      "rounds": 1
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/132814"
+}

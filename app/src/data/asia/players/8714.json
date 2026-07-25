@@ -1,0 +1,230 @@
+{
+  "pdga": 8714,
+  "name": "Shyi Jou Tseng #8714",
+  "country": "Chinese Taipei",
+  "country_key": "TW",
+  "flag": "\ud83c\uddf9\ud83c\uddfc",
+  "rating": 782,
+  "classification": "Amateur",
+  "city": "Taipei City",
+  "nationality": "",
+  "division": "MA60",
+  "primary_class": "amateur",
+  "pdga_points": 4.0,
+  "tour_weighted_points": 40.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top5": 0,
+  "top10": 1,
+  "top20": 1,
+  "avg_finish": 7.0,
+  "win_rate": 0.0,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 2092,
+  "weighted_rank": 1033,
+  "country_rank": 65,
+  "am_events": 1,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 1,
+  "am_pdga_points": 4.0,
+  "last_active": "09-Jan to 11-Jan-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 1,
+      "points": 4.0,
+      "weighted": 40.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 4.0,
+      "tour_weighted_points": 40.0,
+      "avg_finish": 7.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 4.0,
+      "tour_weighted_points": 40.0,
+      "avg_finish": 7.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA60": 1
+  },
+  "results": [
+    {
+      "event_id": "96943",
+      "title": "2026 Asia Disc Golf Open - PDGA Asia Tour Event #1",
+      "dates": "09-Jan to 11-Jan-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "Kaohsiung, Kaohsiung City, Chinese Taipei",
+      "place": 7,
+      "pdga_points": 4.0,
+      "division": "MA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 40.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 4.0,
+      "avg_finish": 7.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2005-09-15",
+      "rating": 911,
+      "rounds": 8
+    },
+    {
+      "date": "2006-12-19",
+      "rating": 899,
+      "rounds": 11
+    },
+    {
+      "date": "2007-08-28",
+      "rating": 913,
+      "rounds": 13
+    },
+    {
+      "date": "2007-11-13",
+      "rating": 921,
+      "rounds": 8
+    },
+    {
+      "date": "2009-03-17",
+      "rating": 920,
+      "rounds": 8
+    },
+    {
+      "date": "2011-03-29",
+      "rating": 949,
+      "rounds": 3
+    },
+    {
+      "date": "2015-03-24",
+      "rating": 937,
+      "rounds": 3
+    },
+    {
+      "date": "2017-04-26",
+      "rating": 935,
+      "rounds": 3
+    },
+    {
+      "date": "2020-02-11",
+      "rating": 882,
+      "rounds": 3
+    },
+    {
+      "date": "2023-06-13",
+      "rating": 849,
+      "rounds": 3
+    },
+    {
+      "date": "2024-01-09",
+      "rating": 826,
+      "rounds": 6
+    },
+    {
+      "date": "2026-02-10",
+      "rating": 782,
+      "rounds": 3
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/8714"
+}

@@ -1,0 +1,481 @@
+{
+  "pdga": 63311,
+  "name": "Ilpo Karhunen #63311",
+  "country": "Finland",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 836,
+  "classification": "Amateur",
+  "city": "Oulu",
+  "nationality": "",
+  "division": "MA40",
+  "primary_class": "amateur",
+  "pdga_points": 459.0,
+  "tour_weighted_points": 174.6,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 12,
+  "wins": 1,
+  "podiums": 4,
+  "top5": 6,
+  "top10": 10,
+  "top20": 12,
+  "avg_finish": 6.33,
+  "win_rate": 0.083,
+  "top10_rate": 0.833,
+  "cash_earned": 0.0,
+  "pdga_rank": 476,
+  "weighted_rank": 388,
+  "country_rank": null,
+  "am_events": 12,
+  "am_wins": 1,
+  "am_podiums": 4,
+  "am_top10": 10,
+  "am_pdga_points": 459.0,
+  "last_active": "26-Feb-2022",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 3,
+      "points": 200.0,
+      "weighted": 60.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 2,
+      "points": 84.0,
+      "weighted": 54.0,
+      "wins": 1
+    },
+    "c_tier": {
+      "events": 7,
+      "points": 175.0,
+      "weighted": 60.6,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 12,
+      "wins": 1,
+      "podiums": 4,
+      "top5": 6,
+      "top10": 10,
+      "top20": 12,
+      "pdga_points": 459.0,
+      "tour_weighted_points": 174.6,
+      "avg_finish": 6.33,
+      "win_rate": 0.083,
+      "top10_rate": 0.833
+    },
+    "all": {
+      "events": 12,
+      "wins": 1,
+      "podiums": 4,
+      "top5": 6,
+      "top10": 10,
+      "top20": 12,
+      "pdga_points": 459.0,
+      "tour_weighted_points": 174.6,
+      "avg_finish": 6.33,
+      "win_rate": 0.083,
+      "top10_rate": 0.833
+    }
+  },
+  "division_counts": {
+    "MA40": 6,
+    "MA2": 1,
+    "MA1": 3,
+    "MA3": 2
+  },
+  "results": [
+    {
+      "event_id": "55860",
+      "title": "Pattaya Disc Golf Open",
+      "dates": "26-Feb-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Pattaya, Thailand",
+      "place": 2,
+      "pdga_points": 12.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "43198",
+      "title": "Samui Swine Classic VII - Ams - Presented by Innova",
+      "dates": "29-Jan to 30-Jan-2020",
+      "year": "2020",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 10,
+      "pdga_points": 48.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "43184",
+      "title": "The 5th Annual Hyzenbrownie Open \"King Of The Island\" 2020",
+      "dates": "22-Jan to 26-Jan-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Namuang Koh Samui, Thailand",
+      "place": 5,
+      "pdga_points": 16.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "38587",
+      "title": "Hyzenbrownie Open \"Hurljam 2019\" - Ams",
+      "dates": "14-Feb to 15-Feb-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Namuang, Thailand",
+      "place": 2,
+      "pdga_points": 12.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "38588",
+      "title": "Samui Swine Classic VI - Presented by Dynamic Discs - Ams",
+      "dates": "06-Feb to 07-Feb-2019",
+      "year": "2019",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 9,
+      "pdga_points": 56.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "33102",
+      "title": "Third Annual Hyzenbrownie Open - The Flaskenpouch 2018",
+      "dates": "27-Jan to 28-Jan-2018",
+      "year": "2018",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 12,
+      "pdga_points": 48.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "33706",
+      "title": "Samui Swine Classic V",
+      "dates": "01-Feb to 03-Feb-2018",
+      "year": "2018",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 8,
+      "pdga_points": 96.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "30246",
+      "title": "Samui Swine Classic IV",
+      "dates": "04-Feb to 05-Feb-2017",
+      "year": "2017",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Maenam, Koh Samui, Surat Thani, Thailand",
+      "place": 1,
+      "pdga_points": 36.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 50.0
+    },
+    {
+      "event_id": "30551",
+      "title": "Koh Som Invitational 2",
+      "dates": "01-Feb-2017",
+      "year": "2017",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Som, Koh Samui, Surat Thani, Thailand",
+      "place": 3,
+      "pdga_points": 15.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "22272",
+      "title": "The First Annual Hyzen - Brownie Open",
+      "dates": "28-Jan to 31-Jan-2016",
+      "year": "2016",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Laem sor Beach, Thailand",
+      "place": 6,
+      "pdga_points": 30.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "22285",
+      "title": "Samui Swine Classic III",
+      "dates": "06-Feb to 07-Feb-2016",
+      "year": "2016",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Mae Nam, Koh Samui, Thailand",
+      "place": 4,
+      "pdga_points": 80.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "24324",
+      "title": "Koh Som Invitational",
+      "dates": "04-Feb-2016",
+      "year": "2016",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 14,
+      "pdga_points": 10.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 1.6
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "30246",
+      "title": "Samui Swine Classic IV",
+      "dates": "04-Feb to 05-Feb-2017",
+      "year": "2017",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Maenam, Koh Samui, Surat Thani, Thailand",
+      "place": 1,
+      "pdga_points": 36.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 50.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2022",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 12.0,
+      "avg_finish": 2.0
+    },
+    {
+      "year": "2020",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 2,
+      "pdga_points": 64.0,
+      "avg_finish": 7.5
+    },
+    {
+      "year": "2019",
+      "events": 2,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 2,
+      "pdga_points": 68.0,
+      "avg_finish": 5.5
+    },
+    {
+      "year": "2018",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 144.0,
+      "avg_finish": 10.0
+    },
+    {
+      "year": "2017",
+      "events": 2,
+      "wins": 1,
+      "podiums": 2,
+      "top10": 2,
+      "pdga_points": 51.0,
+      "avg_finish": 2.0
+    },
+    {
+      "year": "2016",
+      "events": 3,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 2,
+      "pdga_points": 120.0,
+      "avg_finish": 8.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2014-07-15",
+      "rating": 848,
+      "rounds": 2
+    },
+    {
+      "date": "2014-08-26",
+      "rating": 833,
+      "rounds": 5
+    },
+    {
+      "date": "2016-03-22",
+      "rating": 845,
+      "rounds": 10
+    },
+    {
+      "date": "2016-04-19",
+      "rating": 838,
+      "rounds": 9
+    },
+    {
+      "date": "2017-03-28",
+      "rating": 876,
+      "rounds": 7
+    },
+    {
+      "date": "2018-03-13",
+      "rating": 880,
+      "rounds": 9
+    },
+    {
+      "date": "2018-07-31",
+      "rating": 863,
+      "rounds": 8
+    },
+    {
+      "date": "2018-08-21",
+      "rating": 854,
+      "rounds": 10
+    },
+    {
+      "date": "2018-10-30",
+      "rating": 845,
+      "rounds": 12
+    },
+    {
+      "date": "2019-02-26",
+      "rating": 842,
+      "rounds": 9
+    },
+    {
+      "date": "2019-03-19",
+      "rating": 841,
+      "rounds": 11
+    },
+    {
+      "date": "2019-07-09",
+      "rating": 836,
+      "rounds": 13
+    },
+    {
+      "date": "2020-02-11",
+      "rating": 861,
+      "rounds": 11
+    },
+    {
+      "date": "2022-03-08",
+      "rating": 860,
+      "rounds": 2
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 25.3,
+    "season_avg": 42.6,
+    "delta_pct": -40.5
+  },
+  "pdga_url": "https://www.pdga.com/player/63311"
+}

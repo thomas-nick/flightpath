@@ -1,0 +1,600 @@
+{
+  "pdga": 101042,
+  "name": "Chatchai Boi Sangwan #101042",
+  "country": "Thailand",
+  "country_key": "TH",
+  "flag": "\ud83c\uddf9\ud83c\udded",
+  "rating": 869,
+  "classification": "Professional",
+  "city": "Trat",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 440.0,
+  "tour_weighted_points": 271.4,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 18,
+  "wins": 1,
+  "podiums": 5,
+  "top5": 6,
+  "top10": 10,
+  "top20": 17,
+  "avg_finish": 9.67,
+  "win_rate": 0.056,
+  "top10_rate": 0.556,
+  "cash_earned": 0.0,
+  "pdga_rank": 496,
+  "weighted_rank": 222,
+  "country_rank": 26,
+  "am_events": 9,
+  "am_wins": 1,
+  "am_podiums": 5,
+  "am_top10": 6,
+  "am_pdga_points": 375.0,
+  "last_active": "06-Feb to 08-Feb-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 1,
+      "points": 18.0,
+      "weighted": 150.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 4,
+      "points": 162.0,
+      "weighted": 27.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 13,
+      "points": 260.0,
+      "weighted": 94.4,
+      "wins": 1
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 9,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 1,
+      "top10": 4,
+      "top20": 8,
+      "pdga_points": 65.0,
+      "tour_weighted_points": 28.4,
+      "avg_finish": 12.11,
+      "win_rate": 0.0,
+      "top10_rate": 0.444
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 9,
+      "wins": 1,
+      "podiums": 5,
+      "top5": 5,
+      "top10": 6,
+      "top20": 9,
+      "pdga_points": 375.0,
+      "tour_weighted_points": 243.0,
+      "avg_finish": 7.22,
+      "win_rate": 0.111,
+      "top10_rate": 0.667
+    },
+    "all": {
+      "events": 18,
+      "wins": 1,
+      "podiums": 5,
+      "top5": 6,
+      "top10": 10,
+      "top20": 17,
+      "pdga_points": 440.0,
+      "tour_weighted_points": 271.4,
+      "avg_finish": 9.67,
+      "win_rate": 0.056,
+      "top10_rate": 0.556
+    }
+  },
+  "division_counts": {
+    "MA50": 1,
+    "MPO": 9,
+    "MA1": 7,
+    "MA40": 1
+  },
+  "results": [
+    {
+      "event_id": "104910",
+      "title": "Yasothon Rainy Season Flight 2026",
+      "dates": "20-Jun to 21-Jun-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Yasothon, Yasothon, Thailand",
+      "place": 5,
+      "pdga_points": 0.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "97037",
+      "title": "Chiang Mai Open IV - PDGA Asia Tour Event #4",
+      "dates": "06-Feb to 08-Feb-2026",
+      "year": "2026",
+      "tier": "B",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "Chiang Mai, Thailand",
+      "place": 2,
+      "pdga_points": 18.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 150.0
+    },
+    {
+      "event_id": "96619",
+      "title": "Bangkok Open 2025",
+      "dates": "22-Nov to 23-Nov-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Bangkok, Thailand",
+      "place": 8,
+      "pdga_points": 80.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "84695",
+      "title": "THE Tournament in Trat",
+      "dates": "30-Nov to 01-Dec-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Trat, Thailand",
+      "place": 7,
+      "pdga_points": 10.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "79470",
+      "title": "RSU x Sky Open",
+      "dates": "23-Mar to 24-Mar-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Rangsit, Thailand",
+      "place": 16,
+      "pdga_points": 0.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "86607",
+      "title": "Squid BBQ Episode V",
+      "dates": "03-Dec to 04-Dec-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Mak, Trat, Thailand",
+      "place": 6,
+      "pdga_points": 10.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "80743",
+      "title": "Trat DGC Grand Opening",
+      "dates": "01-Jun-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Trat, Surat Thani, Thailand",
+      "place": 12,
+      "pdga_points": 10.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "73403",
+      "title": "Coconut Open - Pattaya Open",
+      "dates": "02-Dec to 03-Dec-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Pattaya, chonburi, Thailand",
+      "place": 8,
+      "pdga_points": 20.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "55860",
+      "title": "Pattaya Disc Golf Open",
+      "dates": "26-Feb-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Pattaya, Thailand",
+      "place": 12,
+      "pdga_points": 10.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "63215",
+      "title": "Pattaya Disc Golf Open 2",
+      "dates": "03-Dec to 04-Dec-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Baan Lamung, Thailand",
+      "place": 13,
+      "pdga_points": 5.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "43200",
+      "title": "Samui Swine Classic VII - Pros - Presented by Innova",
+      "dates": "31-Jan to 02-Feb-2020",
+      "year": "2020",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 30,
+      "pdga_points": 0.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 3.0
+    },
+    {
+      "event_id": "43198",
+      "title": "Samui Swine Classic VII - Ams - Presented by Innova",
+      "dates": "29-Jan to 30-Jan-2020",
+      "year": "2020",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 17,
+      "pdga_points": 50.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 8.0
+    },
+    {
+      "event_id": "41510",
+      "title": "Squid BBQ Episode 4",
+      "dates": "26-Oct to 27-Oct-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Mak, Thailand",
+      "place": 2,
+      "pdga_points": 30.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "40935",
+      "title": "2nd Annual Elephant Island Open",
+      "dates": "24-Oct-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Ko Chang, Trat, Thailand",
+      "place": 2,
+      "pdga_points": 20.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "38588",
+      "title": "Samui Swine Classic VI - Presented by Dynamic Discs - Ams",
+      "dates": "06-Feb to 07-Feb-2019",
+      "year": "2019",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 20,
+      "pdga_points": 40.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 8.0
+    },
+    {
+      "event_id": "36849",
+      "title": "Squid BBQ - Episode 3 - Driven by Innova",
+      "dates": "20-Oct to 21-Oct-2018",
+      "year": "2018",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Mak, Trat, Thailand",
+      "place": 1,
+      "pdga_points": 35.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "36860",
+      "title": "Elephant Island Open",
+      "dates": "18-Oct-2018",
+      "year": "2018",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Ko Chang, Trat, Thailand",
+      "place": 2,
+      "pdga_points": 30.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "33706",
+      "title": "Samui Swine Classic V",
+      "dates": "01-Feb to 03-Feb-2018",
+      "year": "2018",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 11,
+      "pdga_points": 72.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 8.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "36849",
+      "title": "Squid BBQ - Episode 3 - Driven by Innova",
+      "dates": "20-Oct to 21-Oct-2018",
+      "year": "2018",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Mak, Trat, Thailand",
+      "place": 1,
+      "pdga_points": 35.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 2,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 2,
+      "pdga_points": 18.0,
+      "avg_finish": 3.5
+    },
+    {
+      "year": "2025",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 80.0,
+      "avg_finish": 8.0
+    },
+    {
+      "year": "2024",
+      "events": 4,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 2,
+      "pdga_points": 30.0,
+      "avg_finish": 10.25
+    },
+    {
+      "year": "2023",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 20.0,
+      "avg_finish": 8.0
+    },
+    {
+      "year": "2022",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 15.0,
+      "avg_finish": 12.5
+    },
+    {
+      "year": "2020",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 50.0,
+      "avg_finish": 23.5
+    },
+    {
+      "year": "2019",
+      "events": 3,
+      "wins": 0,
+      "podiums": 2,
+      "top10": 2,
+      "pdga_points": 90.0,
+      "avg_finish": 8.0
+    },
+    {
+      "year": "2018",
+      "events": 3,
+      "wins": 1,
+      "podiums": 2,
+      "top10": 2,
+      "pdga_points": 137.0,
+      "avg_finish": 4.67
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2022-12-13",
+      "rating": 815,
+      "rounds": 5
+    },
+    {
+      "date": "2024-02-13",
+      "rating": 843,
+      "rounds": 7
+    },
+    {
+      "date": "2024-04-09",
+      "rating": 834,
+      "rounds": 8
+    },
+    {
+      "date": "2024-06-11",
+      "rating": 836,
+      "rounds": 10
+    },
+    {
+      "date": "2024-12-10",
+      "rating": 862,
+      "rounds": 11
+    },
+    {
+      "date": "2025-02-11",
+      "rating": 862,
+      "rounds": 11
+    },
+    {
+      "date": "2025-03-11",
+      "rating": 859,
+      "rounds": 14
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 869,
+      "rounds": 16
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 884,
+      "rounds": 16
+    },
+    {
+      "date": "2025-11-11",
+      "rating": 875,
+      "rounds": 18
+    },
+    {
+      "date": "2025-12-09",
+      "rating": 876,
+      "rounds": 21
+    },
+    {
+      "date": "2026-02-10",
+      "rating": 870,
+      "rounds": 24
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 878,
+      "rounds": 27
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 873,
+      "rounds": 27
+    },
+    {
+      "date": "2026-07-14",
+      "rating": 869,
+      "rounds": 27
+    }
+  ],
+  "streak": {
+    "direction": "up",
+    "recent_avg": 32.7,
+    "season_avg": 22.8,
+    "delta_pct": 43.3
+  },
+  "pdga_url": "https://www.pdga.com/player/101042"
+}

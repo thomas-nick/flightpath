@@ -1,0 +1,245 @@
+{
+  "pdga": 194673,
+  "name": "Saul Hardman #194673",
+  "country": "Denmark",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 891,
+  "classification": "Amateur",
+  "city": "Valby",
+  "nationality": "",
+  "division": "MA2",
+  "primary_class": "amateur",
+  "pdga_points": 88.0,
+  "tour_weighted_points": 75.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 1,
+  "top5": 1,
+  "top10": 1,
+  "top20": 1,
+  "avg_finish": 2.0,
+  "win_rate": 0.0,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 1230,
+  "weighted_rank": 743,
+  "country_rank": null,
+  "am_events": 1,
+  "am_wins": 0,
+  "am_podiums": 1,
+  "am_top10": 1,
+  "am_pdga_points": 88.0,
+  "last_active": "31-Jan to 02-Feb-2023",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 1,
+      "points": 88.0,
+      "weighted": 75.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 88.0,
+      "tour_weighted_points": 75.0,
+      "avg_finish": 2.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 88.0,
+      "tour_weighted_points": 75.0,
+      "avg_finish": 2.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA2": 1
+  },
+  "results": [
+    {
+      "event_id": "63564",
+      "title": "Samui Swine Classic X Presented by Prodigy Discs- MA3, MA2, FA1, MA40, MA50, MA60",
+      "dates": "31-Jan to 02-Feb-2023",
+      "year": "2023",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 2,
+      "pdga_points": 88.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 75.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2023",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 88.0,
+      "avg_finish": 2.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2022-06-14",
+      "rating": 881,
+      "rounds": 18
+    },
+    {
+      "date": "2022-07-12",
+      "rating": 891,
+      "rounds": 29
+    },
+    {
+      "date": "2022-08-09",
+      "rating": 890,
+      "rounds": 31
+    },
+    {
+      "date": "2022-09-13",
+      "rating": 890,
+      "rounds": 33
+    },
+    {
+      "date": "2022-10-11",
+      "rating": 891,
+      "rounds": 36
+    },
+    {
+      "date": "2022-11-08",
+      "rating": 888,
+      "rounds": 37
+    },
+    {
+      "date": "2022-12-13",
+      "rating": 891,
+      "rounds": 38
+    },
+    {
+      "date": "2023-02-14",
+      "rating": 898,
+      "rounds": 39
+    },
+    {
+      "date": "2023-03-14",
+      "rating": 900,
+      "rounds": 39
+    },
+    {
+      "date": "2023-04-11",
+      "rating": 902,
+      "rounds": 40
+    },
+    {
+      "date": "2023-05-09",
+      "rating": 906,
+      "rounds": 36
+    },
+    {
+      "date": "2023-06-13",
+      "rating": 904,
+      "rounds": 37
+    },
+    {
+      "date": "2023-07-11",
+      "rating": 902,
+      "rounds": 29
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 894,
+      "rounds": 10
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 891,
+      "rounds": 5
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/194673"
+}

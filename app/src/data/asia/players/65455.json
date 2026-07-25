@@ -1,0 +1,245 @@
+{
+  "pdga": 65455,
+  "name": "Mitchell Pitcock",
+  "country": "India",
+  "country_key": "IN",
+  "flag": "\ud83c\uddee\ud83c\uddf3",
+  "rating": 870,
+  "classification": "Pro",
+  "city": "",
+  "nationality": "",
+  "division": "MA2",
+  "primary_class": "amateur",
+  "pdga_points": 24.0,
+  "tour_weighted_points": 11.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 1,
+  "top5": 1,
+  "top10": 1,
+  "top20": 1,
+  "avg_finish": 3.0,
+  "win_rate": 0.0,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 2799,
+  "weighted_rank": 2234,
+  "country_rank": 987,
+  "am_events": 1,
+  "am_wins": 0,
+  "am_podiums": 1,
+  "am_top10": 1,
+  "am_pdga_points": 24.0,
+  "last_active": "12-Mar-2022",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 1,
+      "points": 24.0,
+      "weighted": 11.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 24.0,
+      "tour_weighted_points": 11.0,
+      "avg_finish": 3.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 24.0,
+      "tour_weighted_points": 11.0,
+      "avg_finish": 3.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA2": 1
+  },
+  "results": [
+    {
+      "event_id": "57111",
+      "title": "WIFFS #25 - Broadside of the Hill (CEP Charity - Rated)",
+      "dates": "12-Mar-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Danville, Indiana, United States",
+      "place": 3,
+      "pdga_points": 24.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2022",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 24.0,
+      "avg_finish": 3.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2017-10-25",
+      "rating": 917,
+      "rounds": 23
+    },
+    {
+      "date": "2018-01-31",
+      "rating": 916,
+      "rounds": 25
+    },
+    {
+      "date": "2018-03-13",
+      "rating": 908,
+      "rounds": 31
+    },
+    {
+      "date": "2018-04-17",
+      "rating": 912,
+      "rounds": 29
+    },
+    {
+      "date": "2018-05-22",
+      "rating": 922,
+      "rounds": 38
+    },
+    {
+      "date": "2018-07-31",
+      "rating": 925,
+      "rounds": 32
+    },
+    {
+      "date": "2018-09-11",
+      "rating": 923,
+      "rounds": 28
+    },
+    {
+      "date": "2018-11-28",
+      "rating": 920,
+      "rounds": 32
+    },
+    {
+      "date": "2019-01-29",
+      "rating": 917,
+      "rounds": 37
+    },
+    {
+      "date": "2019-02-26",
+      "rating": 912,
+      "rounds": 37
+    },
+    {
+      "date": "2019-04-09",
+      "rating": 924,
+      "rounds": 27
+    },
+    {
+      "date": "2019-05-14",
+      "rating": 924,
+      "rounds": 23
+    },
+    {
+      "date": "2019-06-11",
+      "rating": 920,
+      "rounds": 27
+    },
+    {
+      "date": "2019-08-13",
+      "rating": 914,
+      "rounds": 29
+    },
+    {
+      "date": "2019-11-12",
+      "rating": 907,
+      "rounds": 25
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/65455"
+}

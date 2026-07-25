@@ -1,0 +1,230 @@
+{
+  "event_id": "86342",
+  "title": "Crispy Original Disc Golf Tournament",
+  "location": "Iskandar Puteri, Johor, Malaysia",
+  "dates": "23-Nov-2024",
+  "year": "2024",
+  "tier": "C",
+  "level": "c_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 14,
+  "avg_mpo_rating": 899.2,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "count": 11
+    },
+    {
+      "flag": "\ud83c\uddf8\ud83c\uddec",
+      "country": "Singapore",
+      "count": 1
+    },
+    {
+      "flag": "\ud83c\uddf0\ud83c\uddff",
+      "country": "Kazakhstan",
+      "count": 1
+    },
+    {
+      "flag": "\ud83c\uddf5\ud83c\udded",
+      "country": "Philippines",
+      "count": 1
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 116486,
+      "name": "Sean Raj",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 1,
+      "pdga_points": 25.0,
+      "rating": 925,
+      "prize": "$67",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    },
+    {
+      "pdga": 115447,
+      "name": "Eric Grover",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 2,
+      "pdga_points": 20.0,
+      "rating": 950,
+      "prize": "$34",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    },
+    {
+      "pdga": 263885,
+      "name": "Wesley de Ridder",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 3,
+      "pdga_points": 15.0,
+      "rating": 889,
+      "prize": "$13",
+      "flag": "\ud83c\uddf8\ud83c\uddec",
+      "country": "Singapore",
+      "country_key": "SG"
+    },
+    {
+      "pdga": 296887,
+      "name": "Nathan Turner",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 4,
+      "pdga_points": 10.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    },
+    {
+      "pdga": 169803,
+      "name": "Aleksandr Krasikov",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 5,
+      "pdga_points": 5.0,
+      "rating": 833,
+      "prize": "",
+      "flag": "\ud83c\uddf0\ud83c\uddff",
+      "country": "Kazakhstan",
+      "country_key": "KZ"
+    }
+  ],
+  "fpo": [
+    {
+      "pdga": 118261,
+      "name": "Jenna Jiaxin Tan",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 1,
+      "pdga_points": 6.0,
+      "rating": 915,
+      "prize": "$34",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    },
+    {
+      "pdga": 130936,
+      "name": "Rosalie Pili",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 2,
+      "pdga_points": 3.0,
+      "rating": 814,
+      "prize": "$11",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    }
+  ],
+  "amateur": [
+    {
+      "pdga": 150296,
+      "name": "Joanna Mae Guzman",
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 6.0,
+      "rating": 709,
+      "prize": "",
+      "flag": "\ud83c\uddf5\ud83c\udded",
+      "country": "Philippines",
+      "country_key": "PH"
+    },
+    {
+      "pdga": 240283,
+      "name": "Chuan Sang Lai",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 30.0,
+      "rating": 878,
+      "prize": "",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    },
+    {
+      "pdga": 277447,
+      "name": "Zhe Yi Tai",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 3,
+      "pdga_points": 20.0,
+      "rating": 801,
+      "prize": "",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    },
+    {
+      "pdga": 126428,
+      "name": "Dass Mohan",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 3,
+      "pdga_points": 20.0,
+      "rating": 796,
+      "prize": "",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    },
+    {
+      "pdga": 277751,
+      "name": "Ben Clark",
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 12.0,
+      "rating": 827,
+      "prize": "",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    },
+    {
+      "pdga": 284729,
+      "name": "Bernard Tai",
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 8.0,
+      "rating": 733,
+      "prize": "",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    },
+    {
+      "pdga": 240163,
+      "name": "Anthony Wong Siewhong",
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "place": 3,
+      "pdga_points": 4.0,
+      "rating": 771,
+      "prize": "",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    }
+  ],
+  "divisions": [
+    "FA1",
+    "FPO",
+    "MA1",
+    "MA40",
+    "MPO"
+  ]
+}

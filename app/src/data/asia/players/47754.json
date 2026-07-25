@@ -1,0 +1,336 @@
+{
+  "pdga": 47754,
+  "name": "Howard Peck #47754",
+  "country": "United States",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 882,
+  "classification": "Amateur",
+  "city": "Longmont",
+  "nationality": "",
+  "division": "MA40",
+  "primary_class": "amateur",
+  "pdga_points": 168.0,
+  "tour_weighted_points": 97.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 5,
+  "wins": 1,
+  "podiums": 3,
+  "top5": 4,
+  "top10": 4,
+  "top20": 5,
+  "avg_finish": 4.4,
+  "win_rate": 0.2,
+  "top10_rate": 0.8,
+  "cash_earned": 0.0,
+  "pdga_rank": 902,
+  "weighted_rank": 641,
+  "country_rank": null,
+  "am_events": 5,
+  "am_wins": 1,
+  "am_podiums": 3,
+  "am_top10": 4,
+  "am_pdga_points": 168.0,
+  "last_active": "30-Jan to 01-Feb-2024",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 1,
+      "points": 104.0,
+      "weighted": 55.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 0.0,
+      "weighted": 4.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 3,
+      "points": 64.0,
+      "weighted": 38.0,
+      "wins": 1
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 5,
+      "wins": 1,
+      "podiums": 3,
+      "top5": 4,
+      "top10": 4,
+      "top20": 5,
+      "pdga_points": 168.0,
+      "tour_weighted_points": 97.0,
+      "avg_finish": 4.4,
+      "win_rate": 0.2,
+      "top10_rate": 0.8
+    },
+    "all": {
+      "events": 5,
+      "wins": 1,
+      "podiums": 3,
+      "top5": 4,
+      "top10": 4,
+      "top20": 5,
+      "pdga_points": 168.0,
+      "tour_weighted_points": 97.0,
+      "avg_finish": 4.4,
+      "win_rate": 0.2,
+      "top10_rate": 0.8
+    }
+  },
+  "division_counts": {
+    "MA40": 4,
+    "MA50": 1
+  },
+  "results": [
+    {
+      "event_id": "73676",
+      "title": "Samui Swine Classic XI - MA3, MA2, MA40, MA50, MA60",
+      "dates": "30-Jan to 01-Feb-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 11,
+      "pdga_points": 0.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "43198",
+      "title": "Samui Swine Classic VII - Ams - Presented by Innova",
+      "dates": "29-Jan to 30-Jan-2020",
+      "year": "2020",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 3,
+      "pdga_points": 104.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 55.0
+    },
+    {
+      "event_id": "43184",
+      "title": "The 5th Annual Hyzenbrownie Open \"King Of The Island\" 2020",
+      "dates": "22-Jan to 26-Jan-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Namuang Koh Samui, Thailand",
+      "place": 4,
+      "pdga_points": 20.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "42689",
+      "title": "Singapore Sling 2020",
+      "dates": "19-Jan-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 3,
+      "pdga_points": 16.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "43398",
+      "title": "Shipwrecked in Malaysia",
+      "dates": "18-Jan-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 1,
+      "pdga_points": 28.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "43398",
+      "title": "Shipwrecked in Malaysia",
+      "dates": "18-Jan-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 1,
+      "pdga_points": 28.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2024",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 0.0,
+      "avg_finish": 11.0
+    },
+    {
+      "year": "2020",
+      "events": 4,
+      "wins": 1,
+      "podiums": 3,
+      "top10": 4,
+      "pdga_points": 168.0,
+      "avg_finish": 2.75
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2016-05-17",
+      "rating": 908,
+      "rounds": 22
+    },
+    {
+      "date": "2016-06-21",
+      "rating": 906,
+      "rounds": 23
+    },
+    {
+      "date": "2016-07-19",
+      "rating": 902,
+      "rounds": 23
+    },
+    {
+      "date": "2016-08-16",
+      "rating": 900,
+      "rounds": 23
+    },
+    {
+      "date": "2016-11-15",
+      "rating": 900,
+      "rounds": 18
+    },
+    {
+      "date": "2016-12-06",
+      "rating": 900,
+      "rounds": 20
+    },
+    {
+      "date": "2017-07-25",
+      "rating": 895,
+      "rounds": 11
+    },
+    {
+      "date": "2017-08-22",
+      "rating": 896,
+      "rounds": 13
+    },
+    {
+      "date": "2017-09-26",
+      "rating": 895,
+      "rounds": 10
+    },
+    {
+      "date": "2017-11-14",
+      "rating": 905,
+      "rounds": 13
+    },
+    {
+      "date": "2019-02-26",
+      "rating": 882,
+      "rounds": 8
+    },
+    {
+      "date": "2019-08-13",
+      "rating": 872,
+      "rounds": 9
+    },
+    {
+      "date": "2020-01-14",
+      "rating": 882,
+      "rounds": 8
+    },
+    {
+      "date": "2020-02-11",
+      "rating": 889,
+      "rounds": 17
+    },
+    {
+      "date": "2020-11-10",
+      "rating": 892,
+      "rounds": 15
+    }
+  ],
+  "streak": {
+    "direction": "up",
+    "recent_avg": 41.3,
+    "season_avg": 22.0,
+    "delta_pct": 87.9
+  },
+  "pdga_url": "https://www.pdga.com/player/47754"
+}

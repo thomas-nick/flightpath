@@ -1,0 +1,262 @@
+{
+  "pdga": 151697,
+  "name": "Dustin Rieser",
+  "country": "India",
+  "country_key": "IN",
+  "flag": "\ud83c\uddee\ud83c\uddf3",
+  "rating": 889,
+  "classification": "Pro",
+  "city": "",
+  "nationality": "",
+  "division": "MA3",
+  "primary_class": "amateur",
+  "pdga_points": 36.0,
+  "tour_weighted_points": 19.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 1,
+  "top5": 1,
+  "top10": 2,
+  "top20": 2,
+  "avg_finish": 5.0,
+  "win_rate": 0.0,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 2500,
+  "weighted_rank": 1565,
+  "country_rank": 874,
+  "am_events": 2,
+  "am_wins": 0,
+  "am_podiums": 1,
+  "am_top10": 2,
+  "am_pdga_points": 36.0,
+  "last_active": "19-Feb-2022",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 2,
+      "points": 36.0,
+      "weighted": 19.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 2,
+      "top20": 2,
+      "pdga_points": 36.0,
+      "tour_weighted_points": 19.0,
+      "avg_finish": 5.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 2,
+      "top20": 2,
+      "pdga_points": 36.0,
+      "tour_weighted_points": 19.0,
+      "avg_finish": 5.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA3": 1,
+    "MA2": 1
+  },
+  "results": [
+    {
+      "event_id": "59744",
+      "title": "King of the Hill",
+      "dates": "30-Apr-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Danville, Indiana, United States",
+      "place": 2,
+      "pdga_points": 12.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "56568",
+      "title": "WIFFS #17 - The Nashville Chill sponsored by Westside Discs (CEP Charity - Rated)",
+      "dates": "19-Feb-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Nashville, Indiana, United States",
+      "place": 8,
+      "pdga_points": 24.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2022",
+      "events": 2,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 2,
+      "pdga_points": 36.0,
+      "avg_finish": 5.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2021-02-09",
+      "rating": 833,
+      "rounds": 1
+    },
+    {
+      "date": "2021-05-11",
+      "rating": 852,
+      "rounds": 3
+    },
+    {
+      "date": "2021-06-08",
+      "rating": 857,
+      "rounds": 5
+    },
+    {
+      "date": "2021-08-10",
+      "rating": 869,
+      "rounds": 7
+    },
+    {
+      "date": "2021-09-14",
+      "rating": 895,
+      "rounds": 9
+    },
+    {
+      "date": "2021-10-12",
+      "rating": 888,
+      "rounds": 12
+    },
+    {
+      "date": "2022-02-08",
+      "rating": 889,
+      "rounds": 14
+    },
+    {
+      "date": "2022-03-08",
+      "rating": 895,
+      "rounds": 14
+    },
+    {
+      "date": "2022-04-12",
+      "rating": 897,
+      "rounds": 16
+    },
+    {
+      "date": "2022-05-10",
+      "rating": 893,
+      "rounds": 16
+    },
+    {
+      "date": "2022-08-09",
+      "rating": 877,
+      "rounds": 15
+    },
+    {
+      "date": "2022-09-13",
+      "rating": 913,
+      "rounds": 26
+    },
+    {
+      "date": "2022-10-11",
+      "rating": 903,
+      "rounds": 27
+    },
+    {
+      "date": "2023-06-13",
+      "rating": 904,
+      "rounds": 22
+    },
+    {
+      "date": "2023-11-14",
+      "rating": 898,
+      "rounds": 11
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/151697"
+}

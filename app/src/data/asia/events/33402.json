@@ -1,0 +1,160 @@
+{
+  "event_id": "33402",
+  "title": "King of the Island",
+  "location": "Koh Samui, Surat Thani, Thailand",
+  "dates": "26-Jul to 27-Sep-2017",
+  "year": "2017",
+  "tier": "",
+  "level": "c_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 10,
+  "avg_mpo_rating": 951.0,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "count": 6
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 18801,
+      "name": "Luke Butch",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 1,
+      "pdga_points": 2.5,
+      "rating": 951,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    }
+  ],
+  "fpo": [],
+  "amateur": [
+    {
+      "pdga": 77395,
+      "name": "View Georgiou",
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 30.0,
+      "rating": 869,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 88966,
+      "name": "Joy Chupthasorn",
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "place": 3,
+      "pdga_points": 4.5,
+      "rating": 865,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 78791,
+      "name": "Toosje Frequin",
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "place": 4,
+      "pdga_points": 3.0,
+      "rating": 795,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "Australia",
+      "country_key": ""
+    },
+    {
+      "pdga": 62816,
+      "name": "Dave Lehmann",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 67.5,
+      "rating": 909,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 58708,
+      "name": "Riley Hayes",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 60.0,
+      "rating": 901,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 77393,
+      "name": "Nick Georgiou",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 3,
+      "pdga_points": 40.0,
+      "rating": 917,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 70543,
+      "name": "Sami Toivonen",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 4,
+      "pdga_points": 22.5,
+      "rating": 907,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "Finland",
+      "country_key": ""
+    },
+    {
+      "pdga": 56058,
+      "name": "Kaspar Carr-Howard",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 5,
+      "pdga_points": 7.5,
+      "rating": 924,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "Australia",
+      "country_key": ""
+    },
+    {
+      "pdga": 86857,
+      "name": "Julian Leichert",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 6,
+      "pdga_points": 5.0,
+      "rating": 906,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "Germany",
+      "country_key": ""
+    }
+  ],
+  "divisions": [
+    "FA1",
+    "MA1",
+    "MPO"
+  ]
+}

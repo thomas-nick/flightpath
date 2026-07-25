@@ -1,0 +1,579 @@
+{
+  "pdga": 77394,
+  "name": "William Engelhardt #77394",
+  "country": "Thailand",
+  "country_key": "TH",
+  "flag": "\ud83c\uddf9\ud83c\udded",
+  "rating": 875,
+  "classification": "Amateur",
+  "city": "Koh Samui / Surathanni",
+  "nationality": "",
+  "division": "MA1",
+  "primary_class": "amateur",
+  "pdga_points": 349.0,
+  "tour_weighted_points": 211.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 14,
+  "wins": 6,
+  "podiums": 8,
+  "top5": 11,
+  "top10": 14,
+  "top20": 14,
+  "avg_finish": 3.14,
+  "win_rate": 0.429,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 583,
+  "weighted_rank": 315,
+  "country_rank": 33,
+  "am_events": 14,
+  "am_wins": 6,
+  "am_podiums": 8,
+  "am_top10": 14,
+  "am_pdga_points": 349.0,
+  "last_active": "22-Jan to 26-Jan-2020",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 1,
+      "points": 60.0,
+      "weighted": 35.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 13,
+      "points": 289.0,
+      "weighted": 176.0,
+      "wins": 6
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 14,
+      "wins": 6,
+      "podiums": 8,
+      "top5": 11,
+      "top10": 14,
+      "top20": 14,
+      "pdga_points": 349.0,
+      "tour_weighted_points": 211.0,
+      "avg_finish": 3.14,
+      "win_rate": 0.429,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 14,
+      "wins": 6,
+      "podiums": 8,
+      "top5": 11,
+      "top10": 14,
+      "top20": 14,
+      "pdga_points": 349.0,
+      "tour_weighted_points": 211.0,
+      "avg_finish": 3.14,
+      "win_rate": 0.429,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA50": 2,
+    "MA1": 8,
+    "MA40": 4
+  },
+  "results": [
+    {
+      "event_id": "43184",
+      "title": "The 5th Annual Hyzenbrownie Open \"King Of The Island\" 2020",
+      "dates": "22-Jan to 26-Jan-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Namuang Koh Samui, Thailand",
+      "place": 8,
+      "pdga_points": 12.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "43064",
+      "title": "Samui September Smackdown 2",
+      "dates": "21-Sep-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 1,
+      "pdga_points": 40.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "41108",
+      "title": "Samui Spring Fling 2",
+      "dates": "19-May-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 6,
+      "pdga_points": 15.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "40375",
+      "title": "Samui Shamrock Shakedown 2",
+      "dates": "17-Mar-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 4,
+      "pdga_points": 12.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "40740",
+      "title": "Samui Songkran Soaker 2",
+      "dates": "15-Apr-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 5,
+      "pdga_points": 30.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "42152",
+      "title": "Samui Summer Slam 2",
+      "dates": "14-Jul-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 2,
+      "pdga_points": 45.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "38588",
+      "title": "Samui Swine Classic VI - Presented by Dynamic Discs - Ams",
+      "dates": "06-Feb to 07-Feb-2019",
+      "year": "2019",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 5,
+      "pdga_points": 60.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 35.0
+    },
+    {
+      "event_id": "35672",
+      "title": "Samui Songkran Soaker - Samui Series #2",
+      "dates": "22-Apr-2018",
+      "year": "2018",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 1,
+      "pdga_points": 16.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "35673",
+      "title": "Samui Spring Fling - Samui Series #3",
+      "dates": "20-May-2018",
+      "year": "2018",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 1,
+      "pdga_points": 16.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "36795",
+      "title": "Samui Summer Sizzler 3 - Samui Series #6",
+      "dates": "19-Aug-2018",
+      "year": "2018",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 1,
+      "pdga_points": 40.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "36793",
+      "title": "Who's Your Daddy - Samui Series #4",
+      "dates": "17-Jun-2018",
+      "year": "2018",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 2,
+      "pdga_points": 8.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "37745",
+      "title": "Samui September Smackdown  - Samui Series #7",
+      "dates": "16-Sep-2018",
+      "year": "2018",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 1,
+      "pdga_points": 25.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "36794",
+      "title": "Samui Summer Slam - Samui Series #5",
+      "dates": "15-Jul-2018",
+      "year": "2018",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 1,
+      "pdga_points": 20.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "28477",
+      "title": "Samui Summer Sizzler",
+      "dates": "13-Aug-2016",
+      "year": "2016",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Maenam, Koh Samui, Thailand",
+      "place": 6,
+      "pdga_points": 10.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "43064",
+      "title": "Samui September Smackdown 2",
+      "dates": "21-Sep-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 1,
+      "pdga_points": 40.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "35672",
+      "title": "Samui Songkran Soaker - Samui Series #2",
+      "dates": "22-Apr-2018",
+      "year": "2018",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 1,
+      "pdga_points": 16.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "35673",
+      "title": "Samui Spring Fling - Samui Series #3",
+      "dates": "20-May-2018",
+      "year": "2018",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 1,
+      "pdga_points": 16.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "36795",
+      "title": "Samui Summer Sizzler 3 - Samui Series #6",
+      "dates": "19-Aug-2018",
+      "year": "2018",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 1,
+      "pdga_points": 40.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "37745",
+      "title": "Samui September Smackdown  - Samui Series #7",
+      "dates": "16-Sep-2018",
+      "year": "2018",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 1,
+      "pdga_points": 25.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "36794",
+      "title": "Samui Summer Slam - Samui Series #5",
+      "dates": "15-Jul-2018",
+      "year": "2018",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 1,
+      "pdga_points": 20.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2020",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 12.0,
+      "avg_finish": 8.0
+    },
+    {
+      "year": "2019",
+      "events": 6,
+      "wins": 1,
+      "podiums": 2,
+      "top10": 6,
+      "pdga_points": 202.0,
+      "avg_finish": 3.83
+    },
+    {
+      "year": "2018",
+      "events": 6,
+      "wins": 5,
+      "podiums": 6,
+      "top10": 6,
+      "pdga_points": 125.0,
+      "avg_finish": 1.17
+    },
+    {
+      "year": "2016",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 10.0,
+      "avg_finish": 6.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2018-01-31",
+      "rating": 892,
+      "rounds": 12
+    },
+    {
+      "date": "2018-05-22",
+      "rating": 884,
+      "rounds": 15
+    },
+    {
+      "date": "2018-06-26",
+      "rating": 886,
+      "rounds": 16
+    },
+    {
+      "date": "2018-07-31",
+      "rating": 887,
+      "rounds": 17
+    },
+    {
+      "date": "2018-09-11",
+      "rating": 888,
+      "rounds": 17
+    },
+    {
+      "date": "2018-10-09",
+      "rating": 889,
+      "rounds": 19
+    },
+    {
+      "date": "2018-10-30",
+      "rating": 888,
+      "rounds": 22
+    },
+    {
+      "date": "2019-01-29",
+      "rating": 885,
+      "rounds": 22
+    },
+    {
+      "date": "2019-02-26",
+      "rating": 882,
+      "rounds": 18
+    },
+    {
+      "date": "2019-04-09",
+      "rating": 875,
+      "rounds": 21
+    },
+    {
+      "date": "2019-05-14",
+      "rating": 874,
+      "rounds": 24
+    },
+    {
+      "date": "2019-06-11",
+      "rating": 871,
+      "rounds": 25
+    },
+    {
+      "date": "2019-07-09",
+      "rating": 873,
+      "rounds": 27
+    },
+    {
+      "date": "2019-08-13",
+      "rating": 876,
+      "rounds": 25
+    },
+    {
+      "date": "2019-10-08",
+      "rating": 875,
+      "rounds": 20
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 22.3,
+    "season_avg": 25.6,
+    "delta_pct": -12.9
+  },
+  "pdga_url": "https://www.pdga.com/player/77394"
+}

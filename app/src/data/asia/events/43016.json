@@ -1,0 +1,133 @@
+{
+  "event_id": "43016",
+  "title": "Suzhou\u82cf\u5dde\u79cb\u5b63\u4e1a\u4f59\u98de\u76d8\u9ad8\u5c14\u592b\u6bd4\u8d5b 2019 Suzhou Autumn Amateur Disc Golf Tournament (CDGC Disc Golf Series)",
+  "location": "Suzhou, Jiangsu Sheng, China",
+  "dates": "21-Sep-2019",
+  "year": "2019",
+  "tier": "C",
+  "level": "c_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 8,
+  "avg_mpo_rating": null,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "count": 8
+    }
+  ],
+  "mpo": [],
+  "fpo": [],
+  "amateur": [
+    {
+      "pdga": 150992,
+      "name": "Muhetaer Simayi",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 15.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 110420,
+      "name": "Tim Flanders",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 10.0,
+      "rating": 896,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 114467,
+      "name": "Yuhan Sun",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 3,
+      "pdga_points": 5.0,
+      "rating": 901,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 127005,
+      "name": "Haijie Zhang",
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 16.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 99391,
+      "name": "Yingfeng Eric Xu",
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 12.0,
+      "rating": 821,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 114565,
+      "name": "Ye Liu",
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "place": 3,
+      "pdga_points": 8.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 128827,
+      "name": "Yuhao Sun",
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 6.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 122212,
+      "name": "Weili Chang",
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 3.0,
+      "rating": 755,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    }
+  ],
+  "divisions": [
+    "MA1",
+    "MA2",
+    "MA3"
+  ]
+}

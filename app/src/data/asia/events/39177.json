@@ -1,0 +1,328 @@
+{
+  "event_id": "39177",
+  "title": "Attack of The Chains",
+  "location": "Gelang Patah, Johor, Malaysia",
+  "dates": "03-Feb-2019",
+  "year": "2019",
+  "tier": "C",
+  "level": "c_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 21,
+  "avg_mpo_rating": 878.2,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "count": 10
+    },
+    {
+      "flag": "\ud83c\uddf8\ud83c\uddec",
+      "country": "Singapore",
+      "count": 3
+    },
+    {
+      "flag": "\ud83c\uddfb\ud83c\uddf3",
+      "country": "Vietnam",
+      "count": 1
+    },
+    {
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "count": 1
+    },
+    {
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "count": 1
+    },
+    {
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "count": 1
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 113153,
+      "name": "Janne Salmi",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 1,
+      "pdga_points": 75.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "Portugal",
+      "country_key": ""
+    },
+    {
+      "pdga": 21590,
+      "name": "Lance DuBos",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 2,
+      "pdga_points": 70.0,
+      "rating": 837,
+      "prize": "",
+      "flag": "\ud83c\uddf8\ud83c\uddec",
+      "country": "Singapore",
+      "country_key": "SG"
+    },
+    {
+      "pdga": 104114,
+      "name": "Leslie Anklovitch",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 3,
+      "pdga_points": 65.0,
+      "rating": 866,
+      "prize": "$67",
+      "flag": "\ud83c\uddf8\ud83c\uddec",
+      "country": "Singapore",
+      "country_key": "SG"
+    },
+    {
+      "pdga": 113553,
+      "name": "Rad Shadd",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 4,
+      "pdga_points": 60.0,
+      "rating": 910,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 115446,
+      "name": "Weming Lim",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 5,
+      "pdga_points": 55.0,
+      "rating": null,
+      "prize": "$30",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    },
+    {
+      "pdga": 113258,
+      "name": "Redha Fahmi Radzuan",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 6,
+      "pdga_points": 50.0,
+      "rating": 876,
+      "prize": "",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    },
+    {
+      "pdga": 98495,
+      "name": "Addison Yanito",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 7,
+      "pdga_points": 45.0,
+      "rating": 881,
+      "prize": "",
+      "flag": "\ud83c\uddfb\ud83c\uddf3",
+      "country": "Vietnam",
+      "country_key": "VN"
+    },
+    {
+      "pdga": 45430,
+      "name": "George Kamenos",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 8,
+      "pdga_points": 40.0,
+      "rating": 938,
+      "prize": "",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "country_key": "KR"
+    },
+    {
+      "pdga": 116486,
+      "name": "Sean Raj",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 9,
+      "pdga_points": 35.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    },
+    {
+      "pdga": 110420,
+      "name": "Tim Flanders",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 10,
+      "pdga_points": 30.0,
+      "rating": 855,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 113259,
+      "name": "Mohammad Faize Moftar",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 10,
+      "pdga_points": 30.0,
+      "rating": 881,
+      "prize": "",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    },
+    {
+      "pdga": 72004,
+      "name": "Ian Lee",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 14,
+      "pdga_points": 10.0,
+      "rating": 817,
+      "prize": "",
+      "flag": "\ud83c\uddf8\ud83c\uddec",
+      "country": "Singapore",
+      "country_key": "SG"
+    },
+    {
+      "pdga": 12353,
+      "name": "Brock Pitzer",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 15,
+      "pdga_points": 0.0,
+      "rating": 921,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    }
+  ],
+  "fpo": [],
+  "amateur": [
+    {
+      "pdga": 113498,
+      "name": "Nur Hareesa Shahaini",
+      "division": "FA2",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 10.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    },
+    {
+      "pdga": 115448,
+      "name": "Nabilah Ahsanuddin",
+      "division": "FA2",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 8.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    },
+    {
+      "pdga": 63994,
+      "name": "Luke Turnbull",
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 48.0,
+      "rating": 834,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "Australia",
+      "country_key": ""
+    },
+    {
+      "pdga": 116395,
+      "name": "Dominik Poignee",
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 44.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    },
+    {
+      "pdga": 107375,
+      "name": "Mohd Firdause Ab Razak",
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "place": 4,
+      "pdga_points": 36.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    },
+    {
+      "pdga": 112902,
+      "name": "Michael Zimmerman",
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "place": 7,
+      "pdga_points": 24.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 113543,
+      "name": "Mohamad Farhan Pauzan",
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "place": 8,
+      "pdga_points": 20.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    },
+    {
+      "pdga": 119102,
+      "name": "Casey Volden",
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "place": 9,
+      "pdga_points": 16.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    }
+  ],
+  "divisions": [
+    "FA2",
+    "MA2",
+    "MPO"
+  ]
+}

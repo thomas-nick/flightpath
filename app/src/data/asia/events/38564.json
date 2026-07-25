@@ -1,0 +1,212 @@
+{
+  "event_id": "38564",
+  "title": "Samui Santa's Surprise - Samui Series #10",
+  "location": "Koh Samui, Surat Thani, Thailand",
+  "dates": "16-Dec-2018",
+  "year": "2018",
+  "tier": "C",
+  "level": "c_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 14,
+  "avg_mpo_rating": 932.5,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "count": 10
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 102124,
+      "name": "Joel Pallari",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 1,
+      "pdga_points": 30.0,
+      "rating": 945,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "Finland",
+      "country_key": ""
+    },
+    {
+      "pdga": 102093,
+      "name": "Pejman Norouzi",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 2,
+      "pdga_points": 25.0,
+      "rating": 906,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 91669,
+      "name": "Thomas Tangen",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 3,
+      "pdga_points": 20.0,
+      "rating": 953,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 77393,
+      "name": "Nick Georgiou",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 4,
+      "pdga_points": 15.0,
+      "rating": 938,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 77395,
+      "name": "View Georgiou",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 5,
+      "pdga_points": 10.0,
+      "rating": 933,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 58708,
+      "name": "Riley Hayes",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 6,
+      "pdga_points": 5.0,
+      "rating": 920,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    }
+  ],
+  "fpo": [],
+  "amateur": [
+    {
+      "pdga": 110027,
+      "name": "William Robson",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 30.0,
+      "rating": 829,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 113603,
+      "name": "Tom Stillman",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 25.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "Finland",
+      "country_key": ""
+    },
+    {
+      "pdga": 62817,
+      "name": "Michael Arseneault",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 3,
+      "pdga_points": 20.0,
+      "rating": 869,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 63138,
+      "name": "Chris Vawter",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 4,
+      "pdga_points": 15.0,
+      "rating": 846,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 62319,
+      "name": "Nigel Mills",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 5,
+      "pdga_points": 10.0,
+      "rating": 749,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 114027,
+      "name": "Kevin Dougherty",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 6,
+      "pdga_points": 5.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 63136,
+      "name": "Charles Czepyha",
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 6.0,
+      "rating": 887,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "Estonia",
+      "country_key": ""
+    },
+    {
+      "pdga": 112576,
+      "name": "Jim Hoxsie",
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 3.0,
+      "rating": 614,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    }
+  ],
+  "divisions": [
+    "MA1",
+    "MA50",
+    "MPO"
+  ]
+}

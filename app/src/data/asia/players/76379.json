@@ -1,0 +1,351 @@
+{
+  "pdga": 76379,
+  "name": "Morgan Harteveld #76379",
+  "country": "New Zealand",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 911,
+  "classification": "Professional",
+  "city": "Queenstown",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 452.5,
+  "tour_weighted_points": 29.2,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 7,
+  "wins": 0,
+  "podiums": 1,
+  "top5": 1,
+  "top10": 4,
+  "top20": 6,
+  "avg_finish": 10.86,
+  "win_rate": 0.0,
+  "top10_rate": 0.571,
+  "cash_earned": 175.0,
+  "pdga_rank": 483,
+  "weighted_rank": 1189,
+  "country_rank": null,
+  "am_events": 4,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 2,
+  "am_pdga_points": 222.5,
+  "last_active": "28-Jan to 30-Jan-2025",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 37.5,
+      "weighted": 4.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 6,
+      "points": 415.0,
+      "weighted": 25.2,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 3,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 2,
+      "top20": 3,
+      "pdga_points": 230.0,
+      "tour_weighted_points": 16.6,
+      "avg_finish": 7.67,
+      "win_rate": 0.0,
+      "top10_rate": 0.667
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 4,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 2,
+      "top20": 3,
+      "pdga_points": 222.5,
+      "tour_weighted_points": 12.6,
+      "avg_finish": 13.25,
+      "win_rate": 0.0,
+      "top10_rate": 0.5
+    },
+    "all": {
+      "events": 7,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 4,
+      "top20": 6,
+      "pdga_points": 452.5,
+      "tour_weighted_points": 29.2,
+      "avg_finish": 10.86,
+      "win_rate": 0.0,
+      "top10_rate": 0.571
+    }
+  },
+  "division_counts": {
+    "MA1": 4,
+    "MPO": 3
+  },
+  "results": [
+    {
+      "event_id": "85341",
+      "title": "Samui Swine Classic XII - MPO, MP40, MP50, FPO Presented by Latitude 64",
+      "dates": "31-Jan to 02-Feb-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 11,
+      "pdga_points": 125.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$88",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "84698",
+      "title": "Samui Swine Classic XII - MA1, MA2, MA3, MA40, MA50, MA60, FA1 Presented by Latitude 64",
+      "dates": "28-Jan to 30-Jan-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 26,
+      "pdga_points": 0.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 0.6
+    },
+    {
+      "event_id": "88309",
+      "title": "Hyzenbrownie X The Grin Reefer 2025 - Pros",
+      "dates": "25-Jan to 26-Jan-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Surrathani, Thailand",
+      "place": 3,
+      "pdga_points": 80.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$87",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "86976",
+      "title": "Generation Dubs",
+      "dates": "22-Jan-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 6,
+      "pdga_points": 150.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "30447",
+      "title": "Hyzenbrownie Open 2017 - \"The Legend of Laem Sor\"",
+      "dates": "21-Jan to 22-Jan-2017",
+      "year": "2017",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 9,
+      "pdga_points": 25.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "30246",
+      "title": "Samui Swine Classic IV",
+      "dates": "04-Feb to 05-Feb-2017",
+      "year": "2017",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Maenam, Koh Samui, Surat Thani, Thailand",
+      "place": 11,
+      "pdga_points": 37.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "30551",
+      "title": "Koh Som Invitational 2",
+      "dates": "01-Feb-2017",
+      "year": "2017",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Som, Koh Samui, Surat Thani, Thailand",
+      "place": 10,
+      "pdga_points": 35.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2025",
+      "events": 4,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 2,
+      "pdga_points": 355.0,
+      "avg_finish": 11.5
+    },
+    {
+      "year": "2017",
+      "events": 3,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 2,
+      "pdga_points": 97.5,
+      "avg_finish": 10.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2024-07-09",
+      "rating": 915,
+      "rounds": 36
+    },
+    {
+      "date": "2024-08-13",
+      "rating": 916,
+      "rounds": 35
+    },
+    {
+      "date": "2024-09-10",
+      "rating": 919,
+      "rounds": 38
+    },
+    {
+      "date": "2024-10-08",
+      "rating": 925,
+      "rounds": 39
+    },
+    {
+      "date": "2024-11-12",
+      "rating": 921,
+      "rounds": 38
+    },
+    {
+      "date": "2025-01-14",
+      "rating": 917,
+      "rounds": 43
+    },
+    {
+      "date": "2025-02-11",
+      "rating": 932,
+      "rounds": 43
+    },
+    {
+      "date": "2025-03-11",
+      "rating": 931,
+      "rounds": 45
+    },
+    {
+      "date": "2025-04-08",
+      "rating": 925,
+      "rounds": 49
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 921,
+      "rounds": 41
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 916,
+      "rounds": 42
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 906,
+      "rounds": 36
+    },
+    {
+      "date": "2025-11-11",
+      "rating": 906,
+      "rounds": 31
+    },
+    {
+      "date": "2026-01-13",
+      "rating": 910,
+      "rounds": 25
+    },
+    {
+      "date": "2026-02-10",
+      "rating": 911,
+      "rounds": 27
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 68.3,
+    "season_avg": 61.9,
+    "delta_pct": 10.4
+  },
+  "pdga_url": "https://www.pdga.com/player/76379"
+}

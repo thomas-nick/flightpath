@@ -1,0 +1,303 @@
+{
+  "pdga": 20475,
+  "name": "Morgan McDowell #20475",
+  "country": "China",
+  "country_key": "CN",
+  "flag": "\ud83c\udde8\ud83c\uddf3",
+  "rating": 860,
+  "classification": "Amateur",
+  "city": "Haishu Ningbo Zhejiang Sheng",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 815.0,
+  "tour_weighted_points": 27.3,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 6,
+  "wins": 1,
+  "podiums": 1,
+  "top5": 1,
+  "top10": 2,
+  "top20": 2,
+  "avg_finish": 40.33,
+  "win_rate": 0.167,
+  "top10_rate": 0.333,
+  "cash_earned": 0.0,
+  "pdga_rank": 307,
+  "weighted_rank": 1221,
+  "country_rank": 39,
+  "am_events": 2,
+  "am_wins": 1,
+  "am_podiums": 1,
+  "am_top10": 2,
+  "am_pdga_points": 185.0,
+  "last_active": "13-Apr to 14-Apr-2019",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 30.0,
+      "weighted": 1.5,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 5,
+      "points": 785.0,
+      "weighted": 25.8,
+      "wins": 1
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 4,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 630.0,
+      "tour_weighted_points": 3.3,
+      "avg_finish": 58.5,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 2,
+      "wins": 1,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 2,
+      "top20": 2,
+      "pdga_points": 185.0,
+      "tour_weighted_points": 24.0,
+      "avg_finish": 4.0,
+      "win_rate": 0.5,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 6,
+      "wins": 1,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 2,
+      "top20": 2,
+      "pdga_points": 815.0,
+      "tour_weighted_points": 27.3,
+      "avg_finish": 40.33,
+      "win_rate": 0.167,
+      "top10_rate": 0.333
+    }
+  },
+  "division_counts": {
+    "MPO": 4,
+    "MA1": 2
+  },
+  "results": [
+    {
+      "event_id": "40747",
+      "title": "2019 CDGC Disc Golf Tournament (Changzhou) presented by Betterman Club",
+      "dates": "13-Apr to 14-Apr-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Changzhou City, Jiangsu Sheng, China",
+      "place": 7,
+      "pdga_points": 65.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "38349",
+      "title": "2nd CDGC Disc Golf tournament (China) sponsored by Yikun Discs/ Prodigy Disc/ Huanghai National Park",
+      "dates": "28-Oct-2018",
+      "year": "2018",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "\u76d0\u57ce\u5e02 City Yancheng, Jiangsu Sheng, China",
+      "place": 1,
+      "pdga_points": 120.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "15768",
+      "title": "The 2014 Japan Open",
+      "dates": "05-Jun to 07-Jun-2014",
+      "year": "2014",
+      "tier": "",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Nasu Shiobara, Tochigi, Japan",
+      "place": 105,
+      "pdga_points": 210.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 0.6
+    },
+    {
+      "event_id": "11530",
+      "title": "Asia Open",
+      "dates": "19-Feb to 20-Feb-2011",
+      "year": "2011",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Taipei, Taipei City, Chinese Taipei",
+      "place": 31,
+      "pdga_points": 30.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.5
+    },
+    {
+      "event_id": "10799",
+      "title": "2010 Japan Open International Pool",
+      "dates": "12-Jun-2010",
+      "year": "2010",
+      "tier": "",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Tochigi, Nasu Highlands, Japan",
+      "place": 26,
+      "pdga_points": 0.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 0.6
+    },
+    {
+      "event_id": "9552",
+      "title": "2010 Japan Open (159.9 grams and under)",
+      "dates": "10-Jun to 12-Jun-2010",
+      "year": "2010",
+      "tier": "",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Tochigi, Nasu Highlands, Tochigi, Japan",
+      "place": 72,
+      "pdga_points": 390.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 0.6
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "38349",
+      "title": "2nd CDGC Disc Golf tournament (China) sponsored by Yikun Discs/ Prodigy Disc/ Huanghai National Park",
+      "dates": "28-Oct-2018",
+      "year": "2018",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "\u76d0\u57ce\u5e02 City Yancheng, Jiangsu Sheng, China",
+      "place": 1,
+      "pdga_points": 120.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2019",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 65.0,
+      "avg_finish": 7.0
+    },
+    {
+      "year": "2018",
+      "events": 1,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 120.0,
+      "avg_finish": 1.0
+    },
+    {
+      "year": "2014",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 210.0,
+      "avg_finish": 105.0
+    },
+    {
+      "year": "2011",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 30.0,
+      "avg_finish": 31.0
+    },
+    {
+      "year": "2010",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 390.0,
+      "avg_finish": 49.0
+    }
+  ],
+  "rating_history": [],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 131.7,
+    "season_avg": 140.0,
+    "delta_pct": -6.0
+  },
+  "pdga_url": "https://www.pdga.com/player/20475"
+}

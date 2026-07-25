@@ -1,0 +1,270 @@
+{
+  "pdga": 16896,
+  "name": "Ted Keith #16896",
+  "country": "United States",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 865,
+  "classification": "Amateur",
+  "city": "Kansas City",
+  "nationality": "",
+  "division": "MA60",
+  "primary_class": "amateur",
+  "pdga_points": 24.0,
+  "tour_weighted_points": 55.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top5": 1,
+  "top10": 2,
+  "top20": 2,
+  "avg_finish": 5.5,
+  "win_rate": 0.0,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 2786,
+  "weighted_rank": 781,
+  "country_rank": null,
+  "am_events": 2,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 2,
+  "am_pdga_points": 24.0,
+  "last_active": "05-Aug to 07-Aug-2022",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 2,
+      "points": 24.0,
+      "weighted": 55.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 1,
+      "top10": 2,
+      "top20": 2,
+      "pdga_points": 24.0,
+      "tour_weighted_points": 55.0,
+      "avg_finish": 5.5,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 1,
+      "top10": 2,
+      "top20": 2,
+      "pdga_points": 24.0,
+      "tour_weighted_points": 55.0,
+      "avg_finish": 5.5,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA60": 2
+  },
+  "results": [
+    {
+      "event_id": "55383",
+      "title": "The TruBank Des Moines Challenge presented by Discraft",
+      "dates": "05-Aug to 07-Aug-2022",
+      "year": "2022",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Indianola, Iowa, United States",
+      "place": 5,
+      "pdga_points": 12.0,
+      "division": "MA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 35.0
+    },
+    {
+      "event_id": "47868",
+      "title": "Des Moines Challenge Presented by GEICO Des Moines",
+      "dates": "09-Jul to 11-Jul-2021",
+      "year": "2021",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Indianola, Iowa, United States",
+      "place": 6,
+      "pdga_points": 12.0,
+      "division": "MA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2022",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 12.0,
+      "avg_finish": 5.0
+    },
+    {
+      "year": "2021",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 12.0,
+      "avg_finish": 6.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2023-06-13",
+      "rating": 874,
+      "rounds": 20
+    },
+    {
+      "date": "2023-07-11",
+      "rating": 877,
+      "rounds": 25
+    },
+    {
+      "date": "2023-08-08",
+      "rating": 874,
+      "rounds": 24
+    },
+    {
+      "date": "2023-09-12",
+      "rating": 873,
+      "rounds": 26
+    },
+    {
+      "date": "2023-10-10",
+      "rating": 872,
+      "rounds": 29
+    },
+    {
+      "date": "2023-12-12",
+      "rating": 871,
+      "rounds": 25
+    },
+    {
+      "date": "2024-04-09",
+      "rating": 870,
+      "rounds": 21
+    },
+    {
+      "date": "2024-05-14",
+      "rating": 869,
+      "rounds": 22
+    },
+    {
+      "date": "2024-07-09",
+      "rating": 860,
+      "rounds": 20
+    },
+    {
+      "date": "2024-12-10",
+      "rating": 855,
+      "rounds": 8
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 857,
+      "rounds": 8
+    },
+    {
+      "date": "2025-11-11",
+      "rating": 860,
+      "rounds": 10
+    },
+    {
+      "date": "2025-12-09",
+      "rating": 864,
+      "rounds": 8
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 875,
+      "rounds": 7
+    },
+    {
+      "date": "2026-07-14",
+      "rating": 865,
+      "rounds": 8
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/16896"
+}

@@ -1,0 +1,336 @@
+{
+  "pdga": 85220,
+  "name": "Thomi Neumann #85220",
+  "country": "Germany",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 895,
+  "classification": "Amateur",
+  "city": "Gauting",
+  "nationality": "",
+  "division": "MA50",
+  "primary_class": "amateur",
+  "pdga_points": 169.5,
+  "tour_weighted_points": 275.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 5,
+  "wins": 0,
+  "podiums": 4,
+  "top5": 5,
+  "top10": 5,
+  "top20": 5,
+  "avg_finish": 2.6,
+  "win_rate": 0.0,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 900,
+  "weighted_rank": 219,
+  "country_rank": null,
+  "am_events": 5,
+  "am_wins": 0,
+  "am_podiums": 4,
+  "am_top10": 5,
+  "am_pdga_points": 169.5,
+  "last_active": "27-Jan to 29-Jan-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 1,
+      "points": 18.0,
+      "weighted": 150.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 1,
+      "points": 42.0,
+      "weighted": 55.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 2,
+      "points": 67.5,
+      "weighted": 55.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 1,
+      "points": 42.0,
+      "weighted": 15.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 5,
+      "wins": 0,
+      "podiums": 4,
+      "top5": 5,
+      "top10": 5,
+      "top20": 5,
+      "pdga_points": 169.5,
+      "tour_weighted_points": 275.0,
+      "avg_finish": 2.6,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 5,
+      "wins": 0,
+      "podiums": 4,
+      "top5": 5,
+      "top10": 5,
+      "top20": 5,
+      "pdga_points": 169.5,
+      "tour_weighted_points": 275.0,
+      "avg_finish": 2.6,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA50": 5
+  },
+  "results": [
+    {
+      "event_id": "95844",
+      "title": "Samui Swine Classic XIII - Ams Presented by Latitude64 - PDGA Asia Tour event #3",
+      "dates": "27-Jan to 29-Jan-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "Koh Samui, Thailand",
+      "place": 2,
+      "pdga_points": 18.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 150.0
+    },
+    {
+      "event_id": "84698",
+      "title": "Samui Swine Classic XII - MA1, MA2, MA3, MA40, MA50, MA60, FA1 Presented by Latitude 64",
+      "dates": "28-Jan to 30-Jan-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 2,
+      "pdga_points": 42.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "73676",
+      "title": "Samui Swine Classic XI - MA3, MA2, MA40, MA50, MA60",
+      "dates": "30-Jan to 01-Feb-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 2,
+      "pdga_points": 49.5,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 37.5
+    },
+    {
+      "event_id": "33102",
+      "title": "Third Annual Hyzenbrownie Open - The Flaskenpouch 2018",
+      "dates": "27-Jan to 28-Jan-2018",
+      "year": "2018",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 4,
+      "pdga_points": 18.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "33706",
+      "title": "Samui Swine Classic V",
+      "dates": "01-Feb to 03-Feb-2018",
+      "year": "2018",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 3,
+      "pdga_points": 42.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 55.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 18.0,
+      "avg_finish": 2.0
+    },
+    {
+      "year": "2025",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 42.0,
+      "avg_finish": 2.0
+    },
+    {
+      "year": "2024",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 49.5,
+      "avg_finish": 2.0
+    },
+    {
+      "year": "2018",
+      "events": 2,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 2,
+      "pdga_points": 60.0,
+      "avg_finish": 3.5
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2024-08-13",
+      "rating": 891,
+      "rounds": 53
+    },
+    {
+      "date": "2024-09-10",
+      "rating": 893,
+      "rounds": 44
+    },
+    {
+      "date": "2024-10-08",
+      "rating": 891,
+      "rounds": 47
+    },
+    {
+      "date": "2024-11-12",
+      "rating": 894,
+      "rounds": 45
+    },
+    {
+      "date": "2025-02-11",
+      "rating": 892,
+      "rounds": 48
+    },
+    {
+      "date": "2025-04-08",
+      "rating": 894,
+      "rounds": 49
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 890,
+      "rounds": 48
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 889,
+      "rounds": 47
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 890,
+      "rounds": 42
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 892,
+      "rounds": 45
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 891,
+      "rounds": 50
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 897,
+      "rounds": 50
+    },
+    {
+      "date": "2026-02-10",
+      "rating": 895,
+      "rounds": 46
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 894,
+      "rounds": 39
+    },
+    {
+      "date": "2026-07-14",
+      "rating": 895,
+      "rounds": 34
+    }
+  ],
+  "streak": {
+    "direction": "up",
+    "recent_avg": 36.5,
+    "season_avg": 30.0,
+    "delta_pct": 21.7
+  },
+  "pdga_url": "https://www.pdga.com/player/85220"
+}

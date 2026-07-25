@@ -1,0 +1,302 @@
+{
+  "pdga": 123213,
+  "name": "Joonhwa Jung #123213",
+  "country": "South Korea",
+  "country_key": "KR",
+  "flag": "\ud83c\uddf0\ud83c\uddf7",
+  "rating": 882,
+  "classification": "Professional",
+  "city": "Pohang-si / Gyeongsangbuk-do",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 245.0,
+  "tour_weighted_points": 38.7,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 5,
+  "wins": 0,
+  "podiums": 1,
+  "top5": 1,
+  "top10": 3,
+  "top20": 5,
+  "avg_finish": 10.6,
+  "win_rate": 0.0,
+  "top10_rate": 0.6,
+  "cash_earned": 0.0,
+  "pdga_rank": 733,
+  "weighted_rank": 1045,
+  "country_rank": 41,
+  "am_events": 3,
+  "am_wins": 0,
+  "am_podiums": 1,
+  "am_top10": 2,
+  "am_pdga_points": 150.0,
+  "last_active": "25-Oct-2025",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 30.0,
+      "weighted": 27.5,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 4,
+      "points": 215.0,
+      "weighted": 11.2,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 1,
+      "top20": 2,
+      "pdga_points": 95.0,
+      "tour_weighted_points": 5.6,
+      "avg_finish": 14.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.5
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 3,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 2,
+      "top20": 3,
+      "pdga_points": 150.0,
+      "tour_weighted_points": 33.1,
+      "avg_finish": 8.33,
+      "win_rate": 0.0,
+      "top10_rate": 0.667
+    },
+    "all": {
+      "events": 5,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 3,
+      "top20": 5,
+      "pdga_points": 245.0,
+      "tour_weighted_points": 38.7,
+      "avg_finish": 10.6,
+      "win_rate": 0.0,
+      "top10_rate": 0.6
+    }
+  },
+  "division_counts": {
+    "MA1": 3,
+    "MPO": 2
+  },
+  "results": [
+    {
+      "event_id": "96085",
+      "title": "1st Yangju Art Valley International Open - MPO, FPO",
+      "dates": "25-Oct-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Yangju, Gyeonggi-do, South Korea",
+      "place": 19,
+      "pdga_points": 80.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "80259",
+      "title": "12th Daegu International Open",
+      "dates": "18-May to 19-May-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Daegu, Daegu, South Korea",
+      "place": 9,
+      "pdga_points": 15.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "68443",
+      "title": "11th Daegu International Open",
+      "dates": "30-Apr-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Daegu, Daegu, South Korea",
+      "place": 13,
+      "pdga_points": 60.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "73757",
+      "title": "2023 Chairman's Tournament",
+      "dates": "15-Oct-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Daegu, Daegu, South Korea",
+      "place": 9,
+      "pdga_points": 60.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "40977",
+      "title": "Korea Open Championship",
+      "dates": "28-Sep to 29-Sep-2019",
+      "year": "2019",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Gyeongju Nasandeul Park, Gyeongsangbuk-do, South Korea",
+      "place": 3,
+      "pdga_points": 30.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 27.5
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2025",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 80.0,
+      "avg_finish": 19.0
+    },
+    {
+      "year": "2024",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 15.0,
+      "avg_finish": 9.0
+    },
+    {
+      "year": "2023",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 120.0,
+      "avg_finish": 11.0
+    },
+    {
+      "year": "2019",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 30.0,
+      "avg_finish": 3.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2019-08-13",
+      "rating": 776,
+      "rounds": 1
+    },
+    {
+      "date": "2019-10-08",
+      "rating": 805,
+      "rounds": 4
+    },
+    {
+      "date": "2023-05-09",
+      "rating": 801,
+      "rounds": 2
+    },
+    {
+      "date": "2023-11-14",
+      "rating": 830,
+      "rounds": 4
+    },
+    {
+      "date": "2024-06-11",
+      "rating": 829,
+      "rounds": 7
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 857,
+      "rounds": 7
+    },
+    {
+      "date": "2025-11-11",
+      "rating": 875,
+      "rounds": 7
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 882,
+      "rounds": 9
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 51.7,
+    "season_avg": 45.0,
+    "delta_pct": 14.8
+  },
+  "pdga_url": "https://www.pdga.com/player/123213"
+}

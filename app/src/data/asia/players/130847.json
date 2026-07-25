@@ -1,0 +1,352 @@
+{
+  "pdga": 130847,
+  "name": "Doug Byrd #130847",
+  "country": "United States",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 890,
+  "classification": "Amateur",
+  "city": "Houston",
+  "nationality": "",
+  "division": "MA1",
+  "primary_class": "amateur",
+  "pdga_points": 154.0,
+  "tour_weighted_points": 58.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 5,
+  "wins": 2,
+  "podiums": 2,
+  "top5": 4,
+  "top10": 5,
+  "top20": 5,
+  "avg_finish": 3.8,
+  "win_rate": 0.4,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 956,
+  "weighted_rank": 859,
+  "country_rank": null,
+  "am_events": 5,
+  "am_wins": 2,
+  "am_podiums": 2,
+  "am_top10": 5,
+  "am_pdga_points": 154.0,
+  "last_active": "13-Jan-2024",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 5,
+      "points": 154.0,
+      "weighted": 58.0,
+      "wins": 2
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 5,
+      "wins": 2,
+      "podiums": 2,
+      "top5": 4,
+      "top10": 5,
+      "top20": 5,
+      "pdga_points": 154.0,
+      "tour_weighted_points": 58.0,
+      "avg_finish": 3.8,
+      "win_rate": 0.4,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 5,
+      "wins": 2,
+      "podiums": 2,
+      "top5": 4,
+      "top10": 5,
+      "top20": 5,
+      "pdga_points": 154.0,
+      "tour_weighted_points": 58.0,
+      "avg_finish": 3.8,
+      "win_rate": 0.4,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA1": 3,
+    "MA40": 2
+  },
+  "results": [
+    {
+      "event_id": "78012",
+      "title": "2024 Tanglin Hill Safari",
+      "dates": "16-Mar-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore, AP, Singapore",
+      "place": 4,
+      "pdga_points": 20.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "75766",
+      "title": "Singapore Sling 2024",
+      "dates": "13-Jan-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 8,
+      "pdga_points": 35.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "66066",
+      "title": "Singapore Sling 2023",
+      "dates": "25-Feb-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 5,
+      "pdga_points": 55.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "73950",
+      "title": "2023 Singapore Disc Golf Championships",
+      "dates": "23-Sep to 24-Sep-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 1,
+      "pdga_points": 28.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "71095",
+      "title": "Dover Dash 2023",
+      "dates": "03-Jun-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 1,
+      "pdga_points": 16.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "73950",
+      "title": "2023 Singapore Disc Golf Championships",
+      "dates": "23-Sep to 24-Sep-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 1,
+      "pdga_points": 28.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "71095",
+      "title": "Dover Dash 2023",
+      "dates": "03-Jun-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 1,
+      "pdga_points": 16.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2024",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 2,
+      "pdga_points": 55.0,
+      "avg_finish": 6.0
+    },
+    {
+      "year": "2023",
+      "events": 3,
+      "wins": 2,
+      "podiums": 2,
+      "top10": 3,
+      "pdga_points": 99.0,
+      "avg_finish": 2.33
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2021-02-09",
+      "rating": 890,
+      "rounds": 8
+    },
+    {
+      "date": "2021-04-13",
+      "rating": 888,
+      "rounds": 10
+    },
+    {
+      "date": "2021-06-08",
+      "rating": 878,
+      "rounds": 11
+    },
+    {
+      "date": "2021-09-14",
+      "rating": 885,
+      "rounds": 15
+    },
+    {
+      "date": "2022-02-08",
+      "rating": 884,
+      "rounds": 13
+    },
+    {
+      "date": "2022-03-08",
+      "rating": 873,
+      "rounds": 12
+    },
+    {
+      "date": "2022-04-12",
+      "rating": 877,
+      "rounds": 14
+    },
+    {
+      "date": "2022-06-14",
+      "rating": 889,
+      "rounds": 15
+    },
+    {
+      "date": "2022-07-12",
+      "rating": 890,
+      "rounds": 13
+    },
+    {
+      "date": "2023-03-14",
+      "rating": 888,
+      "rounds": 9
+    },
+    {
+      "date": "2023-06-13",
+      "rating": 901,
+      "rounds": 9
+    },
+    {
+      "date": "2023-10-10",
+      "rating": 900,
+      "rounds": 9
+    },
+    {
+      "date": "2024-02-13",
+      "rating": 890,
+      "rounds": 8
+    },
+    {
+      "date": "2024-04-09",
+      "rating": 890,
+      "rounds": 8
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 870,
+      "rounds": 8
+    }
+  ],
+  "streak": {
+    "direction": "up",
+    "recent_avg": 36.7,
+    "season_avg": 22.0,
+    "delta_pct": 66.7
+  },
+  "pdga_url": "https://www.pdga.com/player/130847"
+}

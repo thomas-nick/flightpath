@@ -1,0 +1,245 @@
+{
+  "pdga": 171650,
+  "name": "Tyler Fitzl",
+  "country": "India",
+  "country_key": "IN",
+  "flag": "\ud83c\uddee\ud83c\uddf3",
+  "rating": 928,
+  "classification": "Pro",
+  "city": "",
+  "nationality": "",
+  "division": "MA1",
+  "primary_class": "amateur",
+  "pdga_points": 285.0,
+  "tour_weighted_points": 1.6,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top5": 0,
+  "top10": 0,
+  "top20": 1,
+  "avg_finish": 12.0,
+  "win_rate": 0.0,
+  "top10_rate": 0.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 991,
+  "weighted_rank": 3256,
+  "country_rank": 420,
+  "am_events": 1,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 0,
+  "am_pdga_points": 285.0,
+  "last_active": "30-Jul-2023",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 1,
+      "points": 285.0,
+      "weighted": 1.6,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 1,
+      "pdga_points": 285.0,
+      "tour_weighted_points": 1.6,
+      "avg_finish": 12.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "all": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 1,
+      "pdga_points": 285.0,
+      "tour_weighted_points": 1.6,
+      "avg_finish": 12.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    }
+  },
+  "division_counts": {
+    "MA1": 1
+  },
+  "results": [
+    {
+      "event_id": "69206",
+      "title": "2023 Discontinuum Club Challenge Invitational",
+      "dates": "30-Jul-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Crown Point, Indiana, United States",
+      "place": 12,
+      "pdga_points": 285.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 1.6
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2023",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 285.0,
+      "avg_finish": 12.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2024-03-12",
+      "rating": 935,
+      "rounds": 58
+    },
+    {
+      "date": "2024-04-09",
+      "rating": 935,
+      "rounds": 59
+    },
+    {
+      "date": "2024-05-14",
+      "rating": 936,
+      "rounds": 71
+    },
+    {
+      "date": "2024-06-11",
+      "rating": 939,
+      "rounds": 68
+    },
+    {
+      "date": "2024-07-09",
+      "rating": 935,
+      "rounds": 70
+    },
+    {
+      "date": "2024-08-13",
+      "rating": 931,
+      "rounds": 69
+    },
+    {
+      "date": "2024-09-10",
+      "rating": 933,
+      "rounds": 69
+    },
+    {
+      "date": "2024-10-08",
+      "rating": 933,
+      "rounds": 73
+    },
+    {
+      "date": "2024-11-12",
+      "rating": 933,
+      "rounds": 71
+    },
+    {
+      "date": "2024-12-10",
+      "rating": 930,
+      "rounds": 77
+    },
+    {
+      "date": "2025-03-11",
+      "rating": 928,
+      "rounds": 69
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 928,
+      "rounds": 61
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 930,
+      "rounds": 26
+    },
+    {
+      "date": "2025-12-09",
+      "rating": 935,
+      "rounds": 10
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 921,
+      "rounds": 11
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/171650"
+}

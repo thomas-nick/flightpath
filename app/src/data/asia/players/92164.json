@@ -1,0 +1,320 @@
+{
+  "pdga": 92164,
+  "name": "Joni Luumi #92164",
+  "country": "Finland",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 985,
+  "classification": "Professional",
+  "city": "Tuusula",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 285.0,
+  "tour_weighted_points": 80.0,
+  "asia_tour_points": 160.0,
+  "asia_tour_events": 1,
+  "events_played": 3,
+  "wins": 2,
+  "podiums": 2,
+  "top5": 2,
+  "top10": 3,
+  "top20": 3,
+  "avg_finish": 3.33,
+  "win_rate": 0.667,
+  "top10_rate": 1.0,
+  "cash_earned": 140.0,
+  "pdga_rank": 667,
+  "weighted_rank": 710,
+  "country_rank": null,
+  "am_events": 2,
+  "am_wins": 2,
+  "am_podiums": 2,
+  "am_top10": 2,
+  "am_pdga_points": 125.0,
+  "last_active": "30-Jan to 01-Feb-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 1,
+      "points": 160.0,
+      "weighted": 40.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 2,
+      "points": 125.0,
+      "weighted": 40.0,
+      "wins": 2
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 160.0,
+      "tour_weighted_points": 40.0,
+      "avg_finish": 8.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 2,
+      "wins": 2,
+      "podiums": 2,
+      "top5": 2,
+      "top10": 2,
+      "top20": 2,
+      "pdga_points": 125.0,
+      "tour_weighted_points": 40.0,
+      "avg_finish": 1.0,
+      "win_rate": 1.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 3,
+      "wins": 2,
+      "podiums": 2,
+      "top5": 2,
+      "top10": 3,
+      "top20": 3,
+      "pdga_points": 285.0,
+      "tour_weighted_points": 80.0,
+      "avg_finish": 3.33,
+      "win_rate": 0.667,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MPO": 1,
+    "MA1": 2
+  },
+  "results": [
+    {
+      "event_id": "95859",
+      "title": "Samui Swine Classic XIII - Pros. Presented by Latitude64 - PDGA Asia Tour Event #3",
+      "dates": "30-Jan to 01-Feb-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "Koh Samui, Thailand",
+      "place": 8,
+      "pdga_points": 160.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$140",
+      "weighted_points": 40.0
+    },
+    {
+      "event_id": "42689",
+      "title": "Singapore Sling 2020",
+      "dates": "19-Jan-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 1,
+      "pdga_points": 40.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "43398",
+      "title": "Shipwrecked in Malaysia",
+      "dates": "18-Jan-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 1,
+      "pdga_points": 85.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "42689",
+      "title": "Singapore Sling 2020",
+      "dates": "19-Jan-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 1,
+      "pdga_points": 40.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "43398",
+      "title": "Shipwrecked in Malaysia",
+      "dates": "18-Jan-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 1,
+      "pdga_points": 85.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 160.0,
+      "avg_finish": 8.0
+    },
+    {
+      "year": "2020",
+      "events": 2,
+      "wins": 2,
+      "podiums": 2,
+      "top10": 2,
+      "pdga_points": 125.0,
+      "avg_finish": 1.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2024-07-09",
+      "rating": 995,
+      "rounds": 50
+    },
+    {
+      "date": "2024-08-13",
+      "rating": 989,
+      "rounds": 49
+    },
+    {
+      "date": "2024-09-10",
+      "rating": 993,
+      "rounds": 45
+    },
+    {
+      "date": "2024-10-08",
+      "rating": 995,
+      "rounds": 43
+    },
+    {
+      "date": "2024-12-10",
+      "rating": 992,
+      "rounds": 43
+    },
+    {
+      "date": "2025-03-11",
+      "rating": 992,
+      "rounds": 43
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 990,
+      "rounds": 48
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 989,
+      "rounds": 54
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 988,
+      "rounds": 47
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 991,
+      "rounds": 49
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 993,
+      "rounds": 53
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 993,
+      "rounds": 53
+    },
+    {
+      "date": "2026-02-10",
+      "rating": 992,
+      "rounds": 50
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 989,
+      "rounds": 54
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 985,
+      "rounds": 48
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/92164"
+}

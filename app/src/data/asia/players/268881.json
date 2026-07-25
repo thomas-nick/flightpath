@@ -1,0 +1,558 @@
+{
+  "pdga": 268881,
+  "name": "Raden Bagaloyos #268881",
+  "country": "Philippines",
+  "country_key": "PH",
+  "flag": "\ud83c\uddf5\ud83c\udded",
+  "rating": 919,
+  "classification": "Amateur",
+  "city": "Capas Tarlac",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 626.0,
+  "tour_weighted_points": 264.5,
+  "asia_tour_points": 20.0,
+  "asia_tour_events": 1,
+  "events_played": 17,
+  "wins": 2,
+  "podiums": 11,
+  "top5": 15,
+  "top10": 17,
+  "top20": 17,
+  "avg_finish": 3.24,
+  "win_rate": 0.118,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 397,
+  "weighted_rank": 236,
+  "country_rank": 4,
+  "am_events": 8,
+  "am_wins": 2,
+  "am_podiums": 5,
+  "am_top10": 8,
+  "am_pdga_points": 401.0,
+  "last_active": "27-Feb to 01-Mar-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 1,
+      "points": 20.0,
+      "weighted": 70.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 30.0,
+      "weighted": 17.5,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 15,
+      "points": 576.0,
+      "weighted": 177.0,
+      "wins": 2
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 9,
+      "wins": 0,
+      "podiums": 6,
+      "top5": 9,
+      "top10": 9,
+      "top20": 9,
+      "pdga_points": 225.0,
+      "tour_weighted_points": 172.5,
+      "avg_finish": 3.22,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 8,
+      "wins": 2,
+      "podiums": 5,
+      "top5": 6,
+      "top10": 8,
+      "top20": 8,
+      "pdga_points": 401.0,
+      "tour_weighted_points": 92.0,
+      "avg_finish": 3.25,
+      "win_rate": 0.25,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 17,
+      "wins": 2,
+      "podiums": 11,
+      "top5": 15,
+      "top10": 17,
+      "top20": 17,
+      "pdga_points": 626.0,
+      "tour_weighted_points": 264.5,
+      "avg_finish": 3.24,
+      "win_rate": 0.118,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MPO": 9,
+    "MA1": 7,
+    "MA2": 1
+  },
+  "results": [
+    {
+      "event_id": "97272",
+      "title": "Lipad Pilipinas IV - PDGA Asia Tour #5 presented by Province of Tarlac",
+      "dates": "27-Feb to 01-Mar-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "San Jose, Tarlac, Philippines",
+      "place": 4,
+      "pdga_points": 20.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 70.0
+    },
+    {
+      "event_id": "102225",
+      "title": "2026 Cavite Invitational",
+      "dates": "25-Apr to 26-Apr-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Indang, Cavite, Philippines",
+      "place": 6,
+      "pdga_points": 15.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "104200",
+      "title": "Tarlac United as One Tournament + WGE Event",
+      "dates": "24-May-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Tarlac City , Tarlac, Philippines",
+      "place": 1,
+      "pdga_points": 40.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "89767",
+      "title": "Enkantierra Nature Park Disc Golf Course  Inaugural Tournament",
+      "dates": "29-Mar-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Santo Tomas, Batangas, Philippines",
+      "place": 3,
+      "pdga_points": 20.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "91152",
+      "title": "Cavite Open Tournament 2025",
+      "dates": "26-Apr to 27-Apr-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Indang, Cavite, Philippines",
+      "place": 3,
+      "pdga_points": 15.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "96619",
+      "title": "Bangkok Open 2025",
+      "dates": "22-Nov to 23-Nov-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Bangkok, Thailand",
+      "place": 4,
+      "pdga_points": 100.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "87026",
+      "title": "LIPAD PILIPINAS III Island of Palawan Edition",
+      "dates": "22-Feb to 23-Feb-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Quezon, Palawan, Philippines",
+      "place": 2,
+      "pdga_points": 35.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "97043",
+      "title": "SEA GAMES Thailand 2025",
+      "dates": "17-Dec to 18-Dec-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Bangkok, Thailand",
+      "place": 5,
+      "pdga_points": 30.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "89766",
+      "title": "Manila March Madness",
+      "dates": "16-Mar-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Paranaque , Metro Manila, Philippines",
+      "place": 5,
+      "pdga_points": 5.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "94738",
+      "title": "Philippine National Disc Golf Championship",
+      "dates": "13-Sep to 14-Sep-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Municipality of San Jose, Tarlac, Philippines",
+      "place": 3,
+      "pdga_points": 50.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "93258",
+      "title": "Derek Robins Frisbeeversary Tournament at Tarlac",
+      "dates": "13-Jul-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Municipality of San Jose , Tarlac, Philippines",
+      "place": 2,
+      "pdga_points": 120.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "97012",
+      "title": "DGAP 3rd Anniversary Disc Golf Tournament  2025",
+      "dates": "08-Nov to 09-Nov-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Santo Tomas, Batangas, Philippines",
+      "place": 2,
+      "pdga_points": 25.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "91249",
+      "title": "BOIT3 sa Nayon",
+      "dates": "04-May-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Paranaque , Metro Manila, Philippines",
+      "place": 2,
+      "pdga_points": 25.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "75357",
+      "title": "LIPAD PILIPINAS OPEN 2024 presented by Provincial Government of Tarlac",
+      "dates": "24-Feb to 25-Feb-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Tarlac, Tarlac, Philippines",
+      "place": 3,
+      "pdga_points": 30.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "79945",
+      "title": "Wedding of Luisa and Derek",
+      "dates": "14-Dec-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Tarlac, Tarlac, Philippines",
+      "place": 1,
+      "pdga_points": 40.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "84966",
+      "title": "Philippines National Amature Championship",
+      "dates": "05-Oct to 06-Oct-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Dasmarinas, Cavite, Philippines",
+      "place": 6,
+      "pdga_points": 40.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "72188",
+      "title": "National Amateur Championship",
+      "dates": "08-Oct-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Tarlac, Tarlac, Philippines",
+      "place": 3,
+      "pdga_points": 16.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "104200",
+      "title": "Tarlac United as One Tournament + WGE Event",
+      "dates": "24-May-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Tarlac City , Tarlac, Philippines",
+      "place": 1,
+      "pdga_points": 40.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "79945",
+      "title": "Wedding of Luisa and Derek",
+      "dates": "14-Dec-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Tarlac, Tarlac, Philippines",
+      "place": 1,
+      "pdga_points": 40.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 3,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 3,
+      "pdga_points": 75.0,
+      "avg_finish": 3.67
+    },
+    {
+      "year": "2025",
+      "events": 10,
+      "wins": 0,
+      "podiums": 7,
+      "top10": 10,
+      "pdga_points": 425.0,
+      "avg_finish": 3.1
+    },
+    {
+      "year": "2024",
+      "events": 3,
+      "wins": 1,
+      "podiums": 2,
+      "top10": 3,
+      "pdga_points": 110.0,
+      "avg_finish": 3.33
+    },
+    {
+      "year": "2023",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 16.0,
+      "avg_finish": 3.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2023-10-10",
+      "rating": 842,
+      "rounds": 1
+    },
+    {
+      "date": "2024-03-12",
+      "rating": 850,
+      "rounds": 3
+    },
+    {
+      "date": "2024-10-08",
+      "rating": 850,
+      "rounds": 6
+    },
+    {
+      "date": "2025-01-14",
+      "rating": 861,
+      "rounds": 7
+    },
+    {
+      "date": "2025-03-11",
+      "rating": 874,
+      "rounds": 8
+    },
+    {
+      "date": "2025-04-08",
+      "rating": 889,
+      "rounds": 10
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 897,
+      "rounds": 15
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 912,
+      "rounds": 17
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 918,
+      "rounds": 20
+    },
+    {
+      "date": "2025-11-11",
+      "rating": 923,
+      "rounds": 19
+    },
+    {
+      "date": "2025-12-09",
+      "rating": 924,
+      "rounds": 21
+    },
+    {
+      "date": "2026-01-13",
+      "rating": 924,
+      "rounds": 22
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 925,
+      "rounds": 23
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 919,
+      "rounds": 21
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 25.0,
+    "season_avg": 39.4,
+    "delta_pct": -36.5
+  },
+  "pdga_url": "https://www.pdga.com/player/268881"
+}

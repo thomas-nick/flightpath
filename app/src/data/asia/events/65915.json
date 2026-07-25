@@ -1,0 +1,124 @@
+{
+  "event_id": "65915",
+  "title": "2023 New Year Cup Of Disc Golf Tournament Kunshan",
+  "location": "Kunshan, Zhejiang Sheng, China",
+  "dates": "13-Jan to 14-Jan-2023",
+  "year": "2023",
+  "tier": "C",
+  "level": "c_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 7,
+  "avg_mpo_rating": null,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "count": 6
+    },
+    {
+      "flag": "\ud83c\uddf9\ud83c\uddfc",
+      "country": "Chinese Taipei",
+      "count": 1
+    }
+  ],
+  "mpo": [],
+  "fpo": [],
+  "amateur": [
+    {
+      "pdga": 228239,
+      "name": "Yanwen Ma",
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 12.0,
+      "rating": 838,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 8739,
+      "name": "Chi Chun Wu",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 65.0,
+      "rating": 915,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\uddfc",
+      "country": "Chinese Taipei",
+      "country_key": "TW"
+    },
+    {
+      "pdga": 113958,
+      "name": "Songqing Guo",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 4,
+      "pdga_points": 50.0,
+      "rating": 907,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 184230,
+      "name": "Desheng Kong",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 5,
+      "pdga_points": 45.0,
+      "rating": 871,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 110420,
+      "name": "Tim Flanders",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 6,
+      "pdga_points": 40.0,
+      "rating": 850,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 149542,
+      "name": "John Sims",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 12,
+      "pdga_points": 10.0,
+      "rating": 817,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 121109,
+      "name": "Yunong Xia",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 13,
+      "pdga_points": 5.0,
+      "rating": 843,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    }
+  ],
+  "divisions": [
+    "FA1",
+    "MA1"
+  ]
+}

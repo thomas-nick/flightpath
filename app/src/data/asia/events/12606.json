@@ -1,0 +1,283 @@
+{
+  "event_id": "12606",
+  "title": "1st Okinawa Open",
+  "location": "Nakijin, Okinawa, Japan",
+  "dates": "11-Feb to 12-Feb-2012",
+  "year": "2012",
+  "tier": "B",
+  "level": "b_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 19,
+  "avg_mpo_rating": 957.8,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "count": 15
+    },
+    {
+      "flag": "\ud83c\uddf9\ud83c\uddfc",
+      "country": "Chinese Taipei",
+      "count": 4
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 8145,
+      "name": "Tetsuya T2 Kikuchi",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 1,
+      "pdga_points": 165.0,
+      "rating": 1003,
+      "prize": "$120",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8139,
+      "name": "Manabu Kajiyama",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 2,
+      "pdga_points": 157.5,
+      "rating": 1024,
+      "prize": "$60",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 6075,
+      "name": "Kazuo Shirai",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 3,
+      "pdga_points": 150.0,
+      "rating": 990,
+      "prize": "$36",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8153,
+      "name": "Masatoshi Ishihara",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 4,
+      "pdga_points": 142.5,
+      "rating": 991,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 6671,
+      "name": "Atsuhito Kawasaki",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 6,
+      "pdga_points": 127.5,
+      "rating": 986,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 40069,
+      "name": "masaki kanaya",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 7,
+      "pdga_points": 120.0,
+      "rating": 940,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8177,
+      "name": "Kenta Nagaoka",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 10,
+      "pdga_points": 97.5,
+      "rating": 945,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8720,
+      "name": "Richard Tang",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 11,
+      "pdga_points": 90.0,
+      "rating": 966,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\uddfc",
+      "country": "Chinese Taipei",
+      "country_key": "TW"
+    },
+    {
+      "pdga": 8167,
+      "name": "Keiichi Mikasa",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 14,
+      "pdga_points": 67.5,
+      "rating": 937,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 43607,
+      "name": "Yueh-hua Chiang",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 15,
+      "pdga_points": 60.0,
+      "rating": 931,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\uddfc",
+      "country": "Chinese Taipei",
+      "country_key": "TW"
+    },
+    {
+      "pdga": 8710,
+      "name": "Mac Hsiao",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 16,
+      "pdga_points": 52.5,
+      "rating": 918,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\uddfc",
+      "country": "Chinese Taipei",
+      "country_key": "TW"
+    },
+    {
+      "pdga": 8084,
+      "name": "Kazuhiko Koga",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 18,
+      "pdga_points": 37.5,
+      "rating": 949,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8196,
+      "name": "Shin Asaya",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 21,
+      "pdga_points": 15.0,
+      "rating": 872,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    }
+  ],
+  "fpo": [
+    {
+      "pdga": 8200,
+      "name": "Yuki Fukuhara",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 1,
+      "pdga_points": 27.0,
+      "rating": 907,
+      "prize": "$60",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8189,
+      "name": "Hiroko Kanaya",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 2,
+      "pdga_points": 22.5,
+      "rating": 917,
+      "prize": "$24",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8111,
+      "name": "Sachiko Sato",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 3,
+      "pdga_points": 18.0,
+      "rating": 907,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 43610,
+      "name": "Chia-Fang Chen",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 4,
+      "pdga_points": 13.5,
+      "rating": 918,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\uddfc",
+      "country": "Chinese Taipei",
+      "country_key": "TW"
+    },
+    {
+      "pdga": 3603,
+      "name": "Reiko Kinomiya",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 6,
+      "pdga_points": 4.5,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    }
+  ],
+  "amateur": [
+    {
+      "pdga": 8157,
+      "name": "Kayoko Maeda",
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 22.5,
+      "rating": 828,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    }
+  ],
+  "divisions": [
+    "FA1",
+    "FPO",
+    "MPO"
+  ]
+}

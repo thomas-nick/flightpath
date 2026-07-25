@@ -1,0 +1,345 @@
+{
+  "pdga": 80191,
+  "name": "David Prather",
+  "country": "India",
+  "country_key": "IN",
+  "flag": "\ud83c\uddee\ud83c\uddf3",
+  "rating": 870,
+  "classification": "Pro",
+  "city": "",
+  "nationality": "",
+  "division": "MA50",
+  "primary_class": "amateur",
+  "pdga_points": 45.0,
+  "tour_weighted_points": 53.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 5,
+  "wins": 1,
+  "podiums": 3,
+  "top5": 4,
+  "top10": 5,
+  "top20": 5,
+  "avg_finish": 3.6,
+  "win_rate": 0.2,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 2345,
+  "weighted_rank": 801,
+  "country_rank": 823,
+  "am_events": 5,
+  "am_wins": 1,
+  "am_podiums": 3,
+  "am_top10": 5,
+  "am_pdga_points": 45.0,
+  "last_active": "18-Mar-2023",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 5,
+      "points": 45.0,
+      "weighted": 53.0,
+      "wins": 1
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 5,
+      "wins": 1,
+      "podiums": 3,
+      "top5": 4,
+      "top10": 5,
+      "top20": 5,
+      "pdga_points": 45.0,
+      "tour_weighted_points": 53.0,
+      "avg_finish": 3.6,
+      "win_rate": 0.2,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 5,
+      "wins": 1,
+      "podiums": 3,
+      "top5": 4,
+      "top10": 5,
+      "top20": 5,
+      "pdga_points": 45.0,
+      "tour_weighted_points": 53.0,
+      "avg_finish": 3.6,
+      "win_rate": 0.2,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA50": 4,
+    "MA60": 1
+  },
+  "results": [
+    {
+      "event_id": "67449",
+      "title": "Walnut Cracker - WIFFS (CEP Charity - Rated)",
+      "dates": "18-Mar-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Greencastle, Indiana, United States",
+      "place": 4,
+      "pdga_points": 6.0,
+      "division": "MA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "55823",
+      "title": "Wiffs Finale \"Winters Last Hurrah\" (CEP Charity - Rated)",
+      "dates": "27-Mar-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Monrovia, Indiana, United States",
+      "place": 7,
+      "pdga_points": 3.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "57571",
+      "title": "WIFFS #21 - Unfrozen Open (CEP Charity - Rated)",
+      "dates": "27-Feb-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Richmond, Indiana, United States",
+      "place": 3,
+      "pdga_points": 9.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "55941",
+      "title": "WIFFS #5 - Wabash Winter Bash (CEP Charity - Rated)",
+      "dates": "15-Jan-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Wabash, Indiana, United States",
+      "place": 3,
+      "pdga_points": 15.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "54061",
+      "title": "Fling for Hope",
+      "dates": "30-Oct-2021",
+      "year": "2021",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Winchester, Indiana, United States",
+      "place": 1,
+      "pdga_points": 12.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "54061",
+      "title": "Fling for Hope",
+      "dates": "30-Oct-2021",
+      "year": "2021",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Winchester, Indiana, United States",
+      "place": 1,
+      "pdga_points": 12.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2023",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 6.0,
+      "avg_finish": 4.0
+    },
+    {
+      "year": "2022",
+      "events": 3,
+      "wins": 0,
+      "podiums": 2,
+      "top10": 3,
+      "pdga_points": 27.0,
+      "avg_finish": 4.33
+    },
+    {
+      "year": "2021",
+      "events": 1,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 12.0,
+      "avg_finish": 1.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2025-02-11",
+      "rating": 846,
+      "rounds": 27
+    },
+    {
+      "date": "2025-03-11",
+      "rating": 847,
+      "rounds": 25
+    },
+    {
+      "date": "2025-04-08",
+      "rating": 845,
+      "rounds": 25
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 845,
+      "rounds": 26
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 841,
+      "rounds": 32
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 833,
+      "rounds": 34
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 836,
+      "rounds": 36
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 836,
+      "rounds": 38
+    },
+    {
+      "date": "2025-11-11",
+      "rating": 846,
+      "rounds": 39
+    },
+    {
+      "date": "2026-01-13",
+      "rating": 850,
+      "rounds": 39
+    },
+    {
+      "date": "2026-02-10",
+      "rating": 849,
+      "rounds": 40
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 849,
+      "rounds": 43
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 848,
+      "rounds": 43
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 847,
+      "rounds": 39
+    },
+    {
+      "date": "2026-06-09",
+      "rating": 857,
+      "rounds": 38
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 6.0,
+    "season_avg": 13.5,
+    "delta_pct": -55.6
+  },
+  "pdga_url": "https://www.pdga.com/player/80191"
+}

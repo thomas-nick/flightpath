@@ -1,0 +1,351 @@
+{
+  "pdga": 82988,
+  "name": "Joni Makkonen #82988",
+  "country": "Finland",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 878,
+  "classification": "Amateur",
+  "city": "Savonlinna",
+  "nationality": "",
+  "division": "MA1",
+  "primary_class": "amateur",
+  "pdga_points": 475.0,
+  "tour_weighted_points": 47.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 6,
+  "wins": 0,
+  "podiums": 0,
+  "top5": 1,
+  "top10": 3,
+  "top20": 5,
+  "avg_finish": 12.0,
+  "win_rate": 0.0,
+  "top10_rate": 0.5,
+  "cash_earned": 0.0,
+  "pdga_rank": 470,
+  "weighted_rank": 954,
+  "country_rank": null,
+  "am_events": 6,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 3,
+  "am_pdga_points": 475.0,
+  "last_active": "02-Feb to 04-Feb-2024",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 2,
+      "points": 300.0,
+      "weighted": 28.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 2,
+      "points": 112.5,
+      "weighted": 8.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 2,
+      "points": 62.5,
+      "weighted": 11.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 6,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 1,
+      "top10": 3,
+      "top20": 5,
+      "pdga_points": 475.0,
+      "tour_weighted_points": 47.0,
+      "avg_finish": 12.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.5
+    },
+    "all": {
+      "events": 6,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 1,
+      "top10": 3,
+      "top20": 5,
+      "pdga_points": 475.0,
+      "tour_weighted_points": 47.0,
+      "avg_finish": 12.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.5
+    }
+  },
+  "division_counts": {
+    "MA1": 6
+  },
+  "results": [
+    {
+      "event_id": "73691",
+      "title": "Samui Swine Classic XI - MPO, FPO, MP40, MP50, MA1, FA1",
+      "dates": "02-Feb to 04-Feb-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 19,
+      "pdga_points": 82.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "38588",
+      "title": "Samui Swine Classic VI - Presented by Dynamic Discs - Ams",
+      "dates": "06-Feb to 07-Feb-2019",
+      "year": "2019",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 8,
+      "pdga_points": 160.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "33706",
+      "title": "Samui Swine Classic V",
+      "dates": "01-Feb to 03-Feb-2018",
+      "year": "2018",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 21,
+      "pdga_points": 140.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 8.0
+    },
+    {
+      "event_id": "30246",
+      "title": "Samui Swine Classic IV",
+      "dates": "04-Feb to 05-Feb-2017",
+      "year": "2017",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Maenam, Koh Samui, Surat Thani, Thailand",
+      "place": 12,
+      "pdga_points": 30.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "30551",
+      "title": "Koh Som Invitational 2",
+      "dates": "01-Feb-2017",
+      "year": "2017",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Som, Koh Samui, Surat Thani, Thailand",
+      "place": 7,
+      "pdga_points": 50.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "30441",
+      "title": "Samui Wednesday Singles Oct/Nov",
+      "dates": "26-Oct to 14-Dec-2016",
+      "year": "2016",
+      "tier": "",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Maenam, Koh Samui, Surat Thani, Thailand",
+      "place": 5,
+      "pdga_points": 12.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2024",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 82.5,
+      "avg_finish": 19.0
+    },
+    {
+      "year": "2019",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 160.0,
+      "avg_finish": 8.0
+    },
+    {
+      "year": "2018",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 140.0,
+      "avg_finish": 21.0
+    },
+    {
+      "year": "2017",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 80.0,
+      "avg_finish": 9.5
+    },
+    {
+      "year": "2016",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 12.5,
+      "avg_finish": 5.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2016-05-17",
+      "rating": 868,
+      "rounds": 2
+    },
+    {
+      "date": "2016-06-21",
+      "rating": 842,
+      "rounds": 6
+    },
+    {
+      "date": "2016-08-16",
+      "rating": 845,
+      "rounds": 10
+    },
+    {
+      "date": "2016-09-20",
+      "rating": 864,
+      "rounds": 14
+    },
+    {
+      "date": "2016-11-15",
+      "rating": 861,
+      "rounds": 16
+    },
+    {
+      "date": "2017-01-24",
+      "rating": 864,
+      "rounds": 17
+    },
+    {
+      "date": "2017-03-28",
+      "rating": 869,
+      "rounds": 21
+    },
+    {
+      "date": "2017-07-25",
+      "rating": 878,
+      "rounds": 16
+    },
+    {
+      "date": "2017-08-22",
+      "rating": 873,
+      "rounds": 14
+    },
+    {
+      "date": "2018-03-13",
+      "rating": 878,
+      "rounds": 10
+    },
+    {
+      "date": "2019-02-26",
+      "rating": 883,
+      "rounds": 9
+    },
+    {
+      "date": "2019-08-13",
+      "rating": 878,
+      "rounds": 10
+    },
+    {
+      "date": "2024-02-13",
+      "rating": 839,
+      "rounds": 3
+    }
+  ],
+  "streak": {
+    "direction": "up",
+    "recent_avg": 127.5,
+    "season_avg": 30.8,
+    "delta_pct": 313.5
+  },
+  "pdga_url": "https://www.pdga.com/player/82988"
+}

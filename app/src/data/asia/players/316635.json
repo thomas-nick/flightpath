@@ -1,0 +1,218 @@
+{
+  "pdga": 316635,
+  "name": "Giselle Mancera #316635",
+  "country": "Philippines",
+  "country_key": "PH",
+  "flag": "\ud83c\uddf5\ud83c\udded",
+  "rating": 256,
+  "classification": "Amateur",
+  "city": "Tulunan",
+  "nationality": "",
+  "division": "FA4",
+  "primary_class": "amateur",
+  "pdga_points": 4.0,
+  "tour_weighted_points": 23.6,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 3,
+  "wins": 0,
+  "podiums": 1,
+  "top5": 2,
+  "top10": 2,
+  "top20": 3,
+  "avg_finish": 9.0,
+  "win_rate": 0.0,
+  "top10_rate": 0.667,
+  "cash_earned": 0.0,
+  "pdga_rank": 2095,
+  "weighted_rank": 1283,
+  "country_rank": 153,
+  "am_events": 3,
+  "am_wins": 0,
+  "am_podiums": 1,
+  "am_top10": 2,
+  "am_pdga_points": 4.0,
+  "last_active": "23-May to 24-May-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 3,
+      "points": 4.0,
+      "weighted": 23.6,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 3,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 2,
+      "top10": 2,
+      "top20": 3,
+      "pdga_points": 4.0,
+      "tour_weighted_points": 23.6,
+      "avg_finish": 9.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.667
+    },
+    "all": {
+      "events": 3,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 2,
+      "top10": 2,
+      "top20": 3,
+      "pdga_points": 4.0,
+      "tour_weighted_points": 23.6,
+      "avg_finish": 9.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.667
+    }
+  },
+  "division_counts": {
+    "FA2": 1,
+    "FA4": 2
+  },
+  "results": [
+    {
+      "event_id": "102331",
+      "title": "USM Discgolf Community Tournament",
+      "dates": "27-Mar to 28-Mar-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "KABACAN, Cotabato, Philippines",
+      "place": 5,
+      "pdga_points": 1.0,
+      "division": "FA4",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "99288",
+      "title": "USM First Flight Inagural Disc Golf Tournament",
+      "dates": "24-Jan-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Kabacan, Cotabato, Philippines",
+      "place": 20,
+      "pdga_points": 1.0,
+      "division": "FA4",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "104201",
+      "title": "ONE USM Tournament + WGE Event",
+      "dates": "23-May to 24-May-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Kabacan, Cotabato, Philippines",
+      "place": 2,
+      "pdga_points": 2.0,
+      "division": "FA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 3,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 2,
+      "pdga_points": 4.0,
+      "avg_finish": 9.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2026-02-10",
+      "rating": 218,
+      "rounds": 1
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 251,
+      "rounds": 3
+    },
+    {
+      "date": "2026-06-09",
+      "rating": 256,
+      "rounds": 4
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/316635"
+}

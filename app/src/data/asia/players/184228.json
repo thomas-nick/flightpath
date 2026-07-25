@@ -1,0 +1,273 @@
+{
+  "pdga": 184228,
+  "name": "Huaqing Feng #184228",
+  "country": "China",
+  "country_key": "CN",
+  "flag": "\ud83c\udde8\ud83c\uddf3",
+  "rating": null,
+  "classification": "Amateur",
+  "city": "Kunshan / Jiangsu Sheng",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 313.0,
+  "tour_weighted_points": 11.8,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 5,
+  "wins": 0,
+  "podiums": 0,
+  "top5": 0,
+  "top10": 2,
+  "top20": 3,
+  "avg_finish": 16.2,
+  "win_rate": 0.0,
+  "top10_rate": 0.4,
+  "cash_earned": 0.0,
+  "pdga_rank": 629,
+  "weighted_rank": 1584,
+  "country_rank": 103,
+  "am_events": 2,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 2,
+  "am_pdga_points": 203.0,
+  "last_active": "02-Jan-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 5,
+      "points": 313.0,
+      "weighted": 11.8,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 3,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 1,
+      "pdga_points": 110.0,
+      "tour_weighted_points": 3.8,
+      "avg_finish": 21.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 2,
+      "top20": 2,
+      "pdga_points": 203.0,
+      "tour_weighted_points": 8.0,
+      "avg_finish": 9.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 5,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 2,
+      "top20": 3,
+      "pdga_points": 313.0,
+      "tour_weighted_points": 11.8,
+      "avg_finish": 16.2,
+      "win_rate": 0.0,
+      "top10_rate": 0.4
+    }
+  },
+  "division_counts": {
+    "MPO": 3,
+    "MA1": 1,
+    "MA2": 1
+  },
+  "results": [
+    {
+      "event_id": "98425",
+      "title": "\u7b2c\u56db\u5c4a\u201c\u68ee\u6797\u4e4b\u738b\u201d\uff08\u6606\u5c71\uff09\u4e89\u9738\u8d5b The 4th Annual \"King of the Forest\" (Kunshan) Challenge",
+      "dates": "02-Jan-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Kunshan, Jiangsu Sheng, China",
+      "place": 9,
+      "pdga_points": 48.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "79968",
+      "title": "2024 CDGC Spring Cup Disc Golf tournament",
+      "dates": "05-Apr to 06-Apr-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "shanghai, Shanghai Shi, China",
+      "place": 29,
+      "pdga_points": 15.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 0.6
+    },
+    {
+      "event_id": "57901",
+      "title": "The 2nd Yangtze River Delta Open \u65cb\u98ce\u98de\u76d8\u4ff1\u4e50\u90e8 Disc Golf Tournament",
+      "dates": "21-Aug-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Suzhou, Jiangsu Sheng, China",
+      "place": 21,
+      "pdga_points": 55.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "62454",
+      "title": "2022 Kunshan The Yangtze River Delta Open",
+      "dates": "06-Aug-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Kunshan, Suzhou, Jiangsu Sheng, China",
+      "place": 9,
+      "pdga_points": 155.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "53115",
+      "title": "2021\u957f\u767d\u5c71\u63b7\u51c6\u98de\u76d8\u9080\u8bf7\u8d5b",
+      "dates": "17-Jul to 18-Jul-2021",
+      "year": "2021",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "\u767d\u5c71\u5e02, Jilin Sheng, China",
+      "place": 13,
+      "pdga_points": 40.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.6
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 48.0,
+      "avg_finish": 9.0
+    },
+    {
+      "year": "2024",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 15.0,
+      "avg_finish": 29.0
+    },
+    {
+      "year": "2022",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 210.0,
+      "avg_finish": 15.0
+    },
+    {
+      "year": "2021",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 40.0,
+      "avg_finish": 13.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2021-08-10",
+      "rating": 792,
+      "rounds": 3
+    },
+    {
+      "date": "2022-09-13",
+      "rating": 840,
+      "rounds": 6
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 39.3,
+    "season_avg": 97.5,
+    "delta_pct": -59.7
+  },
+  "pdga_url": "https://www.pdga.com/player/184228"
+}

@@ -1,0 +1,145 @@
+{
+  "event_id": "104304",
+  "title": "2026 China WGE - Presented by Chain Disc Golf and Spinup Club",
+  "location": "Shanghai, Shanghai Shi, China",
+  "dates": "23-May-2026",
+  "year": "2026",
+  "tier": "C",
+  "level": "c_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 8,
+  "avg_mpo_rating": 880.4,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "count": 6
+    },
+    {
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "count": 1
+    },
+    {
+      "flag": "\ud83c\uddf8\ud83c\uddec",
+      "country": "Singapore",
+      "count": 1
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 122212,
+      "name": "Weili Chang",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 1,
+      "pdga_points": 25.0,
+      "rating": 930,
+      "prize": "$40",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 133671,
+      "name": "Mart Mullan",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 2,
+      "pdga_points": 20.0,
+      "rating": 864,
+      "prize": "$26",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    },
+    {
+      "pdga": 275659,
+      "name": "Kai Meng",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 3,
+      "pdga_points": 15.0,
+      "rating": 879,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 296893,
+      "name": "TIANLUN QIN",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 4,
+      "pdga_points": 10.0,
+      "rating": 856,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 189338,
+      "name": "Justin Tan",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 5,
+      "pdga_points": 5.0,
+      "rating": 873,
+      "prize": "",
+      "flag": "\ud83c\uddf8\ud83c\uddec",
+      "country": "Singapore",
+      "country_key": "SG"
+    }
+  ],
+  "fpo": [
+    {
+      "pdga": 228239,
+      "name": "Yanwen Ma",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 1,
+      "pdga_points": 6.0,
+      "rating": 850,
+      "prize": "$18",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 287999,
+      "name": "Xiaoqian Shi",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 2,
+      "pdga_points": 3.0,
+      "rating": 739,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    }
+  ],
+  "amateur": [
+    {
+      "pdga": 281495,
+      "name": "Yulong Wu",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 10.0,
+      "rating": 803,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    }
+  ],
+  "divisions": [
+    "FPO",
+    "MA1",
+    "MPO"
+  ]
+}

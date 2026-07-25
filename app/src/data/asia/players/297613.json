@@ -1,0 +1,256 @@
+{
+  "pdga": 297613,
+  "name": "Didier Fusi #297613",
+  "country": "Thailand",
+  "country_key": "TH",
+  "flag": "\ud83c\uddf9\ud83c\udded",
+  "rating": 750,
+  "classification": "Amateur",
+  "city": "koh mak",
+  "nationality": "",
+  "division": "MA50",
+  "primary_class": "amateur",
+  "pdga_points": 15.0,
+  "tour_weighted_points": 29.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 4,
+  "wins": 0,
+  "podiums": 1,
+  "top5": 3,
+  "top10": 4,
+  "top20": 4,
+  "avg_finish": 4.25,
+  "win_rate": 0.0,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 1881,
+  "weighted_rank": 1192,
+  "country_rank": 124,
+  "am_events": 4,
+  "am_wins": 0,
+  "am_podiums": 1,
+  "am_top10": 4,
+  "am_pdga_points": 15.0,
+  "last_active": "07-Mar to 08-Mar-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 4,
+      "points": 15.0,
+      "weighted": 29.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 4,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 3,
+      "top10": 4,
+      "top20": 4,
+      "pdga_points": 15.0,
+      "tour_weighted_points": 29.0,
+      "avg_finish": 4.25,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 4,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 3,
+      "top10": 4,
+      "top20": 4,
+      "pdga_points": 15.0,
+      "tour_weighted_points": 29.0,
+      "avg_finish": 4.25,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA50": 4
+  },
+  "results": [
+    {
+      "event_id": "99715",
+      "title": "Koh Kood Open First Run",
+      "dates": "07-Mar to 08-Mar-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Kood, Trat, Thailand",
+      "place": 3,
+      "pdga_points": 3.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "96436",
+      "title": "Trat Disc Golf Open 2025",
+      "dates": "15-Nov to 16-Nov-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Trat, Thailand",
+      "place": 4,
+      "pdga_points": 6.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "84695",
+      "title": "THE Tournament in Trat",
+      "dates": "30-Nov to 01-Dec-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Trat, Thailand",
+      "place": 4,
+      "pdga_points": 3.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "86607",
+      "title": "Squid BBQ Episode V",
+      "dates": "03-Dec to 04-Dec-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Mak, Trat, Thailand",
+      "place": 6,
+      "pdga_points": 3.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 3.0,
+      "avg_finish": 3.0
+    },
+    {
+      "year": "2025",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 6.0,
+      "avg_finish": 4.0
+    },
+    {
+      "year": "2024",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 2,
+      "pdga_points": 6.0,
+      "avg_finish": 5.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2024-12-10",
+      "rating": 719,
+      "rounds": 5
+    },
+    {
+      "date": "2025-03-11",
+      "rating": 751,
+      "rounds": 7
+    },
+    {
+      "date": "2025-11-11",
+      "rating": 750,
+      "rounds": 9
+    },
+    {
+      "date": "2025-12-09",
+      "rating": 741,
+      "rounds": 12
+    }
+  ],
+  "streak": {
+    "direction": "up",
+    "recent_avg": 4.0,
+    "season_avg": 3.0,
+    "delta_pct": 33.3
+  },
+  "pdga_url": "https://www.pdga.com/player/297613"
+}

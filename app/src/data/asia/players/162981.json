@@ -1,0 +1,241 @@
+{
+  "pdga": 162981,
+  "name": "Toby Gramlich",
+  "country": "India",
+  "country_key": "IN",
+  "flag": "\ud83c\uddee\ud83c\uddf3",
+  "rating": 829,
+  "classification": "Pro",
+  "city": "",
+  "nationality": "",
+  "division": "MA2",
+  "primary_class": "amateur",
+  "pdga_points": 120.0,
+  "tour_weighted_points": 6.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top5": 0,
+  "top10": 0,
+  "top20": 0,
+  "avg_finish": 64.0,
+  "win_rate": 0.0,
+  "top10_rate": 0.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 1613,
+  "weighted_rank": 2670,
+  "country_rank": 617,
+  "am_events": 2,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 0,
+  "am_pdga_points": 120.0,
+  "last_active": "05-Aug to 07-Aug-2022",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 2,
+      "points": 120.0,
+      "weighted": 6.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 120.0,
+      "tour_weighted_points": 6.0,
+      "avg_finish": 64.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "all": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 120.0,
+      "tour_weighted_points": 6.0,
+      "avg_finish": 64.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    }
+  },
+  "division_counts": {
+    "MA2": 1,
+    "MA3": 1
+  },
+  "results": [
+    {
+      "event_id": "55383",
+      "title": "The TruBank Des Moines Challenge presented by Discraft",
+      "dates": "05-Aug to 07-Aug-2022",
+      "year": "2022",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Indianola, Iowa, United States",
+      "place": 54,
+      "pdga_points": 0.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 3.0
+    },
+    {
+      "event_id": "47868",
+      "title": "Des Moines Challenge Presented by GEICO Des Moines",
+      "dates": "09-Jul to 11-Jul-2021",
+      "year": "2021",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Indianola, Iowa, United States",
+      "place": 74,
+      "pdga_points": 120.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 3.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2022",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 0.0,
+      "avg_finish": 54.0
+    },
+    {
+      "year": "2021",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 120.0,
+      "avg_finish": 74.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2021-04-13",
+      "rating": 819,
+      "rounds": 3
+    },
+    {
+      "date": "2021-06-08",
+      "rating": 829,
+      "rounds": 5
+    },
+    {
+      "date": "2021-07-13",
+      "rating": 831,
+      "rounds": 8
+    },
+    {
+      "date": "2021-08-10",
+      "rating": 826,
+      "rounds": 10
+    },
+    {
+      "date": "2021-10-12",
+      "rating": 822,
+      "rounds": 11
+    },
+    {
+      "date": "2021-12-14",
+      "rating": 827,
+      "rounds": 12
+    },
+    {
+      "date": "2022-06-14",
+      "rating": 822,
+      "rounds": 10
+    },
+    {
+      "date": "2022-07-12",
+      "rating": 827,
+      "rounds": 11
+    },
+    {
+      "date": "2022-08-09",
+      "rating": 823,
+      "rounds": 11
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/162981"
+}

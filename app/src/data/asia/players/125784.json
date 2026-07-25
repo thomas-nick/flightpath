@@ -1,0 +1,295 @@
+{
+  "pdga": 125784,
+  "name": "Joe Keith",
+  "country": "India",
+  "country_key": "IN",
+  "flag": "\ud83c\uddee\ud83c\uddf3",
+  "rating": 841,
+  "classification": "Pro",
+  "city": "",
+  "nationality": "",
+  "division": "MA3",
+  "primary_class": "amateur",
+  "pdga_points": 222.0,
+  "tour_weighted_points": 33.6,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 3,
+  "wins": 1,
+  "podiums": 1,
+  "top5": 1,
+  "top10": 1,
+  "top20": 2,
+  "avg_finish": 111.67,
+  "win_rate": 0.333,
+  "top10_rate": 0.333,
+  "cash_earned": 0.0,
+  "pdga_rank": 1198,
+  "weighted_rank": 1078,
+  "country_rank": 490,
+  "am_events": 3,
+  "am_wins": 1,
+  "am_podiums": 1,
+  "am_top10": 1,
+  "am_pdga_points": 222.0,
+  "last_active": "21-Jun to 25-Jun-2022",
+  "by_level": {
+    "major": {
+      "events": 1,
+      "points": 195.0,
+      "weighted": 12.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 2,
+      "points": 27.0,
+      "weighted": 21.6,
+      "wins": 1
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 3,
+      "wins": 1,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 1,
+      "top20": 2,
+      "pdga_points": 222.0,
+      "tour_weighted_points": 33.6,
+      "avg_finish": 111.67,
+      "win_rate": 0.333,
+      "top10_rate": 0.333
+    },
+    "all": {
+      "events": 3,
+      "wins": 1,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 1,
+      "top20": 2,
+      "pdga_points": 222.0,
+      "tour_weighted_points": 33.6,
+      "avg_finish": 111.67,
+      "win_rate": 0.333,
+      "top10_rate": 0.333
+    }
+  },
+  "division_counts": {
+    "MA1": 1,
+    "MA3": 2
+  },
+  "results": [
+    {
+      "event_id": "55453",
+      "title": "2022 PDGA Amateur Disc Golf World Championships presented by Toyota",
+      "dates": "21-Jun to 25-Jun-2022",
+      "year": "2022",
+      "tier": "",
+      "level": "major",
+      "is_asia_tour": false,
+      "location": "Princeton, Indiana, United States",
+      "place": 323,
+      "pdga_points": 195.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 12.0
+    },
+    {
+      "event_id": "57598",
+      "title": "WIFFS #28 - The Paddy Whack (CEP Charity - Rated)",
+      "dates": "19-Mar-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "St. Meinrad, Indiana, United States",
+      "place": 1,
+      "pdga_points": 21.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "56249",
+      "title": "WIFFS #4 - Basket Bash by Dads Fore Disc Golf (CEP Charity - Rated)",
+      "dates": "09-Jan-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Princeton, Indiana, United States",
+      "place": 11,
+      "pdga_points": 6.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 1.6
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "57598",
+      "title": "WIFFS #28 - The Paddy Whack (CEP Charity - Rated)",
+      "dates": "19-Mar-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "St. Meinrad, Indiana, United States",
+      "place": 1,
+      "pdga_points": 21.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2022",
+      "events": 3,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 222.0,
+      "avg_finish": 111.67
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2025-03-11",
+      "rating": 884,
+      "rounds": 68
+    },
+    {
+      "date": "2025-04-08",
+      "rating": 882,
+      "rounds": 68
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 880,
+      "rounds": 64
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 878,
+      "rounds": 65
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 883,
+      "rounds": 62
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 886,
+      "rounds": 60
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 888,
+      "rounds": 55
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 888,
+      "rounds": 52
+    },
+    {
+      "date": "2025-11-11",
+      "rating": 886,
+      "rounds": 53
+    },
+    {
+      "date": "2025-12-09",
+      "rating": 889,
+      "rounds": 44
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 887,
+      "rounds": 40
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 886,
+      "rounds": 36
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 887,
+      "rounds": 34
+    },
+    {
+      "date": "2026-06-09",
+      "rating": 887,
+      "rounds": 27
+    },
+    {
+      "date": "2026-07-14",
+      "rating": 875,
+      "rounds": 24
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/125784"
+}

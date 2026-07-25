@@ -1,0 +1,242 @@
+{
+  "pdga": 190838,
+  "name": "Pascal Liberge #190838",
+  "country": "United States",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 882,
+  "classification": "Amateur",
+  "city": "Colorado Springs",
+  "nationality": "",
+  "division": "MA3",
+  "primary_class": "amateur",
+  "pdga_points": 63.0,
+  "tour_weighted_points": 20.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 1,
+  "wins": 1,
+  "podiums": 1,
+  "top5": 1,
+  "top10": 1,
+  "top20": 1,
+  "avg_finish": 1.0,
+  "win_rate": 1.0,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 2112,
+  "weighted_rank": 1427,
+  "country_rank": null,
+  "am_events": 1,
+  "am_wins": 1,
+  "am_podiums": 1,
+  "am_top10": 1,
+  "am_pdga_points": 63.0,
+  "last_active": "27-Mar-2022",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 1,
+      "points": 63.0,
+      "weighted": 20.0,
+      "wins": 1
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 1,
+      "wins": 1,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 63.0,
+      "tour_weighted_points": 20.0,
+      "avg_finish": 1.0,
+      "win_rate": 1.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 1,
+      "wins": 1,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 63.0,
+      "tour_weighted_points": 20.0,
+      "avg_finish": 1.0,
+      "win_rate": 1.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA3": 1
+  },
+  "results": [
+    {
+      "event_id": "55823",
+      "title": "Wiffs Finale \"Winters Last Hurrah\" (CEP Charity - Rated)",
+      "dates": "27-Mar-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Monrovia, Indiana, United States",
+      "place": 1,
+      "pdga_points": 63.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "55823",
+      "title": "Wiffs Finale \"Winters Last Hurrah\" (CEP Charity - Rated)",
+      "dates": "27-Mar-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Monrovia, Indiana, United States",
+      "place": 1,
+      "pdga_points": 63.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2022",
+      "events": 1,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 63.0,
+      "avg_finish": 1.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2021-10-12",
+      "rating": 881,
+      "rounds": 5
+    },
+    {
+      "date": "2021-11-09",
+      "rating": 879,
+      "rounds": 8
+    },
+    {
+      "date": "2022-02-08",
+      "rating": 873,
+      "rounds": 8
+    },
+    {
+      "date": "2022-04-12",
+      "rating": 885,
+      "rounds": 12
+    },
+    {
+      "date": "2022-07-12",
+      "rating": 887,
+      "rounds": 14
+    },
+    {
+      "date": "2022-12-13",
+      "rating": 893,
+      "rounds": 11
+    },
+    {
+      "date": "2023-04-11",
+      "rating": 898,
+      "rounds": 8
+    },
+    {
+      "date": "2023-06-13",
+      "rating": 907,
+      "rounds": 8
+    },
+    {
+      "date": "2023-08-08",
+      "rating": 907,
+      "rounds": 8
+    },
+    {
+      "date": "2026-06-09",
+      "rating": 887,
+      "rounds": 2
+    },
+    {
+      "date": "2026-07-14",
+      "rating": 882,
+      "rounds": 3
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/190838"
+}

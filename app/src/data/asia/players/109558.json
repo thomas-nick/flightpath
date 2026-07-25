@@ -1,0 +1,293 @@
+{
+  "pdga": 109558,
+  "name": "Blake Miles",
+  "country": "India",
+  "country_key": "IN",
+  "flag": "\ud83c\uddee\ud83c\uddf3",
+  "rating": 965,
+  "classification": "Pro",
+  "city": "",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 80.0,
+  "tour_weighted_points": 44.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 4,
+  "wins": 0,
+  "podiums": 3,
+  "top5": 4,
+  "top10": 4,
+  "top20": 4,
+  "avg_finish": 3.25,
+  "win_rate": 0.0,
+  "top10_rate": 1.0,
+  "cash_earned": 95.0,
+  "pdga_rank": 1929,
+  "weighted_rank": 901,
+  "country_rank": 703,
+  "am_events": 0,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 0,
+  "am_pdga_points": 0.0,
+  "last_active": "27-Mar-2022",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 4,
+      "points": 80.0,
+      "weighted": 44.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 4,
+      "wins": 0,
+      "podiums": 3,
+      "top5": 4,
+      "top10": 4,
+      "top20": 4,
+      "pdga_points": 80.0,
+      "tour_weighted_points": 44.0,
+      "avg_finish": 3.25,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "all": {
+      "events": 4,
+      "wins": 0,
+      "podiums": 3,
+      "top5": 4,
+      "top10": 4,
+      "top20": 4,
+      "pdga_points": 80.0,
+      "tour_weighted_points": 44.0,
+      "avg_finish": 3.25,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MPO": 4
+  },
+  "results": [
+    {
+      "event_id": "55823",
+      "title": "Wiffs Finale \"Winters Last Hurrah\" (CEP Charity - Rated)",
+      "dates": "27-Mar-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Monrovia, Indiana, United States",
+      "place": 3,
+      "pdga_points": 15.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$35",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "56568",
+      "title": "WIFFS #17 - The Nashville Chill sponsored by Westside Discs (CEP Charity - Rated)",
+      "dates": "19-Feb-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Nashville, Indiana, United States",
+      "place": 3,
+      "pdga_points": 15.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "62558",
+      "title": "2022 limestone open by BDGC",
+      "dates": "17-Sep-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Ellettsville , Indiana, United States",
+      "place": 5,
+      "pdga_points": 10.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "57268",
+      "title": "WIFFS #14 Mitten Road Trip (CEP Charity - Rated)",
+      "dates": "06-Feb-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Bowling Green, Indiana, United States",
+      "place": 2,
+      "pdga_points": 40.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$60",
+      "weighted_points": 15.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2022",
+      "events": 4,
+      "wins": 0,
+      "podiums": 3,
+      "top10": 4,
+      "pdga_points": 80.0,
+      "avg_finish": 3.25
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2022-05-10",
+      "rating": 955,
+      "rounds": 36
+    },
+    {
+      "date": "2022-07-12",
+      "rating": 959,
+      "rounds": 30
+    },
+    {
+      "date": "2022-09-13",
+      "rating": 960,
+      "rounds": 31
+    },
+    {
+      "date": "2022-10-11",
+      "rating": 954,
+      "rounds": 31
+    },
+    {
+      "date": "2022-12-13",
+      "rating": 954,
+      "rounds": 32
+    },
+    {
+      "date": "2023-02-14",
+      "rating": 955,
+      "rounds": 32
+    },
+    {
+      "date": "2023-03-14",
+      "rating": 958,
+      "rounds": 28
+    },
+    {
+      "date": "2023-04-11",
+      "rating": 956,
+      "rounds": 30
+    },
+    {
+      "date": "2023-05-09",
+      "rating": 957,
+      "rounds": 28
+    },
+    {
+      "date": "2023-06-13",
+      "rating": 956,
+      "rounds": 28
+    },
+    {
+      "date": "2023-08-08",
+      "rating": 949,
+      "rounds": 26
+    },
+    {
+      "date": "2023-10-10",
+      "rating": 962,
+      "rounds": 18
+    },
+    {
+      "date": "2023-11-14",
+      "rating": 964,
+      "rounds": 17
+    },
+    {
+      "date": "2024-03-12",
+      "rating": 960,
+      "rounds": 17
+    },
+    {
+      "date": "2024-11-12",
+      "rating": 956,
+      "rounds": 8
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 13.3,
+    "season_avg": 40.0,
+    "delta_pct": -66.7
+  },
+  "pdga_url": "https://www.pdga.com/player/109558"
+}

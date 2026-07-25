@@ -1,0 +1,234 @@
+{
+  "pdga": 327019,
+  "name": "Byunghwa Kim #327019",
+  "country": "South Korea",
+  "country_key": "KR",
+  "flag": "\ud83c\uddf0\ud83c\uddf7",
+  "rating": 760,
+  "classification": "Professional",
+  "city": "Yangju",
+  "nationality": "",
+  "division": "MA2",
+  "primary_class": "amateur",
+  "pdga_points": 32.0,
+  "tour_weighted_points": 42.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 3,
+  "wins": 1,
+  "podiums": 2,
+  "top5": 3,
+  "top10": 3,
+  "top20": 3,
+  "avg_finish": 2.33,
+  "win_rate": 0.333,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 1659,
+  "weighted_rank": 1001,
+  "country_rank": 88,
+  "am_events": 3,
+  "am_wins": 1,
+  "am_podiums": 2,
+  "am_top10": 3,
+  "am_pdga_points": 32.0,
+  "last_active": "26-Apr-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 3,
+      "points": 32.0,
+      "weighted": 42.0,
+      "wins": 1
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 3,
+      "wins": 1,
+      "podiums": 2,
+      "top5": 3,
+      "top10": 3,
+      "top20": 3,
+      "pdga_points": 32.0,
+      "tour_weighted_points": 42.0,
+      "avg_finish": 2.33,
+      "win_rate": 0.333,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 3,
+      "wins": 1,
+      "podiums": 2,
+      "top5": 3,
+      "top10": 3,
+      "top20": 3,
+      "pdga_points": 32.0,
+      "tour_weighted_points": 42.0,
+      "avg_finish": 2.33,
+      "win_rate": 0.333,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA2": 3
+  },
+  "results": [
+    {
+      "event_id": "104096",
+      "title": "Pump it up #5",
+      "dates": "31-May-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Yeongdong-gun, Chungcheongbuk-do, South Korea",
+      "place": 1,
+      "pdga_points": 24.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "103086",
+      "title": "Pump it up #4",
+      "dates": "26-Apr-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Yeongdong-gun, Chungcheongbuk-do, South Korea",
+      "place": 2,
+      "pdga_points": 8.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "105201",
+      "title": "Pump it up #6",
+      "dates": "21-Jun-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Daegu, Daegu, South Korea",
+      "place": 4,
+      "pdga_points": 0.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "104096",
+      "title": "Pump it up #5",
+      "dates": "31-May-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Yeongdong-gun, Chungcheongbuk-do, South Korea",
+      "place": 1,
+      "pdga_points": 24.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 3,
+      "wins": 1,
+      "podiums": 2,
+      "top10": 3,
+      "pdga_points": 32.0,
+      "avg_finish": 2.33
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2026-05-12",
+      "rating": 753,
+      "rounds": 2
+    },
+    {
+      "date": "2026-06-09",
+      "rating": 770,
+      "rounds": 4
+    },
+    {
+      "date": "2026-07-14",
+      "rating": 760,
+      "rounds": 6
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/327019"
+}

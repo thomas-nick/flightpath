@@ -1,0 +1,242 @@
+{
+  "pdga": 315373,
+  "name": "Leon Yang #315373",
+  "country": "China",
+  "country_key": "CN",
+  "flag": "\ud83c\udde8\ud83c\uddf3",
+  "rating": 905,
+  "classification": "Professional",
+  "city": "Chengdu",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 412.5,
+  "tour_weighted_points": 67.5,
+  "asia_tour_points": 67.5,
+  "asia_tour_events": 1,
+  "events_played": 4,
+  "wins": 0,
+  "podiums": 1,
+  "top5": 1,
+  "top10": 2,
+  "top20": 3,
+  "avg_finish": 12.5,
+  "win_rate": 0.0,
+  "top10_rate": 0.5,
+  "cash_earned": 85.0,
+  "pdga_rank": 520,
+  "weighted_rank": 794,
+  "country_rank": 77,
+  "am_events": 0,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 0,
+  "am_pdga_points": 0.0,
+  "last_active": "13-Mar to 15-Mar-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 1,
+      "points": 67.5,
+      "weighted": 16.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 3,
+      "points": 345.0,
+      "weighted": 51.5,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 4,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 2,
+      "top20": 3,
+      "pdga_points": 412.5,
+      "tour_weighted_points": 67.5,
+      "avg_finish": 12.5,
+      "win_rate": 0.0,
+      "top10_rate": 0.5
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "all": {
+      "events": 4,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 2,
+      "top20": 3,
+      "pdga_points": 412.5,
+      "tour_weighted_points": 67.5,
+      "avg_finish": 12.5,
+      "win_rate": 0.0,
+      "top10_rate": 0.5
+    }
+  },
+  "division_counts": {
+    "MPO": 4
+  },
+  "results": [
+    {
+      "event_id": "97588",
+      "title": "PDGA Asia Tour Championship - PDGA Asia Tour Event #7",
+      "dates": "13-Mar to 15-Mar-2026",
+      "year": "2026",
+      "tier": "B",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "Shanghai, Shanghai Shi, China",
+      "place": 18,
+      "pdga_points": 67.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 16.0
+    },
+    {
+      "event_id": "97899",
+      "title": "2025 Shaoxing China International Disc Golf Open",
+      "dates": "13-Dec to 14-Dec-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Shaoxing, Zhejiang Sheng, China",
+      "place": 9,
+      "pdga_points": 150.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$85",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "93392",
+      "title": "2025\u201c\u911e\u6728\u5c71\u6d77\u201d\u676f\u98de\u76d8\u9ad8\u5c14\u592b\u516c\u5f00\u8d5b\uff1b2025  The \"Yinmu Mountain-Sea Cup\" Disc Golf Open",
+      "dates": "05-Jul to 06-Jul-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Liangshan Yi Autonomous Prefecture, Sichuan Sheng, China",
+      "place": 2,
+      "pdga_points": 97.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 37.5
+    },
+    {
+      "event_id": "96234",
+      "title": "2025\u957f\u4e09\u89d2\u63b7\u51c6\u98de\u76d8\uff08\u6606\u5c71\uff09\u516c\u5f00\u8d5b\u66a8CDGC\u98de\u76d8\u9ad8\u5c14\u592b\u5de1\u56de\u8d5b\u603b\u51b3\u8d5b-2025 Yangzi River Delta Disc Golf  (KUNSHAN) Open - All Other Divisions",
+      "dates": "04-Oct to 05-Oct-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Kunshan, Jiangsu Sheng, China",
+      "place": 21,
+      "pdga_points": 97.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 67.5,
+      "avg_finish": 18.0
+    },
+    {
+      "year": "2025",
+      "events": 3,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 2,
+      "pdga_points": 345.0,
+      "avg_finish": 10.67
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2025-10-14",
+      "rating": 904,
+      "rounds": 6
+    },
+    {
+      "date": "2026-01-13",
+      "rating": 909,
+      "rounds": 9
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 905,
+      "rounds": 12
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 105.0,
+    "season_avg": 97.5,
+    "delta_pct": 7.7
+  },
+  "pdga_url": "https://www.pdga.com/player/315373"
+}

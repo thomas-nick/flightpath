@@ -1,0 +1,219 @@
+{
+  "pdga": 12626,
+  "name": "David Feldberg #12626",
+  "country": "United States",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 1021,
+  "classification": "Professional",
+  "city": "Eatonton",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 3412.5,
+  "tour_weighted_points": 59.5,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 3,
+  "wins": 0,
+  "podiums": 2,
+  "top5": 3,
+  "top10": 3,
+  "top20": 3,
+  "avg_finish": 2.67,
+  "win_rate": 0.0,
+  "top10_rate": 1.0,
+  "cash_earned": 6058.0,
+  "pdga_rank": 39,
+  "weighted_rank": 848,
+  "country_rank": null,
+  "am_events": 0,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 0,
+  "am_pdga_points": 0.0,
+  "last_active": "05-Jun to 07-Jun-2014",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 247.5,
+      "weighted": 37.5,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 2,
+      "points": 3165.0,
+      "weighted": 22.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 3,
+      "wins": 0,
+      "podiums": 2,
+      "top5": 3,
+      "top10": 3,
+      "top20": 3,
+      "pdga_points": 3412.5,
+      "tour_weighted_points": 59.5,
+      "avg_finish": 2.67,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "all": {
+      "events": 3,
+      "wins": 0,
+      "podiums": 2,
+      "top5": 3,
+      "top10": 3,
+      "top20": 3,
+      "pdga_points": 3412.5,
+      "tour_weighted_points": 59.5,
+      "avg_finish": 2.67,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MPO": 3
+  },
+  "results": [
+    {
+      "event_id": "15768",
+      "title": "The 2014 Japan Open",
+      "dates": "05-Jun to 07-Jun-2014",
+      "year": "2014",
+      "tier": "",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Nasu Shiobara, Tochigi, Japan",
+      "place": 4,
+      "pdga_points": 1725.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$1,470",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "11530",
+      "title": "Asia Open",
+      "dates": "19-Feb to 20-Feb-2011",
+      "year": "2011",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Taipei, Taipei City, Chinese Taipei",
+      "place": 2,
+      "pdga_points": 247.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$500",
+      "weighted_points": 37.5
+    },
+    {
+      "event_id": "9552",
+      "title": "2010 Japan Open (159.9 grams and under)",
+      "dates": "10-Jun to 12-Jun-2010",
+      "year": "2010",
+      "tier": "",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Tochigi, Nasu Highlands, Tochigi, Japan",
+      "place": 2,
+      "pdga_points": 1440.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$4,088",
+      "weighted_points": 15.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2014",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 1725.0,
+      "avg_finish": 4.0
+    },
+    {
+      "year": "2011",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 247.5,
+      "avg_finish": 2.0
+    },
+    {
+      "year": "2010",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 1440.0,
+      "avg_finish": 2.0
+    }
+  ],
+  "rating_history": [],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/12626"
+}

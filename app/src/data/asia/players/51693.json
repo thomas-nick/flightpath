@@ -1,0 +1,491 @@
+{
+  "pdga": 51693,
+  "name": "Seung Cheol Jeong #51693",
+  "country": "South Korea",
+  "country_key": "KR",
+  "flag": "\ud83c\uddf0\ud83c\uddf7",
+  "rating": 914,
+  "classification": "Professional",
+  "city": "Gyeonggi Do / Seongnam",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 565.0,
+  "tour_weighted_points": 59.2,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 13,
+  "wins": 0,
+  "podiums": 0,
+  "top5": 4,
+  "top10": 10,
+  "top20": 13,
+  "avg_finish": 8.54,
+  "win_rate": 0.0,
+  "top10_rate": 0.769,
+  "cash_earned": 307.0,
+  "pdga_rank": 421,
+  "weighted_rank": 851,
+  "country_rank": 18,
+  "am_events": 0,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 0,
+  "am_pdga_points": 0.0,
+  "last_active": "30-Apr-2023",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 60.0,
+      "weighted": 4.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 12,
+      "points": 505.0,
+      "weighted": 55.2,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 13,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 4,
+      "top10": 10,
+      "top20": 13,
+      "pdga_points": 565.0,
+      "tour_weighted_points": 59.2,
+      "avg_finish": 8.54,
+      "win_rate": 0.0,
+      "top10_rate": 0.769
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "all": {
+      "events": 13,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 4,
+      "top10": 10,
+      "top20": 13,
+      "pdga_points": 565.0,
+      "tour_weighted_points": 59.2,
+      "avg_finish": 8.54,
+      "win_rate": 0.0,
+      "top10_rate": 0.769
+    }
+  },
+  "division_counts": {
+    "MPO": 13
+  },
+  "results": [
+    {
+      "event_id": "68443",
+      "title": "11th Daegu International Open",
+      "dates": "30-Apr-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Daegu, Daegu, South Korea",
+      "place": 4,
+      "pdga_points": 75.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$93",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "73757",
+      "title": "2023 Chairman's Tournament",
+      "dates": "15-Oct-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Daegu, Daegu, South Korea",
+      "place": 8,
+      "pdga_points": 50.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$45",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "43199",
+      "title": "Episode 3 - Revenge of The Turtle Presented by Discraft",
+      "dates": "24-Nov-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Gimhae/Miryang, Gyeongsangnam-do, South Korea",
+      "place": 8,
+      "pdga_points": 15.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "41267",
+      "title": "Episode 2 - Attack of The Turtles presented by Discraft",
+      "dates": "09-Jun-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Gimhae/MIryang, Gyeongsangnam-do, South Korea",
+      "place": 14,
+      "pdga_points": 5.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "39775",
+      "title": "8th Annual Daegu Open",
+      "dates": "06-Apr to 07-Apr-2019",
+      "year": "2019",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Daegu, Gyeongsangbuk-do, South Korea",
+      "place": 13,
+      "pdga_points": 60.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "26584",
+      "title": "5th Daegu International Open",
+      "dates": "23-Apr to 24-Apr-2016",
+      "year": "2016",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Daegu, South Korea",
+      "place": 9,
+      "pdga_points": 55.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "20399",
+      "title": "4th Daegu International Open",
+      "dates": "25-Apr to 26-Apr-2015",
+      "year": "2015",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Daegu, South Korea",
+      "place": 12,
+      "pdga_points": 50.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "22188",
+      "title": "The 8th Korea National Disc Golf Championship",
+      "dates": "07-Nov to 08-Nov-2015",
+      "year": "2015",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Daegu City, South Korea",
+      "place": 5,
+      "pdga_points": 50.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "16815",
+      "title": "Balenkey presents the 3rd Daegu Open",
+      "dates": "19-Apr to 20-Apr-2014",
+      "year": "2014",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Daegu, South Korea",
+      "place": 10,
+      "pdga_points": 30.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "19396",
+      "title": "The 7th Korea National Disc Golf Championship",
+      "dates": "18-Oct to 19-Oct-2014",
+      "year": "2014",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "CheonAn City, South Korea",
+      "place": 5,
+      "pdga_points": 65.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "16213",
+      "title": "6th Korea National Championship",
+      "dates": "28-Sep to 29-Sep-2013",
+      "year": "2013",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Cheon An City, South Korea",
+      "place": 5,
+      "pdga_points": 65.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$169",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "15459",
+      "title": "The 2nd Daegu Open Disc Golf Tournament",
+      "dates": "27-Apr to 28-Apr-2013",
+      "year": "2013",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Daegu City, South Korea",
+      "place": 9,
+      "pdga_points": 20.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "14186",
+      "title": "The 5th Korea National Disc Golf Championship",
+      "dates": "13-Oct to 14-Oct-2012",
+      "year": "2012",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Daegu City, South Korea",
+      "place": 9,
+      "pdga_points": 25.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2023",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 2,
+      "pdga_points": 125.0,
+      "avg_finish": 6.0
+    },
+    {
+      "year": "2019",
+      "events": 3,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 80.0,
+      "avg_finish": 11.67
+    },
+    {
+      "year": "2016",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 55.0,
+      "avg_finish": 9.0
+    },
+    {
+      "year": "2015",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 100.0,
+      "avg_finish": 8.5
+    },
+    {
+      "year": "2014",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 2,
+      "pdga_points": 95.0,
+      "avg_finish": 7.5
+    },
+    {
+      "year": "2013",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 2,
+      "pdga_points": 85.0,
+      "avg_finish": 7.0
+    },
+    {
+      "year": "2012",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 25.0,
+      "avg_finish": 9.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2012-11-13",
+      "rating": 904,
+      "rounds": 3
+    },
+    {
+      "date": "2012-12-18",
+      "rating": 919,
+      "rounds": 6
+    },
+    {
+      "date": "2013-08-13",
+      "rating": 920,
+      "rounds": 9
+    },
+    {
+      "date": "2013-11-19",
+      "rating": 916,
+      "rounds": 8
+    },
+    {
+      "date": "2013-12-17",
+      "rating": 909,
+      "rounds": 9
+    },
+    {
+      "date": "2014-05-27",
+      "rating": 926,
+      "rounds": 8
+    },
+    {
+      "date": "2014-11-18",
+      "rating": 916,
+      "rounds": 7
+    },
+    {
+      "date": "2015-05-26",
+      "rating": 916,
+      "rounds": 7
+    },
+    {
+      "date": "2015-12-08",
+      "rating": 902,
+      "rounds": 8
+    },
+    {
+      "date": "2016-05-17",
+      "rating": 913,
+      "rounds": 9
+    },
+    {
+      "date": "2019-05-14",
+      "rating": 916,
+      "rounds": 3
+    },
+    {
+      "date": "2019-07-09",
+      "rating": 897,
+      "rounds": 5
+    },
+    {
+      "date": "2019-12-10",
+      "rating": 914,
+      "rounds": 6
+    },
+    {
+      "date": "2023-05-09",
+      "rating": 925,
+      "rounds": 2
+    },
+    {
+      "date": "2023-11-14",
+      "rating": 924,
+      "rounds": 4
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 46.7,
+    "season_avg": 42.5,
+    "delta_pct": 9.8
+  },
+  "pdga_url": "https://www.pdga.com/player/51693"
+}

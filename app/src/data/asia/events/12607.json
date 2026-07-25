@@ -1,0 +1,170 @@
+{
+  "event_id": "12607",
+  "title": "Japan Doubles Championship",
+  "location": "Hitachi, Ibaraki, Japan",
+  "dates": "25-Feb to 26-Feb-2012",
+  "year": "2012",
+  "tier": "B",
+  "level": "b_tier",
+  "is_asia_tour": false,
+  "status": "Event complete.",
+  "field_size": 11,
+  "avg_mpo_rating": 943.0,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "count": 7
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 8145,
+      "name": "Tetsuya t2 Kikuchi",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 1,
+      "pdga_points": 112.5,
+      "rating": 1003,
+      "prize": "$60",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 3621,
+      "name": "Hidekatsu Sakai",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 2,
+      "pdga_points": 97.5,
+      "rating": 956,
+      "prize": "$36",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8172,
+      "name": "Hideaki Matsuda",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 3,
+      "pdga_points": 82.5,
+      "rating": 994,
+      "prize": "$12",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 6036,
+      "name": "Takao Ehara",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 4,
+      "pdga_points": 67.5,
+      "rating": 953,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8100,
+      "name": "Nobuhiro Kawai",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 5,
+      "pdga_points": 52.5,
+      "rating": 898,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8187,
+      "name": "Hideo Kawachi",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 7,
+      "pdga_points": 22.5,
+      "rating": 854,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 943,
+      "name": "8101",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 5250,
+      "pdga_points": 0.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 947,
+      "name": "8071",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 6750,
+      "pdga_points": 0.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 960,
+      "name": "35504",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 8250,
+      "pdga_points": 0.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 991,
+      "name": "8153",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 9750,
+      "pdga_points": 0.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 955,
+      "name": "8086",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 11250,
+      "pdga_points": 0.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    }
+  ],
+  "fpo": [],
+  "amateur": [],
+  "divisions": [
+    "MPO"
+  ]
+}

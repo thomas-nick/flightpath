@@ -1,0 +1,284 @@
+{
+  "pdga": 210013,
+  "name": "Mark Carpenter",
+  "country": "India",
+  "country_key": "IN",
+  "flag": "\ud83c\uddee\ud83c\uddf3",
+  "rating": 811,
+  "classification": "Pro",
+  "city": "",
+  "nationality": "",
+  "division": "MA3",
+  "primary_class": "amateur",
+  "pdga_points": 80.0,
+  "tour_weighted_points": 50.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 3,
+  "wins": 1,
+  "podiums": 3,
+  "top5": 3,
+  "top10": 3,
+  "top20": 3,
+  "avg_finish": 1.67,
+  "win_rate": 0.333,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 1933,
+  "weighted_rank": 827,
+  "country_rank": 705,
+  "am_events": 3,
+  "am_wins": 1,
+  "am_podiums": 3,
+  "am_top10": 3,
+  "am_pdga_points": 80.0,
+  "last_active": "19-Feb-2023",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 3,
+      "points": 80.0,
+      "weighted": 50.0,
+      "wins": 1
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 3,
+      "wins": 1,
+      "podiums": 3,
+      "top5": 3,
+      "top10": 3,
+      "top20": 3,
+      "pdga_points": 80.0,
+      "tour_weighted_points": 50.0,
+      "avg_finish": 1.67,
+      "win_rate": 0.333,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 3,
+      "wins": 1,
+      "podiums": 3,
+      "top5": 3,
+      "top10": 3,
+      "top20": 3,
+      "pdga_points": 80.0,
+      "tour_weighted_points": 50.0,
+      "avg_finish": 1.67,
+      "win_rate": 0.333,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA3": 2,
+    "MA4": 1
+  },
+  "results": [
+    {
+      "event_id": "66360",
+      "title": "WIFFS The Nashville Chill sponsored by Westside Discs (CEP Charity - Rated)",
+      "dates": "19-Feb-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Nashville, Indiana, United States",
+      "place": 1,
+      "pdga_points": 44.0,
+      "division": "MA4",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "67449",
+      "title": "Walnut Cracker - WIFFS (CEP Charity - Rated)",
+      "dates": "18-Mar-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Greencastle, Indiana, United States",
+      "place": 2,
+      "pdga_points": 6.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "62558",
+      "title": "2022 limestone open by BDGC",
+      "dates": "17-Sep-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Ellettsville , Indiana, United States",
+      "place": 2,
+      "pdga_points": 30.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "66360",
+      "title": "WIFFS The Nashville Chill sponsored by Westside Discs (CEP Charity - Rated)",
+      "dates": "19-Feb-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Nashville, Indiana, United States",
+      "place": 1,
+      "pdga_points": 44.0,
+      "division": "MA4",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2023",
+      "events": 2,
+      "wins": 1,
+      "podiums": 2,
+      "top10": 2,
+      "pdga_points": 50.0,
+      "avg_finish": 1.5
+    },
+    {
+      "year": "2022",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 30.0,
+      "avg_finish": 2.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2022-04-12",
+      "rating": 815,
+      "rounds": 2
+    },
+    {
+      "date": "2022-09-13",
+      "rating": 811,
+      "rounds": 3
+    },
+    {
+      "date": "2022-10-11",
+      "rating": 840,
+      "rounds": 5
+    },
+    {
+      "date": "2022-12-13",
+      "rating": 834,
+      "rounds": 7
+    },
+    {
+      "date": "2023-03-14",
+      "rating": 875,
+      "rounds": 14
+    },
+    {
+      "date": "2023-04-11",
+      "rating": 894,
+      "rounds": 15
+    },
+    {
+      "date": "2023-06-13",
+      "rating": 895,
+      "rounds": 17
+    },
+    {
+      "date": "2023-07-11",
+      "rating": 896,
+      "rounds": 19
+    },
+    {
+      "date": "2023-09-12",
+      "rating": 896,
+      "rounds": 21
+    },
+    {
+      "date": "2024-03-12",
+      "rating": 901,
+      "rounds": 18
+    },
+    {
+      "date": "2024-06-11",
+      "rating": 899,
+      "rounds": 14
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/210013"
+}

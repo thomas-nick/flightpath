@@ -1,0 +1,243 @@
+{
+  "pdga": 169940,
+  "name": "Jens Meyer-Olsen #169940",
+  "country": "Norway",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": null,
+  "classification": "Amateur",
+  "city": "Haugesund",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 234.0,
+  "tour_weighted_points": 32.3,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 4,
+  "wins": 0,
+  "podiums": 1,
+  "top5": 1,
+  "top10": 1,
+  "top20": 4,
+  "avg_finish": 10.0,
+  "win_rate": 0.0,
+  "top10_rate": 0.25,
+  "cash_earned": 0.0,
+  "pdga_rank": 753,
+  "weighted_rank": 1133,
+  "country_rank": null,
+  "am_events": 1,
+  "am_wins": 0,
+  "am_podiums": 1,
+  "am_top10": 1,
+  "am_pdga_points": 24.0,
+  "last_active": "02-Dec to 03-Dec-2023",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 24.0,
+      "weighted": 27.5,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 3,
+      "points": 210.0,
+      "weighted": 4.8,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 3,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 3,
+      "pdga_points": 210.0,
+      "tour_weighted_points": 4.8,
+      "avg_finish": 12.33,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 24.0,
+      "tour_weighted_points": 27.5,
+      "avg_finish": 3.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 4,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 1,
+      "top20": 4,
+      "pdga_points": 234.0,
+      "tour_weighted_points": 32.3,
+      "avg_finish": 10.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.25
+    }
+  },
+  "division_counts": {
+    "MPO": 3,
+    "MA40": 1
+  },
+  "results": [
+    {
+      "event_id": "75088",
+      "title": "2023\u82cf\u5dde\u63b7\u51c6\u98de\u76d8\u516c\u5f00\u8d5bSuzhou DG Open",
+      "dates": "02-Dec to 03-Dec-2023",
+      "year": "2023",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Suzhou, Jiangsu Sheng, China",
+      "place": 3,
+      "pdga_points": 24.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 27.5
+    },
+    {
+      "event_id": "50780",
+      "title": "2021 Spring Cup Disc Golf Tournament",
+      "dates": "27-Mar to 28-Mar-2021",
+      "year": "2021",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Suzhou, Jiangsu Sheng, China",
+      "place": 15,
+      "pdga_points": 80.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "51209",
+      "title": "The Inaugural Yangtze River Delta Open Disc Golf Tournament",
+      "dates": "17-Apr to 18-Apr-2021",
+      "year": "2021",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Suzhou, Jiangsu Sheng, China",
+      "place": 11,
+      "pdga_points": 50.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "50925",
+      "title": "The Kunshan \"Jiangsu Challenge\" Tournament (May 2021) + WGE",
+      "dates": "09-May-2021",
+      "year": "2021",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Kunshan, Jiangsu Sheng, China",
+      "place": 11,
+      "pdga_points": 80.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.6
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2023",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 24.0,
+      "avg_finish": 3.0
+    },
+    {
+      "year": "2021",
+      "events": 3,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 210.0,
+      "avg_finish": 12.33
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2021-04-13",
+      "rating": 821,
+      "rounds": 3
+    },
+    {
+      "date": "2021-05-11",
+      "rating": 833,
+      "rounds": 6
+    },
+    {
+      "date": "2021-06-08",
+      "rating": 834,
+      "rounds": 8
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 51.3,
+    "season_avg": 80.0,
+    "delta_pct": -35.8
+  },
+  "pdga_url": "https://www.pdga.com/player/169940"
+}

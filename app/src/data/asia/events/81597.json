@@ -1,0 +1,123 @@
+{
+  "event_id": "81597",
+  "title": "\u3010\u5706\u684c\u30112024 WGE Shanghai +5\u6708\u8d5b - presented by Ching",
+  "location": "Shanghai, Shanghai Shi, China",
+  "dates": "19-May-2024",
+  "year": "2024",
+  "tier": "C",
+  "level": "c_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 7,
+  "avg_mpo_rating": 828.5,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "count": 7
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 273757,
+      "name": "Zelong Li",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 1,
+      "pdga_points": 15.0,
+      "rating": 781,
+      "prize": "$10",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 113533,
+      "name": "Qing Xu",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 2,
+      "pdga_points": 10.0,
+      "rating": 876,
+      "prize": "$5",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    }
+  ],
+  "fpo": [
+    {
+      "pdga": 261275,
+      "name": "Liao Xiaoqiong",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 1,
+      "pdga_points": 15.0,
+      "rating": 801,
+      "prize": "$13",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 228239,
+      "name": "Yanwen Ma",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 2,
+      "pdga_points": 12.0,
+      "rating": 855,
+      "prize": "$8",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 273017,
+      "name": "Jinghua Zhu",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 4,
+      "pdga_points": 6.0,
+      "rating": 635,
+      "prize": "$6",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    }
+  ],
+  "amateur": [
+    {
+      "pdga": 287999,
+      "name": "Xiaoqian Shi",
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 6.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 281495,
+      "name": "Yulong Wu",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 5.0,
+      "rating": 671,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    }
+  ],
+  "divisions": [
+    "FA1",
+    "FPO",
+    "MA1",
+    "MPO"
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "event_id": "101908",
+  "title": "\u7b2c\u4e8c\u5c4a\u9f50\u9c81\u676f\u63b7\u51c6\u98de\u76d8\u4e89\u9738\u8d5bThe 2nd Qilu Cup Discgolf Tournament",
+  "location": "Jinan, Shandong Sheng, China",
+  "dates": "28-Mar to 29-Mar-2026",
+  "year": "2026",
+  "tier": "C",
+  "level": "c_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 11,
+  "avg_mpo_rating": 910.5,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "count": 11
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 294815,
+      "name": "GoWan \u200b",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 1,
+      "pdga_points": 20.0,
+      "rating": 939,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 296353,
+      "name": "Lang Zheng",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 2,
+      "pdga_points": 15.0,
+      "rating": 901,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 152399,
+      "name": "Yinchu Shen",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 3,
+      "pdga_points": 10.0,
+      "rating": 840,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 224637,
+      "name": "ChenFei Zhao",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 4,
+      "pdga_points": 0.0,
+      "rating": 962,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    }
+  ],
+  "fpo": [
+    {
+      "pdga": 287999,
+      "name": "Xiaoqian Shi",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 1,
+      "pdga_points": 3.0,
+      "rating": 752,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    }
+  ],
+  "amateur": [
+    {
+      "pdga": 317121,
+      "name": "Mingyue Li",
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 6.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 323253,
+      "name": "Linlin Li",
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "place": 3,
+      "pdga_points": 3.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 251285,
+      "name": "Changqing Liu",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 15.0,
+      "rating": 797,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 319656,
+      "name": "Enliang Wang",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 3,
+      "pdga_points": 10.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 313165,
+      "name": "Qiuyu Wang",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 4,
+      "pdga_points": 5.0,
+      "rating": 776,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 110420,
+      "name": "Tim Flanders",
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 9.0,
+      "rating": 873,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    }
+  ],
+  "divisions": [
+    "FA1",
+    "FPO",
+    "MA1",
+    "MA50",
+    "MPO"
+  ]
+}

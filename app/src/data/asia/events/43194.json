@@ -1,0 +1,138 @@
+{
+  "event_id": "43194",
+  "title": "\u5317\u4eac\u4e1a\u4f59\u63b7\u51c6\u98de\u76d8\u6d4b\u8bd5\u6bd4\u8d5b 2019 Inaugural Beijing Amateur Disc Golf Tournament + CDGC\u7cfb\u5217\u8d5b\u5317\u4eac\u7ad9 CDGC Disc Golf Series",
+  "location": "Beijing, Beijing Shi, China",
+  "dates": "19-Oct-2019",
+  "year": "2019",
+  "tier": "C",
+  "level": "c_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 8,
+  "avg_mpo_rating": null,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "count": 7
+    },
+    {
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "count": 1
+    }
+  ],
+  "mpo": [],
+  "fpo": [],
+  "amateur": [
+    {
+      "pdga": 128828,
+      "name": "Xinying Li",
+      "division": "FA3",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 3.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 110420,
+      "name": "Tim Flanders",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 15.0,
+      "rating": 893,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 113533,
+      "name": "Qing Xu",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 10.0,
+      "rating": 867,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 114467,
+      "name": "Yuhan Sun",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 3,
+      "pdga_points": 5.0,
+      "rating": 886,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 122212,
+      "name": "Weili Chang",
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 20.0,
+      "rating": 757,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 113961,
+      "name": "Kun Zhang",
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 16.0,
+      "rating": 762,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 122782,
+      "name": "Josh McCabe",
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "place": 4,
+      "pdga_points": 8.0,
+      "rating": 870,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 113957,
+      "name": "Kun Zhang",
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "place": 5,
+      "pdga_points": 4.0,
+      "rating": 750,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    }
+  ],
+  "divisions": [
+    "FA3",
+    "MA1",
+    "MA2"
+  ]
+}

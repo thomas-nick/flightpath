@@ -1,0 +1,174 @@
+{
+  "event_id": "106035",
+  "title": "Shanghai Disc Golf Monthly Tournament (July)",
+  "location": "Shanghai, Shanghai Shi, China",
+  "dates": "08-Jul-2026",
+  "year": "2026",
+  "tier": "C",
+  "level": "c_tier",
+  "is_asia_tour": false,
+  "status": "Event report received; official ratings pending.",
+  "field_size": 11,
+  "avg_mpo_rating": 908.7,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "count": 10
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 153113,
+      "name": "Kaibo Yang",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 1,
+      "pdga_points": 0.0,
+      "rating": 934,
+      "prize": "$26",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 241646,
+      "name": "Gang Qian",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 3,
+      "pdga_points": 0.0,
+      "rating": 908,
+      "prize": "$12",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 292145,
+      "name": "Haijiang Liu",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 6,
+      "pdga_points": 0.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "Netherlands",
+      "country_key": ""
+    },
+    {
+      "pdga": 129667,
+      "name": "Bixi Zhou",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 7,
+      "pdga_points": 0.0,
+      "rating": 884,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    }
+  ],
+  "fpo": [],
+  "amateur": [
+    {
+      "pdga": 296526,
+      "name": "Xiao Juan Sun",
+      "division": "FA2",
+      "class_bucket": "amateur",
+      "place": 3,
+      "pdga_points": 0.0,
+      "rating": 739,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 296733,
+      "name": "\u51cc\u971e \u9ad8",
+      "division": "FA2",
+      "class_bucket": "amateur",
+      "place": 5,
+      "pdga_points": 0.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 305157,
+      "name": "Weikun Huang",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 0.0,
+      "rating": 879,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 284375,
+      "name": "Guorong Xie",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 0.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 112941,
+      "name": "Brian Zheng",
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 0.0,
+      "rating": 885,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 297386,
+      "name": "Tenghao Yu",
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "place": 3,
+      "pdga_points": 0.0,
+      "rating": 830,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 284376,
+      "name": "Wei Zhou",
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "place": 4,
+      "pdga_points": 0.0,
+      "rating": 823,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    }
+  ],
+  "divisions": [
+    "FA2",
+    "MA1",
+    "MA2",
+    "MPO"
+  ]
+}

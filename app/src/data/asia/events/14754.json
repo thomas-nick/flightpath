@@ -1,0 +1,40 @@
+{
+  "event_id": "14754",
+  "title": "Sanpatong Open 5",
+  "location": "Sanpatong, Thailand",
+  "dates": "20-Jan-2013",
+  "year": "2013",
+  "tier": "C",
+  "level": "c_tier",
+  "is_asia_tour": false,
+  "status": "Event complete.",
+  "field_size": 1,
+  "avg_mpo_rating": 950.0,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "count": 1
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 12353,
+      "name": "Brock Pitzer",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 1,
+      "pdga_points": 30.0,
+      "rating": 950,
+      "prize": "$20",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    }
+  ],
+  "fpo": [],
+  "amateur": [],
+  "divisions": [
+    "MPO"
+  ]
+}

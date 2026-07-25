@@ -1,0 +1,268 @@
+{
+  "pdga": 113525,
+  "name": "Pak Him Chui #113525",
+  "country": "China",
+  "country_key": "CN",
+  "flag": "\ud83c\udde8\ud83c\uddf3",
+  "rating": 824,
+  "classification": "Professional",
+  "city": "",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 56.5,
+  "tour_weighted_points": 203.1,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 3,
+  "wins": 1,
+  "podiums": 1,
+  "top5": 1,
+  "top10": 1,
+  "top20": 2,
+  "avg_finish": 18.67,
+  "win_rate": 0.333,
+  "top10_rate": 0.333,
+  "cash_earned": 0.0,
+  "pdga_rank": 1439,
+  "weighted_rank": 327,
+  "country_rank": 228,
+  "am_events": 1,
+  "am_wins": 1,
+  "am_podiums": 1,
+  "am_top10": 1,
+  "am_pdga_points": 6.0,
+  "last_active": "13-Mar to 15-Mar-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 1,
+      "points": 6.0,
+      "weighted": 200.0,
+      "wins": 1
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 22.5,
+      "weighted": 1.5,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 1,
+      "points": 28.0,
+      "weighted": 1.6,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 1,
+      "pdga_points": 50.5,
+      "tour_weighted_points": 3.1,
+      "avg_finish": 27.5,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 1,
+      "wins": 1,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 6.0,
+      "tour_weighted_points": 200.0,
+      "avg_finish": 1.0,
+      "win_rate": 1.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 3,
+      "wins": 1,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 1,
+      "top20": 2,
+      "pdga_points": 56.5,
+      "tour_weighted_points": 203.1,
+      "avg_finish": 18.67,
+      "win_rate": 0.333,
+      "top10_rate": 0.333
+    }
+  },
+  "division_counts": {
+    "MA4": 1,
+    "MPO": 2
+  },
+  "results": [
+    {
+      "event_id": "97588",
+      "title": "PDGA Asia Tour Championship - PDGA Asia Tour Event #7",
+      "dates": "13-Mar to 15-Mar-2026",
+      "year": "2026",
+      "tier": "B",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "Shanghai, Shanghai Shi, China",
+      "place": 1,
+      "pdga_points": 6.0,
+      "division": "MA4",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 200.0
+    },
+    {
+      "event_id": "43547",
+      "title": "2020 Asia Open",
+      "dates": "08-Feb to 09-Feb-2020",
+      "year": "2020",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Kaohsiung, Kaohsiung City, Chinese Taipei",
+      "place": 36,
+      "pdga_points": 22.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.5
+    },
+    {
+      "event_id": "38404",
+      "title": "2018 Shenzhen (China) Disc Golf Open",
+      "dates": "24-Nov to 25-Nov-2018",
+      "year": "2018",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Shenzhen CIty, Guangdong Sheng, China",
+      "place": 19,
+      "pdga_points": 28.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.6
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "97588",
+      "title": "PDGA Asia Tour Championship - PDGA Asia Tour Event #7",
+      "dates": "13-Mar to 15-Mar-2026",
+      "year": "2026",
+      "tier": "B",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "Shanghai, Shanghai Shi, China",
+      "place": 1,
+      "pdga_points": 6.0,
+      "division": "MA4",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 200.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 1,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 6.0,
+      "avg_finish": 1.0
+    },
+    {
+      "year": "2020",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 22.5,
+      "avg_finish": 36.0
+    },
+    {
+      "year": "2018",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 28.0,
+      "avg_finish": 19.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2018-12-18",
+      "rating": 714,
+      "rounds": 3
+    },
+    {
+      "date": "2020-02-11",
+      "rating": 772,
+      "rounds": 6
+    },
+    {
+      "date": "2020-11-10",
+      "rating": 770,
+      "rounds": 5
+    },
+    {
+      "date": "2024-06-11",
+      "rating": 809,
+      "rounds": 3
+    },
+    {
+      "date": "2024-07-09",
+      "rating": 815,
+      "rounds": 5
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 824,
+      "rounds": 8
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/113525"
+}

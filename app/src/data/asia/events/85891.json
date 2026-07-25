@@ -1,0 +1,120 @@
+{
+  "event_id": "85891",
+  "title": "The 27th Kansai Open Ama",
+  "location": "Funai-gun, Kyoto, Japan",
+  "dates": "16-Nov to 17-Nov-2024",
+  "year": "2024",
+  "tier": "B",
+  "level": "b_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 7,
+  "avg_mpo_rating": null,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "count": 6
+    }
+  ],
+  "mpo": [],
+  "fpo": [],
+  "amateur": [
+    {
+      "pdga": 155089,
+      "name": "Mihoko Kitahara",
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 13.5,
+      "rating": 824,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 241397,
+      "name": "Nobuyuki Tanaka",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 90.0,
+      "rating": 917,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 275351,
+      "name": "Mizuki Takeuchi",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 82.5,
+      "rating": 943,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 214406,
+      "name": "Tsubasa Kayahara",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 3,
+      "pdga_points": 75.0,
+      "rating": 928,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 155088,
+      "name": "Hiroaki Kitahara",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 6,
+      "pdga_points": 52.5,
+      "rating": 911,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 276947,
+      "name": "Sam van Leipsig",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 9,
+      "pdga_points": 30.0,
+      "rating": 881,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "Netherlands",
+      "country_key": ""
+    },
+    {
+      "pdga": 8195,
+      "name": "Kuniko Yoshioka",
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "place": 3,
+      "pdga_points": 12.0,
+      "rating": 843,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    }
+  ],
+  "divisions": [
+    "FA1",
+    "MA1",
+    "MA40"
+  ]
+}

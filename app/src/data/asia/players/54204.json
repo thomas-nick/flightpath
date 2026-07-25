@@ -1,0 +1,265 @@
+{
+  "pdga": 54204,
+  "name": "Ronald Valle #54204",
+  "country": "United States",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 792,
+  "classification": "Amateur",
+  "city": "Chicago",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 118.0,
+  "tour_weighted_points": 24.8,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 4,
+  "wins": 1,
+  "podiums": 1,
+  "top5": 1,
+  "top10": 1,
+  "top20": 4,
+  "avg_finish": 11.0,
+  "win_rate": 0.25,
+  "top10_rate": 0.25,
+  "cash_earned": 0.0,
+  "pdga_rank": 1090,
+  "weighted_rank": 1256,
+  "country_rank": null,
+  "am_events": 2,
+  "am_wins": 1,
+  "am_podiums": 1,
+  "am_top10": 1,
+  "am_pdga_points": 38.0,
+  "last_active": "04-Jan to 08-Feb-2025",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 4,
+      "points": 118.0,
+      "weighted": 24.8,
+      "wins": 1
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 2,
+      "pdga_points": 80.0,
+      "tour_weighted_points": 3.2,
+      "avg_finish": 15.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 2,
+      "wins": 1,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 1,
+      "top20": 2,
+      "pdga_points": 38.0,
+      "tour_weighted_points": 21.6,
+      "avg_finish": 7.0,
+      "win_rate": 0.5,
+      "top10_rate": 0.5
+    },
+    "all": {
+      "events": 4,
+      "wins": 1,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 1,
+      "top20": 4,
+      "pdga_points": 118.0,
+      "tour_weighted_points": 24.8,
+      "avg_finish": 11.0,
+      "win_rate": 0.25,
+      "top10_rate": 0.25
+    }
+  },
+  "division_counts": {
+    "MPO": 2,
+    "MA40": 1,
+    "MA1": 1
+  },
+  "results": [
+    {
+      "event_id": "87653",
+      "title": "Siem Reap Singles",
+      "dates": "04-Jan to 08-Feb-2025",
+      "year": "2025",
+      "tier": "",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Siem Reap, Cambodia",
+      "place": 11,
+      "pdga_points": 15.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "63765",
+      "title": "Chiang Mai Open",
+      "dates": "10-Feb to 12-Feb-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Chiang Mai, Thailand",
+      "place": 13,
+      "pdga_points": 30.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "57901",
+      "title": "The 2nd Yangtze River Delta Open \u65cb\u98ce\u98de\u76d8\u4ff1\u4e50\u90e8 Disc Golf Tournament",
+      "dates": "21-Aug-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Suzhou, Jiangsu Sheng, China",
+      "place": 19,
+      "pdga_points": 65.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "62395",
+      "title": "2022 Suzhou Jiangsu Challenge \uff08\u82cf\u5dde\uff09\u6c5f\u82cf\u6311\u6218\u8d5b\u548c\u5973\u5b50\u5168\u7403\u8d5b\u4e8b + WGE",
+      "dates": "07-Aug-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Suzhou, Jiangsu Sheng, China",
+      "place": 1,
+      "pdga_points": 8.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "62395",
+      "title": "2022 Suzhou Jiangsu Challenge \uff08\u82cf\u5dde\uff09\u6c5f\u82cf\u6311\u6218\u8d5b\u548c\u5973\u5b50\u5168\u7403\u8d5b\u4e8b + WGE",
+      "dates": "07-Aug-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Suzhou, Jiangsu Sheng, China",
+      "place": 1,
+      "pdga_points": 8.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2025",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 15.0,
+      "avg_finish": 11.0
+    },
+    {
+      "year": "2023",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 30.0,
+      "avg_finish": 13.0
+    },
+    {
+      "year": "2022",
+      "events": 2,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 73.0,
+      "avg_finish": 10.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2012-07-03",
+      "rating": 800,
+      "rounds": 2
+    },
+    {
+      "date": "2012-08-14",
+      "rating": 792,
+      "rounds": 4
+    }
+  ],
+  "streak": {
+    "direction": "up",
+    "recent_avg": 36.7,
+    "season_avg": 8.0,
+    "delta_pct": 358.3
+  },
+  "pdga_url": "https://www.pdga.com/player/54204"
+}

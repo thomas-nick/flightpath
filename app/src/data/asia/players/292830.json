@@ -1,0 +1,375 @@
+{
+  "pdga": 292830,
+  "name": "Yusuke Takagi #292830",
+  "country": "Japan",
+  "country_key": "JP",
+  "flag": "\ud83c\uddef\ud83c\uddf5",
+  "rating": 888,
+  "classification": "Amateur",
+  "city": "Matsudo-shi",
+  "nationality": "",
+  "division": "MA40",
+  "primary_class": "amateur",
+  "pdga_points": 372.0,
+  "tour_weighted_points": 141.6,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 11,
+  "wins": 0,
+  "podiums": 2,
+  "top5": 3,
+  "top10": 8,
+  "top20": 11,
+  "avg_finish": 8.09,
+  "win_rate": 0.0,
+  "top10_rate": 0.727,
+  "cash_earned": 0.0,
+  "pdga_rank": 557,
+  "weighted_rank": 476,
+  "country_rank": 174,
+  "am_events": 11,
+  "am_wins": 0,
+  "am_podiums": 2,
+  "am_top10": 8,
+  "am_pdga_points": 372.0,
+  "last_active": "03-May to 04-May-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 9,
+      "points": 309.0,
+      "weighted": 133.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 2,
+      "points": 63.0,
+      "weighted": 8.6,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 11,
+      "wins": 0,
+      "podiums": 2,
+      "top5": 3,
+      "top10": 8,
+      "top20": 11,
+      "pdga_points": 372.0,
+      "tour_weighted_points": 141.6,
+      "avg_finish": 8.09,
+      "win_rate": 0.0,
+      "top10_rate": 0.727
+    },
+    "all": {
+      "events": 11,
+      "wins": 0,
+      "podiums": 2,
+      "top5": 3,
+      "top10": 8,
+      "top20": 11,
+      "pdga_points": 372.0,
+      "tour_weighted_points": 141.6,
+      "avg_finish": 8.09,
+      "win_rate": 0.0,
+      "top10_rate": 0.727
+    }
+  },
+  "division_counts": {
+    "MA40": 8,
+    "MA1": 3
+  },
+  "results": [
+    {
+      "event_id": "99226",
+      "title": "4th Musashi-Kyuryo Shinrin Park Cup",
+      "dates": "31-Jan to 01-Feb-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Hiki-gun, Saitama, Japan",
+      "place": 4,
+      "pdga_points": 28.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "99361",
+      "title": "The 21st Japan Masters National Championships",
+      "dates": "28-Feb to 01-Mar-2026",
+      "year": "2026",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Hitachinaka-shi, Ibaraki, Japan",
+      "place": 10,
+      "pdga_points": 54.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "99882",
+      "title": "The 33rd Tokyo Open (Amateur)",
+      "dates": "14-Mar to 15-Mar-2026",
+      "year": "2026",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Koto-ku, Tokyo, Japan",
+      "place": 8,
+      "pdga_points": 24.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "103925",
+      "title": "2026 Japan National Doubles Championships",
+      "dates": "13-Jun to 14-Jun-2026",
+      "year": "2026",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Inashiki-gun, Ibaraki, Japan",
+      "place": 10,
+      "pdga_points": 60.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "102933",
+      "title": "The 21st Kiyosatonomori Open",
+      "dates": "09-May to 10-May-2026",
+      "year": "2026",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Hokuto-shi, Yamanashi, Japan",
+      "place": 2,
+      "pdga_points": 36.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 37.5
+    },
+    {
+      "event_id": "100641",
+      "title": "The 30th Kanto Open (Ama)",
+      "dates": "04-Apr to 05-Apr-2026",
+      "year": "2026",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Haga-gun, Tochigi, Japan",
+      "place": 6,
+      "pdga_points": 36.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "102712",
+      "title": "The 1st Shibukawa Open",
+      "dates": "03-May to 04-May-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Shibukawa-shi, Gunma, Japan",
+      "place": 13,
+      "pdga_points": 35.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "90538",
+      "title": "The 32nd Tokyo Open",
+      "dates": "19-Apr to 20-Apr-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Koto-ku, Tokyo, Japan",
+      "place": 10,
+      "pdga_points": 12.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "92375",
+      "title": "2025 National Doubles Championships",
+      "dates": "14-Jun to 15-Jun-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Inashiki-gun, Ibaraki, Japan",
+      "place": 13,
+      "pdga_points": 45.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "94277",
+      "title": "The 20th Michinoku Open",
+      "dates": "09-Aug to 11-Aug-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Kitakami-shi, Iwate, Japan",
+      "place": 2,
+      "pdga_points": 12.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 37.5
+    },
+    {
+      "event_id": "89556",
+      "title": "The 29th Kanto Open (Ama)",
+      "dates": "05-Apr to 06-Apr-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Ichikai-machi, Tochigi, Japan",
+      "place": 11,
+      "pdga_points": 30.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 7,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 6,
+      "pdga_points": 273.0,
+      "avg_finish": 7.57
+    },
+    {
+      "year": "2025",
+      "events": 4,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 2,
+      "pdga_points": 99.0,
+      "avg_finish": 9.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2025-02-11",
+      "rating": 830,
+      "rounds": 2
+    },
+    {
+      "date": "2025-03-11",
+      "rating": 837,
+      "rounds": 5
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 829,
+      "rounds": 11
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 851,
+      "rounds": 14
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 867,
+      "rounds": 16
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 868,
+      "rounds": 20
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 888,
+      "rounds": 18
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 35.3,
+    "season_avg": 33.2,
+    "delta_pct": 6.3
+  },
+  "pdga_url": "https://www.pdga.com/player/292830"
+}

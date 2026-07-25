@@ -1,0 +1,377 @@
+{
+  "pdga": 50695,
+  "name": "Daisuke Takahashi #50695",
+  "country": "Japan",
+  "country_key": "JP",
+  "flag": "\ud83c\uddef\ud83c\uddf5",
+  "rating": 993,
+  "classification": "Professional",
+  "city": "Fukuoka-shi",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 832.5,
+  "tour_weighted_points": 84.5,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 7,
+  "wins": 0,
+  "podiums": 1,
+  "top5": 3,
+  "top10": 4,
+  "top20": 6,
+  "avg_finish": 10.29,
+  "win_rate": 0.0,
+  "top10_rate": 0.571,
+  "cash_earned": 127.0,
+  "pdga_rank": 301,
+  "weighted_rank": 692,
+  "country_rank": 117,
+  "am_events": 0,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 0,
+  "am_pdga_points": 0.0,
+  "last_active": "17-Aug to 18-Aug-2024",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 7,
+      "points": 832.5,
+      "weighted": 84.5,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 7,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 3,
+      "top10": 4,
+      "top20": 6,
+      "pdga_points": 832.5,
+      "tour_weighted_points": 84.5,
+      "avg_finish": 10.29,
+      "win_rate": 0.0,
+      "top10_rate": 0.571
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "all": {
+      "events": 7,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 3,
+      "top10": 4,
+      "top20": 6,
+      "pdga_points": 832.5,
+      "tour_weighted_points": 84.5,
+      "avg_finish": 10.29,
+      "win_rate": 0.0,
+      "top10_rate": 0.571
+    }
+  },
+  "division_counts": {
+    "MPO": 7
+  },
+  "results": [
+    {
+      "event_id": "83205",
+      "title": "The 1st Uminaka Classic",
+      "dates": "17-Aug to 18-Aug-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Fukuoka-shi, Fukuoka, Japan",
+      "place": 3,
+      "pdga_points": 105.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$55",
+      "weighted_points": 27.5
+    },
+    {
+      "event_id": "71460",
+      "title": "The 37th Kyushu Open",
+      "dates": "25-Nov to 26-Nov-2023",
+      "year": "2023",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Fukuoka, Fukuoka, Japan",
+      "place": 20,
+      "pdga_points": 67.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "63248",
+      "title": "The 36th Kyushu Open",
+      "dates": "26-Nov to 27-Nov-2022",
+      "year": "2022",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Fukuoka, Fukuoka, Japan",
+      "place": 12,
+      "pdga_points": 142.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "45290",
+      "title": "The 34th Kyushu Open",
+      "dates": "28-Nov to 29-Nov-2020",
+      "year": "2020",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Fukuoka, Fukuoka, Japan",
+      "place": 22,
+      "pdga_points": 67.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "42912",
+      "title": "The 33rd Kyushu Open",
+      "dates": "30-Nov to 01-Dec-2019",
+      "year": "2019",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Fukuoka, Fukuoka, Japan",
+      "place": 4,
+      "pdga_points": 90.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$36",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "40529",
+      "title": "The 17th Saga Open",
+      "dates": "13-Apr to 14-Apr-2019",
+      "year": "2019",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Kanzaki, Saga, Japan",
+      "place": 6,
+      "pdga_points": 45.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "41245",
+      "title": "The 7th Asia Championship",
+      "dates": "03-Aug to 04-Aug-2019",
+      "year": "2019",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Fukuoka, Fukuoka, Japan",
+      "place": 5,
+      "pdga_points": 315.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$36",
+      "weighted_points": 17.5
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2024",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 105.0,
+      "avg_finish": 3.0
+    },
+    {
+      "year": "2023",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 67.5,
+      "avg_finish": 20.0
+    },
+    {
+      "year": "2022",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 142.5,
+      "avg_finish": 12.0
+    },
+    {
+      "year": "2020",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 67.5,
+      "avg_finish": 22.0
+    },
+    {
+      "year": "2019",
+      "events": 3,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 3,
+      "pdga_points": 450.0,
+      "avg_finish": 5.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2012-08-14",
+      "rating": 907,
+      "rounds": 8
+    },
+    {
+      "date": "2012-09-18",
+      "rating": 916,
+      "rounds": 11
+    },
+    {
+      "date": "2012-10-23",
+      "rating": 917,
+      "rounds": 13
+    },
+    {
+      "date": "2013-07-02",
+      "rating": 932,
+      "rounds": 9
+    },
+    {
+      "date": "2013-10-01",
+      "rating": 936,
+      "rounds": 10
+    },
+    {
+      "date": "2014-06-24",
+      "rating": 951,
+      "rounds": 8
+    },
+    {
+      "date": "2014-07-15",
+      "rating": 945,
+      "rounds": 11
+    },
+    {
+      "date": "2015-11-17",
+      "rating": 929,
+      "rounds": 9
+    },
+    {
+      "date": "2019-05-14",
+      "rating": 931,
+      "rounds": 3
+    },
+    {
+      "date": "2019-09-10",
+      "rating": 959,
+      "rounds": 6
+    },
+    {
+      "date": "2019-12-10",
+      "rating": 993,
+      "rounds": 8
+    },
+    {
+      "date": "2020-12-08",
+      "rating": 984,
+      "rounds": 7
+    },
+    {
+      "date": "2022-12-13",
+      "rating": 950,
+      "rounds": 4
+    },
+    {
+      "date": "2023-12-12",
+      "rating": 953,
+      "rounds": 4
+    },
+    {
+      "date": "2024-09-10",
+      "rating": 963,
+      "rounds": 7
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 105.0,
+    "season_avg": 129.4,
+    "delta_pct": -18.8
+  },
+  "pdga_url": "https://www.pdga.com/player/50695"
+}

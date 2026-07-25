@@ -1,0 +1,315 @@
+{
+  "pdga": 234252,
+  "name": "Mike Cacchione #234252",
+  "country": "Thailand",
+  "country_key": "TH",
+  "flag": "\ud83c\uddf9\ud83c\udded",
+  "rating": 841,
+  "classification": "Amateur",
+  "city": "Koh Samui",
+  "nationality": "",
+  "division": "MA60",
+  "primary_class": "amateur",
+  "pdga_points": 79.0,
+  "tour_weighted_points": 162.5,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 5,
+  "wins": 2,
+  "podiums": 4,
+  "top5": 4,
+  "top10": 5,
+  "top20": 5,
+  "avg_finish": 3.4,
+  "win_rate": 0.4,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 1284,
+  "weighted_rank": 416,
+  "country_rank": 82,
+  "am_events": 5,
+  "am_wins": 2,
+  "am_podiums": 4,
+  "am_top10": 5,
+  "am_pdga_points": 79.0,
+  "last_active": "28-Jan to 30-Jan-2025",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 1,
+      "points": 28.0,
+      "weighted": 100.0,
+      "wins": 1
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 27.0,
+      "weighted": 27.5,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 3,
+      "points": 24.0,
+      "weighted": 35.0,
+      "wins": 1
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 5,
+      "wins": 2,
+      "podiums": 4,
+      "top5": 4,
+      "top10": 5,
+      "top20": 5,
+      "pdga_points": 79.0,
+      "tour_weighted_points": 162.5,
+      "avg_finish": 3.4,
+      "win_rate": 0.4,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 5,
+      "wins": 2,
+      "podiums": 4,
+      "top5": 4,
+      "top10": 5,
+      "top20": 5,
+      "pdga_points": 79.0,
+      "tour_weighted_points": 162.5,
+      "avg_finish": 3.4,
+      "win_rate": 0.4,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA60": 4,
+    "MA50": 1
+  },
+  "results": [
+    {
+      "event_id": "84698",
+      "title": "Samui Swine Classic XII - MA1, MA2, MA3, MA40, MA50, MA60, FA1 Presented by Latitude 64",
+      "dates": "28-Jan to 30-Jan-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 9,
+      "pdga_points": 12.0,
+      "division": "MA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "73676",
+      "title": "Samui Swine Classic XI - MA3, MA2, MA40, MA50, MA60",
+      "dates": "30-Jan to 01-Feb-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 3,
+      "pdga_points": 27.0,
+      "division": "MA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 27.5
+    },
+    {
+      "event_id": "85902",
+      "title": "Coco-Breeze at Pattaya Disc Golf",
+      "dates": "07-Dec to 08-Dec-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Pattaya, Thailand",
+      "place": 3,
+      "pdga_points": 6.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "63564",
+      "title": "Samui Swine Classic X Presented by Prodigy Discs- MA3, MA2, FA1, MA40, MA50, MA60",
+      "dates": "31-Jan to 02-Feb-2023",
+      "year": "2023",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 1,
+      "pdga_points": 28.0,
+      "division": "MA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 100.0
+    },
+    {
+      "event_id": "63215",
+      "title": "Pattaya Disc Golf Open 2",
+      "dates": "03-Dec to 04-Dec-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Baan Lamung, Thailand",
+      "place": 1,
+      "pdga_points": 6.0,
+      "division": "MA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "63564",
+      "title": "Samui Swine Classic X Presented by Prodigy Discs- MA3, MA2, FA1, MA40, MA50, MA60",
+      "dates": "31-Jan to 02-Feb-2023",
+      "year": "2023",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 1,
+      "pdga_points": 28.0,
+      "division": "MA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 100.0
+    },
+    {
+      "event_id": "63215",
+      "title": "Pattaya Disc Golf Open 2",
+      "dates": "03-Dec to 04-Dec-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Baan Lamung, Thailand",
+      "place": 1,
+      "pdga_points": 6.0,
+      "division": "MA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2025",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 12.0,
+      "avg_finish": 9.0
+    },
+    {
+      "year": "2024",
+      "events": 2,
+      "wins": 0,
+      "podiums": 2,
+      "top10": 2,
+      "pdga_points": 33.0,
+      "avg_finish": 3.0
+    },
+    {
+      "year": "2023",
+      "events": 1,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 28.0,
+      "avg_finish": 1.0
+    },
+    {
+      "year": "2022",
+      "events": 1,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 6.0,
+      "avg_finish": 1.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2022-12-13",
+      "rating": 859,
+      "rounds": 3
+    },
+    {
+      "date": "2023-02-14",
+      "rating": 870,
+      "rounds": 6
+    },
+    {
+      "date": "2024-02-13",
+      "rating": 858,
+      "rounds": 9
+    },
+    {
+      "date": "2024-12-10",
+      "rating": 841,
+      "rounds": 9
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 15.0,
+    "season_avg": 17.0,
+    "delta_pct": -11.8
+  },
+  "pdga_url": "https://www.pdga.com/player/234252"
+}

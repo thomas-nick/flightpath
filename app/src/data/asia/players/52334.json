@@ -1,0 +1,486 @@
+{
+  "pdga": 52334,
+  "name": "Maja \u0160imenc #52334",
+  "country": "Croatia",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 840,
+  "classification": "Amateur",
+  "city": "Varazdin",
+  "nationality": "",
+  "division": "FPO",
+  "primary_class": "open_fpo",
+  "pdga_points": 198.0,
+  "tour_weighted_points": 367.5,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 9,
+  "wins": 4,
+  "podiums": 6,
+  "top5": 8,
+  "top10": 9,
+  "top20": 9,
+  "avg_finish": 2.67,
+  "win_rate": 0.444,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 828,
+  "weighted_rank": 160,
+  "country_rank": null,
+  "am_events": 7,
+  "am_wins": 4,
+  "am_podiums": 6,
+  "am_top10": 7,
+  "am_pdga_points": 180.0,
+  "last_active": "27-Jan to 29-Jan-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 1,
+      "points": 39.0,
+      "weighted": 70.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 3,
+      "points": 60.0,
+      "weighted": 130.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 3,
+      "points": 81.0,
+      "weighted": 127.5,
+      "wins": 2
+    },
+    "c_tier": {
+      "events": 2,
+      "points": 18.0,
+      "weighted": 40.0,
+      "wins": 2
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 1,
+      "top10": 2,
+      "top20": 2,
+      "pdga_points": 18.0,
+      "tour_weighted_points": 55.0,
+      "avg_finish": 5.5,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "amateur": {
+      "events": 7,
+      "wins": 4,
+      "podiums": 6,
+      "top5": 7,
+      "top10": 7,
+      "top20": 7,
+      "pdga_points": 180.0,
+      "tour_weighted_points": 312.5,
+      "avg_finish": 1.86,
+      "win_rate": 0.571,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 9,
+      "wins": 4,
+      "podiums": 6,
+      "top5": 8,
+      "top10": 9,
+      "top20": 9,
+      "pdga_points": 198.0,
+      "tour_weighted_points": 367.5,
+      "avg_finish": 2.67,
+      "win_rate": 0.444,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA3": 1,
+    "FA1": 5,
+    "FA40": 1,
+    "FPO": 2
+  },
+  "results": [
+    {
+      "event_id": "95844",
+      "title": "Samui Swine Classic XIII - Ams Presented by Latitude64 - PDGA Asia Tour event #3",
+      "dates": "27-Jan to 29-Jan-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "Koh Samui, Thailand",
+      "place": 4,
+      "pdga_points": 39.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 70.0
+    },
+    {
+      "event_id": "73676",
+      "title": "Samui Swine Classic XI - MA3, MA2, MA40, MA50, MA60",
+      "dates": "30-Jan to 01-Feb-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 1,
+      "pdga_points": 27.0,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 50.0
+    },
+    {
+      "event_id": "79945",
+      "title": "Wedding of Luisa and Derek",
+      "dates": "14-Dec-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Tarlac, Tarlac, Philippines",
+      "place": 1,
+      "pdga_points": 6.0,
+      "division": "FA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "43198",
+      "title": "Samui Swine Classic VII - Ams - Presented by Innova",
+      "dates": "29-Jan to 30-Jan-2020",
+      "year": "2020",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 2,
+      "pdga_points": 42.0,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 75.0
+    },
+    {
+      "event_id": "38592",
+      "title": "Samui Swine Classic VI - Presented by Dynamic Discs - Pros",
+      "dates": "08-Feb to 10-Feb-2019",
+      "year": "2019",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 4,
+      "pdga_points": 12.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "",
+      "weighted_points": 35.0
+    },
+    {
+      "event_id": "33102",
+      "title": "Third Annual Hyzenbrownie Open - The Flaskenpouch 2018",
+      "dates": "27-Jan to 28-Jan-2018",
+      "year": "2018",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 1,
+      "pdga_points": 36.0,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 50.0
+    },
+    {
+      "event_id": "33706",
+      "title": "Samui Swine Classic V",
+      "dates": "01-Feb to 03-Feb-2018",
+      "year": "2018",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 7,
+      "pdga_points": 6.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "30246",
+      "title": "Samui Swine Classic IV",
+      "dates": "04-Feb to 05-Feb-2017",
+      "year": "2017",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Maenam, Koh Samui, Surat Thani, Thailand",
+      "place": 3,
+      "pdga_points": 18.0,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 27.5
+    },
+    {
+      "event_id": "30551",
+      "title": "Koh Som Invitational 2",
+      "dates": "01-Feb-2017",
+      "year": "2017",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Som, Koh Samui, Surat Thani, Thailand",
+      "place": 1,
+      "pdga_points": 12.0,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "73676",
+      "title": "Samui Swine Classic XI - MA3, MA2, MA40, MA50, MA60",
+      "dates": "30-Jan to 01-Feb-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 1,
+      "pdga_points": 27.0,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 50.0
+    },
+    {
+      "event_id": "79945",
+      "title": "Wedding of Luisa and Derek",
+      "dates": "14-Dec-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Tarlac, Tarlac, Philippines",
+      "place": 1,
+      "pdga_points": 6.0,
+      "division": "FA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "33102",
+      "title": "Third Annual Hyzenbrownie Open - The Flaskenpouch 2018",
+      "dates": "27-Jan to 28-Jan-2018",
+      "year": "2018",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 1,
+      "pdga_points": 36.0,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 50.0
+    },
+    {
+      "event_id": "30551",
+      "title": "Koh Som Invitational 2",
+      "dates": "01-Feb-2017",
+      "year": "2017",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Som, Koh Samui, Surat Thani, Thailand",
+      "place": 1,
+      "pdga_points": 12.0,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 39.0,
+      "avg_finish": 4.0
+    },
+    {
+      "year": "2024",
+      "events": 2,
+      "wins": 2,
+      "podiums": 2,
+      "top10": 2,
+      "pdga_points": 33.0,
+      "avg_finish": 1.0
+    },
+    {
+      "year": "2020",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 42.0,
+      "avg_finish": 2.0
+    },
+    {
+      "year": "2019",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 12.0,
+      "avg_finish": 4.0
+    },
+    {
+      "year": "2018",
+      "events": 2,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 2,
+      "pdga_points": 42.0,
+      "avg_finish": 4.0
+    },
+    {
+      "year": "2017",
+      "events": 2,
+      "wins": 1,
+      "podiums": 2,
+      "top10": 2,
+      "pdga_points": 30.0,
+      "avg_finish": 2.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2024-07-09",
+      "rating": 835,
+      "rounds": 53
+    },
+    {
+      "date": "2024-08-13",
+      "rating": 836,
+      "rounds": 55
+    },
+    {
+      "date": "2024-11-12",
+      "rating": 838,
+      "rounds": 49
+    },
+    {
+      "date": "2025-01-14",
+      "rating": 839,
+      "rounds": 48
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 847,
+      "rounds": 28
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 845,
+      "rounds": 31
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 845,
+      "rounds": 28
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 852,
+      "rounds": 23
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 864,
+      "rounds": 19
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 861,
+      "rounds": 22
+    },
+    {
+      "date": "2025-11-11",
+      "rating": 857,
+      "rounds": 24
+    },
+    {
+      "date": "2026-01-13",
+      "rating": 853,
+      "rounds": 22
+    },
+    {
+      "date": "2026-02-10",
+      "rating": 848,
+      "rounds": 26
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 842,
+      "rounds": 29
+    },
+    {
+      "date": "2026-07-14",
+      "rating": 840,
+      "rounds": 23
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 24.0,
+    "season_avg": 21.0,
+    "delta_pct": 14.3
+  },
+  "pdga_url": "https://www.pdga.com/player/52334"
+}

@@ -1,8 +1,14 @@
 import { Link } from "@tanstack/react-router";
 import { useEffect, useRef } from "react";
+import { getAsiaBoard } from "../../lib/asia";
+import { CountUp } from "./count-up";
 
 export function Hero() {
   const rootRef = useRef<HTMLElement>(null);
+  const board = getAsiaBoard();
+  const countryCount = Object.values(board.country_stats).filter(
+    (c) => c.player_count > 0,
+  ).length;
 
   useEffect(() => {
     const root = rootRef.current;
@@ -28,36 +34,60 @@ export function Hero() {
     };
   }, []);
 
+  const stats = [
+    { label: "Players", value: board.total_players },
+    { label: "Tournaments", value: board.total_events },
+    { label: "Countries", value: countryCount },
+    { label: "Tour qualifiers", value: board.tour_standings.length },
+  ];
+
   return (
-    <section ref={rootRef} className="fp-hero" aria-label="Flightpath hero">
-      <div className="fp-hero-plate" aria-hidden>
-        <div className="fp-hero-layer fp-hero-bg" />
-        <div className="fp-hero-layer fp-hero-mist" />
-        <div className="fp-hero-layer fp-hero-disc" />
-        <div className="fp-hero-layer fp-hero-basket" />
+    <section ref={rootRef} className="fp-hero" aria-label="Flightpath Asia hero">
+      <div className="fp-hero-art" aria-hidden>
         <img
-          className="fp-hero-photo"
-          src="/assets/hero-course.jpg"
+          className="fp-hero-map"
+          src="/assets/hero/flightpath-hero.png"
           alt=""
           onError={(e) => {
             (e.currentTarget as HTMLImageElement).style.display = "none";
           }}
         />
+        <div className="fp-hero-scrim" />
       </div>
+
       <div className="fp-hero-copy">
-        <p className="fp-brand-lockup">Flightpath</p>
-        <h1>The season, written in flight.</h1>
+        <p className="fp-hero-eyebrow">
+          <span className="fp-hero-eyebrow-dot" aria-hidden />
+          PDGA Asia Tour · Leaderboards &amp; dossiers
+        </p>
+        <h1>
+          Asia disc golf,
+          <br />
+          in full flight.
+        </h1>
         <p className="fp-hero-sub">
-          Elite Series dossiers for the Disc Golf Pro Tour — ratings, career
-          lines, and every year on the card.
+          Standings, national leaders, and player dossiers across{" "}
+          {board.total_events} PDGA tournaments — open and amateur. Weekly
+          leagues stay off the board.
         </p>
         <div className="fp-hero-actions">
-          <Link to="/players" className="fp-cta-enter">
-            Open the roster
-          </Link>
-          <a className="fp-cta-ghost" href="#featured">
-            Featured pros
+          <a className="fp-cta-enter" href="#leaderboard">
+            Open the board
           </a>
+          <Link to="/players" className="fp-cta-ghost">
+            Full roster →
+          </Link>
+        </div>
+
+        <div className="fp-hero-stats">
+          {stats.map((s) => (
+            <div key={s.label} className="fp-hero-stat">
+              <span className="fp-hero-stat-label">{s.label}</span>
+              <span className="fp-hero-stat-value">
+                <CountUp value={s.value} />
+              </span>
+            </div>
+          ))}
         </div>
       </div>
     </section>

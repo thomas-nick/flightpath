@@ -1,0 +1,245 @@
+{
+  "pdga": 152570,
+  "name": "Benjamin Giebler",
+  "country": "India",
+  "country_key": "IN",
+  "flag": "\ud83c\uddee\ud83c\uddf3",
+  "rating": 915,
+  "classification": "Pro",
+  "city": "",
+  "nationality": "",
+  "division": "MA2",
+  "primary_class": "amateur",
+  "pdga_points": 376.0,
+  "tour_weighted_points": 8.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top5": 0,
+  "top10": 0,
+  "top20": 1,
+  "avg_finish": 11.0,
+  "win_rate": 0.0,
+  "top10_rate": 0.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 789,
+  "weighted_rank": 2411,
+  "country_rank": 341,
+  "am_events": 1,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 0,
+  "am_pdga_points": 376.0,
+  "last_active": "05-Aug to 07-Aug-2022",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 1,
+      "points": 376.0,
+      "weighted": 8.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 1,
+      "pdga_points": 376.0,
+      "tour_weighted_points": 8.0,
+      "avg_finish": 11.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "all": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 1,
+      "pdga_points": 376.0,
+      "tour_weighted_points": 8.0,
+      "avg_finish": 11.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    }
+  },
+  "division_counts": {
+    "MA2": 1
+  },
+  "results": [
+    {
+      "event_id": "55383",
+      "title": "The TruBank Des Moines Challenge presented by Discraft",
+      "dates": "05-Aug to 07-Aug-2022",
+      "year": "2022",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Indianola, Iowa, United States",
+      "place": 11,
+      "pdga_points": 376.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 8.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2022",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 376.0,
+      "avg_finish": 11.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2024-08-13",
+      "rating": 954,
+      "rounds": 63
+    },
+    {
+      "date": "2024-09-10",
+      "rating": 953,
+      "rounds": 63
+    },
+    {
+      "date": "2024-10-08",
+      "rating": 953,
+      "rounds": 63
+    },
+    {
+      "date": "2025-03-11",
+      "rating": 958,
+      "rounds": 60
+    },
+    {
+      "date": "2025-04-08",
+      "rating": 957,
+      "rounds": 63
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 958,
+      "rounds": 63
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 953,
+      "rounds": 60
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 956,
+      "rounds": 58
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 958,
+      "rounds": 62
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 957,
+      "rounds": 63
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 961,
+      "rounds": 60
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 961,
+      "rounds": 54
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 963,
+      "rounds": 55
+    },
+    {
+      "date": "2026-06-09",
+      "rating": 960,
+      "rounds": 58
+    },
+    {
+      "date": "2026-07-14",
+      "rating": 961,
+      "rounds": 46
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/152570"
+}

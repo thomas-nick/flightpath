@@ -1,0 +1,247 @@
+{
+  "pdga": 8168,
+  "name": "Hiroshi Nagaoka #8168",
+  "country": "Japan",
+  "country_key": "JP",
+  "flag": "\ud83c\uddef\ud83c\uddf5",
+  "rating": 942,
+  "classification": "Professional",
+  "city": "Munakata-gun",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 382.5,
+  "tour_weighted_points": 23.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 4,
+  "wins": 0,
+  "podiums": 0,
+  "top5": 0,
+  "top10": 2,
+  "top20": 2,
+  "avg_finish": 19.25,
+  "win_rate": 0.0,
+  "top10_rate": 0.5,
+  "cash_earned": 0.0,
+  "pdga_rank": 547,
+  "weighted_rank": 1287,
+  "country_rank": 172,
+  "am_events": 1,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 1,
+  "am_pdga_points": 30.0,
+  "last_active": "11-Jun to 12-Jun-2022",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 4,
+      "points": 382.5,
+      "weighted": 23.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 3,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 352.5,
+      "tour_weighted_points": 13.0,
+      "avg_finish": 22.67,
+      "win_rate": 0.0,
+      "top10_rate": 0.333
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 30.0,
+      "tour_weighted_points": 10.0,
+      "avg_finish": 9.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 4,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 2,
+      "top20": 2,
+      "pdga_points": 382.5,
+      "tour_weighted_points": 23.0,
+      "avg_finish": 19.25,
+      "win_rate": 0.0,
+      "top10_rate": 0.5
+    }
+  },
+  "division_counts": {
+    "MPO": 3,
+    "MA1": 1
+  },
+  "results": [
+    {
+      "event_id": "59456",
+      "title": "The 24th Nippon Open",
+      "dates": "11-Jun to 12-Jun-2022",
+      "year": "2022",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Gamo-gun, Shiga, Japan",
+      "place": 31,
+      "pdga_points": 172.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.5
+    },
+    {
+      "event_id": "39008",
+      "title": "The 5th Kagoshima Open",
+      "dates": "26-Jan to 27-Jan-2019",
+      "year": "2019",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Kagoshima, Kagoshima, Japan",
+      "place": 10,
+      "pdga_points": 30.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "41245",
+      "title": "The 7th Asia Championship",
+      "dates": "03-Aug to 04-Aug-2019",
+      "year": "2019",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Fukuoka, Fukuoka, Japan",
+      "place": 27,
+      "pdga_points": 150.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.5
+    },
+    {
+      "event_id": "17574",
+      "title": "12th Saga Open",
+      "dates": "12-Apr to 13-Apr-2014",
+      "year": "2014",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Kanzaki, Saga, Japan",
+      "place": 9,
+      "pdga_points": 30.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 10.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2022",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 172.5,
+      "avg_finish": 31.0
+    },
+    {
+      "year": "2019",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 180.0,
+      "avg_finish": 18.5
+    },
+    {
+      "year": "2014",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 30.0,
+      "avg_finish": 9.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2005-02-15",
+      "rating": 875,
+      "rounds": 16
+    },
+    {
+      "date": "2005-09-15",
+      "rating": 866,
+      "rounds": 18
+    }
+  ],
+  "streak": {
+    "direction": "up",
+    "recent_avg": 117.5,
+    "season_avg": 30.0,
+    "delta_pct": 291.7
+  },
+  "pdga_url": "https://www.pdga.com/player/8168"
+}

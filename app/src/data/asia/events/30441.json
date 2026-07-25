@@ -1,0 +1,145 @@
+{
+  "event_id": "30441",
+  "title": "Samui Wednesday Singles Oct/Nov",
+  "location": "Maenam, Koh Samui, Surat Thani, Thailand",
+  "dates": "26-Oct to 14-Dec-2016",
+  "year": "2016",
+  "tier": "",
+  "level": "c_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 9,
+  "avg_mpo_rating": null,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "count": 6
+    }
+  ],
+  "mpo": [],
+  "fpo": [],
+  "amateur": [
+    {
+      "pdga": 88966,
+      "name": "Joy Chupthasorn",
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 31.5,
+      "rating": 856,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 77395,
+      "name": "View Georgiou",
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 18.0,
+      "rating": 845,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 58708,
+      "name": "Riley Hayes",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 47.5,
+      "rating": 906,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 77393,
+      "name": "Nick Georgiou",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 37.5,
+      "rating": 904,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 62816,
+      "name": "Dave Lehmann",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 3,
+      "pdga_points": 20.0,
+      "rating": 918,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 42277,
+      "name": "Brian Potts",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 5,
+      "pdga_points": 12.5,
+      "rating": 952,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 82988,
+      "name": "Joni Makkonen",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 5,
+      "pdga_points": 12.5,
+      "rating": 861,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "Finland",
+      "country_key": ""
+    },
+    {
+      "pdga": 76271,
+      "name": "Tommy Myhre",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 7,
+      "pdga_points": 10.0,
+      "rating": 927,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "Norway",
+      "country_key": ""
+    },
+    {
+      "pdga": 62817,
+      "name": "Michael Arseneault",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 8,
+      "pdga_points": 2.5,
+      "rating": 835,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    }
+  ],
+  "divisions": [
+    "FA1",
+    "MA1"
+  ]
+}

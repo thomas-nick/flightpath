@@ -1,0 +1,380 @@
+{
+  "pdga": 128260,
+  "name": "Jan Autio #128260",
+  "country": "Finland",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": null,
+  "classification": "Amateur",
+  "city": "Kokkola",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 421.0,
+  "tour_weighted_points": 160.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 8,
+  "wins": 2,
+  "podiums": 3,
+  "top5": 5,
+  "top10": 6,
+  "top20": 7,
+  "avg_finish": 8.62,
+  "win_rate": 0.25,
+  "top10_rate": 0.75,
+  "cash_earned": 0.0,
+  "pdga_rank": 511,
+  "weighted_rank": 425,
+  "country_rank": null,
+  "am_events": 3,
+  "am_wins": 2,
+  "am_podiums": 2,
+  "am_top10": 3,
+  "am_pdga_points": 176.0,
+  "last_active": "03-Feb to 05-Feb-2023",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 3,
+      "points": 206.0,
+      "weighted": 111.0,
+      "wins": 1
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 5,
+      "points": 215.0,
+      "weighted": 49.0,
+      "wins": 1
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 5,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 2,
+      "top10": 3,
+      "top20": 4,
+      "pdga_points": 245.0,
+      "tour_weighted_points": 33.0,
+      "avg_finish": 12.6,
+      "win_rate": 0.0,
+      "top10_rate": 0.6
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 3,
+      "wins": 2,
+      "podiums": 2,
+      "top5": 3,
+      "top10": 3,
+      "top20": 3,
+      "pdga_points": 176.0,
+      "tour_weighted_points": 127.0,
+      "avg_finish": 2.0,
+      "win_rate": 0.667,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 8,
+      "wins": 2,
+      "podiums": 3,
+      "top5": 5,
+      "top10": 6,
+      "top20": 7,
+      "pdga_points": 421.0,
+      "tour_weighted_points": 160.0,
+      "avg_finish": 8.62,
+      "win_rate": 0.25,
+      "top10_rate": 0.75
+    }
+  },
+  "division_counts": {
+    "MA3": 1,
+    "MPO": 5,
+    "MA1": 2
+  },
+  "results": [
+    {
+      "event_id": "63795",
+      "title": "Hyzenbrownie Dreamweaver Open 2023 Powered By Innova Discs",
+      "dates": "25-Jan to 29-Jan-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui Thailand, Thailand",
+      "place": 5,
+      "pdga_points": 25.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "63765",
+      "title": "Chiang Mai Open",
+      "dates": "10-Feb to 12-Feb-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Chiang Mai, Thailand",
+      "place": 9,
+      "pdga_points": 55.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "63567",
+      "title": "Samui Swine Classic X Presented by Prodigy Discs- MPO, FPO, MP40, MP50, MA1",
+      "dates": "03-Feb to 05-Feb-2023",
+      "year": "2023",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 19,
+      "pdga_points": 70.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 8.0
+    },
+    {
+      "event_id": "56991",
+      "title": "Hyzenbrownie \"Destination Open\" 2022",
+      "dates": "29-Jan to 30-Jan-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surrathani, Thailand",
+      "place": 4,
+      "pdga_points": 15.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "55860",
+      "title": "Pattaya Disc Golf Open",
+      "dates": "26-Feb-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Pattaya, Thailand",
+      "place": 3,
+      "pdga_points": 55.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "55055",
+      "title": "Samui Swine Classic IX - MPO, MP40, MP50, MA1",
+      "dates": "05-Feb to 06-Feb-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 1,
+      "pdga_points": 65.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "43200",
+      "title": "Samui Swine Classic VII - Pros - Presented by Innova",
+      "dates": "31-Jan to 02-Feb-2020",
+      "year": "2020",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 27,
+      "pdga_points": 40.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 3.0
+    },
+    {
+      "event_id": "43198",
+      "title": "Samui Swine Classic VII - Ams - Presented by Innova",
+      "dates": "29-Jan to 30-Jan-2020",
+      "year": "2020",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 1,
+      "pdga_points": 96.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 100.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "55055",
+      "title": "Samui Swine Classic IX - MPO, MP40, MP50, MA1",
+      "dates": "05-Feb to 06-Feb-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 1,
+      "pdga_points": 65.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "43198",
+      "title": "Samui Swine Classic VII - Ams - Presented by Innova",
+      "dates": "29-Jan to 30-Jan-2020",
+      "year": "2020",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 1,
+      "pdga_points": 96.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 100.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2023",
+      "events": 3,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 2,
+      "pdga_points": 150.0,
+      "avg_finish": 11.0
+    },
+    {
+      "year": "2022",
+      "events": 3,
+      "wins": 1,
+      "podiums": 2,
+      "top10": 3,
+      "pdga_points": 135.0,
+      "avg_finish": 2.67
+    },
+    {
+      "year": "2020",
+      "events": 2,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 136.0,
+      "avg_finish": 14.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2020-02-11",
+      "rating": 868,
+      "rounds": 5
+    },
+    {
+      "date": "2021-07-13",
+      "rating": 870,
+      "rounds": 8
+    },
+    {
+      "date": "2021-08-10",
+      "rating": 872,
+      "rounds": 10
+    },
+    {
+      "date": "2021-09-14",
+      "rating": 889,
+      "rounds": 12
+    },
+    {
+      "date": "2021-10-12",
+      "rating": 886,
+      "rounds": 17
+    },
+    {
+      "date": "2022-02-08",
+      "rating": 906,
+      "rounds": 20
+    },
+    {
+      "date": "2022-03-08",
+      "rating": 917,
+      "rounds": 24
+    },
+    {
+      "date": "2022-07-12",
+      "rating": 916,
+      "rounds": 18
+    },
+    {
+      "date": "2023-02-14",
+      "rating": 924,
+      "rounds": 14
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 50.0,
+    "season_avg": 54.2,
+    "delta_pct": -7.7
+  },
+  "pdga_url": "https://www.pdga.com/player/128260"
+}

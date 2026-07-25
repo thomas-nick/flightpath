@@ -1,0 +1,478 @@
+{
+  "pdga": 237772,
+  "name": "Lil\u2019 Jumping #237772",
+  "country": "China",
+  "country_key": "CN",
+  "flag": "\ud83c\udde8\ud83c\uddf3",
+  "rating": 857,
+  "classification": "Professional",
+  "city": "Beijing",
+  "nationality": "",
+  "division": "FPO",
+  "primary_class": "open_fpo",
+  "pdga_points": 232.5,
+  "tour_weighted_points": 252.5,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 12,
+  "wins": 3,
+  "podiums": 7,
+  "top5": 9,
+  "top10": 11,
+  "top20": 12,
+  "avg_finish": 4.0,
+  "win_rate": 0.25,
+  "top10_rate": 0.917,
+  "cash_earned": 323.0,
+  "pdga_rank": 755,
+  "weighted_rank": 251,
+  "country_rank": 120,
+  "am_events": 3,
+  "am_wins": 2,
+  "am_podiums": 3,
+  "am_top10": 3,
+  "am_pdga_points": 66.0,
+  "last_active": "11-Apr to 12-Apr-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 9,
+      "points": 166.5,
+      "weighted": 201.5,
+      "wins": 1
+    },
+    "c_tier": {
+      "events": 3,
+      "points": 66.0,
+      "weighted": 51.0,
+      "wins": 2
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 9,
+      "wins": 1,
+      "podiums": 4,
+      "top5": 6,
+      "top10": 8,
+      "top20": 9,
+      "pdga_points": 166.5,
+      "tour_weighted_points": 201.5,
+      "avg_finish": 4.78,
+      "win_rate": 0.111,
+      "top10_rate": 0.889
+    },
+    "amateur": {
+      "events": 3,
+      "wins": 2,
+      "podiums": 3,
+      "top5": 3,
+      "top10": 3,
+      "top20": 3,
+      "pdga_points": 66.0,
+      "tour_weighted_points": 51.0,
+      "avg_finish": 1.67,
+      "win_rate": 0.667,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 12,
+      "wins": 3,
+      "podiums": 7,
+      "top5": 9,
+      "top10": 11,
+      "top20": 12,
+      "pdga_points": 232.5,
+      "tour_weighted_points": 252.5,
+      "avg_finish": 4.0,
+      "win_rate": 0.25,
+      "top10_rate": 0.917
+    }
+  },
+  "division_counts": {
+    "FPO": 9,
+    "FA1": 3
+  },
+  "results": [
+    {
+      "event_id": "105371",
+      "title": "The 15th Hokkaido Open",
+      "dates": "27-Jun to 28-Jun-2026",
+      "year": "2026",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Futami-gun, Hokkaido, Japan",
+      "place": 1,
+      "pdga_points": 0.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "$31",
+      "weighted_points": 50.0
+    },
+    {
+      "event_id": "102983",
+      "title": "The 23rd Saga Yoshinogari Open",
+      "dates": "11-Apr to 12-Apr-2026",
+      "year": "2026",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Kanzaki-gun, Saga, Japan",
+      "place": 2,
+      "pdga_points": 9.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "",
+      "weighted_points": 37.5
+    },
+    {
+      "event_id": "96928",
+      "title": "The 39th Kyushu Open",
+      "dates": "29-Nov to 30-Nov-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Fukuoka-shi, Fukuoka, Japan",
+      "place": 5,
+      "pdga_points": 36.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "94669",
+      "title": "The 28th Kansai Open",
+      "dates": "27-Sep to 28-Sep-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Nantan-shi, Kyoto, Japan",
+      "place": 4,
+      "pdga_points": 4.5,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "87628",
+      "title": "The13th Okinawa Open",
+      "dates": "22-Feb to 23-Feb-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Kunigami-gun, Okinawa, Japan",
+      "place": 3,
+      "pdga_points": 18.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "$40",
+      "weighted_points": 27.5
+    },
+    {
+      "event_id": "74304",
+      "title": "SE Asia Disc Golf Championship 2024",
+      "dates": "26-Jan to 28-Jan-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 6,
+      "pdga_points": 31.5,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "82950",
+      "title": "The 26th Nippon Open Presented by Prodigy Disc",
+      "dates": "20-Jul to 21-Jul-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Yasu-shi, Shiga, Japan",
+      "place": 8,
+      "pdga_points": 4.5,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "79195",
+      "title": "The 3rd Disc Golf Japan Series",
+      "dates": "13-Jul to 15-Jul-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Utsunomiya-shi, Tochigi, Japan",
+      "place": 11,
+      "pdga_points": 31.5,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "82401",
+      "title": "\u5317\u4eac\u6e29\u6986\u6cb3\u518d\u542f\u822a\u53cb\u8c0a\u8d5b - Beijing Wenyuhe Grand Opening Friendship Tournament",
+      "dates": "08-Jun-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Beijing, Beijing Shi, China",
+      "place": 1,
+      "pdga_points": 36.0,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "68646",
+      "title": "2023 Spring Cup Disc Golf Tournament KunShan",
+      "dates": "25-Mar to 26-Mar-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Kunshan, Zhejiang Sheng, China",
+      "place": 3,
+      "pdga_points": 18.0,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "71449",
+      "title": "2023\u7eff\u5fc3\u676f \u9ad8\u5c14\u592b\u98de\u76d8 \u5956\u91d1\u8d5b",
+      "dates": "10-Jun to 11-Jun-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Beijing, Beijing Shi, China",
+      "place": 1,
+      "pdga_points": 12.0,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "75088",
+      "title": "2023\u82cf\u5dde\u63b7\u51c6\u98de\u76d8\u516c\u5f00\u8d5bSuzhou DG Open",
+      "dates": "02-Dec to 03-Dec-2023",
+      "year": "2023",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Suzhou, Jiangsu Sheng, China",
+      "place": 3,
+      "pdga_points": 31.5,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "$252",
+      "weighted_points": 27.5
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "105371",
+      "title": "The 15th Hokkaido Open",
+      "dates": "27-Jun to 28-Jun-2026",
+      "year": "2026",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Futami-gun, Hokkaido, Japan",
+      "place": 1,
+      "pdga_points": 0.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "$31",
+      "weighted_points": 50.0
+    },
+    {
+      "event_id": "82401",
+      "title": "\u5317\u4eac\u6e29\u6986\u6cb3\u518d\u542f\u822a\u53cb\u8c0a\u8d5b - Beijing Wenyuhe Grand Opening Friendship Tournament",
+      "dates": "08-Jun-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Beijing, Beijing Shi, China",
+      "place": 1,
+      "pdga_points": 36.0,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "71449",
+      "title": "2023\u7eff\u5fc3\u676f \u9ad8\u5c14\u592b\u98de\u76d8 \u5956\u91d1\u8d5b",
+      "dates": "10-Jun to 11-Jun-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Beijing, Beijing Shi, China",
+      "place": 1,
+      "pdga_points": 12.0,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 2,
+      "wins": 1,
+      "podiums": 2,
+      "top10": 2,
+      "pdga_points": 9.0,
+      "avg_finish": 1.5
+    },
+    {
+      "year": "2025",
+      "events": 3,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 3,
+      "pdga_points": 58.5,
+      "avg_finish": 4.0
+    },
+    {
+      "year": "2024",
+      "events": 4,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 3,
+      "pdga_points": 103.5,
+      "avg_finish": 6.5
+    },
+    {
+      "year": "2023",
+      "events": 3,
+      "wins": 1,
+      "podiums": 3,
+      "top10": 3,
+      "pdga_points": 61.5,
+      "avg_finish": 2.33
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2023-04-11",
+      "rating": 665,
+      "rounds": 3
+    },
+    {
+      "date": "2023-07-11",
+      "rating": 686,
+      "rounds": 6
+    },
+    {
+      "date": "2023-12-12",
+      "rating": 764,
+      "rounds": 7
+    },
+    {
+      "date": "2024-02-13",
+      "rating": 822,
+      "rounds": 9
+    },
+    {
+      "date": "2024-07-09",
+      "rating": 808,
+      "rounds": 10
+    },
+    {
+      "date": "2024-08-13",
+      "rating": 850,
+      "rounds": 13
+    },
+    {
+      "date": "2025-03-11",
+      "rating": 853,
+      "rounds": 10
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 841,
+      "rounds": 9
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 841,
+      "rounds": 10
+    },
+    {
+      "date": "2026-01-13",
+      "rating": 862,
+      "rounds": 12
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 857,
+      "rounds": 12
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 15.0,
+    "season_avg": 20.8,
+    "delta_pct": -28.0
+  },
+  "pdga_url": "https://www.pdga.com/player/237772"
+}

@@ -1,0 +1,238 @@
+{
+  "pdga": 311879,
+  "name": "Sherlock Ying #311879",
+  "country": "China",
+  "country_key": "CN",
+  "flag": "\ud83c\udde8\ud83c\uddf3",
+  "rating": 838,
+  "classification": "Professional",
+  "city": "NINGBO",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 147.5,
+  "tour_weighted_points": 83.1,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 4,
+  "wins": 0,
+  "podiums": 1,
+  "top5": 1,
+  "top10": 2,
+  "top20": 3,
+  "avg_finish": 11.25,
+  "win_rate": 0.0,
+  "top10_rate": 0.5,
+  "cash_earned": 0.0,
+  "pdga_rank": 979,
+  "weighted_rank": 694,
+  "country_rank": 159,
+  "am_events": 3,
+  "am_wins": 0,
+  "am_podiums": 1,
+  "am_top10": 2,
+  "am_pdga_points": 140.0,
+  "last_active": "13-Mar to 15-Mar-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 1,
+      "points": 37.5,
+      "weighted": 40.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 2,
+      "points": 75.0,
+      "weighted": 41.5,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 1,
+      "points": 35.0,
+      "weighted": 1.6,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 7.5,
+      "tour_weighted_points": 4.0,
+      "avg_finish": 21.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 3,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 2,
+      "top20": 3,
+      "pdga_points": 140.0,
+      "tour_weighted_points": 79.1,
+      "avg_finish": 8.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.667
+    },
+    "all": {
+      "events": 4,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 2,
+      "top20": 3,
+      "pdga_points": 147.5,
+      "tour_weighted_points": 83.1,
+      "avg_finish": 11.25,
+      "win_rate": 0.0,
+      "top10_rate": 0.5
+    }
+  },
+  "division_counts": {
+    "MA1": 3,
+    "MPO": 1
+  },
+  "results": [
+    {
+      "event_id": "97588",
+      "title": "PDGA Asia Tour Championship - PDGA Asia Tour Event #7",
+      "dates": "13-Mar to 15-Mar-2026",
+      "year": "2026",
+      "tier": "B",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "Shanghai, Shanghai Shi, China",
+      "place": 6,
+      "pdga_points": 37.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 40.0
+    },
+    {
+      "event_id": "101188",
+      "title": "CDGT Championship Kunshan - China Disc Golf Course Tour Event #1",
+      "dates": "05-Apr to 06-Apr-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Kunshan, Jiangsu Sheng, China",
+      "place": 16,
+      "pdga_points": 35.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "97308",
+      "title": "Asia-Pacific Disc Golf Open(Yinzhou, Ningbo)",
+      "dates": "22-Nov to 23-Nov-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Ningbo, Zhejiang Sheng, China",
+      "place": 21,
+      "pdga_points": 7.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "97899",
+      "title": "2025 Shaoxing China International Disc Golf Open",
+      "dates": "13-Dec to 14-Dec-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Shaoxing, Zhejiang Sheng, China",
+      "place": 2,
+      "pdga_points": 67.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 37.5
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 72.5,
+      "avg_finish": 11.0
+    },
+    {
+      "year": "2025",
+      "events": 2,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 75.0,
+      "avg_finish": 11.5
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2026-01-13",
+      "rating": 838,
+      "rounds": 6
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 838,
+      "rounds": 11
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 26.7,
+    "season_avg": 67.5,
+    "delta_pct": -60.5
+  },
+  "pdga_url": "https://www.pdga.com/player/311879"
+}

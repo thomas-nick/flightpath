@@ -1,0 +1,270 @@
+{
+  "pdga": 83550,
+  "name": "Kimmo Koskelainen #83550",
+  "country": "Finland",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 833,
+  "classification": "Amateur",
+  "city": "Kerava",
+  "nationality": "",
+  "division": "MA3",
+  "primary_class": "amateur",
+  "pdga_points": 72.0,
+  "tour_weighted_points": 55.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top5": 1,
+  "top10": 2,
+  "top20": 2,
+  "avg_finish": 6.5,
+  "win_rate": 0.0,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 1325,
+  "weighted_rank": 889,
+  "country_rank": null,
+  "am_events": 2,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 2,
+  "am_pdga_points": 72.0,
+  "last_active": "31-Jan to 02-Feb-2023",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 2,
+      "points": 72.0,
+      "weighted": 55.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 1,
+      "top10": 2,
+      "top20": 2,
+      "pdga_points": 72.0,
+      "tour_weighted_points": 55.0,
+      "avg_finish": 6.5,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 1,
+      "top10": 2,
+      "top20": 2,
+      "pdga_points": 72.0,
+      "tour_weighted_points": 55.0,
+      "avg_finish": 6.5,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA3": 2
+  },
+  "results": [
+    {
+      "event_id": "63564",
+      "title": "Samui Swine Classic X Presented by Prodigy Discs- MA3, MA2, FA1, MA40, MA50, MA60",
+      "dates": "31-Jan to 02-Feb-2023",
+      "year": "2023",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 5,
+      "pdga_points": 18.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 35.0
+    },
+    {
+      "event_id": "43198",
+      "title": "Samui Swine Classic VII - Ams - Presented by Innova",
+      "dates": "29-Jan to 30-Jan-2020",
+      "year": "2020",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 8,
+      "pdga_points": 54.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2023",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 18.0,
+      "avg_finish": 5.0
+    },
+    {
+      "year": "2020",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 54.0,
+      "avg_finish": 8.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2024-12-10",
+      "rating": 832,
+      "rounds": 20
+    },
+    {
+      "date": "2025-02-11",
+      "rating": 833,
+      "rounds": 20
+    },
+    {
+      "date": "2025-03-11",
+      "rating": 832,
+      "rounds": 21
+    },
+    {
+      "date": "2025-04-08",
+      "rating": 828,
+      "rounds": 24
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 832,
+      "rounds": 20
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 830,
+      "rounds": 20
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 833,
+      "rounds": 23
+    },
+    {
+      "date": "2025-11-11",
+      "rating": 830,
+      "rounds": 23
+    },
+    {
+      "date": "2025-12-09",
+      "rating": 832,
+      "rounds": 22
+    },
+    {
+      "date": "2026-01-13",
+      "rating": 841,
+      "rounds": 24
+    },
+    {
+      "date": "2026-02-10",
+      "rating": 838,
+      "rounds": 26
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 837,
+      "rounds": 26
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 832,
+      "rounds": 25
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 836,
+      "rounds": 24
+    },
+    {
+      "date": "2026-06-09",
+      "rating": 833,
+      "rounds": 25
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/83550"
+}

@@ -1,0 +1,261 @@
+{
+  "pdga": 211301,
+  "name": "Simon Berglund #211301",
+  "country": "Sweden",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 873,
+  "classification": "Amateur",
+  "city": "Malm\u00f6",
+  "nationality": "",
+  "division": "MA1",
+  "primary_class": "amateur",
+  "pdga_points": 140.0,
+  "tour_weighted_points": 8.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top5": 0,
+  "top10": 2,
+  "top20": 2,
+  "avg_finish": 7.5,
+  "win_rate": 0.0,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 999,
+  "weighted_rank": 1721,
+  "country_rank": null,
+  "am_events": 2,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 2,
+  "am_pdga_points": 140.0,
+  "last_active": "22-Nov to 23-Nov-2025",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 2,
+      "points": 140.0,
+      "weighted": 8.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 2,
+      "top20": 2,
+      "pdga_points": 140.0,
+      "tour_weighted_points": 8.0,
+      "avg_finish": 7.5,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 2,
+      "top20": 2,
+      "pdga_points": 140.0,
+      "tour_weighted_points": 8.0,
+      "avg_finish": 7.5,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA1": 2
+  },
+  "results": [
+    {
+      "event_id": "96619",
+      "title": "Bangkok Open 2025",
+      "dates": "22-Nov to 23-Nov-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Bangkok, Thailand",
+      "place": 8,
+      "pdga_points": 80.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "96145",
+      "title": "Festival of Flight 3",
+      "dates": "08-Nov to 09-Nov-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Chiang Mai, \u0e40\u0e0a\u0e35\u0e22\u0e07\u0e43\u0e2b\u0e21\u0e48, Thailand",
+      "place": 7,
+      "pdga_points": 60.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2025",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 2,
+      "pdga_points": 140.0,
+      "avg_finish": 7.5
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2024-08-13",
+      "rating": 885,
+      "rounds": 29
+    },
+    {
+      "date": "2024-09-10",
+      "rating": 882,
+      "rounds": 31
+    },
+    {
+      "date": "2024-10-08",
+      "rating": 882,
+      "rounds": 35
+    },
+    {
+      "date": "2025-04-08",
+      "rating": 886,
+      "rounds": 34
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 884,
+      "rounds": 33
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 884,
+      "rounds": 35
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 882,
+      "rounds": 34
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 879,
+      "rounds": 33
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 880,
+      "rounds": 37
+    },
+    {
+      "date": "2025-11-11",
+      "rating": 878,
+      "rounds": 32
+    },
+    {
+      "date": "2025-12-09",
+      "rating": 879,
+      "rounds": 34
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 879,
+      "rounds": 36
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 881,
+      "rounds": 29
+    },
+    {
+      "date": "2026-06-09",
+      "rating": 883,
+      "rounds": 28
+    },
+    {
+      "date": "2026-07-14",
+      "rating": 873,
+      "rounds": 30
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/211301"
+}

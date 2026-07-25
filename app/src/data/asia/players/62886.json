@@ -1,0 +1,245 @@
+{
+  "pdga": 62886,
+  "name": "Henry Manahan",
+  "country": "India",
+  "country_key": "IN",
+  "flag": "\ud83c\uddee\ud83c\uddf3",
+  "rating": 1000,
+  "classification": "Pro",
+  "city": "",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 75.0,
+  "tour_weighted_points": 0.6,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top5": 0,
+  "top10": 0,
+  "top20": 0,
+  "avg_finish": 55.0,
+  "win_rate": 0.0,
+  "top10_rate": 0.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 1977,
+  "weighted_rank": 3594,
+  "country_rank": 714,
+  "am_events": 0,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 0,
+  "am_pdga_points": 0.0,
+  "last_active": "07-Aug-2022",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 1,
+      "points": 75.0,
+      "weighted": 0.6,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 75.0,
+      "tour_weighted_points": 0.6,
+      "avg_finish": 55.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "all": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 75.0,
+      "tour_weighted_points": 0.6,
+      "avg_finish": 55.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    }
+  },
+  "division_counts": {
+    "MPO": 1
+  },
+  "results": [
+    {
+      "event_id": "61612",
+      "title": "2022 Discontinuum Club Challenge Invitational",
+      "dates": "07-Aug-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Crown Point, Indiana, United States",
+      "place": 55,
+      "pdga_points": 75.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 0.6
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2022",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 75.0,
+      "avg_finish": 55.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2023-04-11",
+      "rating": 984,
+      "rounds": 36
+    },
+    {
+      "date": "2023-05-09",
+      "rating": 982,
+      "rounds": 38
+    },
+    {
+      "date": "2023-06-13",
+      "rating": 978,
+      "rounds": 37
+    },
+    {
+      "date": "2023-10-10",
+      "rating": 978,
+      "rounds": 22
+    },
+    {
+      "date": "2024-04-09",
+      "rating": 981,
+      "rounds": 17
+    },
+    {
+      "date": "2024-06-11",
+      "rating": 984,
+      "rounds": 9
+    },
+    {
+      "date": "2024-09-10",
+      "rating": 977,
+      "rounds": 11
+    },
+    {
+      "date": "2024-10-08",
+      "rating": 971,
+      "rounds": 12
+    },
+    {
+      "date": "2024-11-12",
+      "rating": 970,
+      "rounds": 13
+    },
+    {
+      "date": "2025-04-08",
+      "rating": 964,
+      "rounds": 13
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 965,
+      "rounds": 15
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 971,
+      "rounds": 18
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 975,
+      "rounds": 17
+    },
+    {
+      "date": "2025-11-11",
+      "rating": 979,
+      "rounds": 17
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 976,
+      "rounds": 17
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/62886"
+}

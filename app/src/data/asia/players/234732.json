@@ -1,0 +1,245 @@
+{
+  "pdga": 234732,
+  "name": "Emmanuel Whitiker",
+  "country": "India",
+  "country_key": "IN",
+  "flag": "\ud83c\uddee\ud83c\uddf3",
+  "rating": 896,
+  "classification": "Pro",
+  "city": "",
+  "nationality": "",
+  "division": "MA2",
+  "primary_class": "amateur",
+  "pdga_points": 16.0,
+  "tour_weighted_points": 4.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top5": 0,
+  "top10": 1,
+  "top20": 1,
+  "avg_finish": 9.0,
+  "win_rate": 0.0,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 3014,
+  "weighted_rank": 2909,
+  "country_rank": 1073,
+  "am_events": 1,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 1,
+  "am_pdga_points": 16.0,
+  "last_active": "28-Mar-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 1,
+      "points": 16.0,
+      "weighted": 4.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 16.0,
+      "tour_weighted_points": 4.0,
+      "avg_finish": 9.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 16.0,
+      "tour_weighted_points": 4.0,
+      "avg_finish": 9.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA2": 1
+  },
+  "results": [
+    {
+      "event_id": "99336",
+      "title": "Sloppy Seconds presented by Frozen Chosen & SJVDGC",
+      "dates": "28-Mar-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Mishawaka, Indiana, United States",
+      "place": 9,
+      "pdga_points": 16.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 16.0,
+      "avg_finish": 9.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2023-06-13",
+      "rating": 902,
+      "rounds": 2
+    },
+    {
+      "date": "2023-07-11",
+      "rating": 890,
+      "rounds": 4
+    },
+    {
+      "date": "2023-10-10",
+      "rating": 881,
+      "rounds": 8
+    },
+    {
+      "date": "2024-05-14",
+      "rating": 885,
+      "rounds": 10
+    },
+    {
+      "date": "2024-07-09",
+      "rating": 884,
+      "rounds": 11
+    },
+    {
+      "date": "2024-08-13",
+      "rating": 884,
+      "rounds": 12
+    },
+    {
+      "date": "2024-09-10",
+      "rating": 885,
+      "rounds": 13
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 896,
+      "rounds": 11
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 891,
+      "rounds": 10
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 909,
+      "rounds": 10
+    },
+    {
+      "date": "2025-11-11",
+      "rating": 896,
+      "rounds": 9
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 888,
+      "rounds": 13
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 901,
+      "rounds": 15
+    },
+    {
+      "date": "2026-06-09",
+      "rating": 901,
+      "rounds": 19
+    },
+    {
+      "date": "2026-07-14",
+      "rating": 903,
+      "rounds": 30
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/234732"
+}

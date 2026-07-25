@@ -1,0 +1,544 @@
+{
+  "pdga": 119102,
+  "name": "Casey Volden #119102",
+  "country": "Malaysia",
+  "country_key": "MY",
+  "flag": "\ud83c\uddf2\ud83c\uddfe",
+  "rating": 765,
+  "classification": "Amateur",
+  "city": "Johor Bahru",
+  "nationality": "",
+  "division": "MA3",
+  "primary_class": "amateur",
+  "pdga_points": 229.0,
+  "tour_weighted_points": 148.6,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 15,
+  "wins": 2,
+  "podiums": 7,
+  "top5": 9,
+  "top10": 14,
+  "top20": 15,
+  "avg_finish": 5.2,
+  "win_rate": 0.133,
+  "top10_rate": 0.933,
+  "cash_earned": 0.0,
+  "pdga_rank": 764,
+  "weighted_rank": 454,
+  "country_rank": 22,
+  "am_events": 15,
+  "am_wins": 2,
+  "am_podiums": 7,
+  "am_top10": 14,
+  "am_pdga_points": 229.0,
+  "last_active": "26-Jan to 28-Jan-2024",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 0.0,
+      "weighted": 10.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 14,
+      "points": 229.0,
+      "weighted": 138.6,
+      "wins": 2
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 15,
+      "wins": 2,
+      "podiums": 7,
+      "top5": 9,
+      "top10": 14,
+      "top20": 15,
+      "pdga_points": 229.0,
+      "tour_weighted_points": 148.6,
+      "avg_finish": 5.2,
+      "win_rate": 0.133,
+      "top10_rate": 0.933
+    },
+    "all": {
+      "events": 15,
+      "wins": 2,
+      "podiums": 7,
+      "top5": 9,
+      "top10": 14,
+      "top20": 15,
+      "pdga_points": 229.0,
+      "tour_weighted_points": 148.6,
+      "avg_finish": 5.2,
+      "win_rate": 0.133,
+      "top10_rate": 0.933
+    }
+  },
+  "division_counts": {
+    "MA3": 7,
+    "MA1": 4,
+    "MA2": 4
+  },
+  "results": [
+    {
+      "event_id": "74304",
+      "title": "SE Asia Disc Golf Championship 2024",
+      "dates": "26-Jan to 28-Jan-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 10,
+      "pdga_points": 0.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "73464",
+      "title": "MDGT #1 (Pelangi Indah DGC)",
+      "dates": "21-Oct-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru , Johor, Malaysia",
+      "place": 11,
+      "pdga_points": 0.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "64802",
+      "title": "2022 Malaysia Disc Golf Tour (Stop #4 / Bale Club DGC)",
+      "dates": "14-Jan-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 8,
+      "pdga_points": 0.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "63886",
+      "title": "Trees",
+      "dates": "15-Oct-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahry, Johor, Malaysia",
+      "place": 2,
+      "pdga_points": 15.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "59454",
+      "title": "2022 Johor State Disc Golf Championships",
+      "dates": "07-May-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 3,
+      "pdga_points": 35.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "54648",
+      "title": "2021 Malaysia Disc Golf National Championship",
+      "dates": "16-Oct-2021",
+      "year": "2021",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 2,
+      "pdga_points": 30.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "47699",
+      "title": "Ho-Ho-Hole in One",
+      "dates": "26-Dec-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 2,
+      "pdga_points": 27.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "43398",
+      "title": "Shipwrecked in Malaysia",
+      "dates": "18-Jan-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 1,
+      "pdga_points": 9.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "46566",
+      "title": "The Roundabout DGC Anniversary",
+      "dates": "15-Aug-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 8,
+      "pdga_points": 6.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "44826",
+      "title": "Flying Saucers",
+      "dates": "14-Mar-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 3,
+      "pdga_points": 21.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "40802",
+      "title": "Beasts Unchained",
+      "dates": "27-Apr-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Gelang Patah, Johor, Malaysia",
+      "place": 5,
+      "pdga_points": 12.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "41595",
+      "title": "Chains",
+      "dates": "22-Jun-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Pulai, Johor, Malaysia",
+      "place": 1,
+      "pdga_points": 28.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "42687",
+      "title": "2019 Malaysia National Championships - Day 1",
+      "dates": "14-Sep-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 8,
+      "pdga_points": 18.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "41952",
+      "title": "2019 Singapore Disc Golf Championships",
+      "dates": "07-Sep-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 5,
+      "pdga_points": 12.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "39177",
+      "title": "Attack of The Chains",
+      "dates": "03-Feb-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Gelang Patah, Johor, Malaysia",
+      "place": 9,
+      "pdga_points": 16.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "43398",
+      "title": "Shipwrecked in Malaysia",
+      "dates": "18-Jan-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 1,
+      "pdga_points": 9.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "41595",
+      "title": "Chains",
+      "dates": "22-Jun-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Pulai, Johor, Malaysia",
+      "place": 1,
+      "pdga_points": 28.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2024",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 0.0,
+      "avg_finish": 10.0
+    },
+    {
+      "year": "2023",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 0.0,
+      "avg_finish": 9.5
+    },
+    {
+      "year": "2022",
+      "events": 2,
+      "wins": 0,
+      "podiums": 2,
+      "top10": 2,
+      "pdga_points": 50.0,
+      "avg_finish": 2.5
+    },
+    {
+      "year": "2021",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 30.0,
+      "avg_finish": 2.0
+    },
+    {
+      "year": "2020",
+      "events": 4,
+      "wins": 1,
+      "podiums": 3,
+      "top10": 4,
+      "pdga_points": 63.0,
+      "avg_finish": 3.5
+    },
+    {
+      "year": "2019",
+      "events": 5,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 5,
+      "pdga_points": 86.0,
+      "avg_finish": 5.6
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2019-04-09",
+      "rating": 738,
+      "rounds": 1
+    },
+    {
+      "date": "2019-05-14",
+      "rating": 732,
+      "rounds": 2
+    },
+    {
+      "date": "2019-07-09",
+      "rating": 776,
+      "rounds": 4
+    },
+    {
+      "date": "2019-09-10",
+      "rating": 784,
+      "rounds": 6
+    },
+    {
+      "date": "2019-10-08",
+      "rating": 765,
+      "rounds": 8
+    },
+    {
+      "date": "2020-02-11",
+      "rating": 767,
+      "rounds": 9
+    },
+    {
+      "date": "2020-04-14",
+      "rating": 788,
+      "rounds": 10
+    },
+    {
+      "date": "2020-09-08",
+      "rating": 781,
+      "rounds": 8
+    },
+    {
+      "date": "2021-01-12",
+      "rating": 798,
+      "rounds": 8
+    },
+    {
+      "date": "2021-05-11",
+      "rating": 807,
+      "rounds": 9
+    },
+    {
+      "date": "2021-11-09",
+      "rating": 802,
+      "rounds": 10
+    },
+    {
+      "date": "2022-05-10",
+      "rating": 824,
+      "rounds": 7
+    },
+    {
+      "date": "2022-06-14",
+      "rating": 824,
+      "rounds": 7
+    },
+    {
+      "date": "2022-11-08",
+      "rating": 826,
+      "rounds": 7
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 0.0,
+    "season_avg": 19.1,
+    "delta_pct": -100.0
+  },
+  "pdga_url": "https://www.pdga.com/player/119102"
+}

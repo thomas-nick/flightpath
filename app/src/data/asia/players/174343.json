@@ -1,0 +1,261 @@
+{
+  "pdga": 174343,
+  "name": "Ben Holding #174343",
+  "country": "United Kingdom",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 972,
+  "classification": "Professional",
+  "city": "Tewkesbury",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 182.5,
+  "tour_weighted_points": 86.0,
+  "asia_tour_points": 182.5,
+  "asia_tour_events": 2,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top5": 1,
+  "top10": 1,
+  "top20": 1,
+  "avg_finish": 14.0,
+  "win_rate": 0.0,
+  "top10_rate": 0.5,
+  "cash_earned": 32.0,
+  "pdga_rank": 862,
+  "weighted_rank": 685,
+  "country_rank": null,
+  "am_events": 0,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 0,
+  "am_pdga_points": 0.0,
+  "last_active": "20-Jan to 22-Jan-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 2,
+      "points": 182.5,
+      "weighted": 86.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 1,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 182.5,
+      "tour_weighted_points": 86.0,
+      "avg_finish": 14.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.5
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "all": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 1,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 182.5,
+      "tour_weighted_points": 86.0,
+      "avg_finish": 14.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.5
+    }
+  },
+  "division_counts": {
+    "MPO": 2
+  },
+  "results": [
+    {
+      "event_id": "95859",
+      "title": "Samui Swine Classic XIII - Pros. Presented by Latitude64 - PDGA Asia Tour Event #3",
+      "dates": "30-Jan to 01-Feb-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "Koh Samui, Thailand",
+      "place": 23,
+      "pdga_points": 85.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 16.0
+    },
+    {
+      "event_id": "96727",
+      "title": "Siam Open 2026 - PDGA Asia Tour Event #2",
+      "dates": "20-Jan to 22-Jan-2026",
+      "year": "2026",
+      "tier": "B",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "Bangkok, Thailand",
+      "place": 5,
+      "pdga_points": 97.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$32",
+      "weighted_points": 70.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 182.5,
+      "avg_finish": 14.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2025-03-11",
+      "rating": 985,
+      "rounds": 47
+    },
+    {
+      "date": "2025-04-08",
+      "rating": 982,
+      "rounds": 54
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 983,
+      "rounds": 60
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 976,
+      "rounds": 60
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 977,
+      "rounds": 63
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 977,
+      "rounds": 62
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 976,
+      "rounds": 54
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 975,
+      "rounds": 54
+    },
+    {
+      "date": "2025-11-11",
+      "rating": 972,
+      "rounds": 59
+    },
+    {
+      "date": "2025-12-09",
+      "rating": 975,
+      "rounds": 61
+    },
+    {
+      "date": "2026-01-13",
+      "rating": 976,
+      "rounds": 64
+    },
+    {
+      "date": "2026-02-10",
+      "rating": 974,
+      "rounds": 70
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 976,
+      "rounds": 73
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 974,
+      "rounds": 74
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 972,
+      "rounds": 73
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/174343"
+}

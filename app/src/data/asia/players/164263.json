@@ -1,0 +1,368 @@
+{
+  "pdga": 164263,
+  "name": "Robert Rowland #164263",
+  "country": "Japan",
+  "country_key": "JP",
+  "flag": "\ud83c\uddef\ud83c\uddf5",
+  "rating": 951,
+  "classification": "Professional",
+  "city": "Saitama",
+  "nationality": "United States",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 930.0,
+  "tour_weighted_points": 154.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 7,
+  "wins": 1,
+  "podiums": 3,
+  "top5": 4,
+  "top10": 6,
+  "top20": 6,
+  "avg_finish": 8.43,
+  "win_rate": 0.143,
+  "top10_rate": 0.857,
+  "cash_earned": 0.0,
+  "pdga_rank": 270,
+  "weighted_rank": 440,
+  "country_rank": 108,
+  "am_events": 6,
+  "am_wins": 1,
+  "am_podiums": 3,
+  "am_top10": 6,
+  "am_pdga_points": 675.0,
+  "last_active": "12-Feb to 13-Feb-2022",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 7,
+      "points": 930.0,
+      "weighted": 154.0,
+      "wins": 1
+    },
+    "c_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 255.0,
+      "tour_weighted_points": 1.5,
+      "avg_finish": 35.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 6,
+      "wins": 1,
+      "podiums": 3,
+      "top5": 4,
+      "top10": 6,
+      "top20": 6,
+      "pdga_points": 675.0,
+      "tour_weighted_points": 152.5,
+      "avg_finish": 4.0,
+      "win_rate": 0.167,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 7,
+      "wins": 1,
+      "podiums": 3,
+      "top5": 4,
+      "top10": 6,
+      "top20": 6,
+      "pdga_points": 930.0,
+      "tour_weighted_points": 154.0,
+      "avg_finish": 8.43,
+      "win_rate": 0.143,
+      "top10_rate": 0.857
+    }
+  },
+  "division_counts": {
+    "MA1": 6,
+    "MPO": 1
+  },
+  "results": [
+    {
+      "event_id": "63248",
+      "title": "The 36th Kyushu Open",
+      "dates": "26-Nov to 27-Nov-2022",
+      "year": "2022",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Fukuoka, Fukuoka, Japan",
+      "place": 1,
+      "pdga_points": 187.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 50.0
+    },
+    {
+      "event_id": "61988",
+      "title": "Japan Series Disc Golf Championships",
+      "dates": "17-Sep to 19-Sep-2022",
+      "year": "2022",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Utsunomiya, Tochigi, Japan",
+      "place": 35,
+      "pdga_points": 255.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.5
+    },
+    {
+      "event_id": "56393",
+      "title": "Mikawa Open",
+      "dates": "12-Feb to 13-Feb-2022",
+      "year": "2022",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Toyokawa City, Aichi, Japan",
+      "place": 5,
+      "pdga_points": 67.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "56396",
+      "title": "National Doubles Championships",
+      "dates": "05-Mar to 06-Mar-2022",
+      "year": "2022",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Hitachinaka City, Ibaraki, Japan",
+      "place": 6,
+      "pdga_points": 60.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "58410",
+      "title": "The 34th Japan National Championships",
+      "dates": "04-May to 05-May-2022",
+      "year": "2022",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Minamisoma City, Fukushima, Japan",
+      "place": 2,
+      "pdga_points": 150.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 37.5
+    },
+    {
+      "event_id": "55133",
+      "title": "The 35th Kyushu Open",
+      "dates": "27-Nov to 28-Nov-2021",
+      "year": "2021",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Fukuoka City, Fukuoka, Japan",
+      "place": 7,
+      "pdga_points": 112.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "54457",
+      "title": "2021 Amateur Japan National Tournament",
+      "dates": "23-Oct to 24-Oct-2021",
+      "year": "2021",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Nantan city, Kyoto, Japan",
+      "place": 3,
+      "pdga_points": 97.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 27.5
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "63248",
+      "title": "The 36th Kyushu Open",
+      "dates": "26-Nov to 27-Nov-2022",
+      "year": "2022",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Fukuoka, Fukuoka, Japan",
+      "place": 1,
+      "pdga_points": 187.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 50.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2022",
+      "events": 5,
+      "wins": 1,
+      "podiums": 2,
+      "top10": 4,
+      "pdga_points": 720.0,
+      "avg_finish": 9.8
+    },
+    {
+      "year": "2021",
+      "events": 2,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 2,
+      "pdga_points": 210.0,
+      "avg_finish": 5.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2022-03-08",
+      "rating": 892,
+      "rounds": 6
+    },
+    {
+      "date": "2022-06-14",
+      "rating": 899,
+      "rounds": 9
+    },
+    {
+      "date": "2022-10-11",
+      "rating": 916,
+      "rounds": 12
+    },
+    {
+      "date": "2022-12-13",
+      "rating": 912,
+      "rounds": 11
+    },
+    {
+      "date": "2023-05-09",
+      "rating": 940,
+      "rounds": 10
+    },
+    {
+      "date": "2023-06-13",
+      "rating": 947,
+      "rounds": 13
+    },
+    {
+      "date": "2023-10-10",
+      "rating": 955,
+      "rounds": 14
+    },
+    {
+      "date": "2024-01-09",
+      "rating": 952,
+      "rounds": 12
+    },
+    {
+      "date": "2024-05-14",
+      "rating": 944,
+      "rounds": 13
+    },
+    {
+      "date": "2024-06-11",
+      "rating": 947,
+      "rounds": 13
+    },
+    {
+      "date": "2025-03-11",
+      "rating": 939,
+      "rounds": 9
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 948,
+      "rounds": 12
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 948,
+      "rounds": 9
+    },
+    {
+      "date": "2025-11-11",
+      "rating": 949,
+      "rounds": 12
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 951,
+      "rounds": 14
+    }
+  ],
+  "streak": {
+    "direction": "up",
+    "recent_avg": 170.0,
+    "season_avg": 105.0,
+    "delta_pct": 61.9
+  },
+  "pdga_url": "https://www.pdga.com/player/164263"
+}

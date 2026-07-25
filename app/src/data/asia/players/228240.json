@@ -1,0 +1,233 @@
+{
+  "pdga": 228240,
+  "name": "Kevin Wang #228240",
+  "country": "China",
+  "country_key": "CN",
+  "flag": "\ud83c\udde8\ud83c\uddf3",
+  "rating": null,
+  "classification": "Amateur",
+  "city": "Shanghai",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 175.0,
+  "tour_weighted_points": 11.2,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 4,
+  "wins": 0,
+  "podiums": 0,
+  "top5": 0,
+  "top10": 1,
+  "top20": 1,
+  "avg_finish": 19.25,
+  "win_rate": 0.0,
+  "top10_rate": 0.25,
+  "cash_earned": 0.0,
+  "pdga_rank": 881,
+  "weighted_rank": 1592,
+  "country_rank": 144,
+  "am_events": 1,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 0,
+  "am_pdga_points": 60.0,
+  "last_active": "25-Mar to 26-Mar-2023",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 75.0,
+      "weighted": 4.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 3,
+      "points": 100.0,
+      "weighted": 7.2,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 3,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 115.0,
+      "tour_weighted_points": 9.6,
+      "avg_finish": 18.33,
+      "win_rate": 0.0,
+      "top10_rate": 0.333
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 60.0,
+      "tour_weighted_points": 1.6,
+      "avg_finish": 22.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "all": {
+      "events": 4,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 175.0,
+      "tour_weighted_points": 11.2,
+      "avg_finish": 19.25,
+      "win_rate": 0.0,
+      "top10_rate": 0.25
+    }
+  },
+  "division_counts": {
+    "MPO": 3,
+    "MA1": 1
+  },
+  "results": [
+    {
+      "event_id": "68646",
+      "title": "2023 Spring Cup Disc Golf Tournament KunShan",
+      "dates": "25-Mar to 26-Mar-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Kunshan, Zhejiang Sheng, China",
+      "place": 22,
+      "pdga_points": 60.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "75088",
+      "title": "2023\u82cf\u5dde\u63b7\u51c6\u98de\u76d8\u516c\u5f00\u8d5bSuzhou DG Open",
+      "dates": "02-Dec to 03-Dec-2023",
+      "year": "2023",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Suzhou, Jiangsu Sheng, China",
+      "place": 24,
+      "pdga_points": 75.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "57901",
+      "title": "The 2nd Yangtze River Delta Open \u65cb\u98ce\u98de\u76d8\u4ff1\u4e50\u90e8 Disc Golf Tournament",
+      "dates": "21-Aug-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Suzhou, Jiangsu Sheng, China",
+      "place": 25,
+      "pdga_points": 35.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "62395",
+      "title": "2022 Suzhou Jiangsu Challenge \uff08\u82cf\u5dde\uff09\u6c5f\u82cf\u6311\u6218\u8d5b\u548c\u5973\u5b50\u5168\u7403\u8d5b\u4e8b + WGE",
+      "dates": "07-Aug-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Suzhou, Jiangsu Sheng, China",
+      "place": 6,
+      "pdga_points": 5.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2023",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 135.0,
+      "avg_finish": 23.0
+    },
+    {
+      "year": "2022",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 40.0,
+      "avg_finish": 15.5
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2022-09-13",
+      "rating": 767,
+      "rounds": 4
+    }
+  ],
+  "streak": {
+    "direction": "up",
+    "recent_avg": 56.7,
+    "season_avg": 5.0,
+    "delta_pct": 1033.3
+  },
+  "pdga_url": "https://www.pdga.com/player/228240"
+}

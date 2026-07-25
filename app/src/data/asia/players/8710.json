@@ -1,0 +1,301 @@
+{
+  "pdga": 8710,
+  "name": "Mac Hsiao #8710",
+  "country": "Chinese Taipei",
+  "country_key": "TW",
+  "flag": "\ud83c\uddf9\ud83c\uddfc",
+  "rating": 931,
+  "classification": "Professional",
+  "city": "New Taipei City / Taiwan",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 917.0,
+  "tour_weighted_points": 50.7,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 7,
+  "wins": 0,
+  "podiums": 1,
+  "top5": 3,
+  "top10": 4,
+  "top20": 5,
+  "avg_finish": 31.86,
+  "win_rate": 0.0,
+  "top10_rate": 0.571,
+  "cash_earned": 72.0,
+  "pdga_rank": 274,
+  "weighted_rank": 917,
+  "country_rank": 8,
+  "am_events": 0,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 0,
+  "am_pdga_points": 0.0,
+  "last_active": "24-Nov to 25-Nov-2018",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 3,
+      "points": 345.0,
+      "weighted": 31.5,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 4,
+      "points": 572.0,
+      "weighted": 19.2,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 7,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 3,
+      "top10": 4,
+      "top20": 5,
+      "pdga_points": 917.0,
+      "tour_weighted_points": 50.7,
+      "avg_finish": 31.86,
+      "win_rate": 0.0,
+      "top10_rate": 0.571
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "all": {
+      "events": 7,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 3,
+      "top10": 4,
+      "top20": 5,
+      "pdga_points": 917.0,
+      "tour_weighted_points": 50.7,
+      "avg_finish": 31.86,
+      "win_rate": 0.0,
+      "top10_rate": 0.571
+    }
+  },
+  "division_counts": {
+    "MPO": 7
+  },
+  "results": [
+    {
+      "event_id": "38404",
+      "title": "2018 Shenzhen (China) Disc Golf Open",
+      "dates": "24-Nov to 25-Nov-2018",
+      "year": "2018",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Shenzhen CIty, Guangdong Sheng, China",
+      "place": 3,
+      "pdga_points": 92.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$72",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "21321",
+      "title": "The 15th Aso Open",
+      "dates": "25-Jul to 26-Jul-2015",
+      "year": "2015",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Aso, Kumamoto, Japan",
+      "place": 5,
+      "pdga_points": 60.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "19780",
+      "title": "2015 Asia Open",
+      "dates": "17-Jan to 18-Jan-2015",
+      "year": "2015",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Kaohsiung, Kaohsiung City, Chinese Taipei",
+      "place": 10,
+      "pdga_points": 232.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "15768",
+      "title": "The 2014 Japan Open",
+      "dates": "05-Jun to 07-Jun-2014",
+      "year": "2014",
+      "tier": "",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Nasu Shiobara, Tochigi, Japan",
+      "place": 98,
+      "pdga_points": 315.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 0.6
+    },
+    {
+      "event_id": "12606",
+      "title": "1st Okinawa Open",
+      "dates": "11-Feb to 12-Feb-2012",
+      "year": "2012",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Nakijin, Okinawa, Japan",
+      "place": 16,
+      "pdga_points": 52.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "10799",
+      "title": "2010 Japan Open International Pool",
+      "dates": "12-Jun-2010",
+      "year": "2010",
+      "tier": "",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Tochigi, Nasu Highlands, Japan",
+      "place": 4,
+      "pdga_points": 0.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "9552",
+      "title": "2010 Japan Open (159.9 grams and under)",
+      "dates": "10-Jun to 12-Jun-2010",
+      "year": "2010",
+      "tier": "",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Tochigi, Nasu Highlands, Tochigi, Japan",
+      "place": 87,
+      "pdga_points": 165.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 0.6
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2018",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 92.0,
+      "avg_finish": 3.0
+    },
+    {
+      "year": "2015",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 2,
+      "pdga_points": 292.5,
+      "avg_finish": 7.5
+    },
+    {
+      "year": "2014",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 315.0,
+      "avg_finish": 98.0
+    },
+    {
+      "year": "2012",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 52.5,
+      "avg_finish": 16.0
+    },
+    {
+      "year": "2010",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 165.0,
+      "avg_finish": 45.5
+    }
+  ],
+  "rating_history": [],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 128.2,
+    "season_avg": 133.1,
+    "delta_pct": -3.7
+  },
+  "pdga_url": "https://www.pdga.com/player/8710"
+}

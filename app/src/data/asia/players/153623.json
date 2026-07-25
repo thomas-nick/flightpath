@@ -1,0 +1,508 @@
+{
+  "pdga": 153623,
+  "name": "Greg James #153623",
+  "country": "United States",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 909,
+  "classification": "Professional",
+  "city": "Fishers",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 830.0,
+  "tour_weighted_points": 189.6,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 14,
+  "wins": 1,
+  "podiums": 5,
+  "top5": 7,
+  "top10": 12,
+  "top20": 14,
+  "avg_finish": 5.43,
+  "win_rate": 0.071,
+  "top10_rate": 0.857,
+  "cash_earned": 153.0,
+  "pdga_rank": 303,
+  "weighted_rank": 359,
+  "country_rank": null,
+  "am_events": 5,
+  "am_wins": 1,
+  "am_podiums": 2,
+  "am_top10": 5,
+  "am_pdga_points": 440.0,
+  "last_active": "13-Feb to 15-Feb-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 1,
+      "points": 66.0,
+      "weighted": 55.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 2,
+      "points": 174.0,
+      "weighted": 54.0,
+      "wins": 1
+    },
+    "c_tier": {
+      "events": 11,
+      "points": 590.0,
+      "weighted": 80.6,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 9,
+      "wins": 0,
+      "podiums": 3,
+      "top5": 5,
+      "top10": 7,
+      "top20": 9,
+      "pdga_points": 390.0,
+      "tour_weighted_points": 72.6,
+      "avg_finish": 6.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.778
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 5,
+      "wins": 1,
+      "podiums": 2,
+      "top5": 2,
+      "top10": 5,
+      "top20": 5,
+      "pdga_points": 440.0,
+      "tour_weighted_points": 117.0,
+      "avg_finish": 4.4,
+      "win_rate": 0.2,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 14,
+      "wins": 1,
+      "podiums": 5,
+      "top5": 7,
+      "top10": 12,
+      "top20": 14,
+      "pdga_points": 830.0,
+      "tour_weighted_points": 189.6,
+      "avg_finish": 5.43,
+      "win_rate": 0.071,
+      "top10_rate": 0.857
+    }
+  },
+  "division_counts": {
+    "MA1": 3,
+    "MA50": 2,
+    "MPO": 9
+  },
+  "results": [
+    {
+      "event_id": "98036",
+      "title": "The 7th Annual Khmer Cup",
+      "dates": "13-Feb to 15-Feb-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Siem Reap, Cambodia",
+      "place": 6,
+      "pdga_points": 40.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$20",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "84698",
+      "title": "Samui Swine Classic XII - MA1, MA2, MA3, MA40, MA50, MA60, FA1 Presented by Latitude 64",
+      "dates": "28-Jan to 30-Jan-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 6,
+      "pdga_points": 105.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "86976",
+      "title": "Generation Dubs",
+      "dates": "22-Jan-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 6,
+      "pdga_points": 150.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "94738",
+      "title": "Philippine National Disc Golf Championship",
+      "dates": "13-Sep to 14-Sep-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Municipality of San Jose, Tarlac, Philippines",
+      "place": 4,
+      "pdga_points": 45.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$37",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "73676",
+      "title": "Samui Swine Classic XI - MA3, MA2, MA40, MA50, MA60",
+      "dates": "30-Jan to 01-Feb-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 1,
+      "pdga_points": 54.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 50.0
+    },
+    {
+      "event_id": "74304",
+      "title": "SE Asia Disc Golf Championship 2024",
+      "dates": "26-Jan to 28-Jan-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 17,
+      "pdga_points": 120.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "75357",
+      "title": "LIPAD PILIPINAS OPEN 2024 presented by Provincial Government of Tarlac",
+      "dates": "24-Feb to 25-Feb-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Tarlac, Tarlac, Philippines",
+      "place": 2,
+      "pdga_points": 55.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$96",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "85902",
+      "title": "Coco-Breeze at Pattaya Disc Golf",
+      "dates": "07-Dec to 08-Dec-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Pattaya, Thailand",
+      "place": 6,
+      "pdga_points": 25.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "63564",
+      "title": "Samui Swine Classic X Presented by Prodigy Discs- MA3, MA2, FA1, MA40, MA50, MA60",
+      "dates": "31-Jan to 02-Feb-2023",
+      "year": "2023",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 3,
+      "pdga_points": 66.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 55.0
+    },
+    {
+      "event_id": "73315",
+      "title": "Boxed Out 2023 Supported by Innova",
+      "dates": "26-Dec-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Siem Reap, Cambodia",
+      "place": 2,
+      "pdga_points": 20.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "63765",
+      "title": "Chiang Mai Open",
+      "dates": "10-Feb to 12-Feb-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Chiang Mai, Thailand",
+      "place": 6,
+      "pdga_points": 65.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "64710",
+      "title": "DGAP LIPAD PILIPINAS OPEN 2023 presented by Divergent Discs",
+      "dates": "04-Mar to 05-Mar-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Amadeo, Cavite, Philippines",
+      "place": 11,
+      "pdga_points": 20.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "73403",
+      "title": "Coconut Open - Pattaya Open",
+      "dates": "02-Dec to 03-Dec-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Pattaya, chonburi, Thailand",
+      "place": 4,
+      "pdga_points": 40.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "65065",
+      "title": "Boxed Out",
+      "dates": "26-Dec-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Siem Reap, Cambodia",
+      "place": 2,
+      "pdga_points": 25.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 15.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "73676",
+      "title": "Samui Swine Classic XI - MA3, MA2, MA40, MA50, MA60",
+      "dates": "30-Jan to 01-Feb-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 1,
+      "pdga_points": 54.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 50.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 40.0,
+      "avg_finish": 6.0
+    },
+    {
+      "year": "2025",
+      "events": 3,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 3,
+      "pdga_points": 300.0,
+      "avg_finish": 5.33
+    },
+    {
+      "year": "2024",
+      "events": 4,
+      "wins": 1,
+      "podiums": 2,
+      "top10": 3,
+      "pdga_points": 254.0,
+      "avg_finish": 6.5
+    },
+    {
+      "year": "2023",
+      "events": 5,
+      "wins": 0,
+      "podiums": 2,
+      "top10": 4,
+      "pdga_points": 211.0,
+      "avg_finish": 5.2
+    },
+    {
+      "year": "2022",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 25.0,
+      "avg_finish": 2.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2024-10-08",
+      "rating": 918,
+      "rounds": 54
+    },
+    {
+      "date": "2024-11-12",
+      "rating": 918,
+      "rounds": 52
+    },
+    {
+      "date": "2024-12-10",
+      "rating": 917,
+      "rounds": 50
+    },
+    {
+      "date": "2025-01-14",
+      "rating": 918,
+      "rounds": 50
+    },
+    {
+      "date": "2025-02-11",
+      "rating": 914,
+      "rounds": 54
+    },
+    {
+      "date": "2025-03-11",
+      "rating": 916,
+      "rounds": 54
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 912,
+      "rounds": 52
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 914,
+      "rounds": 56
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 912,
+      "rounds": 54
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 914,
+      "rounds": 52
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 915,
+      "rounds": 54
+    },
+    {
+      "date": "2025-12-09",
+      "rating": 916,
+      "rounds": 49
+    },
+    {
+      "date": "2026-02-10",
+      "rating": 912,
+      "rounds": 44
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 913,
+      "rounds": 44
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 909,
+      "rounds": 43
+    }
+  ],
+  "streak": {
+    "direction": "up",
+    "recent_avg": 98.3,
+    "season_avg": 48.6,
+    "delta_pct": 102.2
+  },
+  "pdga_url": "https://www.pdga.com/player/153623"
+}

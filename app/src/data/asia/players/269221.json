@@ -1,0 +1,385 @@
+{
+  "pdga": 269221,
+  "name": "Gabriel Elee Franco #269221",
+  "country": "Philippines",
+  "country_key": "PH",
+  "flag": "\ud83c\uddf5\ud83c\udded",
+  "rating": 837,
+  "classification": "Amateur",
+  "city": "Tarlac City",
+  "nationality": "",
+  "division": "MA2",
+  "primary_class": "amateur",
+  "pdga_points": 277.0,
+  "tour_weighted_points": 181.6,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 8,
+  "wins": 2,
+  "podiums": 4,
+  "top5": 5,
+  "top10": 7,
+  "top20": 8,
+  "avg_finish": 4.88,
+  "win_rate": 0.25,
+  "top10_rate": 0.875,
+  "cash_earned": 0.0,
+  "pdga_rank": 680,
+  "weighted_rank": 377,
+  "country_rank": 13,
+  "am_events": 8,
+  "am_wins": 2,
+  "am_podiums": 4,
+  "am_top10": 7,
+  "am_pdga_points": 277.0,
+  "last_active": "27-Feb to 01-Mar-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 1,
+      "points": 44.0,
+      "weighted": 110.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 7,
+      "points": 233.0,
+      "weighted": 71.6,
+      "wins": 2
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 8,
+      "wins": 2,
+      "podiums": 4,
+      "top5": 5,
+      "top10": 7,
+      "top20": 8,
+      "pdga_points": 277.0,
+      "tour_weighted_points": 181.6,
+      "avg_finish": 4.88,
+      "win_rate": 0.25,
+      "top10_rate": 0.875
+    },
+    "all": {
+      "events": 8,
+      "wins": 2,
+      "podiums": 4,
+      "top5": 5,
+      "top10": 7,
+      "top20": 8,
+      "pdga_points": 277.0,
+      "tour_weighted_points": 181.6,
+      "avg_finish": 4.88,
+      "win_rate": 0.25,
+      "top10_rate": 0.875
+    }
+  },
+  "division_counts": {
+    "MA2": 5,
+    "MA3": 1,
+    "MA1": 2
+  },
+  "results": [
+    {
+      "event_id": "97272",
+      "title": "Lipad Pilipinas IV - PDGA Asia Tour #5 presented by Province of Tarlac",
+      "dates": "27-Feb to 01-Mar-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "San Jose, Tarlac, Philippines",
+      "place": 3,
+      "pdga_points": 44.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 110.0
+    },
+    {
+      "event_id": "102225",
+      "title": "2026 Cavite Invitational",
+      "dates": "25-Apr to 26-Apr-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Indang, Cavite, Philippines",
+      "place": 4,
+      "pdga_points": 48.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "104200",
+      "title": "Tarlac United as One Tournament + WGE Event",
+      "dates": "24-May-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Tarlac City , Tarlac, Philippines",
+      "place": 1,
+      "pdga_points": 32.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "89767",
+      "title": "Enkantierra Nature Park Disc Golf Course  Inaugural Tournament",
+      "dates": "29-Mar-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Santo Tomas, Batangas, Philippines",
+      "place": 8,
+      "pdga_points": 8.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "91152",
+      "title": "Cavite Open Tournament 2025",
+      "dates": "26-Apr to 27-Apr-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Indang, Cavite, Philippines",
+      "place": 1,
+      "pdga_points": 36.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "94738",
+      "title": "Philippine National Disc Golf Championship",
+      "dates": "13-Sep to 14-Sep-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Municipality of San Jose, Tarlac, Philippines",
+      "place": 7,
+      "pdga_points": 35.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "93258",
+      "title": "Derek Robins Frisbeeversary Tournament at Tarlac",
+      "dates": "13-Jul-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Municipality of San Jose , Tarlac, Philippines",
+      "place": 13,
+      "pdga_points": 65.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "84966",
+      "title": "Philippines National Amature Championship",
+      "dates": "05-Oct to 06-Oct-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Dasmarinas, Cavite, Philippines",
+      "place": 2,
+      "pdga_points": 9.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "104200",
+      "title": "Tarlac United as One Tournament + WGE Event",
+      "dates": "24-May-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Tarlac City , Tarlac, Philippines",
+      "place": 1,
+      "pdga_points": 32.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "91152",
+      "title": "Cavite Open Tournament 2025",
+      "dates": "26-Apr to 27-Apr-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Indang, Cavite, Philippines",
+      "place": 1,
+      "pdga_points": 36.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 3,
+      "wins": 1,
+      "podiums": 2,
+      "top10": 3,
+      "pdga_points": 124.0,
+      "avg_finish": 2.67
+    },
+    {
+      "year": "2025",
+      "events": 4,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 3,
+      "pdga_points": 144.0,
+      "avg_finish": 7.25
+    },
+    {
+      "year": "2024",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 9.0,
+      "avg_finish": 2.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2023-12-12",
+      "rating": 697,
+      "rounds": 1
+    },
+    {
+      "date": "2024-10-08",
+      "rating": 752,
+      "rounds": 4
+    },
+    {
+      "date": "2025-01-14",
+      "rating": 761,
+      "rounds": 5
+    },
+    {
+      "date": "2025-04-08",
+      "rating": 753,
+      "rounds": 7
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 821,
+      "rounds": 8
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 814,
+      "rounds": 10
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 814,
+      "rounds": 12
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 842,
+      "rounds": 11
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 851,
+      "rounds": 12
+    },
+    {
+      "date": "2026-06-09",
+      "rating": 837,
+      "rounds": 20
+    }
+  ],
+  "streak": {
+    "direction": "up",
+    "recent_avg": 41.3,
+    "season_avg": 30.6,
+    "delta_pct": 35.1
+  },
+  "pdga_url": "https://www.pdga.com/player/269221"
+}

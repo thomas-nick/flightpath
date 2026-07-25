@@ -1,0 +1,279 @@
+{
+  "pdga": 146751,
+  "name": "Bob Feldhake",
+  "country": "India",
+  "country_key": "IN",
+  "flag": "\ud83c\uddee\ud83c\uddf3",
+  "rating": 903,
+  "classification": "Pro",
+  "city": "",
+  "nationality": "",
+  "division": "MA1",
+  "primary_class": "amateur",
+  "pdga_points": 980.0,
+  "tour_weighted_points": 32.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 2,
+  "wins": 1,
+  "podiums": 1,
+  "top5": 1,
+  "top10": 1,
+  "top20": 1,
+  "avg_finish": 136.5,
+  "win_rate": 0.5,
+  "top10_rate": 0.5,
+  "cash_earned": 0.0,
+  "pdga_rank": 382,
+  "weighted_rank": 1105,
+  "country_rank": 177,
+  "am_events": 2,
+  "am_wins": 1,
+  "am_podiums": 1,
+  "am_top10": 1,
+  "am_pdga_points": 980.0,
+  "last_active": "21-Jun to 25-Jun-2022",
+  "by_level": {
+    "major": {
+      "events": 1,
+      "points": 960.0,
+      "weighted": 12.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 1,
+      "points": 20.0,
+      "weighted": 20.0,
+      "wins": 1
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 2,
+      "wins": 1,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 980.0,
+      "tour_weighted_points": 32.0,
+      "avg_finish": 136.5,
+      "win_rate": 0.5,
+      "top10_rate": 0.5
+    },
+    "all": {
+      "events": 2,
+      "wins": 1,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 980.0,
+      "tour_weighted_points": 32.0,
+      "avg_finish": 136.5,
+      "win_rate": 0.5,
+      "top10_rate": 0.5
+    }
+  },
+  "division_counts": {
+    "MA1": 1,
+    "MA2": 1
+  },
+  "results": [
+    {
+      "event_id": "55453",
+      "title": "2022 PDGA Amateur Disc Golf World Championships presented by Toyota",
+      "dates": "21-Jun to 25-Jun-2022",
+      "year": "2022",
+      "tier": "",
+      "level": "major",
+      "is_asia_tour": false,
+      "location": "Princeton, Indiana, United States",
+      "place": 272,
+      "pdga_points": 960.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 12.0
+    },
+    {
+      "event_id": "57268",
+      "title": "WIFFS #14 Mitten Road Trip (CEP Charity - Rated)",
+      "dates": "06-Feb-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Bowling Green, Indiana, United States",
+      "place": 1,
+      "pdga_points": 20.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "57268",
+      "title": "WIFFS #14 Mitten Road Trip (CEP Charity - Rated)",
+      "dates": "06-Feb-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Bowling Green, Indiana, United States",
+      "place": 1,
+      "pdga_points": 20.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2022",
+      "events": 2,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 980.0,
+      "avg_finish": 136.5
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2024-10-08",
+      "rating": 915,
+      "rounds": 47
+    },
+    {
+      "date": "2024-12-10",
+      "rating": 917,
+      "rounds": 44
+    },
+    {
+      "date": "2025-01-14",
+      "rating": 920,
+      "rounds": 45
+    },
+    {
+      "date": "2025-02-11",
+      "rating": 919,
+      "rounds": 43
+    },
+    {
+      "date": "2025-04-08",
+      "rating": 922,
+      "rounds": 39
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 924,
+      "rounds": 38
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 926,
+      "rounds": 37
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 922,
+      "rounds": 36
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 920,
+      "rounds": 36
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 925,
+      "rounds": 32
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 932,
+      "rounds": 37
+    },
+    {
+      "date": "2026-01-13",
+      "rating": 930,
+      "rounds": 35
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 930,
+      "rounds": 34
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 930,
+      "rounds": 33
+    },
+    {
+      "date": "2026-07-14",
+      "rating": 928,
+      "rounds": 27
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/146751"
+}

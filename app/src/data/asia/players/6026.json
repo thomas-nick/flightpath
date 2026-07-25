@@ -1,0 +1,517 @@
+{
+  "pdga": 6026,
+  "name": "Hayato Hikari #6026",
+  "country": "Japan",
+  "country_key": "JP",
+  "flag": "\ud83c\uddef\ud83c\uddf5",
+  "rating": 977,
+  "classification": "Professional",
+  "city": "Daito",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 817.5,
+  "tour_weighted_points": 188.5,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 13,
+  "wins": 1,
+  "podiums": 2,
+  "top5": 4,
+  "top10": 9,
+  "top20": 11,
+  "avg_finish": 9.38,
+  "win_rate": 0.077,
+  "top10_rate": 0.692,
+  "cash_earned": 133.0,
+  "pdga_rank": 305,
+  "weighted_rank": 361,
+  "country_rank": 120,
+  "am_events": 0,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 0,
+  "am_pdga_points": 0.0,
+  "last_active": "12-Nov to 13-Nov-2022",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 13,
+      "points": 817.5,
+      "weighted": 188.5,
+      "wins": 1
+    },
+    "c_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 13,
+      "wins": 1,
+      "podiums": 2,
+      "top5": 4,
+      "top10": 9,
+      "top20": 11,
+      "pdga_points": 817.5,
+      "tour_weighted_points": 188.5,
+      "avg_finish": 9.38,
+      "win_rate": 0.077,
+      "top10_rate": 0.692
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "all": {
+      "events": 13,
+      "wins": 1,
+      "podiums": 2,
+      "top5": 4,
+      "top10": 9,
+      "top20": 11,
+      "pdga_points": 817.5,
+      "tour_weighted_points": 188.5,
+      "avg_finish": 9.38,
+      "win_rate": 0.077,
+      "top10_rate": 0.692
+    }
+  },
+  "division_counts": {
+    "MPO": 13
+  },
+  "results": [
+    {
+      "event_id": "63247",
+      "title": "The 25th Kansai Open",
+      "dates": "12-Nov to 13-Nov-2022",
+      "year": "2022",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Hiyoshi, Kyoto, Japan",
+      "place": 21,
+      "pdga_points": 7.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "54455",
+      "title": "The 24th Kansai Open",
+      "dates": "23-Oct to 24-Oct-2021",
+      "year": "2021",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Nantan city, Kyoto, Japan",
+      "place": 25,
+      "pdga_points": 52.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "45289",
+      "title": "The 16th Kyoto Classic",
+      "dates": "21-Nov to 22-Nov-2020",
+      "year": "2020",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Funai-gun, Kyoto, Japan",
+      "place": 14,
+      "pdga_points": 7.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "45286",
+      "title": "The 23rd. Kansai Open",
+      "dates": "05-Sep to 06-Sep-2020",
+      "year": "2020",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Nantan, Kyoto, Japan",
+      "place": 10,
+      "pdga_points": 45.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "42479",
+      "title": "The 22nd Kansai Open",
+      "dates": "31-Aug to 01-Sep-2019",
+      "year": "2019",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Nantan-shi, Kyoto, Japan",
+      "place": 2,
+      "pdga_points": 67.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$72",
+      "weighted_points": 37.5
+    },
+    {
+      "event_id": "41239",
+      "title": "The 2nd Gifu Hirugano Open",
+      "dates": "04-May to 05-May-2019",
+      "year": "2019",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Hirugano, Gifu, Japan",
+      "place": 4,
+      "pdga_points": 45.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$18",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "36412",
+      "title": "The 1st Gifu Hirugano Open",
+      "dates": "04-May to 05-May-2018",
+      "year": "2018",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Gujo City, Gifu, Japan",
+      "place": 6,
+      "pdga_points": 67.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "36757",
+      "title": "The 21st. Kansai Open",
+      "dates": "01-Sep to 02-Sep-2018",
+      "year": "2018",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Nantan, Kyoto, Japan",
+      "place": 4,
+      "pdga_points": 45.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$9",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "32820",
+      "title": "The Kyoto Classic",
+      "dates": "18-Nov to 19-Nov-2017",
+      "year": "2017",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Funai, Kyoto, Japan",
+      "place": 6,
+      "pdga_points": 30.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "32251",
+      "title": "The 19th Nippon Open",
+      "dates": "05-May-2017",
+      "year": "2017",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Hirugano, Gifu, Japan",
+      "place": 13,
+      "pdga_points": 142.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "32813",
+      "title": "The Kansai Open",
+      "dates": "02-Sep to 03-Sep-2017",
+      "year": "2017",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Nantan, Kyoto, Japan",
+      "place": 10,
+      "pdga_points": 15.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "24731",
+      "title": "National Team Championships",
+      "dates": "10-Jan to 11-Jan-2016",
+      "year": "2016",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Oyama, Tochigi, Japan",
+      "place": 1,
+      "pdga_points": 225.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$34",
+      "weighted_points": 50.0
+    },
+    {
+      "event_id": "21872",
+      "title": "The Kansai Open",
+      "dates": "05-Sep to 06-Sep-2015",
+      "year": "2015",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Fuminnomori, Kyoto, Japan",
+      "place": 6,
+      "pdga_points": 67.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 10.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "24731",
+      "title": "National Team Championships",
+      "dates": "10-Jan to 11-Jan-2016",
+      "year": "2016",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Oyama, Tochigi, Japan",
+      "place": 1,
+      "pdga_points": 225.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$34",
+      "weighted_points": 50.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2022",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 7.5,
+      "avg_finish": 21.0
+    },
+    {
+      "year": "2021",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 52.5,
+      "avg_finish": 25.0
+    },
+    {
+      "year": "2020",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 52.5,
+      "avg_finish": 12.0
+    },
+    {
+      "year": "2019",
+      "events": 2,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 2,
+      "pdga_points": 112.5,
+      "avg_finish": 3.0
+    },
+    {
+      "year": "2018",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 2,
+      "pdga_points": 112.5,
+      "avg_finish": 5.0
+    },
+    {
+      "year": "2017",
+      "events": 3,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 2,
+      "pdga_points": 187.5,
+      "avg_finish": 9.67
+    },
+    {
+      "year": "2016",
+      "events": 1,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 225.0,
+      "avg_finish": 1.0
+    },
+    {
+      "year": "2015",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 67.5,
+      "avg_finish": 6.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2005-02-15",
+      "rating": 938,
+      "rounds": 17
+    },
+    {
+      "date": "2005-05-15",
+      "rating": 928,
+      "rounds": 20
+    },
+    {
+      "date": "2005-07-15",
+      "rating": 925,
+      "rounds": 23
+    },
+    {
+      "date": "2005-09-15",
+      "rating": 929,
+      "rounds": 27
+    },
+    {
+      "date": "2005-10-04",
+      "rating": 925,
+      "rounds": 26
+    },
+    {
+      "date": "2006-02-14",
+      "rating": 938,
+      "rounds": 30
+    },
+    {
+      "date": "2006-09-19",
+      "rating": 957,
+      "rounds": 17
+    },
+    {
+      "date": "2006-12-19",
+      "rating": 965,
+      "rounds": 23
+    },
+    {
+      "date": "2007-06-26",
+      "rating": 969,
+      "rounds": 17
+    },
+    {
+      "date": "2007-08-28",
+      "rating": 963,
+      "rounds": 14
+    },
+    {
+      "date": "2008-01-29",
+      "rating": 955,
+      "rounds": 10
+    },
+    {
+      "date": "2008-04-29",
+      "rating": 953,
+      "rounds": 13
+    },
+    {
+      "date": "2008-11-25",
+      "rating": 943,
+      "rounds": 10
+    },
+    {
+      "date": "2009-05-19",
+      "rating": 935,
+      "rounds": 11
+    },
+    {
+      "date": "2009-09-01",
+      "rating": 945,
+      "rounds": 12
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 22.5,
+    "season_avg": 75.0,
+    "delta_pct": -70.0
+  },
+  "pdga_url": "https://www.pdga.com/player/6026"
+}

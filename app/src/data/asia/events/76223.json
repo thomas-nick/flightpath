@@ -1,0 +1,66 @@
+{
+  "event_id": "76223",
+  "title": "2023 CDGC\u201c\u745e\u96ea\u676f\u201d\u63b7\u51c6\u98de\u76d8\u516c\u5f00\u8d5b \uff08\u6b66\u6c49\uff09CDGC Winter Cup",
+  "location": "WUHAN, Hubei Sheng, China",
+  "dates": "23-Dec to 24-Dec-2023",
+  "year": "2023",
+  "tier": "C",
+  "level": "c_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 3,
+  "avg_mpo_rating": null,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "count": 3
+    }
+  ],
+  "mpo": [],
+  "fpo": [],
+  "amateur": [
+    {
+      "pdga": 110420,
+      "name": "Tim Flanders",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 35.0,
+      "rating": 877,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 263216,
+      "name": "Greg Russell",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 3,
+      "pdga_points": 30.0,
+      "rating": 829,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 240040,
+      "name": "Fan Bai",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 4,
+      "pdga_points": 25.0,
+      "rating": 742,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    }
+  ],
+  "divisions": [
+    "MA1"
+  ]
+}

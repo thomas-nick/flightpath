@@ -1,0 +1,245 @@
+{
+  "pdga": 147364,
+  "name": "Jakob Eklund #147364",
+  "country": "Sweden",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 877,
+  "classification": "Amateur",
+  "city": "Lund",
+  "nationality": "",
+  "division": "MA1",
+  "primary_class": "amateur",
+  "pdga_points": 30.0,
+  "tour_weighted_points": 1.6,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top5": 0,
+  "top10": 0,
+  "top20": 1,
+  "avg_finish": 12.0,
+  "win_rate": 0.0,
+  "top10_rate": 0.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 1680,
+  "weighted_rank": 2170,
+  "country_rank": null,
+  "am_events": 1,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 0,
+  "am_pdga_points": 30.0,
+  "last_active": "09-Feb to 11-Feb-2024",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 1,
+      "points": 30.0,
+      "weighted": 1.6,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 1,
+      "pdga_points": 30.0,
+      "tour_weighted_points": 1.6,
+      "avg_finish": 12.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "all": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 1,
+      "pdga_points": 30.0,
+      "tour_weighted_points": 1.6,
+      "avg_finish": 12.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    }
+  },
+  "division_counts": {
+    "MA1": 1
+  },
+  "results": [
+    {
+      "event_id": "74984",
+      "title": "Chiang Mai Open",
+      "dates": "09-Feb to 11-Feb-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Chiang Mai, Thailand",
+      "place": 12,
+      "pdga_points": 30.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 1.6
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2024",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 30.0,
+      "avg_finish": 12.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2022-08-09",
+      "rating": 851,
+      "rounds": 7
+    },
+    {
+      "date": "2022-09-13",
+      "rating": 850,
+      "rounds": 9
+    },
+    {
+      "date": "2022-10-11",
+      "rating": 859,
+      "rounds": 11
+    },
+    {
+      "date": "2023-03-14",
+      "rating": 859,
+      "rounds": 11
+    },
+    {
+      "date": "2023-07-11",
+      "rating": 858,
+      "rounds": 16
+    },
+    {
+      "date": "2023-09-12",
+      "rating": 845,
+      "rounds": 14
+    },
+    {
+      "date": "2023-10-10",
+      "rating": 850,
+      "rounds": 15
+    },
+    {
+      "date": "2024-02-13",
+      "rating": 841,
+      "rounds": 14
+    },
+    {
+      "date": "2024-05-14",
+      "rating": 854,
+      "rounds": 14
+    },
+    {
+      "date": "2024-08-13",
+      "rating": 843,
+      "rounds": 10
+    },
+    {
+      "date": "2024-09-10",
+      "rating": 856,
+      "rounds": 12
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 873,
+      "rounds": 7
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 850,
+      "rounds": 10
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 869,
+      "rounds": 10
+    },
+    {
+      "date": "2026-06-09",
+      "rating": 877,
+      "rounds": 7
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/147364"
+}

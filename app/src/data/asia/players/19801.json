@@ -1,0 +1,441 @@
+{
+  "pdga": 19801,
+  "name": "Zak Berrie #19801",
+  "country": "Singapore",
+  "country_key": "SG",
+  "flag": "\ud83c\uddf8\ud83c\uddec",
+  "rating": 830,
+  "classification": "Amateur",
+  "city": "Singapore",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 370.0,
+  "tour_weighted_points": 85.6,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 11,
+  "wins": 1,
+  "podiums": 3,
+  "top5": 5,
+  "top10": 9,
+  "top20": 10,
+  "avg_finish": 7.82,
+  "win_rate": 0.091,
+  "top10_rate": 0.818,
+  "cash_earned": 0.0,
+  "pdga_rank": 561,
+  "weighted_rank": 687,
+  "country_rank": 15,
+  "am_events": 9,
+  "am_wins": 1,
+  "am_podiums": 2,
+  "am_top10": 7,
+  "am_pdga_points": 350.0,
+  "last_active": "03-Feb to 05-Feb-2023",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 1,
+      "points": 40.0,
+      "weighted": 8.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 10,
+      "points": 330.0,
+      "weighted": 77.6,
+      "wins": 1
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 2,
+      "top20": 2,
+      "pdga_points": 20.0,
+      "tour_weighted_points": 15.0,
+      "avg_finish": 6.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 9,
+      "wins": 1,
+      "podiums": 2,
+      "top5": 4,
+      "top10": 7,
+      "top20": 8,
+      "pdga_points": 350.0,
+      "tour_weighted_points": 70.6,
+      "avg_finish": 8.22,
+      "win_rate": 0.111,
+      "top10_rate": 0.778
+    },
+    "all": {
+      "events": 11,
+      "wins": 1,
+      "podiums": 3,
+      "top5": 5,
+      "top10": 9,
+      "top20": 10,
+      "pdga_points": 370.0,
+      "tour_weighted_points": 85.6,
+      "avg_finish": 7.82,
+      "win_rate": 0.091,
+      "top10_rate": 0.818
+    }
+  },
+  "division_counts": {
+    "MA1": 9,
+    "MPO": 2
+  },
+  "results": [
+    {
+      "event_id": "66066",
+      "title": "Singapore Sling 2023",
+      "dates": "25-Feb-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 5,
+      "pdga_points": 55.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "64802",
+      "title": "2022 Malaysia Disc Golf Tour (Stop #4 / Bale Club DGC)",
+      "dates": "14-Jan-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 2,
+      "pdga_points": 20.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "63567",
+      "title": "Samui Swine Classic X Presented by Prodigy Discs- MPO, FPO, MP40, MP50, MA1",
+      "dates": "03-Feb to 05-Feb-2023",
+      "year": "2023",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 23,
+      "pdga_points": 40.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 8.0
+    },
+    {
+      "event_id": "61511",
+      "title": "The Godfather Classic presented by Chiang Mai Disc Golf",
+      "dates": "20-Aug-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Chiang Mai, Thailand",
+      "place": 1,
+      "pdga_points": 45.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "61046",
+      "title": "Tanjong Rhu Flex Fun",
+      "dates": "18-Jun-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 10,
+      "pdga_points": 15.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "63085",
+      "title": "2022 Singapore Disc Golf Championships",
+      "dates": "17-Sep to 18-Sep-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 5,
+      "pdga_points": 75.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "61822",
+      "title": "Dover Dash 2022",
+      "dates": "16-Jul-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 7,
+      "pdga_points": 20.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "64352",
+      "title": "2022 Malaysia Disc Golf Tour (Stop #2)",
+      "dates": "12-Nov-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Iskandar Puteri, Johor, Malaysia",
+      "place": 9,
+      "pdga_points": 5.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "55884",
+      "title": "Singapore Sling 2022",
+      "dates": "12-Feb-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 7,
+      "pdga_points": 50.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "64657",
+      "title": "2022 Malaysia Disc Golf Tour (Stop #3 / Lakes of Pelangi Indah DGC)",
+      "dates": "10-Dec-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 3,
+      "pdga_points": 15.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "53186",
+      "title": "2021 Singapore Disc Golf Championships",
+      "dates": "18-Sep to 19-Sep-2021",
+      "year": "2021",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 14,
+      "pdga_points": 30.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 1.6
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "61511",
+      "title": "The Godfather Classic presented by Chiang Mai Disc Golf",
+      "dates": "20-Aug-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Chiang Mai, Thailand",
+      "place": 1,
+      "pdga_points": 45.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2023",
+      "events": 3,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 2,
+      "pdga_points": 115.0,
+      "avg_finish": 10.0
+    },
+    {
+      "year": "2022",
+      "events": 7,
+      "wins": 1,
+      "podiums": 2,
+      "top10": 7,
+      "pdga_points": 225.0,
+      "avg_finish": 6.0
+    },
+    {
+      "year": "2021",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 30.0,
+      "avg_finish": 14.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2020-03-10",
+      "rating": 884,
+      "rounds": 13
+    },
+    {
+      "date": "2021-06-08",
+      "rating": 894,
+      "rounds": 7
+    },
+    {
+      "date": "2021-10-12",
+      "rating": 868,
+      "rounds": 8
+    },
+    {
+      "date": "2022-03-08",
+      "rating": 871,
+      "rounds": 7
+    },
+    {
+      "date": "2022-05-10",
+      "rating": 878,
+      "rounds": 12
+    },
+    {
+      "date": "2022-07-12",
+      "rating": 866,
+      "rounds": 12
+    },
+    {
+      "date": "2022-08-09",
+      "rating": 870,
+      "rounds": 12
+    },
+    {
+      "date": "2022-09-13",
+      "rating": 879,
+      "rounds": 14
+    },
+    {
+      "date": "2022-10-11",
+      "rating": 887,
+      "rounds": 16
+    },
+    {
+      "date": "2022-12-13",
+      "rating": 892,
+      "rounds": 18
+    },
+    {
+      "date": "2023-02-14",
+      "rating": 878,
+      "rounds": 22
+    },
+    {
+      "date": "2023-03-14",
+      "rating": 876,
+      "rounds": 22
+    },
+    {
+      "date": "2023-10-10",
+      "rating": 871,
+      "rounds": 12
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 831,
+      "rounds": 6
+    },
+    {
+      "date": "2026-06-09",
+      "rating": 830,
+      "rounds": 6
+    }
+  ],
+  "streak": {
+    "direction": "up",
+    "recent_avg": 38.3,
+    "season_avg": 31.9,
+    "delta_pct": 20.3
+  },
+  "pdga_url": "https://www.pdga.com/player/19801"
+}

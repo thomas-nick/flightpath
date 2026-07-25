@@ -1,0 +1,555 @@
+{
+  "pdga": 76749,
+  "name": "Barrett Jeffrey #76749",
+  "country": "United States",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 909,
+  "classification": "Professional",
+  "city": "Sacramento",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 492.5,
+  "tour_weighted_points": 161.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 17,
+  "wins": 1,
+  "podiums": 8,
+  "top5": 10,
+  "top10": 14,
+  "top20": 17,
+  "avg_finish": 6.35,
+  "win_rate": 0.059,
+  "top10_rate": 0.824,
+  "cash_earned": 0.0,
+  "pdga_rank": 457,
+  "weighted_rank": 422,
+  "country_rank": null,
+  "am_events": 4,
+  "am_wins": 1,
+  "am_podiums": 2,
+  "am_top10": 4,
+  "am_pdga_points": 130.0,
+  "last_active": "14-Feb to 15-Feb-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 2,
+      "points": 160.0,
+      "weighted": 16.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 2,
+      "points": 52.5,
+      "weighted": 14.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 13,
+      "points": 280.0,
+      "weighted": 131.0,
+      "wins": 1
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 13,
+      "wins": 0,
+      "podiums": 6,
+      "top5": 8,
+      "top10": 10,
+      "top20": 13,
+      "pdga_points": 362.5,
+      "tour_weighted_points": 116.0,
+      "avg_finish": 6.46,
+      "win_rate": 0.0,
+      "top10_rate": 0.769
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 4,
+      "wins": 1,
+      "podiums": 2,
+      "top5": 2,
+      "top10": 4,
+      "top20": 4,
+      "pdga_points": 130.0,
+      "tour_weighted_points": 45.0,
+      "avg_finish": 6.0,
+      "win_rate": 0.25,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 17,
+      "wins": 1,
+      "podiums": 8,
+      "top5": 10,
+      "top10": 14,
+      "top20": 17,
+      "pdga_points": 492.5,
+      "tour_weighted_points": 161.0,
+      "avg_finish": 6.35,
+      "win_rate": 0.059,
+      "top10_rate": 0.824
+    }
+  },
+  "division_counts": {
+    "MPO": 13,
+    "MA1": 4
+  },
+  "results": [
+    {
+      "event_id": "99236",
+      "title": "The 2026 Yasothon Valentine Classic Powered by Van City Disc Golf and Presented by PDGA Asia",
+      "dates": "14-Feb to 15-Feb-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Yasothon, Thailand",
+      "place": 3,
+      "pdga_points": 15.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "77293",
+      "title": "Ace Run IV",
+      "dates": "20-Jan-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "koh phangan, Surat Thani, Thailand",
+      "place": 4,
+      "pdga_points": 10.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "85411",
+      "title": "Jungle Jam",
+      "dates": "13-Oct-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Chiang Mai, Thailand",
+      "place": 6,
+      "pdga_points": 40.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "41510",
+      "title": "Squid BBQ Episode 4",
+      "dates": "26-Oct to 27-Oct-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Mak, Thailand",
+      "place": 3,
+      "pdga_points": 15.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "40935",
+      "title": "2nd Annual Elephant Island Open",
+      "dates": "24-Oct-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Ko Chang, Trat, Thailand",
+      "place": 5,
+      "pdga_points": 25.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "42152",
+      "title": "Samui Summer Slam 2",
+      "dates": "14-Jul-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 2,
+      "pdga_points": 10.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "42154",
+      "title": "Samui Summer Sizzler 4",
+      "dates": "11-Aug-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 2,
+      "pdga_points": 20.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "38592",
+      "title": "Samui Swine Classic VI - Presented by Dynamic Discs - Pros",
+      "dates": "08-Feb to 10-Feb-2019",
+      "year": "2019",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 11,
+      "pdga_points": 90.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 8.0
+    },
+    {
+      "event_id": "33102",
+      "title": "Third Annual Hyzenbrownie Open - The Flaskenpouch 2018",
+      "dates": "27-Jan to 28-Jan-2018",
+      "year": "2018",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 19,
+      "pdga_points": 7.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "36849",
+      "title": "Squid BBQ - Episode 3 - Driven by Innova",
+      "dates": "20-Oct to 21-Oct-2018",
+      "year": "2018",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Mak, Trat, Thailand",
+      "place": 3,
+      "pdga_points": 30.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "36860",
+      "title": "Elephant Island Open",
+      "dates": "18-Oct-2018",
+      "year": "2018",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Ko Chang, Trat, Thailand",
+      "place": 6,
+      "pdga_points": 10.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "37746",
+      "title": "Samui Spooky Screamer - Samui Series  #8",
+      "dates": "14-Oct-2018",
+      "year": "2018",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 3,
+      "pdga_points": 20.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "33706",
+      "title": "Samui Swine Classic V",
+      "dates": "01-Feb to 03-Feb-2018",
+      "year": "2018",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 17,
+      "pdga_points": 70.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 8.0
+    },
+    {
+      "event_id": "30447",
+      "title": "Hyzenbrownie Open 2017 - \"The Legend of Laem Sor\"",
+      "dates": "21-Jan to 22-Jan-2017",
+      "year": "2017",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 1,
+      "pdga_points": 30.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "30925",
+      "title": "Samui Origins",
+      "dates": "07-Feb-2017",
+      "year": "2017",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Bophut, Koh Samui, Surat Thani, Thailand",
+      "place": 3,
+      "pdga_points": 20.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "30246",
+      "title": "Samui Swine Classic IV",
+      "dates": "04-Feb to 05-Feb-2017",
+      "year": "2017",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Maenam, Koh Samui, Surat Thani, Thailand",
+      "place": 10,
+      "pdga_points": 45.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "30551",
+      "title": "Koh Som Invitational 2",
+      "dates": "01-Feb-2017",
+      "year": "2017",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Som, Koh Samui, Surat Thani, Thailand",
+      "place": 10,
+      "pdga_points": 35.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "30447",
+      "title": "Hyzenbrownie Open 2017 - \"The Legend of Laem Sor\"",
+      "dates": "21-Jan to 22-Jan-2017",
+      "year": "2017",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 1,
+      "pdga_points": 30.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 15.0,
+      "avg_finish": 3.0
+    },
+    {
+      "year": "2024",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 2,
+      "pdga_points": 50.0,
+      "avg_finish": 5.0
+    },
+    {
+      "year": "2019",
+      "events": 5,
+      "wins": 0,
+      "podiums": 3,
+      "top10": 4,
+      "pdga_points": 160.0,
+      "avg_finish": 4.6
+    },
+    {
+      "year": "2018",
+      "events": 5,
+      "wins": 0,
+      "podiums": 2,
+      "top10": 3,
+      "pdga_points": 137.5,
+      "avg_finish": 9.6
+    },
+    {
+      "year": "2017",
+      "events": 4,
+      "wins": 1,
+      "podiums": 2,
+      "top10": 4,
+      "pdga_points": 130.0,
+      "avg_finish": 6.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2023-05-09",
+      "rating": 913,
+      "rounds": 15
+    },
+    {
+      "date": "2023-07-11",
+      "rating": 905,
+      "rounds": 18
+    },
+    {
+      "date": "2023-11-14",
+      "rating": 904,
+      "rounds": 17
+    },
+    {
+      "date": "2023-12-12",
+      "rating": 902,
+      "rounds": 19
+    },
+    {
+      "date": "2024-02-13",
+      "rating": 901,
+      "rounds": 19
+    },
+    {
+      "date": "2024-03-12",
+      "rating": 898,
+      "rounds": 24
+    },
+    {
+      "date": "2024-08-13",
+      "rating": 900,
+      "rounds": 20
+    },
+    {
+      "date": "2024-11-12",
+      "rating": 899,
+      "rounds": 22
+    },
+    {
+      "date": "2025-02-11",
+      "rating": 899,
+      "rounds": 18
+    },
+    {
+      "date": "2025-03-11",
+      "rating": 908,
+      "rounds": 18
+    },
+    {
+      "date": "2025-11-11",
+      "rating": 909,
+      "rounds": 15
+    },
+    {
+      "date": "2025-12-09",
+      "rating": 907,
+      "rounds": 20
+    },
+    {
+      "date": "2026-02-10",
+      "rating": 925,
+      "rounds": 22
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 912,
+      "rounds": 26
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 909,
+      "rounds": 29
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 21.7,
+    "season_avg": 30.5,
+    "delta_pct": -29.0
+  },
+  "pdga_url": "https://www.pdga.com/player/76749"
+}

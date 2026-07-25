@@ -1,0 +1,434 @@
+{
+  "pdga": 115973,
+  "name": "Yousuke Nakahodo #115973",
+  "country": "Japan",
+  "country_key": "JP",
+  "flag": "\ud83c\uddef\ud83c\uddf5",
+  "rating": 926,
+  "classification": "Professional",
+  "city": "urasoe",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 802.5,
+  "tour_weighted_points": 77.5,
+  "asia_tour_points": 22.5,
+  "asia_tour_events": 1,
+  "events_played": 10,
+  "wins": 0,
+  "podiums": 0,
+  "top5": 1,
+  "top10": 3,
+  "top20": 8,
+  "avg_finish": 15.1,
+  "win_rate": 0.0,
+  "top10_rate": 0.3,
+  "cash_earned": 18.0,
+  "pdga_rank": 312,
+  "weighted_rank": 724,
+  "country_rank": 124,
+  "am_events": 0,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 0,
+  "am_pdga_points": 0.0,
+  "last_active": "06-Mar to 08-Mar-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 1,
+      "points": 22.5,
+      "weighted": 16.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 9,
+      "points": 780.0,
+      "weighted": 61.5,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 10,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 1,
+      "top10": 3,
+      "top20": 8,
+      "pdga_points": 802.5,
+      "tour_weighted_points": 77.5,
+      "avg_finish": 15.1,
+      "win_rate": 0.0,
+      "top10_rate": 0.3
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "all": {
+      "events": 10,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 1,
+      "top10": 3,
+      "top20": 8,
+      "pdga_points": 802.5,
+      "tour_weighted_points": 77.5,
+      "avg_finish": 15.1,
+      "win_rate": 0.0,
+      "top10_rate": 0.3
+    }
+  },
+  "division_counts": {
+    "MPO": 10
+  },
+  "results": [
+    {
+      "event_id": "97704",
+      "title": "The 14th Okinawa Open - PDGA  Asia Tour Event #6",
+      "dates": "06-Mar to 08-Mar-2026",
+      "year": "2026",
+      "tier": "B",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "Kunigami-gun, Okinawa, Japan",
+      "place": 16,
+      "pdga_points": 22.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 16.0
+    },
+    {
+      "event_id": "103427",
+      "title": "The 28th Nippon Open presented by Latitude 64\u00b0",
+      "dates": "04-Jul to 05-Jul-2026",
+      "year": "2026",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Gamo-gun, Shiga, Japan",
+      "place": 17,
+      "pdga_points": 0.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "93189",
+      "title": "The 14th Hokkaido Open",
+      "dates": "28-Jun to 29-Jun-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Futami-gun, Hokkaido, Japan",
+      "place": 8,
+      "pdga_points": 75.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "87628",
+      "title": "The13th Okinawa Open",
+      "dates": "22-Feb to 23-Feb-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Kunigami-gun, Okinawa, Japan",
+      "place": 13,
+      "pdga_points": 67.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "59456",
+      "title": "The 24th Nippon Open",
+      "dates": "11-Jun to 12-Jun-2022",
+      "year": "2022",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Gamo-gun, Shiga, Japan",
+      "place": 24,
+      "pdga_points": 225.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "55133",
+      "title": "The 35th Kyushu Open",
+      "dates": "27-Nov to 28-Nov-2021",
+      "year": "2021",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Fukuoka City, Fukuoka, Japan",
+      "place": 16,
+      "pdga_points": 90.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "55135",
+      "title": "The 33rd. Japan National Championships",
+      "dates": "18-Dec to 19-Dec-2021",
+      "year": "2021",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Mikawa, Aichi, Japan",
+      "place": 24,
+      "pdga_points": 52.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "45290",
+      "title": "The 34th Kyushu Open",
+      "dates": "28-Nov to 29-Nov-2020",
+      "year": "2020",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Fukuoka, Fukuoka, Japan",
+      "place": 19,
+      "pdga_points": 90.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "44595",
+      "title": "The 9th Okinawa Open",
+      "dates": "15-Feb to 16-Feb-2020",
+      "year": "2020",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Nakijin, Okinawa, Japan",
+      "place": 9,
+      "pdga_points": 67.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "39009",
+      "title": "The 8th Okinawa Open",
+      "dates": "16-Feb to 17-Feb-2019",
+      "year": "2019",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Nakijin, Okinawa, Japan",
+      "place": 5,
+      "pdga_points": 112.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$18",
+      "weighted_points": 17.5
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 22.5,
+      "avg_finish": 16.5
+    },
+    {
+      "year": "2025",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 142.5,
+      "avg_finish": 10.5
+    },
+    {
+      "year": "2022",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 225.0,
+      "avg_finish": 24.0
+    },
+    {
+      "year": "2021",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 142.5,
+      "avg_finish": 20.0
+    },
+    {
+      "year": "2020",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 157.5,
+      "avg_finish": 14.0
+    },
+    {
+      "year": "2019",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 112.5,
+      "avg_finish": 5.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2019-05-14",
+      "rating": 986,
+      "rounds": 3
+    },
+    {
+      "date": "2020-03-10",
+      "rating": 959,
+      "rounds": 6
+    },
+    {
+      "date": "2020-12-08",
+      "rating": 936,
+      "rounds": 2
+    },
+    {
+      "date": "2021-12-14",
+      "rating": 933,
+      "rounds": 5
+    },
+    {
+      "date": "2022-01-11",
+      "rating": 940,
+      "rounds": 5
+    },
+    {
+      "date": "2022-07-12",
+      "rating": 944,
+      "rounds": 5
+    },
+    {
+      "date": "2022-12-13",
+      "rating": 938,
+      "rounds": 7
+    },
+    {
+      "date": "2023-04-11",
+      "rating": 928,
+      "rounds": 9
+    },
+    {
+      "date": "2023-05-09",
+      "rating": 927,
+      "rounds": 8
+    },
+    {
+      "date": "2023-08-08",
+      "rating": 916,
+      "rounds": 10
+    },
+    {
+      "date": "2024-06-11",
+      "rating": 914,
+      "rounds": 8
+    },
+    {
+      "date": "2025-01-14",
+      "rating": 916,
+      "rounds": 9
+    },
+    {
+      "date": "2025-03-11",
+      "rating": 927,
+      "rounds": 8
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 933,
+      "rounds": 8
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 926,
+      "rounds": 9
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 32.5,
+    "season_avg": 100.7,
+    "delta_pct": -67.7
+  },
+  "pdga_url": "https://www.pdga.com/player/115973"
+}

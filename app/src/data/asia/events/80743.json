@@ -1,0 +1,239 @@
+{
+  "event_id": "80743",
+  "title": "Trat DGC Grand Opening",
+  "location": "Trat, Surat Thani, Thailand",
+  "dates": "01-Jun-2024",
+  "year": "2024",
+  "tier": "C",
+  "level": "c_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 16,
+  "avg_mpo_rating": 901.8,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "count": 13
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 197036,
+      "name": "Pichet Panturat",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 1,
+      "pdga_points": 65.0,
+      "rating": 997,
+      "prize": "$90",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 84867,
+      "name": "Tomi Lehtonen",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 2,
+      "pdga_points": 60.0,
+      "rating": 975,
+      "prize": "$60",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 18801,
+      "name": "Luke Butch",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 3,
+      "pdga_points": 55.0,
+      "rating": 892,
+      "prize": "$30",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 50694,
+      "name": "Charles Gabage",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 4,
+      "pdga_points": 50.0,
+      "rating": 920,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 64368,
+      "name": "David Rodriguez",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 5,
+      "pdga_points": 45.0,
+      "rating": 899,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 195461,
+      "name": "John Gore",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 6,
+      "pdga_points": 40.0,
+      "rating": 886,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 12353,
+      "name": "Brock Pitzer",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 7,
+      "pdga_points": 35.0,
+      "rating": 866,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 225359,
+      "name": "Edward McCann",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 8,
+      "pdga_points": 30.0,
+      "rating": 867,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 258152,
+      "name": "Phatchara Ngoensri",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 10,
+      "pdga_points": 20.0,
+      "rating": 865,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 185901,
+      "name": "Ben Schikker",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 11,
+      "pdga_points": 15.0,
+      "rating": 921,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "New Zealand",
+      "country_key": ""
+    },
+    {
+      "pdga": 101042,
+      "name": "Chatchai Boi Sangwan",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 12,
+      "pdga_points": 10.0,
+      "rating": 834,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 6035,
+      "name": "Makoto Nagata",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 13,
+      "pdga_points": 5.0,
+      "rating": 900,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    }
+  ],
+  "fpo": [
+    {
+      "pdga": 282457,
+      "name": "Khim Chotchuang",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 1,
+      "pdga_points": 3.0,
+      "rating": 774,
+      "prize": "$20",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    }
+  ],
+  "amateur": [
+    {
+      "pdga": 243595,
+      "name": "Chatchawan Kaesamrong",
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 9.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 68503,
+      "name": "Pom Holiday",
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 6.0,
+      "rating": 846,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 242449,
+      "name": "Pracha Pliansri",
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "place": 3,
+      "pdga_points": 3.0,
+      "rating": 864,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    }
+  ],
+  "divisions": [
+    "FPO",
+    "MA50",
+    "MPO"
+  ]
+}

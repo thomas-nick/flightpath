@@ -1,0 +1,294 @@
+{
+  "pdga": 85564,
+  "name": "Jeff Eden #85564",
+  "country": "United States",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 856,
+  "classification": "Amateur",
+  "city": "Middleburg",
+  "nationality": "",
+  "division": "MA60",
+  "primary_class": "amateur",
+  "pdga_points": 38.0,
+  "tour_weighted_points": 40.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 2,
+  "wins": 2,
+  "podiums": 2,
+  "top5": 2,
+  "top10": 2,
+  "top20": 2,
+  "avg_finish": 1.0,
+  "win_rate": 1.0,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 1606,
+  "weighted_rank": 1022,
+  "country_rank": null,
+  "am_events": 2,
+  "am_wins": 2,
+  "am_podiums": 2,
+  "am_top10": 2,
+  "am_pdga_points": 38.0,
+  "last_active": "28-Jan to 30-Jan-2025",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 2,
+      "points": 38.0,
+      "weighted": 40.0,
+      "wins": 2
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 2,
+      "wins": 2,
+      "podiums": 2,
+      "top5": 2,
+      "top10": 2,
+      "top20": 2,
+      "pdga_points": 38.0,
+      "tour_weighted_points": 40.0,
+      "avg_finish": 1.0,
+      "win_rate": 1.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 2,
+      "wins": 2,
+      "podiums": 2,
+      "top5": 2,
+      "top10": 2,
+      "top20": 2,
+      "pdga_points": 38.0,
+      "tour_weighted_points": 40.0,
+      "avg_finish": 1.0,
+      "win_rate": 1.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA60": 2
+  },
+  "results": [
+    {
+      "event_id": "84698",
+      "title": "Samui Swine Classic XII - MA1, MA2, MA3, MA40, MA50, MA60, FA1 Presented by Latitude 64",
+      "dates": "28-Jan to 30-Jan-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 1,
+      "pdga_points": 28.0,
+      "division": "MA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "87260",
+      "title": "Samui Winter Warm Up II",
+      "dates": "19-Jan-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 1,
+      "pdga_points": 10.0,
+      "division": "MA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "84698",
+      "title": "Samui Swine Classic XII - MA1, MA2, MA3, MA40, MA50, MA60, FA1 Presented by Latitude 64",
+      "dates": "28-Jan to 30-Jan-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 1,
+      "pdga_points": 28.0,
+      "division": "MA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "87260",
+      "title": "Samui Winter Warm Up II",
+      "dates": "19-Jan-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 1,
+      "pdga_points": 10.0,
+      "division": "MA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2025",
+      "events": 2,
+      "wins": 2,
+      "podiums": 2,
+      "top10": 2,
+      "pdga_points": 38.0,
+      "avg_finish": 1.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2025-03-11",
+      "rating": 867,
+      "rounds": 51
+    },
+    {
+      "date": "2025-04-08",
+      "rating": 867,
+      "rounds": 50
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 864,
+      "rounds": 49
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 862,
+      "rounds": 51
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 859,
+      "rounds": 53
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 859,
+      "rounds": 48
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 860,
+      "rounds": 48
+    },
+    {
+      "date": "2025-12-09",
+      "rating": 864,
+      "rounds": 49
+    },
+    {
+      "date": "2026-01-13",
+      "rating": 864,
+      "rounds": 44
+    },
+    {
+      "date": "2026-02-10",
+      "rating": 856,
+      "rounds": 45
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 854,
+      "rounds": 45
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 854,
+      "rounds": 45
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 854,
+      "rounds": 44
+    },
+    {
+      "date": "2026-06-09",
+      "rating": 854,
+      "rounds": 45
+    },
+    {
+      "date": "2026-07-14",
+      "rating": 856,
+      "rounds": 44
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/85564"
+}

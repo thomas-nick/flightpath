@@ -1,0 +1,271 @@
+{
+  "pdga": 65685,
+  "name": "Melanie SanFilippo #65685",
+  "country": "United States",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 845,
+  "classification": "Amateur",
+  "city": "Davenport",
+  "nationality": "",
+  "division": "FA2",
+  "primary_class": "amateur",
+  "pdga_points": 32.0,
+  "tour_weighted_points": 130.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 2,
+  "top5": 2,
+  "top10": 2,
+  "top20": 2,
+  "avg_finish": 2.5,
+  "win_rate": 0.0,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 2577,
+  "weighted_rank": 385,
+  "country_rank": null,
+  "am_events": 2,
+  "am_wins": 0,
+  "am_podiums": 2,
+  "am_top10": 2,
+  "am_pdga_points": 32.0,
+  "last_active": "05-Aug to 07-Aug-2022",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 2,
+      "points": 32.0,
+      "weighted": 130.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 2,
+      "top5": 2,
+      "top10": 2,
+      "top20": 2,
+      "pdga_points": 32.0,
+      "tour_weighted_points": 130.0,
+      "avg_finish": 2.5,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 2,
+      "top5": 2,
+      "top10": 2,
+      "top20": 2,
+      "pdga_points": 32.0,
+      "tour_weighted_points": 130.0,
+      "avg_finish": 2.5,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "FA2": 1,
+    "FA40": 1
+  },
+  "results": [
+    {
+      "event_id": "55383",
+      "title": "The TruBank Des Moines Challenge presented by Discraft",
+      "dates": "05-Aug to 07-Aug-2022",
+      "year": "2022",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Indianola, Iowa, United States",
+      "place": 2,
+      "pdga_points": 4.0,
+      "division": "FA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 75.0
+    },
+    {
+      "event_id": "47868",
+      "title": "Des Moines Challenge Presented by GEICO Des Moines",
+      "dates": "09-Jul to 11-Jul-2021",
+      "year": "2021",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Indianola, Iowa, United States",
+      "place": 3,
+      "pdga_points": 28.0,
+      "division": "FA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 55.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2022",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 4.0,
+      "avg_finish": 2.0
+    },
+    {
+      "year": "2021",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 28.0,
+      "avg_finish": 3.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2024-04-09",
+      "rating": 810,
+      "rounds": 27
+    },
+    {
+      "date": "2024-05-14",
+      "rating": 808,
+      "rounds": 26
+    },
+    {
+      "date": "2024-06-11",
+      "rating": 811,
+      "rounds": 26
+    },
+    {
+      "date": "2024-07-09",
+      "rating": 806,
+      "rounds": 21
+    },
+    {
+      "date": "2024-09-10",
+      "rating": 796,
+      "rounds": 20
+    },
+    {
+      "date": "2024-10-08",
+      "rating": 817,
+      "rounds": 16
+    },
+    {
+      "date": "2024-11-12",
+      "rating": 807,
+      "rounds": 18
+    },
+    {
+      "date": "2024-12-10",
+      "rating": 806,
+      "rounds": 19
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 832,
+      "rounds": 19
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 839,
+      "rounds": 24
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 837,
+      "rounds": 23
+    },
+    {
+      "date": "2025-12-09",
+      "rating": 835,
+      "rounds": 20
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 834,
+      "rounds": 21
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 846,
+      "rounds": 21
+    },
+    {
+      "date": "2026-07-14",
+      "rating": 845,
+      "rounds": 19
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/65685"
+}

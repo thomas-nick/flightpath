@@ -1,0 +1,288 @@
+{
+  "pdga": 92566,
+  "name": "Simon Torres #92566",
+  "country": "United States",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 944,
+  "classification": "Amateur",
+  "city": "Chicago",
+  "nationality": "",
+  "division": "MA2",
+  "primary_class": "amateur",
+  "pdga_points": 596.0,
+  "tour_weighted_points": 27.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 2,
+  "wins": 1,
+  "podiums": 1,
+  "top5": 2,
+  "top10": 2,
+  "top20": 2,
+  "avg_finish": 2.5,
+  "win_rate": 0.5,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 557,
+  "weighted_rank": 1225,
+  "country_rank": null,
+  "am_events": 2,
+  "am_wins": 1,
+  "am_podiums": 1,
+  "am_top10": 2,
+  "am_pdga_points": 596.0,
+  "last_active": "30-Jul-2023",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 2,
+      "points": 596.0,
+      "weighted": 27.0,
+      "wins": 1
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 2,
+      "wins": 1,
+      "podiums": 1,
+      "top5": 2,
+      "top10": 2,
+      "top20": 2,
+      "pdga_points": 596.0,
+      "tour_weighted_points": 27.0,
+      "avg_finish": 2.5,
+      "win_rate": 0.5,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 2,
+      "wins": 1,
+      "podiums": 1,
+      "top5": 2,
+      "top10": 2,
+      "top20": 2,
+      "pdga_points": 596.0,
+      "tour_weighted_points": 27.0,
+      "avg_finish": 2.5,
+      "win_rate": 0.5,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA2": 1,
+    "MA1": 1
+  },
+  "results": [
+    {
+      "event_id": "69206",
+      "title": "2023 Discontinuum Club Challenge Invitational",
+      "dates": "30-Jul-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Crown Point, Indiana, United States",
+      "place": 1,
+      "pdga_points": 340.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "61612",
+      "title": "2022 Discontinuum Club Challenge Invitational",
+      "dates": "07-Aug-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Crown Point, Indiana, United States",
+      "place": 4,
+      "pdga_points": 256.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "69206",
+      "title": "2023 Discontinuum Club Challenge Invitational",
+      "dates": "30-Jul-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Crown Point, Indiana, United States",
+      "place": 1,
+      "pdga_points": 340.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2023",
+      "events": 1,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 340.0,
+      "avg_finish": 1.0
+    },
+    {
+      "year": "2022",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 256.0,
+      "avg_finish": 4.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2024-07-09",
+      "rating": 925,
+      "rounds": 28
+    },
+    {
+      "date": "2024-08-13",
+      "rating": 925,
+      "rounds": 32
+    },
+    {
+      "date": "2024-11-12",
+      "rating": 926,
+      "rounds": 32
+    },
+    {
+      "date": "2025-01-14",
+      "rating": 925,
+      "rounds": 32
+    },
+    {
+      "date": "2025-04-08",
+      "rating": 927,
+      "rounds": 33
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 926,
+      "rounds": 33
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 931,
+      "rounds": 30
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 939,
+      "rounds": 26
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 937,
+      "rounds": 30
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 934,
+      "rounds": 31
+    },
+    {
+      "date": "2026-01-13",
+      "rating": 939,
+      "rounds": 33
+    },
+    {
+      "date": "2026-02-10",
+      "rating": 940,
+      "rounds": 33
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 940,
+      "rounds": 35
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 941,
+      "rounds": 38
+    },
+    {
+      "date": "2026-06-09",
+      "rating": 944,
+      "rounds": 38
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/92566"
+}

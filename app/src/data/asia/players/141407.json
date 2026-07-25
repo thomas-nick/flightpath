@@ -1,0 +1,278 @@
+{
+  "pdga": 141407,
+  "name": "Shawn Williams #141407",
+  "country": "United States",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 845,
+  "classification": "Amateur",
+  "city": "Aubrey",
+  "nationality": "",
+  "division": "MA3",
+  "primary_class": "amateur",
+  "pdga_points": 55.5,
+  "tour_weighted_points": 18.1,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 3,
+  "wins": 0,
+  "podiums": 1,
+  "top5": 1,
+  "top10": 1,
+  "top20": 2,
+  "avg_finish": 15.67,
+  "win_rate": 0.0,
+  "top10_rate": 0.333,
+  "cash_earned": 0.0,
+  "pdga_rank": 2194,
+  "weighted_rank": 1579,
+  "country_rank": null,
+  "am_events": 3,
+  "am_wins": 0,
+  "am_podiums": 1,
+  "am_top10": 1,
+  "am_pdga_points": 55.5,
+  "last_active": "27-Mar-2022",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 13.5,
+      "weighted": 1.5,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 2,
+      "points": 42.0,
+      "weighted": 16.6,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 3,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 1,
+      "top20": 2,
+      "pdga_points": 55.5,
+      "tour_weighted_points": 18.1,
+      "avg_finish": 15.67,
+      "win_rate": 0.0,
+      "top10_rate": 0.333
+    },
+    "all": {
+      "events": 3,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 1,
+      "top20": 2,
+      "pdga_points": 55.5,
+      "tour_weighted_points": 18.1,
+      "avg_finish": 15.67,
+      "win_rate": 0.0,
+      "top10_rate": 0.333
+    }
+  },
+  "division_counts": {
+    "MA3": 2,
+    "MA40": 1
+  },
+  "results": [
+    {
+      "event_id": "61799",
+      "title": "33rd Checkered Flag Open presented by Disc Crazy Am",
+      "dates": "28-Aug-2022",
+      "year": "2022",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Indianapolis , Indiana, United States",
+      "place": 29,
+      "pdga_points": 13.5,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 1.5
+    },
+    {
+      "event_id": "55823",
+      "title": "Wiffs Finale \"Winters Last Hurrah\" (CEP Charity - Rated)",
+      "dates": "27-Mar-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Monrovia, Indiana, United States",
+      "place": 16,
+      "pdga_points": 18.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "62558",
+      "title": "2022 limestone open by BDGC",
+      "dates": "17-Sep-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Ellettsville , Indiana, United States",
+      "place": 2,
+      "pdga_points": 24.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2022",
+      "events": 3,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 55.5,
+      "avg_finish": 15.67
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2025-01-14",
+      "rating": 835,
+      "rounds": 17
+    },
+    {
+      "date": "2025-02-11",
+      "rating": 837,
+      "rounds": 20
+    },
+    {
+      "date": "2025-03-11",
+      "rating": 835,
+      "rounds": 22
+    },
+    {
+      "date": "2025-04-08",
+      "rating": 831,
+      "rounds": 24
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 832,
+      "rounds": 32
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 837,
+      "rounds": 37
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 843,
+      "rounds": 42
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 847,
+      "rounds": 46
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 846,
+      "rounds": 51
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 842,
+      "rounds": 51
+    },
+    {
+      "date": "2025-11-11",
+      "rating": 841,
+      "rounds": 58
+    },
+    {
+      "date": "2025-12-09",
+      "rating": 842,
+      "rounds": 57
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 845,
+      "rounds": 47
+    },
+    {
+      "date": "2026-06-09",
+      "rating": 845,
+      "rounds": 43
+    },
+    {
+      "date": "2026-07-14",
+      "rating": 845,
+      "rounds": 42
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/141407"
+}

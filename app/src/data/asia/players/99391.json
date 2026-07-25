@@ -1,0 +1,309 @@
+{
+  "pdga": 99391,
+  "name": "Yingfeng Eric Xu #99391",
+  "country": "China",
+  "country_key": "CN",
+  "flag": "\ud83c\udde8\ud83c\uddf3",
+  "rating": 766,
+  "classification": "Amateur",
+  "city": "Ningbo City / Beilun District",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 267.0,
+  "tour_weighted_points": 27.8,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 6,
+  "wins": 0,
+  "podiums": 1,
+  "top5": 1,
+  "top10": 3,
+  "top20": 6,
+  "avg_finish": 9.5,
+  "win_rate": 0.0,
+  "top10_rate": 0.5,
+  "cash_earned": 0.0,
+  "pdga_rank": 696,
+  "weighted_rank": 1204,
+  "country_rank": 111,
+  "am_events": 5,
+  "am_wins": 0,
+  "am_podiums": 1,
+  "am_top10": 3,
+  "am_pdga_points": 242.0,
+  "last_active": "23-Jul to 24-Jul-2022",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 6,
+      "points": 267.0,
+      "weighted": 27.8,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 1,
+      "pdga_points": 25.0,
+      "tour_weighted_points": 1.6,
+      "avg_finish": 16.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 5,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 3,
+      "top20": 5,
+      "pdga_points": 242.0,
+      "tour_weighted_points": 26.2,
+      "avg_finish": 8.2,
+      "win_rate": 0.0,
+      "top10_rate": 0.6
+    },
+    "all": {
+      "events": 6,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 3,
+      "top20": 6,
+      "pdga_points": 267.0,
+      "tour_weighted_points": 27.8,
+      "avg_finish": 9.5,
+      "win_rate": 0.0,
+      "top10_rate": 0.5
+    }
+  },
+  "division_counts": {
+    "MPO": 1,
+    "MA1": 4,
+    "MA2": 1
+  },
+  "results": [
+    {
+      "event_id": "62145",
+      "title": "2022 Yikun Cup Disc Golf Mystery Box Game",
+      "dates": "23-Jul to 24-Jul-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Beijing, Beijing Shi, China",
+      "place": 9,
+      "pdga_points": 75.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "53115",
+      "title": "2021\u957f\u767d\u5c71\u63b7\u51c6\u98de\u76d8\u9080\u8bf7\u8d5b",
+      "dates": "17-Jul to 18-Jul-2021",
+      "year": "2021",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "\u767d\u5c71\u5e02, Jilin Sheng, China",
+      "place": 16,
+      "pdga_points": 25.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "43016",
+      "title": "Suzhou\u82cf\u5dde\u79cb\u5b63\u4e1a\u4f59\u98de\u76d8\u9ad8\u5c14\u592b\u6bd4\u8d5b 2019 Suzhou Autumn Amateur Disc Golf Tournament (CDGC Disc Golf Series)",
+      "dates": "21-Sep-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Suzhou, Jiangsu Sheng, China",
+      "place": 2,
+      "pdga_points": 12.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "40747",
+      "title": "2019 CDGC Disc Golf Tournament (Changzhou) presented by Betterman Club",
+      "dates": "13-Apr to 14-Apr-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Changzhou City, Jiangsu Sheng, China",
+      "place": 11,
+      "pdga_points": 45.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "38349",
+      "title": "2nd CDGC Disc Golf tournament (China) sponsored by Yikun Discs/ Prodigy Disc/ Huanghai National Park",
+      "dates": "28-Oct-2018",
+      "year": "2018",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "\u76d0\u57ce\u5e02 City Yancheng, Jiangsu Sheng, China",
+      "place": 12,
+      "pdga_points": 65.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "38858",
+      "title": "2018 Changzhou Christmas Open Presented by BetterMan Club/ CDGC/ Yikun Discs/ Prodigy Disc",
+      "dates": "22-Dec to 23-Dec-2018",
+      "year": "2018",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Changzhou, Jiangsu Sheng, China",
+      "place": 7,
+      "pdga_points": 45.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2022",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 75.0,
+      "avg_finish": 9.0
+    },
+    {
+      "year": "2021",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 25.0,
+      "avg_finish": 16.0
+    },
+    {
+      "year": "2019",
+      "events": 2,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 57.0,
+      "avg_finish": 6.5
+    },
+    {
+      "year": "2018",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 110.0,
+      "avg_finish": 9.5
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2018-11-28",
+      "rating": 823,
+      "rounds": 1
+    },
+    {
+      "date": "2019-01-29",
+      "rating": 850,
+      "rounds": 3
+    },
+    {
+      "date": "2019-05-14",
+      "rating": 821,
+      "rounds": 6
+    },
+    {
+      "date": "2019-10-08",
+      "rating": 819,
+      "rounds": 7
+    },
+    {
+      "date": "2021-08-10",
+      "rating": 772,
+      "rounds": 4
+    },
+    {
+      "date": "2022-08-09",
+      "rating": 766,
+      "rounds": 5
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 37.3,
+    "season_avg": 51.7,
+    "delta_pct": -27.7
+  },
+  "pdga_url": "https://www.pdga.com/player/99391"
+}

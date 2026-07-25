@@ -1,0 +1,293 @@
+{
+  "pdga": 8047,
+  "name": "Yasuhiko Morita #8047",
+  "country": "Japan",
+  "country_key": "JP",
+  "flag": "\ud83c\uddef\ud83c\uddf5",
+  "rating": 843,
+  "classification": "Professional",
+  "city": "Japan",
+  "nationality": "",
+  "division": "MA1",
+  "primary_class": "amateur",
+  "pdga_points": 153.5,
+  "tour_weighted_points": 87.6,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 7,
+  "wins": 0,
+  "podiums": 2,
+  "top5": 3,
+  "top10": 6,
+  "top20": 7,
+  "avg_finish": 6.71,
+  "win_rate": 0.0,
+  "top10_rate": 0.857,
+  "cash_earned": 0.0,
+  "pdga_rank": 958,
+  "weighted_rank": 675,
+  "country_rank": 230,
+  "am_events": 7,
+  "am_wins": 0,
+  "am_podiums": 2,
+  "am_top10": 6,
+  "am_pdga_points": 153.5,
+  "last_active": "04-Mar to 05-Mar-2023",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 5,
+      "points": 118.5,
+      "weighted": 75.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 2,
+      "points": 35.0,
+      "weighted": 12.6,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 7,
+      "wins": 0,
+      "podiums": 2,
+      "top5": 3,
+      "top10": 6,
+      "top20": 7,
+      "pdga_points": 153.5,
+      "tour_weighted_points": 87.6,
+      "avg_finish": 6.71,
+      "win_rate": 0.0,
+      "top10_rate": 0.857
+    },
+    "all": {
+      "events": 7,
+      "wins": 0,
+      "podiums": 2,
+      "top5": 3,
+      "top10": 6,
+      "top20": 7,
+      "pdga_points": 153.5,
+      "tour_weighted_points": 87.6,
+      "avg_finish": 6.71,
+      "win_rate": 0.0,
+      "top10_rate": 0.857
+    }
+  },
+  "division_counts": {
+    "MA60": 3,
+    "MA1": 4
+  },
+  "results": [
+    {
+      "event_id": "66069",
+      "title": "National Doubles Championships",
+      "dates": "04-Mar to 05-Mar-2023",
+      "year": "2023",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Hitachinaka, Ibaraki, Japan",
+      "place": 6,
+      "pdga_points": 12.0,
+      "division": "MA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "41244",
+      "title": "The 23rd. Kanto Open",
+      "dates": "13-Jul to 15-Jul-2019",
+      "year": "2019",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Utsunomiya, Tochigi, Japan",
+      "place": 9,
+      "pdga_points": 15.0,
+      "division": "MA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "39007",
+      "title": "National Team Championship - Divisional",
+      "dates": "13-Jan to 14-Jan-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Oyama, Tochigi, Japan",
+      "place": 3,
+      "pdga_points": 25.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "36411",
+      "title": "The 29th Tokyo Open",
+      "dates": "21-Apr to 22-Apr-2018",
+      "year": "2018",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koto-ku, Tokyo, Japan",
+      "place": 15,
+      "pdga_points": 10.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "36414",
+      "title": "The 13th Kiyosatonomori Open",
+      "dates": "19-May to 20-May-2018",
+      "year": "2018",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Hokuto City, Yamanashi, Japan",
+      "place": 3,
+      "pdga_points": 9.0,
+      "division": "MA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 27.5
+    },
+    {
+      "event_id": "37288",
+      "title": "The 13th Kiyosatonomori Open 1 Day",
+      "dates": "19-May-2018",
+      "year": "2018",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Hokuto City, Japan",
+      "place": 4,
+      "pdga_points": 30.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "10271",
+      "title": "5th Kiyosatonomori Open",
+      "dates": "22-May to 23-May-2010",
+      "year": "2010",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Kiyosato, Yamanashi, Japan",
+      "place": 7,
+      "pdga_points": 52.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 10.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2023",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 12.0,
+      "avg_finish": 6.0
+    },
+    {
+      "year": "2019",
+      "events": 2,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 2,
+      "pdga_points": 40.0,
+      "avg_finish": 6.0
+    },
+    {
+      "year": "2018",
+      "events": 3,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 2,
+      "pdga_points": 49.0,
+      "avg_finish": 7.33
+    },
+    {
+      "year": "2010",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 52.5,
+      "avg_finish": 7.0
+    }
+  ],
+  "rating_history": [],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 17.3,
+    "season_avg": 25.4,
+    "delta_pct": -31.7
+  },
+  "pdga_url": "https://www.pdga.com/player/8047"
+}

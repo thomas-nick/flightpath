@@ -1,0 +1,74 @@
+{
+  "jp": {
+    "key": "jp",
+    "name": "Japan",
+    "file": "jp.png",
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_39h80lzz60IwE2wBs9tjlb23QNM/hf_20260722_174652_aa664a03-684c-442e-9fa9-17dfd0d4d3f1.png"
+  },
+  "cn": {
+    "key": "cn",
+    "name": "China",
+    "file": "cn.png",
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_39h80lzz60IwE2wBs9tjlb23QNM/hf_20260722_174951_d198d457-1636-4082-805f-45886694e369.png"
+  },
+  "th": {
+    "key": "th",
+    "name": "Thailand",
+    "file": "th.png",
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_39h80lzz60IwE2wBs9tjlb23QNM/hf_20260722_175214_1ba112cf-ec81-46a5-84d1-87ade0d50a0d.png"
+  },
+  "ph": {
+    "key": "ph",
+    "name": "Philippines",
+    "file": "ph.png",
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_39h80lzz60IwE2wBs9tjlb23QNM/hf_20260722_175431_34e22997-f20f-4f37-95f9-97cb36edb9fe.png"
+  },
+  "kr": {
+    "key": "kr",
+    "name": "South Korea",
+    "file": "kr.png",
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_39h80lzz60IwE2wBs9tjlb23QNM/hf_20260722_175646_fd141ea2-257c-447c-a201-ab9adae8a642.png"
+  },
+  "sg": {
+    "key": "sg",
+    "name": "Singapore",
+    "file": "sg.png",
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_39h80lzz60IwE2wBs9tjlb23QNM/hf_20260722_175914_1f8eeba2-b6f7-43dd-b298-f99d05e17afe.png"
+  },
+  "my": {
+    "key": "my",
+    "name": "Malaysia",
+    "file": "my.png",
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_39h80lzz60IwE2wBs9tjlb23QNM/hf_20260722_180126_c061f1e7-b6e3-4ce1-b92a-c68bad271100.png"
+  },
+  "tw": {
+    "key": "tw",
+    "name": "Chinese Taipei",
+    "file": "tw.png",
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_39h80lzz60IwE2wBs9tjlb23QNM/hf_20260722_180416_c591f294-edd7-4f5d-a6d4-4af0a17524db.png"
+  },
+  "vn": {
+    "key": "vn",
+    "name": "Vietnam",
+    "file": "vn.png",
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_39h80lzz60IwE2wBs9tjlb23QNM/hf_20260722_180626_47d634fa-bb72-409a-80f0-1c78b0253afd.png"
+  },
+  "kh": {
+    "key": "kh",
+    "name": "Cambodia",
+    "file": "kh.png",
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_39h80lzz60IwE2wBs9tjlb23QNM/hf_20260722_180841_a955f664-0e70-4998-833f-2ced02373b40.png"
+  },
+  "hk": {
+    "key": "hk",
+    "name": "Hong Kong",
+    "file": "hk.png",
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_39h80lzz60IwE2wBs9tjlb23QNM/hf_20260722_181055_c7e2d59f-848c-4896-a217-3167e77ec02d.png"
+  },
+  "mn": {
+    "key": "mn",
+    "name": "Mongolia",
+    "file": "mn.png",
+    "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_39h80lzz60IwE2wBs9tjlb23QNM/hf_20260722_181258_389ce7d1-b2d6-45c0-9a40-7c186180a323.png"
+  }
+}

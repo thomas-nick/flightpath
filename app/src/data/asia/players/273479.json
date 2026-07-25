@@ -1,0 +1,379 @@
+{
+  "pdga": 273479,
+  "name": "Khem Napathom #273479",
+  "country": "Thailand",
+  "country_key": "TH",
+  "flag": "\ud83c\uddf9\ud83c\udded",
+  "rating": 900,
+  "classification": "Amateur",
+  "city": "Nakhon Pathom",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 362.5,
+  "tour_weighted_points": 197.6,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 9,
+  "wins": 1,
+  "podiums": 2,
+  "top5": 4,
+  "top10": 8,
+  "top20": 9,
+  "avg_finish": 7.11,
+  "win_rate": 0.111,
+  "top10_rate": 0.889,
+  "cash_earned": 0.0,
+  "pdga_rank": 568,
+  "weighted_rank": 339,
+  "country_rank": 32,
+  "am_events": 4,
+  "am_wins": 1,
+  "am_podiums": 2,
+  "am_top10": 4,
+  "am_pdga_points": 172.5,
+  "last_active": "20-Jan to 22-Jan-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 2,
+      "points": 57.5,
+      "weighted": 150.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 7,
+      "points": 305.0,
+      "weighted": 47.6,
+      "wins": 1
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 5,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 2,
+      "top10": 4,
+      "top20": 5,
+      "pdga_points": 190.0,
+      "tour_weighted_points": 23.6,
+      "avg_finish": 9.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.8
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 4,
+      "wins": 1,
+      "podiums": 2,
+      "top5": 2,
+      "top10": 4,
+      "top20": 4,
+      "pdga_points": 172.5,
+      "tour_weighted_points": 174.0,
+      "avg_finish": 4.75,
+      "win_rate": 0.25,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 9,
+      "wins": 1,
+      "podiums": 2,
+      "top5": 4,
+      "top10": 8,
+      "top20": 9,
+      "pdga_points": 362.5,
+      "tour_weighted_points": 197.6,
+      "avg_finish": 7.11,
+      "win_rate": 0.111,
+      "top10_rate": 0.889
+    }
+  },
+  "division_counts": {
+    "MA1": 4,
+    "MPO": 5
+  },
+  "results": [
+    {
+      "event_id": "95844",
+      "title": "Samui Swine Classic XIII - Ams Presented by Latitude64 - PDGA Asia Tour event #3",
+      "dates": "27-Jan to 29-Jan-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "Koh Samui, Thailand",
+      "place": 9,
+      "pdga_points": 20.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 40.0
+    },
+    {
+      "event_id": "96727",
+      "title": "Siam Open 2026 - PDGA Asia Tour Event #2",
+      "dates": "20-Jan to 22-Jan-2026",
+      "year": "2026",
+      "tier": "B",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "Bangkok, Thailand",
+      "place": 3,
+      "pdga_points": 37.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 110.0
+    },
+    {
+      "event_id": "105157",
+      "title": "Mango Valley DG Cup - Campus Challenge",
+      "dates": "04-Jul-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Chiang Mai, San Sai, Thailand",
+      "place": 6,
+      "pdga_points": 0.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "96619",
+      "title": "Bangkok Open 2025",
+      "dates": "22-Nov to 23-Nov-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Bangkok, Thailand",
+      "place": 1,
+      "pdga_points": 115.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "92013",
+      "title": "Coco-Splash!",
+      "dates": "19-Apr to 20-Apr-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Baan Lamung, Thailand",
+      "place": 5,
+      "pdga_points": 10.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "86211",
+      "title": "3rd Annual Chiang Mai Open",
+      "dates": "07-Feb to 09-Feb-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "San Kamphaeng, Thailand",
+      "place": 16,
+      "pdga_points": 15.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "85901",
+      "title": "Banging Bangkok Chains @ Lakewood",
+      "dates": "23-Nov to 24-Nov-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Samut Prakarn, Thailand",
+      "place": 10,
+      "pdga_points": 55.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "79470",
+      "title": "RSU x Sky Open",
+      "dates": "23-Mar to 24-Mar-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Rangsit, Thailand",
+      "place": 10,
+      "pdga_points": 60.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "85411",
+      "title": "Jungle Jam",
+      "dates": "13-Oct-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Chiang Mai, Thailand",
+      "place": 4,
+      "pdga_points": 50.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 7.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "96619",
+      "title": "Bangkok Open 2025",
+      "dates": "22-Nov to 23-Nov-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Bangkok, Thailand",
+      "place": 1,
+      "pdga_points": 115.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 3,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 3,
+      "pdga_points": 57.5,
+      "avg_finish": 6.0
+    },
+    {
+      "year": "2025",
+      "events": 3,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 2,
+      "pdga_points": 140.0,
+      "avg_finish": 7.33
+    },
+    {
+      "year": "2024",
+      "events": 3,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 3,
+      "pdga_points": 165.0,
+      "avg_finish": 8.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2024-04-09",
+      "rating": 876,
+      "rounds": 3
+    },
+    {
+      "date": "2024-11-12",
+      "rating": 904,
+      "rounds": 5
+    },
+    {
+      "date": "2024-12-10",
+      "rating": 901,
+      "rounds": 7
+    },
+    {
+      "date": "2025-02-11",
+      "rating": 903,
+      "rounds": 10
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 900,
+      "rounds": 10
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 907,
+      "rounds": 13
+    },
+    {
+      "date": "2025-12-09",
+      "rating": 912,
+      "rounds": 13
+    },
+    {
+      "date": "2026-02-10",
+      "rating": 901,
+      "rounds": 17
+    },
+    {
+      "date": "2026-07-14",
+      "rating": 900,
+      "rounds": 13
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 19.2,
+    "season_avg": 50.8,
+    "delta_pct": -62.3
+  },
+  "pdga_url": "https://www.pdga.com/player/273479"
+}

@@ -1,0 +1,345 @@
+{
+  "pdga": 164515,
+  "name": "Phillip Sanchez #164515",
+  "country": "United States",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 816,
+  "classification": "Amateur",
+  "city": "Tacoma",
+  "nationality": "",
+  "division": "MA40",
+  "primary_class": "amateur",
+  "pdga_points": 97.0,
+  "tour_weighted_points": 47.6,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 7,
+  "wins": 0,
+  "podiums": 1,
+  "top5": 6,
+  "top10": 6,
+  "top20": 7,
+  "avg_finish": 5.29,
+  "win_rate": 0.0,
+  "top10_rate": 0.857,
+  "cash_earned": 0.0,
+  "pdga_rank": 1179,
+  "weighted_rank": 950,
+  "country_rank": null,
+  "am_events": 7,
+  "am_wins": 0,
+  "am_podiums": 1,
+  "am_top10": 6,
+  "am_pdga_points": 97.0,
+  "last_active": "16-Mar-2025",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 7,
+      "points": 97.0,
+      "weighted": 47.6,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 7,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 6,
+      "top10": 6,
+      "top20": 7,
+      "pdga_points": 97.0,
+      "tour_weighted_points": 47.6,
+      "avg_finish": 5.29,
+      "win_rate": 0.0,
+      "top10_rate": 0.857
+    },
+    "all": {
+      "events": 7,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 6,
+      "top10": 6,
+      "top20": 7,
+      "pdga_points": 97.0,
+      "tour_weighted_points": 47.6,
+      "avg_finish": 5.29,
+      "win_rate": 0.0,
+      "top10_rate": 0.857
+    }
+  },
+  "division_counts": {
+    "MA40": 3,
+    "MA50": 2,
+    "MA1": 2
+  },
+  "results": [
+    {
+      "event_id": "89767",
+      "title": "Enkantierra Nature Park Disc Golf Course  Inaugural Tournament",
+      "dates": "29-Mar-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Santo Tomas, Batangas, Philippines",
+      "place": 4,
+      "pdga_points": 12.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "89766",
+      "title": "Manila March Madness",
+      "dates": "16-Mar-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Paranaque , Metro Manila, Philippines",
+      "place": 5,
+      "pdga_points": 45.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "75766",
+      "title": "Singapore Sling 2024",
+      "dates": "13-Jan-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 3,
+      "pdga_points": 6.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "84966",
+      "title": "Philippines National Amature Championship",
+      "dates": "05-Oct to 06-Oct-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Dasmarinas, Cavite, Philippines",
+      "place": 13,
+      "pdga_points": 0.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "66066",
+      "title": "Singapore Sling 2023",
+      "dates": "25-Feb-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 4,
+      "pdga_points": 6.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "73950",
+      "title": "2023 Singapore Disc Golf Championships",
+      "dates": "23-Sep to 24-Sep-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 4,
+      "pdga_points": 16.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "63085",
+      "title": "2022 Singapore Disc Golf Championships",
+      "dates": "17-Sep to 18-Sep-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 4,
+      "pdga_points": 12.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2025",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 2,
+      "pdga_points": 57.0,
+      "avg_finish": 4.5
+    },
+    {
+      "year": "2024",
+      "events": 2,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 6.0,
+      "avg_finish": 8.0
+    },
+    {
+      "year": "2023",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 2,
+      "pdga_points": 22.0,
+      "avg_finish": 4.0
+    },
+    {
+      "year": "2022",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 12.0,
+      "avg_finish": 4.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2021-03-09",
+      "rating": 0,
+      "rounds": 0
+    },
+    {
+      "date": "2021-11-09",
+      "rating": 829,
+      "rounds": 2
+    },
+    {
+      "date": "2022-04-12",
+      "rating": 855,
+      "rounds": 4
+    },
+    {
+      "date": "2022-07-12",
+      "rating": 816,
+      "rounds": 6
+    },
+    {
+      "date": "2022-10-11",
+      "rating": 794,
+      "rounds": 8
+    },
+    {
+      "date": "2023-03-14",
+      "rating": 786,
+      "rounds": 8
+    },
+    {
+      "date": "2023-10-10",
+      "rating": 770,
+      "rounds": 8
+    },
+    {
+      "date": "2024-02-13",
+      "rating": 791,
+      "rounds": 7
+    },
+    {
+      "date": "2024-10-08",
+      "rating": 798,
+      "rounds": 8
+    },
+    {
+      "date": "2025-04-08",
+      "rating": 808,
+      "rounds": 8
+    }
+  ],
+  "streak": {
+    "direction": "up",
+    "recent_avg": 21.0,
+    "season_avg": 8.5,
+    "delta_pct": 147.1
+  },
+  "pdga_url": "https://www.pdga.com/player/164515"
+}

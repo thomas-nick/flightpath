@@ -1,0 +1,328 @@
+{
+  "pdga": 315697,
+  "name": "Peipei Feng #315697",
+  "country": "China",
+  "country_key": "CN",
+  "flag": "\ud83c\udde8\ud83c\uddf3",
+  "rating": 825,
+  "classification": "Amateur",
+  "city": "beijing",
+  "nationality": "",
+  "division": "MA1",
+  "primary_class": "amateur",
+  "pdga_points": 337.5,
+  "tour_weighted_points": 99.7,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 8,
+  "wins": 0,
+  "podiums": 0,
+  "top5": 1,
+  "top10": 4,
+  "top20": 7,
+  "avg_finish": 13.38,
+  "win_rate": 0.0,
+  "top10_rate": 0.5,
+  "cash_earned": 0.0,
+  "pdga_rank": 595,
+  "weighted_rank": 627,
+  "country_rank": 96,
+  "am_events": 8,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 4,
+  "am_pdga_points": 337.5,
+  "last_active": "20-Jan to 22-Jan-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 2,
+      "points": 54.0,
+      "weighted": 80.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 2,
+      "points": 67.5,
+      "weighted": 5.5,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 4,
+      "points": 216.0,
+      "weighted": 14.2,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 8,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 1,
+      "top10": 4,
+      "top20": 7,
+      "pdga_points": 337.5,
+      "tour_weighted_points": 99.7,
+      "avg_finish": 13.38,
+      "win_rate": 0.0,
+      "top10_rate": 0.5
+    },
+    "all": {
+      "events": 8,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 1,
+      "top10": 4,
+      "top20": 7,
+      "pdga_points": 337.5,
+      "tour_weighted_points": 99.7,
+      "avg_finish": 13.38,
+      "win_rate": 0.0,
+      "top10_rate": 0.5
+    }
+  },
+  "division_counts": {
+    "MA3": 2,
+    "MA2": 2,
+    "MA1": 4
+  },
+  "results": [
+    {
+      "event_id": "103293",
+      "title": "CDGT Championship Beijing - China Disc Golf Course Tour Event #2",
+      "dates": "30-May to 31-May-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Beijing, Beijing Shi, China",
+      "place": 8,
+      "pdga_points": 100.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "96727",
+      "title": "Siam Open 2026 - PDGA Asia Tour Event #2",
+      "dates": "20-Jan to 22-Jan-2026",
+      "year": "2026",
+      "tier": "B",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "Bangkok, Thailand",
+      "place": 9,
+      "pdga_points": 18.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 40.0
+    },
+    {
+      "event_id": "97588",
+      "title": "PDGA Asia Tour Championship - PDGA Asia Tour Event #7",
+      "dates": "13-Mar to 15-Mar-2026",
+      "year": "2026",
+      "tier": "B",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "Shanghai, Shanghai Shi, China",
+      "place": 6,
+      "pdga_points": 36.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 40.0
+    },
+    {
+      "event_id": "101178",
+      "title": "Spring of Wenyu River 2026 - \u5317\u4eac\u6e29\u6986\u6cb3\u6625\u5b63\u516c\u5f00\u8d5b2026 - MA2, FA2, MA50, FA50, MJ15",
+      "dates": "07-Mar-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Beijing, Beijing Shi, China",
+      "place": 13,
+      "pdga_points": 20.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "101204",
+      "title": "Spring of Wenyu River 2026 - \u5317\u4eac\u6e29\u6986\u6cb3\u6625\u5b63\u516c\u5f00\u8d5b2026 - Pro, MA1, FA1",
+      "dates": "07-Mar-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Beijing, Beijing Shi, China",
+      "place": 5,
+      "pdga_points": 80.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "103363",
+      "title": "2026 Kunshan-Taiwan Disc Golf Invitational Tournament (Open & Amateur Divisions)",
+      "dates": "03-May to 04-May-2026",
+      "year": "2026",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Kunshan, Jiangsu Sheng, China",
+      "place": 18,
+      "pdga_points": 45.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "89068",
+      "title": "2025 Winter Open of Beijing Wenyu River-2025\u5317\u4eac\u6e29\u6986\u6cb3\u51ac\u5b63\u516c\u5f00\u8d5b - MA2\\FA2\\MA50\\FA50\\MA60\\FA60\\MJ15\\FJ15",
+      "dates": "08-Nov-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Beijing, Beijing Shi, China",
+      "place": 14,
+      "pdga_points": 16.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "96657",
+      "title": "Chain Open - presented by Innova Discs",
+      "dates": "01-Nov to 02-Nov-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Zhenjiang, Jiangsu Sheng, China",
+      "place": 34,
+      "pdga_points": 22.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 1.5
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 6,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 4,
+      "pdga_points": 299.0,
+      "avg_finish": 9.83
+    },
+    {
+      "year": "2025",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 38.5,
+      "avg_finish": 24.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2025-11-11",
+      "rating": 750,
+      "rounds": 1
+    },
+    {
+      "date": "2025-12-09",
+      "rating": 723,
+      "rounds": 4
+    },
+    {
+      "date": "2026-02-10",
+      "rating": 778,
+      "rounds": 6
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 800,
+      "rounds": 8
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 811,
+      "rounds": 11
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 820,
+      "rounds": 26
+    },
+    {
+      "date": "2026-06-09",
+      "rating": 825,
+      "rounds": 28
+    }
+  ],
+  "streak": {
+    "direction": "up",
+    "recent_avg": 51.3,
+    "season_avg": 36.7,
+    "delta_pct": 39.9
+  },
+  "pdga_url": "https://www.pdga.com/player/315697"
+}

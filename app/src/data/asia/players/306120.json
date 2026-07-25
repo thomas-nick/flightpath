@@ -1,0 +1,302 @@
+{
+  "pdga": 306120,
+  "name": "Roxan Santos #306120",
+  "country": "Philippines",
+  "country_key": "PH",
+  "flag": "\ud83c\uddf5\ud83c\udded",
+  "rating": 563,
+  "classification": "Amateur",
+  "city": "Tarlac City",
+  "nationality": "",
+  "division": "FA40",
+  "primary_class": "amateur",
+  "pdga_points": 18.0,
+  "tour_weighted_points": 245.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 5,
+  "wins": 2,
+  "podiums": 3,
+  "top5": 5,
+  "top10": 5,
+  "top20": 5,
+  "avg_finish": 2.8,
+  "win_rate": 0.4,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 1838,
+  "weighted_rank": 262,
+  "country_rank": 108,
+  "am_events": 5,
+  "am_wins": 2,
+  "am_podiums": 3,
+  "am_top10": 5,
+  "am_pdga_points": 18.0,
+  "last_active": "27-Feb to 01-Mar-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 1,
+      "points": 2.0,
+      "weighted": 200.0,
+      "wins": 1
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 4,
+      "points": 16.0,
+      "weighted": 45.0,
+      "wins": 1
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 5,
+      "wins": 2,
+      "podiums": 3,
+      "top5": 5,
+      "top10": 5,
+      "top20": 5,
+      "pdga_points": 18.0,
+      "tour_weighted_points": 245.0,
+      "avg_finish": 2.8,
+      "win_rate": 0.4,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 5,
+      "wins": 2,
+      "podiums": 3,
+      "top5": 5,
+      "top10": 5,
+      "top20": 5,
+      "pdga_points": 18.0,
+      "tour_weighted_points": 245.0,
+      "avg_finish": 2.8,
+      "win_rate": 0.4,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "FA40": 4,
+    "FA2": 1
+  },
+  "results": [
+    {
+      "event_id": "97272",
+      "title": "Lipad Pilipinas IV - PDGA Asia Tour #5 presented by Province of Tarlac",
+      "dates": "27-Feb to 01-Mar-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "San Jose, Tarlac, Philippines",
+      "place": 1,
+      "pdga_points": 2.0,
+      "division": "FA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 200.0
+    },
+    {
+      "event_id": "102225",
+      "title": "2026 Cavite Invitational",
+      "dates": "25-Apr to 26-Apr-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Indang, Cavite, Philippines",
+      "place": 3,
+      "pdga_points": 2.0,
+      "division": "FA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "99288",
+      "title": "USM First Flight Inagural Disc Golf Tournament",
+      "dates": "24-Jan-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Kabacan, Cotabato, Philippines",
+      "place": 1,
+      "pdga_points": 10.0,
+      "division": "FA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "94738",
+      "title": "Philippine National Disc Golf Championship",
+      "dates": "13-Sep to 14-Sep-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Municipality of San Jose, Tarlac, Philippines",
+      "place": 5,
+      "pdga_points": 0.0,
+      "division": "FA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "97012",
+      "title": "DGAP 3rd Anniversary Disc Golf Tournament  2025",
+      "dates": "08-Nov to 09-Nov-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Santo Tomas, Batangas, Philippines",
+      "place": 4,
+      "pdga_points": 4.0,
+      "division": "FA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "97272",
+      "title": "Lipad Pilipinas IV - PDGA Asia Tour #5 presented by Province of Tarlac",
+      "dates": "27-Feb to 01-Mar-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "San Jose, Tarlac, Philippines",
+      "place": 1,
+      "pdga_points": 2.0,
+      "division": "FA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 200.0
+    },
+    {
+      "event_id": "99288",
+      "title": "USM First Flight Inagural Disc Golf Tournament",
+      "dates": "24-Jan-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Kabacan, Cotabato, Philippines",
+      "place": 1,
+      "pdga_points": 10.0,
+      "division": "FA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 3,
+      "wins": 2,
+      "podiums": 3,
+      "top10": 3,
+      "pdga_points": 14.0,
+      "avg_finish": 1.67
+    },
+    {
+      "year": "2025",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 2,
+      "pdga_points": 4.0,
+      "avg_finish": 4.5
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2025-10-14",
+      "rating": 550,
+      "rounds": 1
+    },
+    {
+      "date": "2025-11-11",
+      "rating": 569,
+      "rounds": 2
+    },
+    {
+      "date": "2026-02-10",
+      "rating": 565,
+      "rounds": 3
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 569,
+      "rounds": 6
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 563,
+      "rounds": 8
+    }
+  ],
+  "streak": {
+    "direction": "up",
+    "recent_avg": 4.7,
+    "season_avg": 2.0,
+    "delta_pct": 133.3
+  },
+  "pdga_url": "https://www.pdga.com/player/306120"
+}

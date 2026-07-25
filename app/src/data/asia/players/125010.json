@@ -1,0 +1,245 @@
+{
+  "pdga": 125010,
+  "name": "Joshua Trujillo #125010",
+  "country": "United States",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 885,
+  "classification": "Amateur",
+  "city": "W Lafayette",
+  "nationality": "",
+  "division": "MA2",
+  "primary_class": "amateur",
+  "pdga_points": 72.0,
+  "tour_weighted_points": 11.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 1,
+  "top5": 1,
+  "top10": 1,
+  "top20": 1,
+  "avg_finish": 3.0,
+  "win_rate": 0.0,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 2008,
+  "weighted_rank": 2199,
+  "country_rank": null,
+  "am_events": 1,
+  "am_wins": 0,
+  "am_podiums": 1,
+  "am_top10": 1,
+  "am_pdga_points": 72.0,
+  "last_active": "27-Mar-2022",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 1,
+      "points": 72.0,
+      "weighted": 11.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 72.0,
+      "tour_weighted_points": 11.0,
+      "avg_finish": 3.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 72.0,
+      "tour_weighted_points": 11.0,
+      "avg_finish": 3.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA2": 1
+  },
+  "results": [
+    {
+      "event_id": "55823",
+      "title": "Wiffs Finale \"Winters Last Hurrah\" (CEP Charity - Rated)",
+      "dates": "27-Mar-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Monrovia, Indiana, United States",
+      "place": 3,
+      "pdga_points": 72.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2022",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 72.0,
+      "avg_finish": 3.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2021-09-14",
+      "rating": 870,
+      "rounds": 50
+    },
+    {
+      "date": "2021-11-09",
+      "rating": 873,
+      "rounds": 54
+    },
+    {
+      "date": "2021-12-14",
+      "rating": 880,
+      "rounds": 55
+    },
+    {
+      "date": "2022-02-08",
+      "rating": 885,
+      "rounds": 50
+    },
+    {
+      "date": "2022-04-12",
+      "rating": 888,
+      "rounds": 43
+    },
+    {
+      "date": "2022-05-10",
+      "rating": 889,
+      "rounds": 39
+    },
+    {
+      "date": "2022-06-14",
+      "rating": 889,
+      "rounds": 40
+    },
+    {
+      "date": "2022-08-09",
+      "rating": 893,
+      "rounds": 34
+    },
+    {
+      "date": "2022-09-13",
+      "rating": 897,
+      "rounds": 37
+    },
+    {
+      "date": "2022-11-08",
+      "rating": 896,
+      "rounds": 32
+    },
+    {
+      "date": "2023-02-14",
+      "rating": 897,
+      "rounds": 29
+    },
+    {
+      "date": "2023-04-11",
+      "rating": 899,
+      "rounds": 31
+    },
+    {
+      "date": "2023-05-09",
+      "rating": 901,
+      "rounds": 30
+    },
+    {
+      "date": "2023-06-13",
+      "rating": 894,
+      "rounds": 30
+    },
+    {
+      "date": "2023-08-08",
+      "rating": 896,
+      "rounds": 30
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/125010"
+}

@@ -1,0 +1,238 @@
+{
+  "pdga": 316579,
+  "name": "WEI YANG #316579",
+  "country": "China",
+  "country_key": "CN",
+  "flag": "\ud83c\udde8\ud83c\uddf3",
+  "rating": 888,
+  "classification": "Professional",
+  "city": "\u6210\u90fd",
+  "nationality": "",
+  "division": "MA1",
+  "primary_class": "amateur",
+  "pdga_points": 235.0,
+  "tour_weighted_points": 37.6,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 4,
+  "wins": 0,
+  "podiums": 2,
+  "top5": 2,
+  "top10": 3,
+  "top20": 4,
+  "avg_finish": 5.75,
+  "win_rate": 0.0,
+  "top10_rate": 0.75,
+  "cash_earned": 0.0,
+  "pdga_rank": 747,
+  "weighted_rank": 1055,
+  "country_rank": 118,
+  "am_events": 4,
+  "am_wins": 0,
+  "am_podiums": 2,
+  "am_top10": 3,
+  "am_pdga_points": 235.0,
+  "last_active": "04-Apr-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 135.0,
+      "weighted": 10.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 3,
+      "points": 100.0,
+      "weighted": 27.6,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 4,
+      "wins": 0,
+      "podiums": 2,
+      "top5": 2,
+      "top10": 3,
+      "top20": 4,
+      "pdga_points": 235.0,
+      "tour_weighted_points": 37.6,
+      "avg_finish": 5.75,
+      "win_rate": 0.0,
+      "top10_rate": 0.75
+    },
+    "all": {
+      "events": 4,
+      "wins": 0,
+      "podiums": 2,
+      "top5": 2,
+      "top10": 3,
+      "top20": 4,
+      "pdga_points": 235.0,
+      "tour_weighted_points": 37.6,
+      "avg_finish": 5.75,
+      "win_rate": 0.0,
+      "top10_rate": 0.75
+    }
+  },
+  "division_counts": {
+    "MA1": 4
+  },
+  "results": [
+    {
+      "event_id": "101204",
+      "title": "Spring of Wenyu River 2026 - \u5317\u4eac\u6e29\u6986\u6cb3\u6625\u5b63\u516c\u5f00\u8d5b2026 - Pro, MA1, FA1",
+      "dates": "07-Mar-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Beijing, Beijing Shi, China",
+      "place": 12,
+      "pdga_points": 45.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "105157",
+      "title": "Mango Valley DG Cup - Campus Challenge",
+      "dates": "04-Jul-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Chiang Mai, San Sai, Thailand",
+      "place": 2,
+      "pdga_points": 0.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "99899",
+      "title": "Saigon Open at the Oasis",
+      "dates": "04-Apr-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Ho Chi Minh City, Vietnam",
+      "place": 3,
+      "pdga_points": 55.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "103363",
+      "title": "2026 Kunshan-Taiwan Disc Golf Invitational Tournament (Open & Amateur Divisions)",
+      "dates": "03-May to 04-May-2026",
+      "year": "2026",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Kunshan, Jiangsu Sheng, China",
+      "place": 6,
+      "pdga_points": 135.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 10.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 4,
+      "wins": 0,
+      "podiums": 2,
+      "top10": 3,
+      "pdga_points": 235.0,
+      "avg_finish": 5.75
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2026-03-10",
+      "rating": 849,
+      "rounds": 1
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 857,
+      "rounds": 3
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 876,
+      "rounds": 6
+    },
+    {
+      "date": "2026-07-14",
+      "rating": 888,
+      "rounds": 8
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 33.3,
+    "season_avg": 135.0,
+    "delta_pct": -75.3
+  },
+  "pdga_url": "https://www.pdga.com/player/316579"
+}

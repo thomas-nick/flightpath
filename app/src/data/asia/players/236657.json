@@ -1,0 +1,388 @@
+{
+  "pdga": 236657,
+  "name": "Tarvo Allmere #236657",
+  "country": "Estonia",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 816,
+  "classification": "Amateur",
+  "city": "\u00c4mari",
+  "nationality": "",
+  "division": "MA2",
+  "primary_class": "amateur",
+  "pdga_points": 263.0,
+  "tour_weighted_points": 137.1,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 8,
+  "wins": 1,
+  "podiums": 4,
+  "top5": 6,
+  "top10": 6,
+  "top20": 8,
+  "avg_finish": 5.38,
+  "win_rate": 0.125,
+  "top10_rate": 0.75,
+  "cash_earned": 0.0,
+  "pdga_rank": 703,
+  "weighted_rank": 491,
+  "country_rank": null,
+  "am_events": 8,
+  "am_wins": 1,
+  "am_podiums": 4,
+  "am_top10": 6,
+  "am_pdga_points": 263.0,
+  "last_active": "27-Jan to 29-Jan-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 1,
+      "points": 4.0,
+      "weighted": 16.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 1,
+      "points": 64.0,
+      "weighted": 35.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 48.0,
+      "weighted": 27.5,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 5,
+      "points": 147.0,
+      "weighted": 58.6,
+      "wins": 1
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 8,
+      "wins": 1,
+      "podiums": 4,
+      "top5": 6,
+      "top10": 6,
+      "top20": 8,
+      "pdga_points": 263.0,
+      "tour_weighted_points": 137.1,
+      "avg_finish": 5.38,
+      "win_rate": 0.125,
+      "top10_rate": 0.75
+    },
+    "all": {
+      "events": 8,
+      "wins": 1,
+      "podiums": 4,
+      "top5": 6,
+      "top10": 6,
+      "top20": 8,
+      "pdga_points": 263.0,
+      "tour_weighted_points": 137.1,
+      "avg_finish": 5.38,
+      "win_rate": 0.125,
+      "top10_rate": 0.75
+    }
+  },
+  "division_counts": {
+    "MA1": 1,
+    "MA40": 3,
+    "MA2": 4
+  },
+  "results": [
+    {
+      "event_id": "95844",
+      "title": "Samui Swine Classic XIII - Ams Presented by Latitude64 - PDGA Asia Tour event #3",
+      "dates": "27-Jan to 29-Jan-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "Koh Samui, Thailand",
+      "place": 14,
+      "pdga_points": 4.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 16.0
+    },
+    {
+      "event_id": "97979",
+      "title": "Samui Winter Warm Up",
+      "dates": "17-Jan-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh samui, New York, Thailand",
+      "place": 4,
+      "pdga_points": 8.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "95658",
+      "title": "Coco-breeze 3 - gone with the wind",
+      "dates": "06-Dec to 07-Dec-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Pattaya, Chonburi, Thailand",
+      "place": 12,
+      "pdga_points": 35.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "73676",
+      "title": "Samui Swine Classic XI - MA3, MA2, MA40, MA50, MA60",
+      "dates": "30-Jan to 01-Feb-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 3,
+      "pdga_points": 48.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 27.5
+    },
+    {
+      "event_id": "74874",
+      "title": "Samui Winter Warm Up",
+      "dates": "13-Jan-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 1,
+      "pdga_points": 28.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "63564",
+      "title": "Samui Swine Classic X Presented by Prodigy Discs- MA3, MA2, FA1, MA40, MA50, MA60",
+      "dates": "31-Jan to 02-Feb-2023",
+      "year": "2023",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 5,
+      "pdga_points": 64.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 35.0
+    },
+    {
+      "event_id": "63795",
+      "title": "Hyzenbrownie Dreamweaver Open 2023 Powered By Innova Discs",
+      "dates": "25-Jan to 29-Jan-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui Thailand, Thailand",
+      "place": 2,
+      "pdga_points": 12.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "63765",
+      "title": "Chiang Mai Open",
+      "dates": "10-Feb to 12-Feb-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Chiang Mai, Thailand",
+      "place": 2,
+      "pdga_points": 64.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "74874",
+      "title": "Samui Winter Warm Up",
+      "dates": "13-Jan-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 1,
+      "pdga_points": 28.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 12.0,
+      "avg_finish": 9.0
+    },
+    {
+      "year": "2025",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 35.0,
+      "avg_finish": 12.0
+    },
+    {
+      "year": "2024",
+      "events": 2,
+      "wins": 1,
+      "podiums": 2,
+      "top10": 2,
+      "pdga_points": 76.0,
+      "avg_finish": 2.0
+    },
+    {
+      "year": "2023",
+      "events": 3,
+      "wins": 0,
+      "podiums": 2,
+      "top10": 3,
+      "pdga_points": 140.0,
+      "avg_finish": 3.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2022-11-08",
+      "rating": 868,
+      "rounds": 2
+    },
+    {
+      "date": "2023-02-14",
+      "rating": 859,
+      "rounds": 12
+    },
+    {
+      "date": "2023-05-09",
+      "rating": 840,
+      "rounds": 15
+    },
+    {
+      "date": "2023-09-12",
+      "rating": 846,
+      "rounds": 19
+    },
+    {
+      "date": "2024-02-13",
+      "rating": 868,
+      "rounds": 18
+    },
+    {
+      "date": "2024-04-09",
+      "rating": 860,
+      "rounds": 14
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 867,
+      "rounds": 7
+    },
+    {
+      "date": "2025-12-09",
+      "rating": 851,
+      "rounds": 9
+    },
+    {
+      "date": "2026-02-10",
+      "rating": 822,
+      "rounds": 10
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 819,
+      "rounds": 12
+    },
+    {
+      "date": "2026-06-09",
+      "rating": 814,
+      "rounds": 14
+    },
+    {
+      "date": "2026-07-14",
+      "rating": 816,
+      "rounds": 17
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 15.7,
+    "season_avg": 43.2,
+    "delta_pct": -63.7
+  },
+  "pdga_url": "https://www.pdga.com/player/236657"
+}

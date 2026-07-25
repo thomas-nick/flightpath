@@ -1,0 +1,231 @@
+{
+  "pdga": 125103,
+  "name": "Lawrence Lavergne IV #125103",
+  "country": "United States",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 684,
+  "classification": "Amateur",
+  "city": "Kailua",
+  "nationality": "",
+  "division": "MA1",
+  "primary_class": "amateur",
+  "pdga_points": 25.0,
+  "tour_weighted_points": 8.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top5": 0,
+  "top10": 2,
+  "top20": 2,
+  "avg_finish": 8.5,
+  "win_rate": 0.0,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 1725,
+  "weighted_rank": 1742,
+  "country_rank": null,
+  "am_events": 2,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 2,
+  "am_pdga_points": 25.0,
+  "last_active": "19-Jan-2020",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 2,
+      "points": 25.0,
+      "weighted": 8.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 2,
+      "top20": 2,
+      "pdga_points": 25.0,
+      "tour_weighted_points": 8.0,
+      "avg_finish": 8.5,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 2,
+      "top20": 2,
+      "pdga_points": 25.0,
+      "tour_weighted_points": 8.0,
+      "avg_finish": 8.5,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA1": 2
+  },
+  "results": [
+    {
+      "event_id": "43511",
+      "title": "Inaugural Silla Open",
+      "dates": "22-Feb-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Gyeongju, Gyeongsangbuk-do, South Korea",
+      "place": 8,
+      "pdga_points": 10.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "43498",
+      "title": "2nd Best-of-Best Tourney",
+      "dates": "19-Jan-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Gyeongju, Chungcheongbuk-do, South Korea",
+      "place": 9,
+      "pdga_points": 15.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2020",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 2,
+      "pdga_points": 25.0,
+      "avg_finish": 8.5
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2019-12-10",
+      "rating": 684,
+      "rounds": 4
+    },
+    {
+      "date": "2020-03-10",
+      "rating": 788,
+      "rounds": 6
+    },
+    {
+      "date": "2021-08-10",
+      "rating": 812,
+      "rounds": 8
+    },
+    {
+      "date": "2021-11-09",
+      "rating": 808,
+      "rounds": 8
+    },
+    {
+      "date": "2021-12-14",
+      "rating": 801,
+      "rounds": 10
+    },
+    {
+      "date": "2022-11-08",
+      "rating": 794,
+      "rounds": 9
+    },
+    {
+      "date": "2023-10-10",
+      "rating": 821,
+      "rounds": 11
+    },
+    {
+      "date": "2024-05-14",
+      "rating": 828,
+      "rounds": 6
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 860,
+      "rounds": 6
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/125103"
+}

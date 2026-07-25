@@ -1,0 +1,396 @@
+{
+  "pdga": 62088,
+  "name": "Tee Vetne #62088",
+  "country": "Thailand",
+  "country_key": "TH",
+  "flag": "\ud83c\uddf9\ud83c\udded",
+  "rating": 996,
+  "classification": "Professional",
+  "city": "Udon Thani",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 761.0,
+  "tour_weighted_points": 150.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 7,
+  "wins": 1,
+  "podiums": 3,
+  "top5": 5,
+  "top10": 7,
+  "top20": 7,
+  "avg_finish": 4.71,
+  "win_rate": 0.143,
+  "top10_rate": 1.0,
+  "cash_earned": 174.0,
+  "pdga_rank": 337,
+  "weighted_rank": 444,
+  "country_rank": 18,
+  "am_events": 3,
+  "am_wins": 1,
+  "am_podiums": 2,
+  "am_top10": 3,
+  "am_pdga_points": 406.0,
+  "last_active": "31-Jan to 02-Feb-2025",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 1,
+      "points": 340.0,
+      "weighted": 100.0,
+      "wins": 1
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 105.0,
+      "weighted": 10.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 5,
+      "points": 316.0,
+      "weighted": 40.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 4,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 2,
+      "top10": 4,
+      "top20": 4,
+      "pdga_points": 355.0,
+      "tour_weighted_points": 32.0,
+      "avg_finish": 6.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 3,
+      "wins": 1,
+      "podiums": 2,
+      "top5": 3,
+      "top10": 3,
+      "top20": 3,
+      "pdga_points": 406.0,
+      "tour_weighted_points": 118.0,
+      "avg_finish": 3.0,
+      "win_rate": 0.333,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 7,
+      "wins": 1,
+      "podiums": 3,
+      "top5": 5,
+      "top10": 7,
+      "top20": 7,
+      "pdga_points": 761.0,
+      "tour_weighted_points": 150.0,
+      "avg_finish": 4.71,
+      "win_rate": 0.143,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MPO": 4,
+    "MA2": 1,
+    "MA1": 2
+  },
+  "results": [
+    {
+      "event_id": "85341",
+      "title": "Samui Swine Classic XII - MPO, MP40, MP50, FPO Presented by Latitude 64",
+      "dates": "31-Jan to 02-Feb-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 10,
+      "pdga_points": 130.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$100",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "86211",
+      "title": "3rd Annual Chiang Mai Open",
+      "dates": "07-Feb to 09-Feb-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "San Kamphaeng, Thailand",
+      "place": 3,
+      "pdga_points": 80.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$74",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "55055",
+      "title": "Samui Swine Classic IX - MPO, MP40, MP50, MA1",
+      "dates": "05-Feb to 06-Feb-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 5,
+      "pdga_points": 40.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "33102",
+      "title": "Third Annual Hyzenbrownie Open - The Flaskenpouch 2018",
+      "dates": "27-Jan to 28-Jan-2018",
+      "year": "2018",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 6,
+      "pdga_points": 105.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "33706",
+      "title": "Samui Swine Classic V",
+      "dates": "01-Feb to 03-Feb-2018",
+      "year": "2018",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 1,
+      "pdga_points": 340.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 100.0
+    },
+    {
+      "event_id": "19493",
+      "title": "2nd Annual Samui Swine Classic",
+      "dates": "01-Feb-2015",
+      "year": "2015",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 3,
+      "pdga_points": 50.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "16443",
+      "title": "Samui Swine Classic",
+      "dates": "18-Jan-2014",
+      "year": "2014",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 5,
+      "pdga_points": 16.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "33706",
+      "title": "Samui Swine Classic V",
+      "dates": "01-Feb to 03-Feb-2018",
+      "year": "2018",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 1,
+      "pdga_points": 340.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 100.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2025",
+      "events": 2,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 2,
+      "pdga_points": 210.0,
+      "avg_finish": 6.5
+    },
+    {
+      "year": "2022",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 40.0,
+      "avg_finish": 5.0
+    },
+    {
+      "year": "2018",
+      "events": 2,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 2,
+      "pdga_points": 445.0,
+      "avg_finish": 3.5
+    },
+    {
+      "year": "2015",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 50.0,
+      "avg_finish": 3.0
+    },
+    {
+      "year": "2014",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 16.0,
+      "avg_finish": 5.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2024-08-13",
+      "rating": 984,
+      "rounds": 21
+    },
+    {
+      "date": "2024-10-08",
+      "rating": 991,
+      "rounds": 23
+    },
+    {
+      "date": "2024-12-10",
+      "rating": 990,
+      "rounds": 29
+    },
+    {
+      "date": "2025-01-14",
+      "rating": 992,
+      "rounds": 31
+    },
+    {
+      "date": "2025-02-11",
+      "rating": 986,
+      "rounds": 37
+    },
+    {
+      "date": "2025-04-08",
+      "rating": 986,
+      "rounds": 40
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 984,
+      "rounds": 41
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 986,
+      "rounds": 37
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 988,
+      "rounds": 34
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 993,
+      "rounds": 37
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 995,
+      "rounds": 36
+    },
+    {
+      "date": "2025-11-11",
+      "rating": 990,
+      "rounds": 39
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 988,
+      "rounds": 25
+    },
+    {
+      "date": "2026-06-09",
+      "rating": 992,
+      "rounds": 24
+    },
+    {
+      "date": "2026-07-14",
+      "rating": 996,
+      "rounds": 21
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 83.3,
+    "season_avg": 127.8,
+    "delta_pct": -34.8
+  },
+  "pdga_url": "https://www.pdga.com/player/62088"
+}

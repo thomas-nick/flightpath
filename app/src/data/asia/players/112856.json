@@ -1,0 +1,436 @@
+{
+  "pdga": 112856,
+  "name": "Leo Valdes #112856",
+  "country": "Thailand",
+  "country_key": "TH",
+  "flag": "\ud83c\uddf9\ud83c\udded",
+  "rating": 864,
+  "classification": "Amateur",
+  "city": "Koh Samui",
+  "nationality": "",
+  "division": "MA2",
+  "primary_class": "amateur",
+  "pdga_points": 233.0,
+  "tour_weighted_points": 105.6,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 10,
+  "wins": 0,
+  "podiums": 3,
+  "top5": 4,
+  "top10": 9,
+  "top20": 10,
+  "avg_finish": 5.8,
+  "win_rate": 0.0,
+  "top10_rate": 0.9,
+  "cash_earned": 0.0,
+  "pdga_rank": 754,
+  "weighted_rank": 599,
+  "country_rank": 47,
+  "am_events": 10,
+  "am_wins": 0,
+  "am_podiums": 3,
+  "am_top10": 9,
+  "am_pdga_points": 233.0,
+  "last_active": "04-Apr-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 2,
+      "points": 92.0,
+      "weighted": 40.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 8,
+      "points": 141.0,
+      "weighted": 65.6,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 10,
+      "wins": 0,
+      "podiums": 3,
+      "top5": 4,
+      "top10": 9,
+      "top20": 10,
+      "pdga_points": 233.0,
+      "tour_weighted_points": 105.6,
+      "avg_finish": 5.8,
+      "win_rate": 0.0,
+      "top10_rate": 0.9
+    },
+    "all": {
+      "events": 10,
+      "wins": 0,
+      "podiums": 3,
+      "top5": 4,
+      "top10": 9,
+      "top20": 10,
+      "pdga_points": 233.0,
+      "tour_weighted_points": 105.6,
+      "avg_finish": 5.8,
+      "win_rate": 0.0,
+      "top10_rate": 0.9
+    }
+  },
+  "division_counts": {
+    "MA2": 4,
+    "MA1": 1,
+    "MA50": 3,
+    "MA40": 2
+  },
+  "results": [
+    {
+      "event_id": "101735",
+      "title": "Freedom Flight Open",
+      "dates": "09-May-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, New York, Thailand",
+      "place": 2,
+      "pdga_points": 15.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "99899",
+      "title": "Saigon Open at the Oasis",
+      "dates": "04-Apr-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Ho Chi Minh City, Vietnam",
+      "place": 11,
+      "pdga_points": 15.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "84698",
+      "title": "Samui Swine Classic XII - MA1, MA2, MA3, MA40, MA50, MA60, FA1 Presented by Latitude 64",
+      "dates": "28-Jan to 30-Jan-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 6,
+      "pdga_points": 20.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "74874",
+      "title": "Samui Winter Warm Up",
+      "dates": "13-Jan-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 4,
+      "pdga_points": 3.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "63564",
+      "title": "Samui Swine Classic X Presented by Prodigy Discs- MA3, MA2, FA1, MA40, MA50, MA60",
+      "dates": "31-Jan to 02-Feb-2023",
+      "year": "2023",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 6,
+      "pdga_points": 56.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "61511",
+      "title": "The Godfather Classic presented by Chiang Mai Disc Golf",
+      "dates": "20-Aug-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Chiang Mai, Thailand",
+      "place": 2,
+      "pdga_points": 56.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "55037",
+      "title": "Samui Swine Classic IX - MA3, MA2, FA1, MA40, MA50, MA60",
+      "dates": "03-Feb to 04-Feb-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 10,
+      "pdga_points": 0.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "63215",
+      "title": "Pattaya Disc Golf Open 2",
+      "dates": "03-Dec to 04-Dec-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Baan Lamung, Thailand",
+      "place": 6,
+      "pdga_points": 12.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "48026",
+      "title": "Samui Swine Classic VIII",
+      "dates": "26-Jan to 27-Jan-2021",
+      "year": "2021",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 2,
+      "pdga_points": 20.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "38588",
+      "title": "Samui Swine Classic VI - Presented by Dynamic Discs - Ams",
+      "dates": "06-Feb to 07-Feb-2019",
+      "year": "2019",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 9,
+      "pdga_points": 36.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 2,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 30.0,
+      "avg_finish": 6.5
+    },
+    {
+      "year": "2025",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 20.0,
+      "avg_finish": 6.0
+    },
+    {
+      "year": "2024",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 3.0,
+      "avg_finish": 4.0
+    },
+    {
+      "year": "2023",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 56.0,
+      "avg_finish": 6.0
+    },
+    {
+      "year": "2022",
+      "events": 3,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 3,
+      "pdga_points": 68.0,
+      "avg_finish": 6.0
+    },
+    {
+      "year": "2021",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 20.0,
+      "avg_finish": 2.0
+    },
+    {
+      "year": "2019",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 36.0,
+      "avg_finish": 9.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2018-10-30",
+      "rating": 821,
+      "rounds": 4
+    },
+    {
+      "date": "2019-01-29",
+      "rating": 830,
+      "rounds": 6
+    },
+    {
+      "date": "2019-02-26",
+      "rating": 829,
+      "rounds": 8
+    },
+    {
+      "date": "2019-05-14",
+      "rating": 818,
+      "rounds": 10
+    },
+    {
+      "date": "2019-07-09",
+      "rating": 819,
+      "rounds": 11
+    },
+    {
+      "date": "2019-10-08",
+      "rating": 823,
+      "rounds": 14
+    },
+    {
+      "date": "2019-12-10",
+      "rating": 825,
+      "rounds": 11
+    },
+    {
+      "date": "2021-02-09",
+      "rating": 840,
+      "rounds": 8
+    },
+    {
+      "date": "2022-02-08",
+      "rating": 840,
+      "rounds": 8
+    },
+    {
+      "date": "2022-09-13",
+      "rating": 867,
+      "rounds": 5
+    },
+    {
+      "date": "2022-12-13",
+      "rating": 858,
+      "rounds": 8
+    },
+    {
+      "date": "2023-02-14",
+      "rating": 858,
+      "rounds": 8
+    },
+    {
+      "date": "2024-02-13",
+      "rating": 864,
+      "rounds": 9
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 16.7,
+    "season_avg": 26.1,
+    "delta_pct": -36.2
+  },
+  "pdga_url": "https://www.pdga.com/player/112856"
+}

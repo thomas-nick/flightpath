@@ -1,0 +1,267 @@
+{
+  "pdga": 95035,
+  "name": "Kenichi Ishikawa #95035",
+  "country": "Japan",
+  "country_key": "JP",
+  "flag": "\ud83c\uddef\ud83c\uddf5",
+  "rating": 803,
+  "classification": "Amateur",
+  "city": "Toyama-shi",
+  "nationality": "",
+  "division": "MA1",
+  "primary_class": "amateur",
+  "pdga_points": 172.5,
+  "tour_weighted_points": 137.5,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 6,
+  "wins": 0,
+  "podiums": 3,
+  "top5": 5,
+  "top10": 6,
+  "top20": 6,
+  "avg_finish": 4.0,
+  "win_rate": 0.0,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 892,
+  "weighted_rank": 488,
+  "country_rank": 218,
+  "am_events": 6,
+  "am_wins": 0,
+  "am_podiums": 3,
+  "am_top10": 6,
+  "am_pdga_points": 172.5,
+  "last_active": "04-May to 05-May-2019",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 6,
+      "points": 172.5,
+      "weighted": 137.5,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 6,
+      "wins": 0,
+      "podiums": 3,
+      "top5": 5,
+      "top10": 6,
+      "top20": 6,
+      "pdga_points": 172.5,
+      "tour_weighted_points": 137.5,
+      "avg_finish": 4.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 6,
+      "wins": 0,
+      "podiums": 3,
+      "top5": 5,
+      "top10": 6,
+      "top20": 6,
+      "pdga_points": 172.5,
+      "tour_weighted_points": 137.5,
+      "avg_finish": 4.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA1": 6
+  },
+  "results": [
+    {
+      "event_id": "42875",
+      "title": "The 19th Tohoku Open",
+      "dates": "13-Oct to 14-Oct-2019",
+      "year": "2019",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Yurihonjo, Akita, Japan",
+      "place": 2,
+      "pdga_points": 15.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 37.5
+    },
+    {
+      "event_id": "41239",
+      "title": "The 2nd Gifu Hirugano Open",
+      "dates": "04-May to 05-May-2019",
+      "year": "2019",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Hirugano, Gifu, Japan",
+      "place": 3,
+      "pdga_points": 15.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 27.5
+    },
+    {
+      "event_id": "38541",
+      "title": "The 18th Tohoku Open",
+      "dates": "20-Oct to 21-Oct-2018",
+      "year": "2018",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Yurihonjo, Akita, Japan",
+      "place": 4,
+      "pdga_points": 7.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "32248",
+      "title": "The 13th Minamisoma Open",
+      "dates": "29-Apr to 30-Apr-2017",
+      "year": "2017",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Minamisoma, Fukushima, Japan",
+      "place": 3,
+      "pdga_points": 37.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 27.5
+    },
+    {
+      "event_id": "32254",
+      "title": "The 6th Fukui Open",
+      "dates": "27-May to 28-May-2017",
+      "year": "2017",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Sakai, Fukui, Japan",
+      "place": 5,
+      "pdga_points": 67.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "32810",
+      "title": "The 21st. Kanto Open",
+      "dates": "15-Jul to 17-Jul-2017",
+      "year": "2017",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Kiyohra, Tochigi, Japan",
+      "place": 7,
+      "pdga_points": 30.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 10.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2019",
+      "events": 2,
+      "wins": 0,
+      "podiums": 2,
+      "top10": 2,
+      "pdga_points": 30.0,
+      "avg_finish": 2.5
+    },
+    {
+      "year": "2018",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 7.5,
+      "avg_finish": 4.0
+    },
+    {
+      "year": "2017",
+      "events": 3,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 3,
+      "pdga_points": 135.0,
+      "avg_finish": 5.0
+    }
+  ],
+  "rating_history": [],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 12.5,
+    "season_avg": 45.0,
+    "delta_pct": -72.2
+  },
+  "pdga_url": "https://www.pdga.com/player/95035"
+}

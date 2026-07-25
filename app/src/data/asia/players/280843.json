@@ -1,0 +1,327 @@
+{
+  "pdga": 280843,
+  "name": "Alex Brown #280843",
+  "country": "Cambodia",
+  "country_key": "KH",
+  "flag": "\ud83c\uddf0\ud83c\udded",
+  "rating": 858,
+  "classification": "Amateur",
+  "city": "Battambang",
+  "nationality": "",
+  "division": "MA1",
+  "primary_class": "amateur",
+  "pdga_points": 128.0,
+  "tour_weighted_points": 112.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 5,
+  "wins": 3,
+  "podiums": 4,
+  "top5": 5,
+  "top10": 5,
+  "top20": 5,
+  "avg_finish": 1.8,
+  "win_rate": 0.6,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 1034,
+  "weighted_rank": 568,
+  "country_rank": 5,
+  "am_events": 5,
+  "am_wins": 3,
+  "am_podiums": 4,
+  "am_top10": 5,
+  "am_pdga_points": 128.0,
+  "last_active": "21-Mar to 22-Mar-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 18.0,
+      "weighted": 50.0,
+      "wins": 1
+    },
+    "c_tier": {
+      "events": 4,
+      "points": 110.0,
+      "weighted": 62.0,
+      "wins": 2
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 5,
+      "wins": 3,
+      "podiums": 4,
+      "top5": 5,
+      "top10": 5,
+      "top20": 5,
+      "pdga_points": 128.0,
+      "tour_weighted_points": 112.0,
+      "avg_finish": 1.8,
+      "win_rate": 0.6,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 5,
+      "wins": 3,
+      "podiums": 4,
+      "top5": 5,
+      "top10": 5,
+      "top20": 5,
+      "pdga_points": 128.0,
+      "tour_weighted_points": 112.0,
+      "avg_finish": 1.8,
+      "win_rate": 0.6,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA1": 4,
+    "MA3": 1
+  },
+  "results": [
+    {
+      "event_id": "101071",
+      "title": "Holiday in Cambodia 2026",
+      "dates": "21-Mar to 22-Mar-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Siem Reap, Cambodia",
+      "place": 4,
+      "pdga_points": 15.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "102761",
+      "title": "\u1780\u17b6\u179a\u1794\u17d2\u179a\u1780\u17bd\u178f\u1793\u17c3\u179f\u178f\u179c\u178f\u17d2\u179f\u179a\u17cd",
+      "dates": "02-May-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Siem Reap, Cambodia",
+      "place": 2,
+      "pdga_points": 25.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "76563",
+      "title": "Holiday In Cambodia",
+      "dates": "23-Mar to 24-Mar-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Siem Reap, Cambodia",
+      "place": 1,
+      "pdga_points": 25.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "75876",
+      "title": "The Khmer Cup 2024 Presented by Lone Star Discs",
+      "dates": "16-Feb to 18-Feb-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Siem Reap, Cambodia",
+      "place": 1,
+      "pdga_points": 45.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "64744",
+      "title": "The Khmer Cup 2023",
+      "dates": "17-Feb to 19-Feb-2023",
+      "year": "2023",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Siem Reap, Cambodia",
+      "place": 1,
+      "pdga_points": 18.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 50.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "76563",
+      "title": "Holiday In Cambodia",
+      "dates": "23-Mar to 24-Mar-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Siem Reap, Cambodia",
+      "place": 1,
+      "pdga_points": 25.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "75876",
+      "title": "The Khmer Cup 2024 Presented by Lone Star Discs",
+      "dates": "16-Feb to 18-Feb-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Siem Reap, Cambodia",
+      "place": 1,
+      "pdga_points": 45.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "64744",
+      "title": "The Khmer Cup 2023",
+      "dates": "17-Feb to 19-Feb-2023",
+      "year": "2023",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Siem Reap, Cambodia",
+      "place": 1,
+      "pdga_points": 18.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 50.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 2,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 2,
+      "pdga_points": 40.0,
+      "avg_finish": 3.0
+    },
+    {
+      "year": "2024",
+      "events": 2,
+      "wins": 2,
+      "podiums": 2,
+      "top10": 2,
+      "pdga_points": 70.0,
+      "avg_finish": 1.0
+    },
+    {
+      "year": "2023",
+      "events": 1,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 18.0,
+      "avg_finish": 1.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2024-03-12",
+      "rating": 884,
+      "rounds": 6
+    },
+    {
+      "date": "2024-04-09",
+      "rating": 892,
+      "rounds": 8
+    },
+    {
+      "date": "2024-11-12",
+      "rating": 889,
+      "rounds": 9
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 866,
+      "rounds": 6
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 858,
+      "rounds": 6
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 21.7,
+    "season_avg": 31.5,
+    "delta_pct": -31.2
+  },
+  "pdga_url": "https://www.pdga.com/player/280843"
+}

@@ -1,0 +1,547 @@
+{
+  "pdga": 189338,
+  "name": "Justin Tan #189338",
+  "country": "Singapore",
+  "country_key": "SG",
+  "flag": "\ud83c\uddf8\ud83c\uddec",
+  "rating": 871,
+  "classification": "Amateur",
+  "city": "Singapore",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 319.0,
+  "tour_weighted_points": 162.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 14,
+  "wins": 4,
+  "podiums": 6,
+  "top5": 12,
+  "top10": 14,
+  "top20": 14,
+  "avg_finish": 3.5,
+  "win_rate": 0.286,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 622,
+  "weighted_rank": 419,
+  "country_rank": 18,
+  "am_events": 12,
+  "am_wins": 4,
+  "am_podiums": 6,
+  "am_top10": 12,
+  "am_pdga_points": 299.0,
+  "last_active": "04-Apr-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 15.0,
+      "weighted": 10.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 13,
+      "points": 304.0,
+      "weighted": 152.0,
+      "wins": 4
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 1,
+      "top10": 2,
+      "top20": 2,
+      "pdga_points": 20.0,
+      "tour_weighted_points": 17.0,
+      "avg_finish": 6.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 12,
+      "wins": 4,
+      "podiums": 6,
+      "top5": 11,
+      "top10": 12,
+      "top20": 12,
+      "pdga_points": 299.0,
+      "tour_weighted_points": 145.0,
+      "avg_finish": 3.08,
+      "win_rate": 0.333,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 14,
+      "wins": 4,
+      "podiums": 6,
+      "top5": 12,
+      "top10": 14,
+      "top20": 14,
+      "pdga_points": 319.0,
+      "tour_weighted_points": 162.0,
+      "avg_finish": 3.5,
+      "win_rate": 0.286,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA1": 11,
+    "MPO": 2,
+    "MA2": 1
+  },
+  "results": [
+    {
+      "event_id": "104304",
+      "title": "2026 China WGE - Presented by Chain Disc Golf and Spinup Club",
+      "dates": "23-May-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Shanghai, Shanghai Shi, China",
+      "place": 5,
+      "pdga_points": 5.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "105765",
+      "title": "2026 Fairfield High Tee (Flex Start)",
+      "dates": "18-Jul-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 4,
+      "pdga_points": 0.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "97674",
+      "title": "2026 Singapore Sling",
+      "dates": "17-Jan to 18-Jan-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 2,
+      "pdga_points": 35.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "102149",
+      "title": "2026 Dover Dash",
+      "dates": "04-Apr-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore,  , Singapore",
+      "place": 5,
+      "pdga_points": 30.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "90385",
+      "title": "Dover Dash 2025",
+      "dates": "22-Mar-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 1,
+      "pdga_points": 25.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "97043",
+      "title": "SEA GAMES Thailand 2025",
+      "dates": "17-Dec to 18-Dec-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Bangkok, Thailand",
+      "place": 7,
+      "pdga_points": 15.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "95233",
+      "title": "2025 Singapore Disc Golf Championships",
+      "dates": "16-Aug to 17-Aug-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 1,
+      "pdga_points": 30.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "93621",
+      "title": "2025 Fairfield Qualifier",
+      "dates": "14-Jun-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 4,
+      "pdga_points": 10.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "87020",
+      "title": "Singapore Sling 2025",
+      "dates": "11-Jan to 12-Jan-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 1,
+      "pdga_points": 25.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "78012",
+      "title": "2024 Tanglin Hill Safari",
+      "dates": "16-Mar-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore, AP, Singapore",
+      "place": 3,
+      "pdga_points": 25.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "75766",
+      "title": "Singapore Sling 2024",
+      "dates": "13-Jan-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 4,
+      "pdga_points": 55.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "73950",
+      "title": "2023 Singapore Disc Golf Championships",
+      "dates": "23-Sep to 24-Sep-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 6,
+      "pdga_points": 30.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "71837",
+      "title": "Kallang Roar at Kallang Riverside Park",
+      "dates": "08-Jul-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 5,
+      "pdga_points": 10.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "71095",
+      "title": "Dover Dash 2023",
+      "dates": "03-Jun-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 1,
+      "pdga_points": 24.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "90385",
+      "title": "Dover Dash 2025",
+      "dates": "22-Mar-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 1,
+      "pdga_points": 25.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "95233",
+      "title": "2025 Singapore Disc Golf Championships",
+      "dates": "16-Aug to 17-Aug-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 1,
+      "pdga_points": 30.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "87020",
+      "title": "Singapore Sling 2025",
+      "dates": "11-Jan to 12-Jan-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 1,
+      "pdga_points": 25.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "71095",
+      "title": "Dover Dash 2023",
+      "dates": "03-Jun-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 1,
+      "pdga_points": 24.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 4,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 4,
+      "pdga_points": 70.0,
+      "avg_finish": 4.0
+    },
+    {
+      "year": "2025",
+      "events": 5,
+      "wins": 3,
+      "podiums": 3,
+      "top10": 5,
+      "pdga_points": 105.0,
+      "avg_finish": 2.8
+    },
+    {
+      "year": "2024",
+      "events": 2,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 2,
+      "pdga_points": 80.0,
+      "avg_finish": 3.5
+    },
+    {
+      "year": "2023",
+      "events": 3,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 3,
+      "pdga_points": 64.0,
+      "avg_finish": 4.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2022-10-11",
+      "rating": 865,
+      "rounds": 22
+    },
+    {
+      "date": "2023-05-09",
+      "rating": 876,
+      "rounds": 18
+    },
+    {
+      "date": "2023-06-13",
+      "rating": 885,
+      "rounds": 13
+    },
+    {
+      "date": "2023-07-11",
+      "rating": 878,
+      "rounds": 14
+    },
+    {
+      "date": "2023-10-10",
+      "rating": 885,
+      "rounds": 7
+    },
+    {
+      "date": "2024-02-13",
+      "rating": 890,
+      "rounds": 9
+    },
+    {
+      "date": "2024-04-09",
+      "rating": 888,
+      "rounds": 10
+    },
+    {
+      "date": "2025-01-14",
+      "rating": 887,
+      "rounds": 8
+    },
+    {
+      "date": "2025-04-08",
+      "rating": 882,
+      "rounds": 10
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 876,
+      "rounds": 9
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 876,
+      "rounds": 8
+    },
+    {
+      "date": "2026-01-13",
+      "rating": 870,
+      "rounds": 10
+    },
+    {
+      "date": "2026-02-10",
+      "rating": 889,
+      "rounds": 10
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 873,
+      "rounds": 10
+    },
+    {
+      "date": "2026-06-09",
+      "rating": 871,
+      "rounds": 12
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 13.3,
+    "season_avg": 25.4,
+    "delta_pct": -47.4
+  },
+  "pdga_url": "https://www.pdga.com/player/189338"
+}

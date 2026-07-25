@@ -1,0 +1,604 @@
+{
+  "pdga": 3621,
+  "name": "Hidekatsu Sakai #3621",
+  "country": "Japan",
+  "country_key": "JP",
+  "flag": "\ud83c\uddef\ud83c\uddf5",
+  "rating": 922,
+  "classification": "Professional",
+  "city": "Kawasaki-shi",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 2544.0,
+  "tour_weighted_points": 291.7,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 17,
+  "wins": 3,
+  "podiums": 7,
+  "top5": 9,
+  "top10": 13,
+  "top20": 15,
+  "avg_finish": 12.0,
+  "win_rate": 0.176,
+  "top10_rate": 0.765,
+  "cash_earned": 300.0,
+  "pdga_rank": 69,
+  "weighted_rank": 204,
+  "country_rank": 49,
+  "am_events": 0,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 0,
+  "am_pdga_points": 0.0,
+  "last_active": "13-Jun to 14-Jun-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 12,
+      "points": 915.0,
+      "weighted": 235.5,
+      "wins": 1
+    },
+    "c_tier": {
+      "events": 5,
+      "points": 1629.0,
+      "weighted": 56.2,
+      "wins": 2
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 17,
+      "wins": 3,
+      "podiums": 7,
+      "top5": 9,
+      "top10": 13,
+      "top20": 15,
+      "pdga_points": 2544.0,
+      "tour_weighted_points": 291.7,
+      "avg_finish": 12.0,
+      "win_rate": 0.176,
+      "top10_rate": 0.765
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "all": {
+      "events": 17,
+      "wins": 3,
+      "podiums": 7,
+      "top5": 9,
+      "top10": 13,
+      "top20": 15,
+      "pdga_points": 2544.0,
+      "tour_weighted_points": 291.7,
+      "avg_finish": 12.0,
+      "win_rate": 0.176,
+      "top10_rate": 0.765
+    }
+  },
+  "division_counts": {
+    "MPO": 17
+  },
+  "results": [
+    {
+      "event_id": "103925",
+      "title": "2026 Japan National Doubles Championships",
+      "dates": "13-Jun to 14-Jun-2026",
+      "year": "2026",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Inashiki-gun, Ibaraki, Japan",
+      "place": 5,
+      "pdga_points": 105.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "97646",
+      "title": "Japan National Team Championship 2026 2Day (MIX)",
+      "dates": "11-Jan to 12-Jan-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Oyama-shi, Tochigi, Japan",
+      "place": 2,
+      "pdga_points": 120.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "92375",
+      "title": "2025 National Doubles Championships",
+      "dates": "14-Jun to 15-Jun-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Inashiki-gun, Ibaraki, Japan",
+      "place": 8,
+      "pdga_points": 30.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "15595",
+      "title": "3rd Okinawa Open",
+      "dates": "22-Feb to 23-Feb-2014",
+      "year": "2014",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Nakijin, Okinawa, Japan",
+      "place": 6,
+      "pdga_points": 37.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "17580",
+      "title": "25th Tokyo Open",
+      "dates": "19-Apr to 20-Apr-2014",
+      "year": "2014",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Tatsumi, Tokyo, Japan",
+      "place": 4,
+      "pdga_points": 150.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$60",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "17585",
+      "title": "9th Kiyosatonomori Open",
+      "dates": "17-May to 18-May-2014",
+      "year": "2014",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Kiyosato, Yamanashi, Japan",
+      "place": 3,
+      "pdga_points": 75.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 27.5
+    },
+    {
+      "event_id": "17607",
+      "title": "Japan Doubles Championships 2014",
+      "dates": "08-Mar to 09-Mar-2014",
+      "year": "2014",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Hitachi, Ibaraki, Japan",
+      "place": 1,
+      "pdga_points": 114.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$48",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "15768",
+      "title": "The 2014 Japan Open",
+      "dates": "05-Jun to 07-Jun-2014",
+      "year": "2014",
+      "tier": "",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Nasu Shiobara, Tochigi, Japan",
+      "place": 71,
+      "pdga_points": 720.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 0.6
+    },
+    {
+      "event_id": "17578",
+      "title": "16 Nippon Open",
+      "dates": "04-May to 05-May-2014",
+      "year": "2014",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Hirugano, Gifu, Japan",
+      "place": 18,
+      "pdga_points": 67.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "15440",
+      "title": "Japan Doubles Championships",
+      "dates": "10-Feb to 11-Feb-2013",
+      "year": "2013",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Hitachi, Japan",
+      "place": 1,
+      "pdga_points": 97.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$48",
+      "weighted_points": 50.0
+    },
+    {
+      "event_id": "12607",
+      "title": "Japan Doubles Championship",
+      "dates": "25-Feb to 26-Feb-2012",
+      "year": "2012",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Hitachi, Ibaraki, Japan",
+      "place": 2,
+      "pdga_points": 97.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$36",
+      "weighted_points": 37.5
+    },
+    {
+      "event_id": "12605",
+      "title": "Japan Team Championships",
+      "dates": "14-Jan to 15-Jan-2012",
+      "year": "2012",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Hitachi, Ibaraki, Japan",
+      "place": 2,
+      "pdga_points": 112.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$48",
+      "weighted_points": 37.5
+    },
+    {
+      "event_id": "13651",
+      "title": "8th Masters Championships",
+      "dates": "08-Dec to 09-Dec-2012",
+      "year": "2012",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Hitachi, Ibaraki, Japan",
+      "place": 12,
+      "pdga_points": 30.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "11763",
+      "title": "Japan Mixed Doubles Championships",
+      "dates": "12-Feb to 13-Feb-2011",
+      "year": "2011",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Hitachi, Ibaraki, Japan",
+      "place": 1,
+      "pdga_points": 0.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$60",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "9552",
+      "title": "2010 Japan Open (159.9 grams and under)",
+      "dates": "10-Jun to 12-Jun-2010",
+      "year": "2010",
+      "tier": "",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Tochigi, Nasu Highlands, Tochigi, Japan",
+      "place": 53,
+      "pdga_points": 675.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 0.6
+    },
+    {
+      "event_id": "9839",
+      "title": "8th Kanagawa Open",
+      "dates": "09-Jan to 10-Jan-2010",
+      "year": "2010",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Aikawa/Kanawaga, Japan",
+      "place": 7,
+      "pdga_points": 37.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "10270",
+      "title": "21st National Championships",
+      "dates": "03-May to 05-May-2010",
+      "year": "2010",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Minamisoma, Fukushima, Japan",
+      "place": 8,
+      "pdga_points": 75.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 10.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "17607",
+      "title": "Japan Doubles Championships 2014",
+      "dates": "08-Mar to 09-Mar-2014",
+      "year": "2014",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Hitachi, Ibaraki, Japan",
+      "place": 1,
+      "pdga_points": 114.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$48",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "15440",
+      "title": "Japan Doubles Championships",
+      "dates": "10-Feb to 11-Feb-2013",
+      "year": "2013",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Hitachi, Japan",
+      "place": 1,
+      "pdga_points": 97.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$48",
+      "weighted_points": 50.0
+    },
+    {
+      "event_id": "11763",
+      "title": "Japan Mixed Doubles Championships",
+      "dates": "12-Feb to 13-Feb-2011",
+      "year": "2011",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Hitachi, Ibaraki, Japan",
+      "place": 1,
+      "pdga_points": 0.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$60",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 2,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 2,
+      "pdga_points": 225.0,
+      "avg_finish": 3.5
+    },
+    {
+      "year": "2025",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 30.0,
+      "avg_finish": 8.0
+    },
+    {
+      "year": "2014",
+      "events": 6,
+      "wins": 1,
+      "podiums": 2,
+      "top10": 4,
+      "pdga_points": 1164.0,
+      "avg_finish": 17.17
+    },
+    {
+      "year": "2013",
+      "events": 1,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 97.5,
+      "avg_finish": 1.0
+    },
+    {
+      "year": "2012",
+      "events": 3,
+      "wins": 0,
+      "podiums": 2,
+      "top10": 2,
+      "pdga_points": 240.0,
+      "avg_finish": 5.33
+    },
+    {
+      "year": "2011",
+      "events": 1,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 0.0,
+      "avg_finish": 1.0
+    },
+    {
+      "year": "2010",
+      "events": 3,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 2,
+      "pdga_points": 787.5,
+      "avg_finish": 22.67
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2014-06-24",
+      "rating": 955,
+      "rounds": 20
+    },
+    {
+      "date": "2014-07-15",
+      "rating": 949,
+      "rounds": 20
+    },
+    {
+      "date": "2015-01-27",
+      "rating": 951,
+      "rounds": 23
+    },
+    {
+      "date": "2023-06-13",
+      "rating": 902,
+      "rounds": 3
+    },
+    {
+      "date": "2023-07-11",
+      "rating": 893,
+      "rounds": 6
+    },
+    {
+      "date": "2024-06-11",
+      "rating": 881,
+      "rounds": 9
+    },
+    {
+      "date": "2024-07-09",
+      "rating": 878,
+      "rounds": 8
+    },
+    {
+      "date": "2025-03-11",
+      "rating": 907,
+      "rounds": 9
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 926,
+      "rounds": 11
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 923,
+      "rounds": 12
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 924,
+      "rounds": 15
+    },
+    {
+      "date": "2025-11-11",
+      "rating": 928,
+      "rounds": 18
+    },
+    {
+      "date": "2026-01-13",
+      "rating": 928,
+      "rounds": 20
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 928,
+      "rounds": 23
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 922,
+      "rounds": 23
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 85.0,
+    "season_avg": 163.5,
+    "delta_pct": -48.0
+  },
+  "pdga_url": "https://www.pdga.com/player/3621"
+}

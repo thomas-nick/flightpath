@@ -1,0 +1,333 @@
+{
+  "pdga": 176808,
+  "name": "Tuomas Maljanen #176808",
+  "country": "Singapore",
+  "country_key": "SG",
+  "flag": "\ud83c\uddf8\ud83c\uddec",
+  "rating": null,
+  "classification": "Amateur",
+  "city": "Singapore",
+  "nationality": "Finland",
+  "division": "MA1",
+  "primary_class": "amateur",
+  "pdga_points": 335.0,
+  "tour_weighted_points": 52.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 7,
+  "wins": 0,
+  "podiums": 2,
+  "top5": 4,
+  "top10": 7,
+  "top20": 7,
+  "avg_finish": 5.29,
+  "win_rate": 0.0,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 600,
+  "weighted_rank": 903,
+  "country_rank": 17,
+  "am_events": 7,
+  "am_wins": 0,
+  "am_podiums": 2,
+  "am_top10": 7,
+  "am_pdga_points": 335.0,
+  "last_active": "13-Jan-2024",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 7,
+      "points": 335.0,
+      "weighted": 52.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 7,
+      "wins": 0,
+      "podiums": 2,
+      "top5": 4,
+      "top10": 7,
+      "top20": 7,
+      "pdga_points": 335.0,
+      "tour_weighted_points": 52.0,
+      "avg_finish": 5.29,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 7,
+      "wins": 0,
+      "podiums": 2,
+      "top5": 4,
+      "top10": 7,
+      "top20": 7,
+      "pdga_points": 335.0,
+      "tour_weighted_points": 52.0,
+      "avg_finish": 5.29,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA1": 7
+  },
+  "results": [
+    {
+      "event_id": "75766",
+      "title": "Singapore Sling 2024",
+      "dates": "13-Jan-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 7,
+      "pdga_points": 40.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "66066",
+      "title": "Singapore Sling 2023",
+      "dates": "25-Feb-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 3,
+      "pdga_points": 65.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "71095",
+      "title": "Dover Dash 2023",
+      "dates": "03-Jun-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 2,
+      "pdga_points": 35.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "61046",
+      "title": "Tanjong Rhu Flex Fun",
+      "dates": "18-Jun-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 5,
+      "pdga_points": 40.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "63085",
+      "title": "2022 Singapore Disc Golf Championships",
+      "dates": "17-Sep to 18-Sep-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 8,
+      "pdga_points": 60.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "61822",
+      "title": "Dover Dash 2022",
+      "dates": "16-Jul-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 4,
+      "pdga_points": 35.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "53186",
+      "title": "2021 Singapore Disc Golf Championships",
+      "dates": "18-Sep to 19-Sep-2021",
+      "year": "2021",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 8,
+      "pdga_points": 60.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2024",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 40.0,
+      "avg_finish": 7.0
+    },
+    {
+      "year": "2023",
+      "events": 2,
+      "wins": 0,
+      "podiums": 2,
+      "top10": 2,
+      "pdga_points": 100.0,
+      "avg_finish": 2.5
+    },
+    {
+      "year": "2022",
+      "events": 3,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 3,
+      "pdga_points": 135.0,
+      "avg_finish": 5.67
+    },
+    {
+      "year": "2021",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 60.0,
+      "avg_finish": 8.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2021-10-12",
+      "rating": 876,
+      "rounds": 3
+    },
+    {
+      "date": "2022-05-10",
+      "rating": 889,
+      "rounds": 7
+    },
+    {
+      "date": "2022-07-12",
+      "rating": 891,
+      "rounds": 8
+    },
+    {
+      "date": "2022-08-09",
+      "rating": 894,
+      "rounds": 9
+    },
+    {
+      "date": "2022-10-11",
+      "rating": 897,
+      "rounds": 11
+    },
+    {
+      "date": "2023-03-14",
+      "rating": 908,
+      "rounds": 10
+    },
+    {
+      "date": "2023-06-13",
+      "rating": 913,
+      "rounds": 8
+    },
+    {
+      "date": "2024-02-13",
+      "rating": 906,
+      "rounds": 8
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 46.7,
+    "season_avg": 48.8,
+    "delta_pct": -4.3
+  },
+  "pdga_url": "https://www.pdga.com/player/176808"
+}

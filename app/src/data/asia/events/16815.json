@@ -1,0 +1,144 @@
+{
+  "event_id": "16815",
+  "title": "Balenkey presents the 3rd Daegu Open",
+  "location": "Daegu, South Korea",
+  "dates": "19-Apr to 20-Apr-2014",
+  "year": "2014",
+  "tier": "C",
+  "level": "c_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 9,
+  "avg_mpo_rating": 917.8,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "count": 5
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 54094,
+      "name": "Eric Fitzsimons",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 1,
+      "pdga_points": 75.0,
+      "rating": 962,
+      "prize": "$82",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 37190,
+      "name": "Junkoo Kang",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 5,
+      "pdga_points": 55.0,
+      "rating": 939,
+      "prize": "$24",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "country_key": "KR"
+    },
+    {
+      "pdga": 31966,
+      "name": "Derek Hopkins",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 6,
+      "pdga_points": 50.0,
+      "rating": 944,
+      "prize": "$19",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 49394,
+      "name": "James Pearson",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 7,
+      "pdga_points": 45.0,
+      "rating": 917,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "Germany",
+      "country_key": ""
+    },
+    {
+      "pdga": 62592,
+      "name": "Sascha Goldmann",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 8,
+      "pdga_points": 40.0,
+      "rating": 914,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "Germany",
+      "country_key": ""
+    },
+    {
+      "pdga": 65374,
+      "name": "Sang Yong Lee",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 8,
+      "pdga_points": 40.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "country_key": "KR"
+    },
+    {
+      "pdga": 51693,
+      "name": "Seung Cheol Jeong",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 10,
+      "pdga_points": 30.0,
+      "rating": 909,
+      "prize": "",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "country_key": "KR"
+    },
+    {
+      "pdga": 8734,
+      "name": "Sung Bae Kim",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 12,
+      "pdga_points": 20.0,
+      "rating": 893,
+      "prize": "",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "country_key": "KR"
+    },
+    {
+      "pdga": 59174,
+      "name": "Byeong Wook Baek",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 15,
+      "pdga_points": 0.0,
+      "rating": 864,
+      "prize": "",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "country_key": "KR"
+    }
+  ],
+  "fpo": [],
+  "amateur": [],
+  "divisions": [
+    "MPO"
+  ]
+}

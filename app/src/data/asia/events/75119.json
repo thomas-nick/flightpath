@@ -1,0 +1,220 @@
+{
+  "event_id": "75119",
+  "title": "MDGT #2 (Ara Damansara DGC)",
+  "location": "Petaling Jaya, Selangor, Malaysia",
+  "dates": "18-Nov-2023",
+  "year": "2023",
+  "tier": "C",
+  "level": "c_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 14,
+  "avg_mpo_rating": 919.8,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "count": 11
+    },
+    {
+      "flag": "\ud83c\uddf5\ud83c\udded",
+      "country": "Philippines",
+      "count": 1
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 110965,
+      "name": "Didrik Fjeld Elset",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 1,
+      "pdga_points": 25.0,
+      "rating": 948,
+      "prize": "$42",
+      "flag": "\ud83c\udf10",
+      "country": "Norway",
+      "country_key": ""
+    },
+    {
+      "pdga": 176158,
+      "name": "Adam Keen",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 2,
+      "pdga_points": 20.0,
+      "rating": 933,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "United Kingdom",
+      "country_key": ""
+    },
+    {
+      "pdga": 116486,
+      "name": "Sean Raj",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 3,
+      "pdga_points": 15.0,
+      "rating": 928,
+      "prize": "",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    },
+    {
+      "pdga": 318222,
+      "name": "Adeno Ong",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 4,
+      "pdga_points": 10.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    },
+    {
+      "pdga": 133671,
+      "name": "Mart Mullan",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 5,
+      "pdga_points": 5.0,
+      "rating": 870,
+      "prize": "",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    }
+  ],
+  "fpo": [
+    {
+      "pdga": 130936,
+      "name": "Rosalie Pili",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 1,
+      "pdga_points": 9.0,
+      "rating": 819,
+      "prize": "$32",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    },
+    {
+      "pdga": 149017,
+      "name": "Lyra Belga",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 2,
+      "pdga_points": 6.0,
+      "rating": 734,
+      "prize": "$17",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    },
+    {
+      "pdga": 149028,
+      "name": "Maricel Anga Angan",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 3,
+      "pdga_points": 3.0,
+      "rating": 766,
+      "prize": "",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    }
+  ],
+  "amateur": [
+    {
+      "pdga": 150296,
+      "name": "Joanna Mae Guzman",
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 6.0,
+      "rating": 700,
+      "prize": "",
+      "flag": "\ud83c\uddf5\ud83c\udded",
+      "country": "Philippines",
+      "country_key": "PH"
+    },
+    {
+      "pdga": 255230,
+      "name": "Dave Tan",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 55.0,
+      "rating": 765,
+      "prize": "",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    },
+    {
+      "pdga": 146866,
+      "name": "KF Lee",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 3,
+      "pdga_points": 45.0,
+      "rating": 794,
+      "prize": "",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    },
+    {
+      "pdga": 240163,
+      "name": "Anthony Wong Siewhong",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 9,
+      "pdga_points": 0.0,
+      "rating": 738,
+      "prize": "",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    },
+    {
+      "pdga": 126428,
+      "name": "Dass Mohan",
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 24.0,
+      "rating": 807,
+      "prize": "",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    },
+    {
+      "pdga": 135342,
+      "name": "Brian Candler",
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "place": 6,
+      "pdga_points": 0.0,
+      "rating": 836,
+      "prize": "",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    }
+  ],
+  "divisions": [
+    "FA1",
+    "FPO",
+    "MA1",
+    "MA40",
+    "MPO"
+  ]
+}

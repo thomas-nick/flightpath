@@ -1,0 +1,377 @@
+{
+  "pdga": 50550,
+  "name": "Barry Armour #50550",
+  "country": "United States",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 891,
+  "classification": "Amateur",
+  "city": "Mooresville",
+  "nationality": "",
+  "division": "MA50",
+  "primary_class": "amateur",
+  "pdga_points": 55.0,
+  "tour_weighted_points": 118.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 6,
+  "wins": 2,
+  "podiums": 6,
+  "top5": 6,
+  "top10": 6,
+  "top20": 6,
+  "avg_finish": 2.17,
+  "win_rate": 0.333,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 2201,
+  "weighted_rank": 423,
+  "country_rank": null,
+  "am_events": 6,
+  "am_wins": 2,
+  "am_podiums": 6,
+  "am_top10": 6,
+  "am_pdga_points": 55.0,
+  "last_active": "19-Feb-2023",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 6.0,
+      "weighted": 50.0,
+      "wins": 1
+    },
+    "c_tier": {
+      "events": 5,
+      "points": 49.0,
+      "weighted": 68.0,
+      "wins": 1
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 6,
+      "wins": 2,
+      "podiums": 6,
+      "top5": 6,
+      "top10": 6,
+      "top20": 6,
+      "pdga_points": 55.0,
+      "tour_weighted_points": 118.0,
+      "avg_finish": 2.17,
+      "win_rate": 0.333,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 6,
+      "wins": 2,
+      "podiums": 6,
+      "top5": 6,
+      "top10": 6,
+      "top20": 6,
+      "pdga_points": 55.0,
+      "tour_weighted_points": 118.0,
+      "avg_finish": 2.17,
+      "win_rate": 0.333,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA50": 3,
+    "MA60": 3
+  },
+  "results": [
+    {
+      "event_id": "66360",
+      "title": "WIFFS The Nashville Chill sponsored by Westside Discs (CEP Charity - Rated)",
+      "dates": "19-Feb-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Nashville, Indiana, United States",
+      "place": 3,
+      "pdga_points": 8.0,
+      "division": "MA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "67449",
+      "title": "Walnut Cracker - WIFFS (CEP Charity - Rated)",
+      "dates": "18-Mar-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Greencastle, Indiana, United States",
+      "place": 3,
+      "pdga_points": 8.0,
+      "division": "MA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "71253",
+      "title": "Hendricks County Open",
+      "dates": "08-Jul-2023",
+      "year": "2023",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Danville, Indiana, United States",
+      "place": 1,
+      "pdga_points": 6.0,
+      "division": "MA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 50.0
+    },
+    {
+      "event_id": "59744",
+      "title": "King of the Hill",
+      "dates": "30-Apr-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Danville, Indiana, United States",
+      "place": 1,
+      "pdga_points": 12.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "56568",
+      "title": "WIFFS #17 - The Nashville Chill sponsored by Westside Discs (CEP Charity - Rated)",
+      "dates": "19-Feb-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Nashville, Indiana, United States",
+      "place": 2,
+      "pdga_points": 15.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "54061",
+      "title": "Fling for Hope",
+      "dates": "30-Oct-2021",
+      "year": "2021",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Winchester, Indiana, United States",
+      "place": 3,
+      "pdga_points": 6.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "71253",
+      "title": "Hendricks County Open",
+      "dates": "08-Jul-2023",
+      "year": "2023",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Danville, Indiana, United States",
+      "place": 1,
+      "pdga_points": 6.0,
+      "division": "MA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 50.0
+    },
+    {
+      "event_id": "59744",
+      "title": "King of the Hill",
+      "dates": "30-Apr-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Danville, Indiana, United States",
+      "place": 1,
+      "pdga_points": 12.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2023",
+      "events": 3,
+      "wins": 1,
+      "podiums": 3,
+      "top10": 3,
+      "pdga_points": 22.0,
+      "avg_finish": 2.33
+    },
+    {
+      "year": "2022",
+      "events": 2,
+      "wins": 1,
+      "podiums": 2,
+      "top10": 2,
+      "pdga_points": 27.0,
+      "avg_finish": 1.5
+    },
+    {
+      "year": "2021",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 6.0,
+      "avg_finish": 3.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2025-05-13",
+      "rating": 883,
+      "rounds": 81
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 887,
+      "rounds": 84
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 888,
+      "rounds": 85
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 891,
+      "rounds": 85
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 888,
+      "rounds": 81
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 889,
+      "rounds": 82
+    },
+    {
+      "date": "2025-11-11",
+      "rating": 888,
+      "rounds": 80
+    },
+    {
+      "date": "2025-12-09",
+      "rating": 888,
+      "rounds": 82
+    },
+    {
+      "date": "2026-01-13",
+      "rating": 889,
+      "rounds": 82
+    },
+    {
+      "date": "2026-02-10",
+      "rating": 887,
+      "rounds": 82
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 887,
+      "rounds": 86
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 891,
+      "rounds": 90
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 891,
+      "rounds": 93
+    },
+    {
+      "date": "2026-06-09",
+      "rating": 889,
+      "rounds": 91
+    },
+    {
+      "date": "2026-07-14",
+      "rating": 891,
+      "rounds": 94
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 7.3,
+    "season_avg": 11.0,
+    "delta_pct": -33.3
+  },
+  "pdga_url": "https://www.pdga.com/player/50550"
+}

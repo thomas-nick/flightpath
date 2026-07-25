@@ -1,0 +1,202 @@
+{
+  "pdga": 114975,
+  "name": "Peter Resetarits #114975",
+  "country": "United States",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 822,
+  "classification": "Professional",
+  "city": "Apo",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 127.5,
+  "tour_weighted_points": 59.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 3,
+  "wins": 0,
+  "podiums": 1,
+  "top5": 2,
+  "top10": 2,
+  "top20": 3,
+  "avg_finish": 8.67,
+  "win_rate": 0.0,
+  "top10_rate": 0.667,
+  "cash_earned": 0.0,
+  "pdga_rank": 1043,
+  "weighted_rank": 854,
+  "country_rank": null,
+  "am_events": 2,
+  "am_wins": 0,
+  "am_podiums": 1,
+  "am_top10": 2,
+  "am_pdga_points": 120.0,
+  "last_active": "16-Feb to 17-Feb-2019",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 3,
+      "points": 127.5,
+      "weighted": 59.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 1,
+      "pdga_points": 7.5,
+      "tour_weighted_points": 4.0,
+      "avg_finish": 19.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 2,
+      "top10": 2,
+      "top20": 2,
+      "pdga_points": 120.0,
+      "tour_weighted_points": 55.0,
+      "avg_finish": 3.5,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 3,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 2,
+      "top10": 2,
+      "top20": 3,
+      "pdga_points": 127.5,
+      "tour_weighted_points": 59.0,
+      "avg_finish": 8.67,
+      "win_rate": 0.0,
+      "top10_rate": 0.667
+    }
+  },
+  "division_counts": {
+    "MPO": 1,
+    "MA1": 2
+  },
+  "results": [
+    {
+      "event_id": "42912",
+      "title": "The 33rd Kyushu Open",
+      "dates": "30-Nov to 01-Dec-2019",
+      "year": "2019",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Fukuoka, Fukuoka, Japan",
+      "place": 5,
+      "pdga_points": 82.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "40977",
+      "title": "Korea Open Championship",
+      "dates": "28-Sep to 29-Sep-2019",
+      "year": "2019",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Gyeongju Nasandeul Park, Gyeongsangbuk-do, South Korea",
+      "place": 2,
+      "pdga_points": 37.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 37.5
+    },
+    {
+      "event_id": "39009",
+      "title": "The 8th Okinawa Open",
+      "dates": "16-Feb to 17-Feb-2019",
+      "year": "2019",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Nakijin, Okinawa, Japan",
+      "place": 19,
+      "pdga_points": 7.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2019",
+      "events": 3,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 2,
+      "pdga_points": 127.5,
+      "avg_finish": 8.67
+    }
+  ],
+  "rating_history": [],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/114975"
+}

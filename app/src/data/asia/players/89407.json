@@ -1,0 +1,356 @@
+{
+  "pdga": 89407,
+  "name": "Ari Peltonen #89407",
+  "country": "Finland",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 845,
+  "classification": "Amateur",
+  "city": "Vantaa",
+  "nationality": "",
+  "division": "MA40",
+  "primary_class": "amateur",
+  "pdga_points": 234.0,
+  "tour_weighted_points": 106.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 8,
+  "wins": 1,
+  "podiums": 1,
+  "top5": 3,
+  "top10": 5,
+  "top20": 8,
+  "avg_finish": 8.38,
+  "win_rate": 0.125,
+  "top10_rate": 0.625,
+  "cash_earned": 0.0,
+  "pdga_rank": 752,
+  "weighted_rank": 598,
+  "country_rank": null,
+  "am_events": 8,
+  "am_wins": 1,
+  "am_podiums": 1,
+  "am_top10": 5,
+  "am_pdga_points": 234.0,
+  "last_active": "31-Jan to 02-Feb-2023",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 4,
+      "points": 176.0,
+      "weighted": 71.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 18.0,
+      "weighted": 4.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 3,
+      "points": 40.0,
+      "weighted": 31.0,
+      "wins": 1
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 8,
+      "wins": 1,
+      "podiums": 1,
+      "top5": 3,
+      "top10": 5,
+      "top20": 8,
+      "pdga_points": 234.0,
+      "tour_weighted_points": 106.0,
+      "avg_finish": 8.38,
+      "win_rate": 0.125,
+      "top10_rate": 0.625
+    },
+    "all": {
+      "events": 8,
+      "wins": 1,
+      "podiums": 1,
+      "top5": 3,
+      "top10": 5,
+      "top20": 8,
+      "pdga_points": 234.0,
+      "tour_weighted_points": 106.0,
+      "avg_finish": 8.38,
+      "win_rate": 0.125,
+      "top10_rate": 0.625
+    }
+  },
+  "division_counts": {
+    "MA40": 8
+  },
+  "results": [
+    {
+      "event_id": "63564",
+      "title": "Samui Swine Classic X Presented by Prodigy Discs- MA3, MA2, FA1, MA40, MA50, MA60",
+      "dates": "31-Jan to 02-Feb-2023",
+      "year": "2023",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 9,
+      "pdga_points": 0.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "63795",
+      "title": "Hyzenbrownie Dreamweaver Open 2023 Powered By Innova Discs",
+      "dates": "25-Jan to 29-Jan-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui Thailand, Thailand",
+      "place": 4,
+      "pdga_points": 12.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "43198",
+      "title": "Samui Swine Classic VII - Ams - Presented by Innova",
+      "dates": "29-Jan to 30-Jan-2020",
+      "year": "2020",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 12,
+      "pdga_points": 32.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 8.0
+    },
+    {
+      "event_id": "43184",
+      "title": "The 5th Annual Hyzenbrownie Open \"King Of The Island\" 2020",
+      "dates": "22-Jan to 26-Jan-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Namuang Koh Samui, Thailand",
+      "place": 6,
+      "pdga_points": 12.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "38587",
+      "title": "Hyzenbrownie Open \"Hurljam 2019\" - Ams",
+      "dates": "14-Feb to 15-Feb-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Namuang, Thailand",
+      "place": 1,
+      "pdga_points": 16.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "38588",
+      "title": "Samui Swine Classic VI - Presented by Dynamic Discs - Ams",
+      "dates": "06-Feb to 07-Feb-2019",
+      "year": "2019",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 5,
+      "pdga_points": 88.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 35.0
+    },
+    {
+      "event_id": "33102",
+      "title": "Third Annual Hyzenbrownie Open - The Flaskenpouch 2018",
+      "dates": "27-Jan to 28-Jan-2018",
+      "year": "2018",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 17,
+      "pdga_points": 18.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "33706",
+      "title": "Samui Swine Classic V",
+      "dates": "01-Feb to 03-Feb-2018",
+      "year": "2018",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 13,
+      "pdga_points": 56.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 8.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "38587",
+      "title": "Hyzenbrownie Open \"Hurljam 2019\" - Ams",
+      "dates": "14-Feb to 15-Feb-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Namuang, Thailand",
+      "place": 1,
+      "pdga_points": 16.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2023",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 2,
+      "pdga_points": 12.0,
+      "avg_finish": 6.5
+    },
+    {
+      "year": "2020",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 44.0,
+      "avg_finish": 9.0
+    },
+    {
+      "year": "2019",
+      "events": 2,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 2,
+      "pdga_points": 104.0,
+      "avg_finish": 3.0
+    },
+    {
+      "year": "2018",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 74.0,
+      "avg_finish": 15.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2017-03-28",
+      "rating": 826,
+      "rounds": 4
+    },
+    {
+      "date": "2018-03-13",
+      "rating": 849,
+      "rounds": 8
+    },
+    {
+      "date": "2019-02-26",
+      "rating": 865,
+      "rounds": 6
+    },
+    {
+      "date": "2019-03-19",
+      "rating": 857,
+      "rounds": 8
+    },
+    {
+      "date": "2020-02-11",
+      "rating": 855,
+      "rounds": 9
+    },
+    {
+      "date": "2023-02-14",
+      "rating": 845,
+      "rounds": 4
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 14.7,
+    "season_avg": 38.0,
+    "delta_pct": -61.4
+  },
+  "pdga_url": "https://www.pdga.com/player/89407"
+}

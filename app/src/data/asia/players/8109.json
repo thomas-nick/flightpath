@@ -1,0 +1,252 @@
+{
+  "pdga": 8109,
+  "name": "Yoshito Nishizono #8109",
+  "country": "Japan",
+  "country_key": "JP",
+  "flag": "\ud83c\uddef\ud83c\uddf5",
+  "rating": 880,
+  "classification": "Professional",
+  "city": "Kanoya",
+  "nationality": "",
+  "division": "MA1",
+  "primary_class": "amateur",
+  "pdga_points": 157.5,
+  "tour_weighted_points": 137.5,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 3,
+  "wins": 2,
+  "podiums": 3,
+  "top5": 3,
+  "top10": 3,
+  "top20": 3,
+  "avg_finish": 1.33,
+  "win_rate": 0.667,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 938,
+  "weighted_rank": 489,
+  "country_rank": 226,
+  "am_events": 3,
+  "am_wins": 2,
+  "am_podiums": 3,
+  "am_top10": 3,
+  "am_pdga_points": 157.5,
+  "last_active": "07-Apr to 08-Apr-2012",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 3,
+      "points": 157.5,
+      "weighted": 137.5,
+      "wins": 2
+    },
+    "c_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 3,
+      "wins": 2,
+      "podiums": 3,
+      "top5": 3,
+      "top10": 3,
+      "top20": 3,
+      "pdga_points": 157.5,
+      "tour_weighted_points": 137.5,
+      "avg_finish": 1.33,
+      "win_rate": 0.667,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 3,
+      "wins": 2,
+      "podiums": 3,
+      "top5": 3,
+      "top10": 3,
+      "top20": 3,
+      "pdga_points": 157.5,
+      "tour_weighted_points": 137.5,
+      "avg_finish": 1.33,
+      "win_rate": 0.667,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA1": 3
+  },
+  "results": [
+    {
+      "event_id": "13636",
+      "title": "10th Saga Open",
+      "dates": "07-Apr to 08-Apr-2012",
+      "year": "2012",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Kanzaki, Saga, Japan",
+      "place": 1,
+      "pdga_points": 52.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 50.0
+    },
+    {
+      "event_id": "11814",
+      "title": "9th Saga Open",
+      "dates": "09-Apr to 10-Apr-2011",
+      "year": "2011",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Kanzaki, Saga, Japan",
+      "place": 1,
+      "pdga_points": 45.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 50.0
+    },
+    {
+      "event_id": "10273",
+      "title": "10th Aso Open",
+      "dates": "24-Jul to 25-Jul-2010",
+      "year": "2010",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Aso, Kumamoto, Japan",
+      "place": 2,
+      "pdga_points": 60.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 37.5
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "13636",
+      "title": "10th Saga Open",
+      "dates": "07-Apr to 08-Apr-2012",
+      "year": "2012",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Kanzaki, Saga, Japan",
+      "place": 1,
+      "pdga_points": 52.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 50.0
+    },
+    {
+      "event_id": "11814",
+      "title": "9th Saga Open",
+      "dates": "09-Apr to 10-Apr-2011",
+      "year": "2011",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Kanzaki, Saga, Japan",
+      "place": 1,
+      "pdga_points": 45.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 50.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2012",
+      "events": 1,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 52.5,
+      "avg_finish": 1.0
+    },
+    {
+      "year": "2011",
+      "events": 1,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 45.0,
+      "avg_finish": 1.0
+    },
+    {
+      "year": "2010",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 60.0,
+      "avg_finish": 2.0
+    }
+  ],
+  "rating_history": [],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/8109"
+}

@@ -1,0 +1,289 @@
+{
+  "pdga": 298598,
+  "name": "Emanuel Joshua Dizon #298598",
+  "country": "Philippines",
+  "country_key": "PH",
+  "flag": "\ud83c\uddf5\ud83c\udded",
+  "rating": 683,
+  "classification": "Amateur",
+  "city": "Lipa City",
+  "nationality": "",
+  "division": "MA2",
+  "primary_class": "amateur",
+  "pdga_points": 68.0,
+  "tour_weighted_points": 21.6,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 6,
+  "wins": 0,
+  "podiums": 0,
+  "top5": 0,
+  "top10": 5,
+  "top20": 6,
+  "avg_finish": 8.67,
+  "win_rate": 0.0,
+  "top10_rate": 0.833,
+  "cash_earned": 0.0,
+  "pdga_rank": 1350,
+  "weighted_rank": 1319,
+  "country_rank": 58,
+  "am_events": 6,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 5,
+  "am_pdga_points": 68.0,
+  "last_active": "25-Apr to 26-Apr-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 6,
+      "points": 68.0,
+      "weighted": 21.6,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 6,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 5,
+      "top20": 6,
+      "pdga_points": 68.0,
+      "tour_weighted_points": 21.6,
+      "avg_finish": 8.67,
+      "win_rate": 0.0,
+      "top10_rate": 0.833
+    },
+    "all": {
+      "events": 6,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 5,
+      "top20": 6,
+      "pdga_points": 68.0,
+      "tour_weighted_points": 21.6,
+      "avg_finish": 8.67,
+      "win_rate": 0.0,
+      "top10_rate": 0.833
+    }
+  },
+  "division_counts": {
+    "MA2": 6
+  },
+  "results": [
+    {
+      "event_id": "102225",
+      "title": "2026 Cavite Invitational",
+      "dates": "25-Apr to 26-Apr-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Indang, Cavite, Philippines",
+      "place": 15,
+      "pdga_points": 4.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "89767",
+      "title": "Enkantierra Nature Park Disc Golf Course  Inaugural Tournament",
+      "dates": "29-Mar-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Santo Tomas, Batangas, Philippines",
+      "place": 6,
+      "pdga_points": 16.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "91152",
+      "title": "Cavite Open Tournament 2025",
+      "dates": "26-Apr to 27-Apr-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Indang, Cavite, Philippines",
+      "place": 7,
+      "pdga_points": 12.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "87026",
+      "title": "LIPAD PILIPINAS III Island of Palawan Edition",
+      "dates": "22-Feb to 23-Feb-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Quezon, Palawan, Philippines",
+      "place": 9,
+      "pdga_points": 4.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "94738",
+      "title": "Philippine National Disc Golf Championship",
+      "dates": "13-Sep to 14-Sep-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Municipality of San Jose, Tarlac, Philippines",
+      "place": 8,
+      "pdga_points": 28.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "97012",
+      "title": "DGAP 3rd Anniversary Disc Golf Tournament  2025",
+      "dates": "08-Nov to 09-Nov-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Santo Tomas, Batangas, Philippines",
+      "place": 7,
+      "pdga_points": 4.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 4.0,
+      "avg_finish": 15.0
+    },
+    {
+      "year": "2025",
+      "events": 5,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 5,
+      "pdga_points": 64.0,
+      "avg_finish": 7.4
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2025-03-11",
+      "rating": 622,
+      "rounds": 2
+    },
+    {
+      "date": "2025-04-08",
+      "rating": 682,
+      "rounds": 4
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 728,
+      "rounds": 6
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 708,
+      "rounds": 8
+    },
+    {
+      "date": "2025-11-11",
+      "rating": 700,
+      "rounds": 10
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 683,
+      "rounds": 9
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 10.7,
+    "season_avg": 12.0,
+    "delta_pct": -11.1
+  },
+  "pdga_url": "https://www.pdga.com/player/298598"
+}

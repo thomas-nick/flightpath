@@ -1,0 +1,256 @@
+{
+  "pdga": 214188,
+  "name": "Ryan Ford #214188",
+  "country": "United States",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 938,
+  "classification": "Amateur",
+  "city": "Lombard",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 375.0,
+  "tour_weighted_points": 2.2,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top5": 0,
+  "top10": 0,
+  "top20": 1,
+  "avg_finish": 31.0,
+  "win_rate": 0.0,
+  "top10_rate": 0.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 795,
+  "weighted_rank": 3225,
+  "country_rank": null,
+  "am_events": 1,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 0,
+  "am_pdga_points": 265.0,
+  "last_active": "30-Jul-2023",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 2,
+      "points": 375.0,
+      "weighted": 2.2,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 110.0,
+      "tour_weighted_points": 0.6,
+      "avg_finish": 45.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 1,
+      "pdga_points": 265.0,
+      "tour_weighted_points": 1.6,
+      "avg_finish": 17.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "all": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 1,
+      "pdga_points": 375.0,
+      "tour_weighted_points": 2.2,
+      "avg_finish": 31.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    }
+  },
+  "division_counts": {
+    "MA1": 1,
+    "MPO": 1
+  },
+  "results": [
+    {
+      "event_id": "69206",
+      "title": "2023 Discontinuum Club Challenge Invitational",
+      "dates": "30-Jul-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Crown Point, Indiana, United States",
+      "place": 45,
+      "pdga_points": 110.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 0.6
+    },
+    {
+      "event_id": "61612",
+      "title": "2022 Discontinuum Club Challenge Invitational",
+      "dates": "07-Aug-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Crown Point, Indiana, United States",
+      "place": 17,
+      "pdga_points": 265.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 1.6
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2023",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 110.0,
+      "avg_finish": 45.0
+    },
+    {
+      "year": "2022",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 265.0,
+      "avg_finish": 17.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2022-07-12",
+      "rating": 938,
+      "rounds": 1
+    },
+    {
+      "date": "2022-08-09",
+      "rating": 937,
+      "rounds": 2
+    },
+    {
+      "date": "2022-09-13",
+      "rating": 953,
+      "rounds": 4
+    },
+    {
+      "date": "2022-12-13",
+      "rating": 939,
+      "rounds": 6
+    },
+    {
+      "date": "2023-04-11",
+      "rating": 958,
+      "rounds": 7
+    },
+    {
+      "date": "2023-07-11",
+      "rating": 958,
+      "rounds": 13
+    },
+    {
+      "date": "2023-08-08",
+      "rating": 949,
+      "rounds": 14
+    },
+    {
+      "date": "2023-09-12",
+      "rating": 947,
+      "rounds": 14
+    },
+    {
+      "date": "2023-10-10",
+      "rating": 946,
+      "rounds": 18
+    },
+    {
+      "date": "2024-05-14",
+      "rating": 944,
+      "rounds": 15
+    },
+    {
+      "date": "2024-07-09",
+      "rating": 942,
+      "rounds": 16
+    },
+    {
+      "date": "2024-10-08",
+      "rating": 933,
+      "rounds": 7
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/214188"
+}

@@ -1,0 +1,310 @@
+{
+  "pdga": 225211,
+  "name": "Simon Reid #225211",
+  "country": "Australia",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 741,
+  "classification": "Amateur",
+  "city": "Red Hill",
+  "nationality": "",
+  "division": "MA40",
+  "primary_class": "amateur",
+  "pdga_points": 88.5,
+  "tour_weighted_points": 43.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 5,
+  "wins": 0,
+  "podiums": 2,
+  "top5": 3,
+  "top10": 5,
+  "top20": 5,
+  "avg_finish": 4.8,
+  "win_rate": 0.0,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 1225,
+  "weighted_rank": 995,
+  "country_rank": null,
+  "am_events": 5,
+  "am_wins": 0,
+  "am_podiums": 2,
+  "am_top10": 5,
+  "am_pdga_points": 88.5,
+  "last_active": "26-Jan to 28-Jan-2024",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 40.5,
+      "weighted": 10.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 4,
+      "points": 48.0,
+      "weighted": 33.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 5,
+      "wins": 0,
+      "podiums": 2,
+      "top5": 3,
+      "top10": 5,
+      "top20": 5,
+      "pdga_points": 88.5,
+      "tour_weighted_points": 43.0,
+      "avg_finish": 4.8,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 5,
+      "wins": 0,
+      "podiums": 2,
+      "top5": 3,
+      "top10": 5,
+      "top20": 5,
+      "pdga_points": 88.5,
+      "tour_weighted_points": 43.0,
+      "avg_finish": 4.8,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA2": 1,
+    "MA40": 3,
+    "MA3": 1
+  },
+  "results": [
+    {
+      "event_id": "74304",
+      "title": "SE Asia Disc Golf Championship 2024",
+      "dates": "26-Jan to 28-Jan-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 8,
+      "pdga_points": 40.5,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "69080",
+      "title": "First Tarlac Recreational Park Open Tournament",
+      "dates": "06-May-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Tarlac, Tarlac, Philippines",
+      "place": 4,
+      "pdga_points": 20.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "72511",
+      "title": "The Damascus Last Hurrah! (Jon Mough and Fig Tree Tribute Tournament)",
+      "dates": "05-Aug-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Amadeo, Cavite, Philippines",
+      "place": 6,
+      "pdga_points": 4.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "64710",
+      "title": "DGAP LIPAD PILIPINAS OPEN 2023 presented by Divergent Discs",
+      "dates": "04-Mar to 05-Mar-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Amadeo, Cavite, Philippines",
+      "place": 3,
+      "pdga_points": 12.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "75358",
+      "title": "DGAP One Year Anniversary Tournament at Nayong Pilipino",
+      "dates": "03-Dec-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Paranaque, Metro Manila, Philippines",
+      "place": 3,
+      "pdga_points": 12.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2024",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 40.5,
+      "avg_finish": 8.0
+    },
+    {
+      "year": "2023",
+      "events": 4,
+      "wins": 0,
+      "podiums": 2,
+      "top10": 4,
+      "pdga_points": 48.0,
+      "avg_finish": 4.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2023-03-14",
+      "rating": 733,
+      "rounds": 2
+    },
+    {
+      "date": "2023-06-13",
+      "rating": 727,
+      "rounds": 3
+    },
+    {
+      "date": "2023-08-08",
+      "rating": 718,
+      "rounds": 4
+    },
+    {
+      "date": "2023-12-12",
+      "rating": 729,
+      "rounds": 5
+    },
+    {
+      "date": "2024-02-13",
+      "rating": 740,
+      "rounds": 7
+    },
+    {
+      "date": "2024-12-10",
+      "rating": 709,
+      "rounds": 7
+    },
+    {
+      "date": "2025-04-08",
+      "rating": 713,
+      "rounds": 8
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 703,
+      "rounds": 8
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 710,
+      "rounds": 12
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 717,
+      "rounds": 14
+    },
+    {
+      "date": "2025-11-11",
+      "rating": 726,
+      "rounds": 15
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 739,
+      "rounds": 17
+    },
+    {
+      "date": "2026-06-09",
+      "rating": 741,
+      "rounds": 17
+    }
+  ],
+  "streak": {
+    "direction": "up",
+    "recent_avg": 21.5,
+    "season_avg": 12.0,
+    "delta_pct": 79.2
+  },
+  "pdga_url": "https://www.pdga.com/player/225211"
+}

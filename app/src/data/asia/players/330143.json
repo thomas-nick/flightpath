@@ -1,0 +1,208 @@
+{
+  "pdga": 330143,
+  "name": "Nong Somsak Wongprasert #330143",
+  "country": "Thailand",
+  "country_key": "TH",
+  "flag": "\ud83c\uddf9\ud83c\udded",
+  "rating": 893,
+  "classification": "Amateur",
+  "city": "Lamphun",
+  "nationality": "",
+  "division": "MA2",
+  "primary_class": "amateur",
+  "pdga_points": 0.0,
+  "tour_weighted_points": 31.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 2,
+  "wins": 1,
+  "podiums": 2,
+  "top5": 2,
+  "top10": 2,
+  "top20": 2,
+  "avg_finish": 2.0,
+  "win_rate": 0.5,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 2184,
+  "weighted_rank": 1165,
+  "country_rank": 142,
+  "am_events": 2,
+  "am_wins": 1,
+  "am_podiums": 2,
+  "am_top10": 2,
+  "am_pdga_points": 0.0,
+  "last_active": "20-Jun to 21-Jun-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 2,
+      "points": 0.0,
+      "weighted": 31.0,
+      "wins": 1
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 2,
+      "wins": 1,
+      "podiums": 2,
+      "top5": 2,
+      "top10": 2,
+      "top20": 2,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 31.0,
+      "avg_finish": 2.0,
+      "win_rate": 0.5,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 2,
+      "wins": 1,
+      "podiums": 2,
+      "top5": 2,
+      "top10": 2,
+      "top20": 2,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 31.0,
+      "avg_finish": 2.0,
+      "win_rate": 0.5,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA2": 2
+  },
+  "results": [
+    {
+      "event_id": "104910",
+      "title": "Yasothon Rainy Season Flight 2026",
+      "dates": "20-Jun to 21-Jun-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Yasothon, Yasothon, Thailand",
+      "place": 1,
+      "pdga_points": 0.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "105157",
+      "title": "Mango Valley DG Cup - Campus Challenge",
+      "dates": "04-Jul-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Chiang Mai, San Sai, Thailand",
+      "place": 3,
+      "pdga_points": 0.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "104910",
+      "title": "Yasothon Rainy Season Flight 2026",
+      "dates": "20-Jun to 21-Jun-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Yasothon, Yasothon, Thailand",
+      "place": 1,
+      "pdga_points": 0.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 2,
+      "wins": 1,
+      "podiums": 2,
+      "top10": 2,
+      "pdga_points": 0.0,
+      "avg_finish": 2.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2026-07-14",
+      "rating": 893,
+      "rounds": 5
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/330143"
+}

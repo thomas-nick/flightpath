@@ -1,0 +1,236 @@
+{
+  "pdga": 276968,
+  "name": "Cheng-Jun Li #276968",
+  "country": "Chinese Taipei",
+  "country_key": "TW",
+  "flag": "\ud83c\uddf9\ud83c\uddfc",
+  "rating": 874,
+  "classification": "Amateur",
+  "city": "Kaohsiung City / Taiwan (R.o.c.)",
+  "nationality": "",
+  "division": "MA1",
+  "primary_class": "amateur",
+  "pdga_points": 88.0,
+  "tour_weighted_points": 168.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 3,
+  "wins": 0,
+  "podiums": 2,
+  "top5": 3,
+  "top10": 3,
+  "top20": 3,
+  "avg_finish": 3.0,
+  "win_rate": 0.0,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 1226,
+  "weighted_rank": 405,
+  "country_rank": 40,
+  "am_events": 3,
+  "am_wins": 0,
+  "am_podiums": 2,
+  "am_top10": 3,
+  "am_pdga_points": 88.0,
+  "last_active": "09-Jan to 11-Jan-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 1,
+      "points": 28.0,
+      "weighted": 150.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 2,
+      "points": 60.0,
+      "weighted": 18.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 3,
+      "wins": 0,
+      "podiums": 2,
+      "top5": 3,
+      "top10": 3,
+      "top20": 3,
+      "pdga_points": 88.0,
+      "tour_weighted_points": 168.0,
+      "avg_finish": 3.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 3,
+      "wins": 0,
+      "podiums": 2,
+      "top5": 3,
+      "top10": 3,
+      "top20": 3,
+      "pdga_points": 88.0,
+      "tour_weighted_points": 168.0,
+      "avg_finish": 3.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA2": 1,
+    "MA1": 2
+  },
+  "results": [
+    {
+      "event_id": "96943",
+      "title": "2026 Asia Disc Golf Open - PDGA Asia Tour Event #1",
+      "dates": "09-Jan to 11-Jan-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "Kaohsiung, Kaohsiung City, Chinese Taipei",
+      "place": 2,
+      "pdga_points": 28.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 150.0
+    },
+    {
+      "event_id": "89229",
+      "title": "2025 Formosa Disc Golf Championships",
+      "dates": "14-Jun to 15-Jun-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Kaohsiung City, Kaohsiung City, Chinese Taipei",
+      "place": 3,
+      "pdga_points": 35.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "86338",
+      "title": "2024 the 29th Taiwan Disc Golf Championships",
+      "dates": "14-Dec to 15-Dec-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Kaohsiung City, Kaohsiung City, Chinese Taipei",
+      "place": 4,
+      "pdga_points": 25.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 28.0,
+      "avg_finish": 2.0
+    },
+    {
+      "year": "2025",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 35.0,
+      "avg_finish": 3.0
+    },
+    {
+      "year": "2024",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 25.0,
+      "avg_finish": 4.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2025-01-14",
+      "rating": 836,
+      "rounds": 3
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 850,
+      "rounds": 6
+    },
+    {
+      "date": "2026-02-10",
+      "rating": 874,
+      "rounds": 9
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/276968"
+}

@@ -1,0 +1,278 @@
+{
+  "pdga": 24026,
+  "name": "Dennis Hanshew",
+  "country": "India",
+  "country_key": "IN",
+  "flag": "\ud83c\uddee\ud83c\uddf3",
+  "rating": 886,
+  "classification": "Pro",
+  "city": "",
+  "nationality": "",
+  "division": "MA60",
+  "primary_class": "amateur",
+  "pdga_points": 22.0,
+  "tour_weighted_points": 35.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 2,
+  "wins": 1,
+  "podiums": 2,
+  "top5": 2,
+  "top10": 2,
+  "top20": 2,
+  "avg_finish": 1.5,
+  "win_rate": 0.5,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 2855,
+  "weighted_rank": 1059,
+  "country_rank": 1005,
+  "am_events": 2,
+  "am_wins": 1,
+  "am_podiums": 2,
+  "am_top10": 2,
+  "am_pdga_points": 22.0,
+  "last_active": "19-Feb-2023",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 2,
+      "points": 22.0,
+      "weighted": 35.0,
+      "wins": 1
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 2,
+      "wins": 1,
+      "podiums": 2,
+      "top5": 2,
+      "top10": 2,
+      "top20": 2,
+      "pdga_points": 22.0,
+      "tour_weighted_points": 35.0,
+      "avg_finish": 1.5,
+      "win_rate": 0.5,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 2,
+      "wins": 1,
+      "podiums": 2,
+      "top5": 2,
+      "top10": 2,
+      "top20": 2,
+      "pdga_points": 22.0,
+      "tour_weighted_points": 35.0,
+      "avg_finish": 1.5,
+      "win_rate": 0.5,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA60": 2
+  },
+  "results": [
+    {
+      "event_id": "66360",
+      "title": "WIFFS The Nashville Chill sponsored by Westside Discs (CEP Charity - Rated)",
+      "dates": "19-Feb-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Nashville, Indiana, United States",
+      "place": 1,
+      "pdga_points": 12.0,
+      "division": "MA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "67449",
+      "title": "Walnut Cracker - WIFFS (CEP Charity - Rated)",
+      "dates": "18-Mar-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Greencastle, Indiana, United States",
+      "place": 2,
+      "pdga_points": 10.0,
+      "division": "MA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "66360",
+      "title": "WIFFS The Nashville Chill sponsored by Westside Discs (CEP Charity - Rated)",
+      "dates": "19-Feb-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Nashville, Indiana, United States",
+      "place": 1,
+      "pdga_points": 12.0,
+      "division": "MA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2023",
+      "events": 2,
+      "wins": 1,
+      "podiums": 2,
+      "top10": 2,
+      "pdga_points": 22.0,
+      "avg_finish": 1.5
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2018-09-11",
+      "rating": 888,
+      "rounds": 8
+    },
+    {
+      "date": "2020-10-13",
+      "rating": 875,
+      "rounds": 4
+    },
+    {
+      "date": "2021-03-09",
+      "rating": 889,
+      "rounds": 6
+    },
+    {
+      "date": "2021-08-10",
+      "rating": 892,
+      "rounds": 8
+    },
+    {
+      "date": "2021-12-14",
+      "rating": 903,
+      "rounds": 8
+    },
+    {
+      "date": "2022-06-14",
+      "rating": 912,
+      "rounds": 7
+    },
+    {
+      "date": "2022-07-12",
+      "rating": 901,
+      "rounds": 7
+    },
+    {
+      "date": "2022-09-13",
+      "rating": 895,
+      "rounds": 7
+    },
+    {
+      "date": "2022-11-08",
+      "rating": 886,
+      "rounds": 9
+    },
+    {
+      "date": "2023-03-14",
+      "rating": 885,
+      "rounds": 10
+    },
+    {
+      "date": "2023-04-11",
+      "rating": 885,
+      "rounds": 16
+    },
+    {
+      "date": "2023-07-11",
+      "rating": 872,
+      "rounds": 17
+    },
+    {
+      "date": "2023-09-12",
+      "rating": 880,
+      "rounds": 21
+    },
+    {
+      "date": "2023-10-10",
+      "rating": 879,
+      "rounds": 26
+    },
+    {
+      "date": "2023-11-14",
+      "rating": 874,
+      "rounds": 28
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/24026"
+}

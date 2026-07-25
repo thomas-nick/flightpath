@@ -1,0 +1,66 @@
+{
+  "event_id": "81644",
+  "title": "2024\u5168\u7403\u9ad8\u5c14\u592b\u98de\u76d8\u5973\u6027\u65e5-WGE\u3010\u6e56\u5dde\u7ad9\u3011\u3010\u5706\u684c\u98de\u76d8\u3011Presented By XCOM Discs",
+  "location": "Huzhou, Jiangsu Sheng, China",
+  "dates": "19-May-2024",
+  "year": "2024",
+  "tier": "C",
+  "level": "c_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 3,
+  "avg_mpo_rating": null,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "count": 3
+    }
+  ],
+  "mpo": [],
+  "fpo": [],
+  "amateur": [
+    {
+      "pdga": 122212,
+      "name": "Weili Chang",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 20.0,
+      "rating": 881,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 129352,
+      "name": "Haijun Liu",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 15.0,
+      "rating": 822,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 227603,
+      "name": "Yan Bin Wang",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 3,
+      "pdga_points": 10.0,
+      "rating": 822,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    }
+  ],
+  "divisions": [
+    "MA1"
+  ]
+}

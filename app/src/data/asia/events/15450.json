@@ -1,0 +1,157 @@
+{
+  "event_id": "15450",
+  "title": "Japan Mixed Team Championships",
+  "location": "Oyama, Tochigi, Japan",
+  "dates": "13-Jan to 14-Jan-2013",
+  "year": "2013",
+  "tier": "B",
+  "level": "b_tier",
+  "is_asia_tour": false,
+  "status": "Event complete.",
+  "field_size": 10,
+  "avg_mpo_rating": 896.2,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "count": 5
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 6036,
+      "name": "Takao Ehara",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 1,
+      "pdga_points": 150.0,
+      "rating": 950,
+      "prize": "$24",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 6053,
+      "name": "Jotaro Hirabayashi",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 5,
+      "pdga_points": 120.0,
+      "rating": 946,
+      "prize": "$18",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8199,
+      "name": "Tomohiko Komuro",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 9,
+      "pdga_points": 90.0,
+      "rating": 880,
+      "prize": "$12",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8211,
+      "name": "Tomoyuki Numata",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 13,
+      "pdga_points": 60.0,
+      "rating": 897,
+      "prize": "$6",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 3603,
+      "name": "Reiko Kinomiya",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 17,
+      "pdga_points": 30.0,
+      "rating": 808,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 856,
+      "name": "44267",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 6000,
+      "pdga_points": 0.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 885,
+      "name": "44268",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 6000,
+      "pdga_points": 0.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 887,
+      "name": "8196",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 12000,
+      "pdga_points": 0.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 871,
+      "name": "8056",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 15000,
+      "pdga_points": 0.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 950,
+      "name": "8071",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 15000,
+      "pdga_points": 0.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    }
+  ],
+  "fpo": [],
+  "amateur": [],
+  "divisions": [
+    "MPO"
+  ]
+}

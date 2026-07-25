@@ -1,0 +1,282 @@
+{
+  "pdga": 255231,
+  "name": "Bryan Yeck Fong Tan #255231",
+  "country": "Malaysia",
+  "country_key": "MY",
+  "flag": "\ud83c\uddf2\ud83c\uddfe",
+  "rating": 619,
+  "classification": "Amateur",
+  "city": "Ulu Tiram / Johor",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 82.0,
+  "tour_weighted_points": 31.6,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 4,
+  "wins": 1,
+  "podiums": 1,
+  "top5": 2,
+  "top10": 3,
+  "top20": 3,
+  "avg_finish": 11.0,
+  "win_rate": 0.25,
+  "top10_rate": 0.75,
+  "cash_earned": 0.0,
+  "pdga_rank": 1266,
+  "weighted_rank": 1146,
+  "country_rank": 42,
+  "am_events": 3,
+  "am_wins": 1,
+  "am_podiums": 1,
+  "am_top10": 3,
+  "am_pdga_points": 52.0,
+  "last_active": "05-Jul to 06-Jul-2025",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 4,
+      "points": 82.0,
+      "weighted": 31.6,
+      "wins": 1
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 30.0,
+      "tour_weighted_points": 0.6,
+      "avg_finish": 31.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 3,
+      "wins": 1,
+      "podiums": 1,
+      "top5": 2,
+      "top10": 3,
+      "top20": 3,
+      "pdga_points": 52.0,
+      "tour_weighted_points": 31.0,
+      "avg_finish": 4.33,
+      "win_rate": 0.333,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 4,
+      "wins": 1,
+      "podiums": 1,
+      "top5": 2,
+      "top10": 3,
+      "top20": 3,
+      "pdga_points": 82.0,
+      "tour_weighted_points": 31.6,
+      "avg_finish": 11.0,
+      "win_rate": 0.25,
+      "top10_rate": 0.75
+    }
+  },
+  "division_counts": {
+    "MPO": 1,
+    "MA1": 1,
+    "MA2": 1,
+    "MA3": 1
+  },
+  "results": [
+    {
+      "event_id": "94658",
+      "title": "MALAYSIA OPEN 2025",
+      "dates": "30-Aug to 31-Aug-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "JOHOR BAHRU, Johor, Malaysia",
+      "place": 1,
+      "pdga_points": 9.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "93957",
+      "title": "Johor Disc Golf Open 2025",
+      "dates": "05-Jul to 06-Jul-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 4,
+      "pdga_points": 8.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "73464",
+      "title": "MDGT #1 (Pelangi Indah DGC)",
+      "dates": "21-Oct-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru , Johor, Malaysia",
+      "place": 8,
+      "pdga_points": 35.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "71873",
+      "title": "5th Annual 2023 Malaysia National Championship",
+      "dates": "05-Aug to 06-Aug-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 31,
+      "pdga_points": 30.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 0.6
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "94658",
+      "title": "MALAYSIA OPEN 2025",
+      "dates": "30-Aug to 31-Aug-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "JOHOR BAHRU, Johor, Malaysia",
+      "place": 1,
+      "pdga_points": 9.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2025",
+      "events": 2,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 2,
+      "pdga_points": 17.0,
+      "avg_finish": 2.5
+    },
+    {
+      "year": "2023",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 65.0,
+      "avg_finish": 19.5
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2023-04-11",
+      "rating": 647,
+      "rounds": 1
+    },
+    {
+      "date": "2023-06-13",
+      "rating": 612,
+      "rounds": 3
+    },
+    {
+      "date": "2023-07-11",
+      "rating": 619,
+      "rounds": 4
+    },
+    {
+      "date": "2023-08-08",
+      "rating": 663,
+      "rounds": 6
+    },
+    {
+      "date": "2023-11-14",
+      "rating": 708,
+      "rounds": 8
+    },
+    {
+      "date": "2024-02-13",
+      "rating": 685,
+      "rounds": 11
+    },
+    {
+      "date": "2024-04-09",
+      "rating": 688,
+      "rounds": 12
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 17.3,
+    "season_avg": 30.0,
+    "delta_pct": -42.2
+  },
+  "pdga_url": "https://www.pdga.com/player/255231"
+}

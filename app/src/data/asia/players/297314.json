@@ -1,0 +1,274 @@
+{
+  "pdga": 297314,
+  "name": "\u542f\u660e \u5218 #297314",
+  "country": "China",
+  "country_key": "CN",
+  "flag": "\ud83c\udde8\ud83c\uddf3",
+  "rating": 829,
+  "classification": "Amateur",
+  "city": "Hefei",
+  "nationality": "",
+  "division": "MA1",
+  "primary_class": "amateur",
+  "pdga_points": 218.0,
+  "tour_weighted_points": 108.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 4,
+  "wins": 1,
+  "podiums": 1,
+  "top5": 1,
+  "top10": 3,
+  "top20": 4,
+  "avg_finish": 8.25,
+  "win_rate": 0.25,
+  "top10_rate": 0.75,
+  "cash_earned": 0.0,
+  "pdga_rank": 789,
+  "weighted_rank": 592,
+  "country_rank": 125,
+  "am_events": 4,
+  "am_wins": 1,
+  "am_podiums": 1,
+  "am_top10": 3,
+  "am_pdga_points": 218.0,
+  "last_active": "13-Mar to 15-Mar-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 1,
+      "points": 15.0,
+      "weighted": 40.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 1,
+      "points": 80.0,
+      "weighted": 8.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 2,
+      "points": 123.0,
+      "weighted": 60.0,
+      "wins": 1
+    },
+    "c_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 4,
+      "wins": 1,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 3,
+      "top20": 4,
+      "pdga_points": 218.0,
+      "tour_weighted_points": 108.0,
+      "avg_finish": 8.25,
+      "win_rate": 0.25,
+      "top10_rate": 0.75
+    },
+    "all": {
+      "events": 4,
+      "wins": 1,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 3,
+      "top20": 4,
+      "pdga_points": 218.0,
+      "tour_weighted_points": 108.0,
+      "avg_finish": 8.25,
+      "win_rate": 0.25,
+      "top10_rate": 0.75
+    }
+  },
+  "division_counts": {
+    "MA1": 3,
+    "MA2": 1
+  },
+  "results": [
+    {
+      "event_id": "97588",
+      "title": "PDGA Asia Tour Championship - PDGA Asia Tour Event #7",
+      "dates": "13-Mar to 15-Mar-2026",
+      "year": "2026",
+      "tier": "B",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "Shanghai, Shanghai Shi, China",
+      "place": 9,
+      "pdga_points": 15.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 40.0
+    },
+    {
+      "event_id": "97899",
+      "title": "2025 Shaoxing China International Disc Golf Open",
+      "dates": "13-Dec to 14-Dec-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Shaoxing, Zhejiang Sheng, China",
+      "place": 1,
+      "pdga_points": 75.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 50.0
+    },
+    {
+      "event_id": "96657",
+      "title": "Chain Open - presented by Innova Discs",
+      "dates": "01-Nov to 02-Nov-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Zhenjiang, Jiangsu Sheng, China",
+      "place": 7,
+      "pdga_points": 48.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "86261",
+      "title": "2024 CDGC\u718a\u732b\u676f\u63b7\u51c6\u98de\u76d8\u516c\u5f00\u8d5b CDGC Panda Open",
+      "dates": "23-Nov to 24-Nov-2024",
+      "year": "2024",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Wuxi, Jiangsu Sheng, China",
+      "place": 16,
+      "pdga_points": 80.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 8.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "97899",
+      "title": "2025 Shaoxing China International Disc Golf Open",
+      "dates": "13-Dec to 14-Dec-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Shaoxing, Zhejiang Sheng, China",
+      "place": 1,
+      "pdga_points": 75.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 50.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 15.0,
+      "avg_finish": 9.0
+    },
+    {
+      "year": "2025",
+      "events": 2,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 2,
+      "pdga_points": 123.0,
+      "avg_finish": 4.0
+    },
+    {
+      "year": "2024",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 80.0,
+      "avg_finish": 16.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2024-12-10",
+      "rating": 798,
+      "rounds": 3
+    },
+    {
+      "date": "2025-12-09",
+      "rating": 796,
+      "rounds": 6
+    },
+    {
+      "date": "2026-01-13",
+      "rating": 838,
+      "rounds": 9
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 829,
+      "rounds": 9
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 46.0,
+    "season_avg": 80.0,
+    "delta_pct": -42.5
+  },
+  "pdga_url": "https://www.pdga.com/player/297314"
+}

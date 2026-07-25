@@ -1,0 +1,270 @@
+{
+  "pdga": 92171,
+  "name": "Karel \u00dcksv\u00e4rav #92171",
+  "country": "Estonia",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 968,
+  "classification": "Professional",
+  "city": "Lihula",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 262.5,
+  "tour_weighted_points": 14.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top5": 0,
+  "top10": 1,
+  "top20": 2,
+  "avg_finish": 13.0,
+  "win_rate": 0.0,
+  "top10_rate": 0.5,
+  "cash_earned": 47.0,
+  "pdga_rank": 704,
+  "weighted_rank": 1545,
+  "country_rank": null,
+  "am_events": 0,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 0,
+  "am_pdga_points": 0.0,
+  "last_active": "18-Jan to 19-Jan-2025",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 2,
+      "points": 262.5,
+      "weighted": 14.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 1,
+      "top20": 2,
+      "pdga_points": 262.5,
+      "tour_weighted_points": 14.0,
+      "avg_finish": 13.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.5
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "all": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 1,
+      "top20": 2,
+      "pdga_points": 262.5,
+      "tour_weighted_points": 14.0,
+      "avg_finish": 13.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.5
+    }
+  },
+  "division_counts": {
+    "MPO": 2
+  },
+  "results": [
+    {
+      "event_id": "86250",
+      "title": "SE Asia Disc Golf Championship 2025",
+      "dates": "18-Jan to 19-Jan-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 9,
+      "pdga_points": 142.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$47",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "74304",
+      "title": "SE Asia Disc Golf Championship 2024",
+      "dates": "26-Jan to 28-Jan-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 17,
+      "pdga_points": 120.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2025",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 142.5,
+      "avg_finish": 9.0
+    },
+    {
+      "year": "2024",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 120.0,
+      "avg_finish": 17.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2022-10-11",
+      "rating": 931,
+      "rounds": 7
+    },
+    {
+      "date": "2023-09-12",
+      "rating": 939,
+      "rounds": 10
+    },
+    {
+      "date": "2023-10-10",
+      "rating": 952,
+      "rounds": 8
+    },
+    {
+      "date": "2024-02-13",
+      "rating": 940,
+      "rounds": 10
+    },
+    {
+      "date": "2024-08-13",
+      "rating": 942,
+      "rounds": 13
+    },
+    {
+      "date": "2025-02-11",
+      "rating": 942,
+      "rounds": 9
+    },
+    {
+      "date": "2025-03-11",
+      "rating": 939,
+      "rounds": 10
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 939,
+      "rounds": 12
+    },
+    {
+      "date": "2025-11-11",
+      "rating": 941,
+      "rounds": 11
+    },
+    {
+      "date": "2025-12-09",
+      "rating": 946,
+      "rounds": 15
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 966,
+      "rounds": 11
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 967,
+      "rounds": 13
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 965,
+      "rounds": 13
+    },
+    {
+      "date": "2026-06-09",
+      "rating": 968,
+      "rounds": 15
+    },
+    {
+      "date": "2026-07-14",
+      "rating": 968,
+      "rounds": 20
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/92171"
+}

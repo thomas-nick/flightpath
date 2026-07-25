@@ -1,0 +1,360 @@
+{
+  "pdga": 207393,
+  "name": "Benjamin Rehmet #207393",
+  "country": "United States",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 889,
+  "classification": "Amateur",
+  "city": "Pittsboro",
+  "nationality": "",
+  "division": "MA3",
+  "primary_class": "amateur",
+  "pdga_points": 170.0,
+  "tour_weighted_points": 54.5,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 7,
+  "wins": 0,
+  "podiums": 1,
+  "top5": 2,
+  "top10": 7,
+  "top20": 7,
+  "avg_finish": 5.86,
+  "win_rate": 0.0,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 1380,
+  "weighted_rank": 789,
+  "country_rank": null,
+  "am_events": 7,
+  "am_wins": 0,
+  "am_podiums": 1,
+  "am_top10": 7,
+  "am_pdga_points": 170.0,
+  "last_active": "17-Mar-2024",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 2,
+      "points": 87.0,
+      "weighted": 27.5,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 5,
+      "points": 83.0,
+      "weighted": 27.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 7,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 2,
+      "top10": 7,
+      "top20": 7,
+      "pdga_points": 170.0,
+      "tour_weighted_points": 54.5,
+      "avg_finish": 5.86,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 7,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 2,
+      "top10": 7,
+      "top20": 7,
+      "pdga_points": 170.0,
+      "tour_weighted_points": 54.5,
+      "avg_finish": 5.86,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA3": 4,
+    "MA4": 3
+  },
+  "results": [
+    {
+      "event_id": "78122",
+      "title": "The Paddy Whack - WIFFS #22 (CEP Charity - Rated)",
+      "dates": "17-Mar-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "St Meinrad, Indiana, United States",
+      "place": 6,
+      "pdga_points": 15.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "69291",
+      "title": "BC3 Fall Classic",
+      "dates": "21-Oct-2023",
+      "year": "2023",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Nashville, Indiana, United States",
+      "place": 6,
+      "pdga_points": 15.0,
+      "division": "MA4",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "67449",
+      "title": "Walnut Cracker - WIFFS (CEP Charity - Rated)",
+      "dates": "18-Mar-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Greencastle, Indiana, United States",
+      "place": 3,
+      "pdga_points": 3.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "71253",
+      "title": "Hendricks County Open",
+      "dates": "08-Jul-2023",
+      "year": "2023",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Danville, Indiana, United States",
+      "place": 4,
+      "pdga_points": 72.0,
+      "division": "MA4",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "59744",
+      "title": "King of the Hill",
+      "dates": "30-Apr-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Danville, Indiana, United States",
+      "place": 6,
+      "pdga_points": 21.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "62558",
+      "title": "2022 limestone open by BDGC",
+      "dates": "17-Sep-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Ellettsville , Indiana, United States",
+      "place": 6,
+      "pdga_points": 32.0,
+      "division": "MA4",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "57111",
+      "title": "WIFFS #25 - Broadside of the Hill (CEP Charity - Rated)",
+      "dates": "12-Mar-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Danville, Indiana, United States",
+      "place": 10,
+      "pdga_points": 12.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2024",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 15.0,
+      "avg_finish": 6.0
+    },
+    {
+      "year": "2023",
+      "events": 3,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 3,
+      "pdga_points": 90.0,
+      "avg_finish": 4.33
+    },
+    {
+      "year": "2022",
+      "events": 3,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 3,
+      "pdga_points": 65.0,
+      "avg_finish": 7.33
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2024-09-10",
+      "rating": 870,
+      "rounds": 42
+    },
+    {
+      "date": "2024-10-08",
+      "rating": 872,
+      "rounds": 50
+    },
+    {
+      "date": "2024-11-12",
+      "rating": 875,
+      "rounds": 47
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 872,
+      "rounds": 46
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 874,
+      "rounds": 47
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 880,
+      "rounds": 56
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 875,
+      "rounds": 48
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 876,
+      "rounds": 44
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 885,
+      "rounds": 43
+    },
+    {
+      "date": "2025-11-11",
+      "rating": 882,
+      "rounds": 46
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 880,
+      "rounds": 48
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 882,
+      "rounds": 54
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 885,
+      "rounds": 61
+    },
+    {
+      "date": "2026-06-09",
+      "rating": 883,
+      "rounds": 59
+    },
+    {
+      "date": "2026-07-14",
+      "rating": 889,
+      "rounds": 61
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 11.0,
+    "season_avg": 34.2,
+    "delta_pct": -67.9
+  },
+  "pdga_url": "https://www.pdga.com/player/207393"
+}

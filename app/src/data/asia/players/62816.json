@@ -1,0 +1,516 @@
+{
+  "pdga": 62816,
+  "name": "Dave Lehmann #62816",
+  "country": "Thailand",
+  "country_key": "TH",
+  "flag": "\ud83c\uddf9\ud83c\udded",
+  "rating": 916,
+  "classification": "Professional",
+  "city": "Koh Samui / Surrathani",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 402.5,
+  "tour_weighted_points": 127.6,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 14,
+  "wins": 1,
+  "podiums": 7,
+  "top5": 11,
+  "top10": 13,
+  "top20": 14,
+  "avg_finish": 4.57,
+  "win_rate": 0.071,
+  "top10_rate": 0.929,
+  "cash_earned": 26.0,
+  "pdga_rank": 528,
+  "weighted_rank": 516,
+  "country_rank": 28,
+  "am_events": 5,
+  "am_wins": 1,
+  "am_podiums": 4,
+  "am_top10": 5,
+  "am_pdga_points": 157.5,
+  "last_active": "05-Feb to 06-Feb-2022",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 14,
+      "points": 402.5,
+      "weighted": 127.6,
+      "wins": 1
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 9,
+      "wins": 0,
+      "podiums": 3,
+      "top5": 6,
+      "top10": 8,
+      "top20": 9,
+      "pdga_points": 245.0,
+      "tour_weighted_points": 63.6,
+      "avg_finish": 5.67,
+      "win_rate": 0.0,
+      "top10_rate": 0.889
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 5,
+      "wins": 1,
+      "podiums": 4,
+      "top5": 5,
+      "top10": 5,
+      "top20": 5,
+      "pdga_points": 157.5,
+      "tour_weighted_points": 64.0,
+      "avg_finish": 2.6,
+      "win_rate": 0.2,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 14,
+      "wins": 1,
+      "podiums": 7,
+      "top5": 11,
+      "top10": 13,
+      "top20": 14,
+      "pdga_points": 402.5,
+      "tour_weighted_points": 127.6,
+      "avg_finish": 4.57,
+      "win_rate": 0.071,
+      "top10_rate": 0.929
+    }
+  },
+  "division_counts": {
+    "MPO": 9,
+    "MA1": 5
+  },
+  "results": [
+    {
+      "event_id": "61511",
+      "title": "The Godfather Classic presented by Chiang Mai Disc Golf",
+      "dates": "20-Aug-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Chiang Mai, Thailand",
+      "place": 10,
+      "pdga_points": 60.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "55055",
+      "title": "Samui Swine Classic IX - MPO, MP40, MP50, MA1",
+      "dates": "05-Feb to 06-Feb-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 7,
+      "pdga_points": 30.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "48026",
+      "title": "Samui Swine Classic VIII",
+      "dates": "26-Jan to 27-Jan-2021",
+      "year": "2021",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 3,
+      "pdga_points": 30.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$8",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "41510",
+      "title": "Squid BBQ Episode 4",
+      "dates": "26-Oct to 27-Oct-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Mak, Thailand",
+      "place": 3,
+      "pdga_points": 15.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "40935",
+      "title": "2nd Annual Elephant Island Open",
+      "dates": "24-Oct-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Ko Chang, Trat, Thailand",
+      "place": 4,
+      "pdga_points": 30.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$18",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "40740",
+      "title": "Samui Songkran Soaker 2",
+      "dates": "15-Apr-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 3,
+      "pdga_points": 15.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "33402",
+      "title": "King of the Island",
+      "dates": "26-Jul to 27-Sep-2017",
+      "year": "2017",
+      "tier": "",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 1,
+      "pdga_points": 67.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "30447",
+      "title": "Hyzenbrownie Open 2017 - \"The Legend of Laem Sor\"",
+      "dates": "21-Jan to 22-Jan-2017",
+      "year": "2017",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 11,
+      "pdga_points": 15.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "33175",
+      "title": "Samui Summer Sizzler 2",
+      "dates": "12-Aug-2017",
+      "year": "2017",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Maenam, Koh Samui, Surat Thani, Thailand",
+      "place": 3,
+      "pdga_points": 20.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "22272",
+      "title": "The First Annual Hyzen - Brownie Open",
+      "dates": "28-Jan to 31-Jan-2016",
+      "year": "2016",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Laem sor Beach, Thailand",
+      "place": 5,
+      "pdga_points": 25.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "30441",
+      "title": "Samui Wednesday Singles Oct/Nov",
+      "dates": "26-Oct to 14-Dec-2016",
+      "year": "2016",
+      "tier": "",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Maenam, Koh Samui, Surat Thani, Thailand",
+      "place": 3,
+      "pdga_points": 20.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "30011",
+      "title": "Samui Wednesday Singles",
+      "dates": "17-Aug to 05-Oct-2016",
+      "year": "2016",
+      "tier": "",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Maenam, Koh Samui, Thailand",
+      "place": 2,
+      "pdga_points": 30.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "28477",
+      "title": "Samui Summer Sizzler",
+      "dates": "13-Aug-2016",
+      "year": "2016",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Maenam, Koh Samui, Thailand",
+      "place": 4,
+      "pdga_points": 20.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "19493",
+      "title": "2nd Annual Samui Swine Classic",
+      "dates": "01-Feb-2015",
+      "year": "2015",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 5,
+      "pdga_points": 25.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 7.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "33402",
+      "title": "King of the Island",
+      "dates": "26-Jul to 27-Sep-2017",
+      "year": "2017",
+      "tier": "",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 1,
+      "pdga_points": 67.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2022",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 2,
+      "pdga_points": 90.0,
+      "avg_finish": 8.5
+    },
+    {
+      "year": "2021",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 30.0,
+      "avg_finish": 3.0
+    },
+    {
+      "year": "2019",
+      "events": 3,
+      "wins": 0,
+      "podiums": 2,
+      "top10": 3,
+      "pdga_points": 60.0,
+      "avg_finish": 3.33
+    },
+    {
+      "year": "2017",
+      "events": 3,
+      "wins": 1,
+      "podiums": 2,
+      "top10": 2,
+      "pdga_points": 102.5,
+      "avg_finish": 5.0
+    },
+    {
+      "year": "2016",
+      "events": 4,
+      "wins": 0,
+      "podiums": 2,
+      "top10": 4,
+      "pdga_points": 95.0,
+      "avg_finish": 3.5
+    },
+    {
+      "year": "2015",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 25.0,
+      "avg_finish": 5.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2017-09-26",
+      "rating": 909,
+      "rounds": 21
+    },
+    {
+      "date": "2017-11-14",
+      "rating": 925,
+      "rounds": 25
+    },
+    {
+      "date": "2018-01-31",
+      "rating": 927,
+      "rounds": 21
+    },
+    {
+      "date": "2018-10-30",
+      "rating": 934,
+      "rounds": 14
+    },
+    {
+      "date": "2019-01-29",
+      "rating": 939,
+      "rounds": 7
+    },
+    {
+      "date": "2019-02-26",
+      "rating": 935,
+      "rounds": 7
+    },
+    {
+      "date": "2019-05-14",
+      "rating": 934,
+      "rounds": 10
+    },
+    {
+      "date": "2019-07-09",
+      "rating": 934,
+      "rounds": 11
+    },
+    {
+      "date": "2019-10-08",
+      "rating": 932,
+      "rounds": 14
+    },
+    {
+      "date": "2019-11-12",
+      "rating": 933,
+      "rounds": 20
+    },
+    {
+      "date": "2019-12-10",
+      "rating": 936,
+      "rounds": 23
+    },
+    {
+      "date": "2021-02-09",
+      "rating": 932,
+      "rounds": 9
+    },
+    {
+      "date": "2022-02-08",
+      "rating": 921,
+      "rounds": 6
+    },
+    {
+      "date": "2022-09-13",
+      "rating": 916,
+      "rounds": 8
+    },
+    {
+      "date": "2023-02-14",
+      "rating": 916,
+      "rounds": 8
+    }
+  ],
+  "streak": {
+    "direction": "up",
+    "recent_avg": 40.0,
+    "season_avg": 25.7,
+    "delta_pct": 55.8
+  },
+  "pdga_url": "https://www.pdga.com/player/62816"
+}

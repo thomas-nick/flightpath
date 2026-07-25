@@ -1,0 +1,476 @@
+{
+  "pdga": 210734,
+  "name": "Ken Tuvunger #210734",
+  "country": "Sweden",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 937,
+  "classification": "Professional",
+  "city": "Tving",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 837.5,
+  "tour_weighted_points": 110.2,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 13,
+  "wins": 1,
+  "podiums": 5,
+  "top5": 7,
+  "top10": 9,
+  "top20": 12,
+  "avg_finish": 8.54,
+  "win_rate": 0.077,
+  "top10_rate": 0.692,
+  "cash_earned": 346.0,
+  "pdga_rank": 300,
+  "weighted_rank": 576,
+  "country_rank": null,
+  "am_events": 0,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 0,
+  "am_pdga_points": 0.0,
+  "last_active": "06-Dec to 07-Dec-2025",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 1,
+      "points": 60.0,
+      "weighted": 8.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 2,
+      "points": 337.5,
+      "weighted": 14.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 10,
+      "points": 440.0,
+      "weighted": 88.2,
+      "wins": 1
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 13,
+      "wins": 1,
+      "podiums": 5,
+      "top5": 7,
+      "top10": 9,
+      "top20": 12,
+      "pdga_points": 837.5,
+      "tour_weighted_points": 110.2,
+      "avg_finish": 8.54,
+      "win_rate": 0.077,
+      "top10_rate": 0.692
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "all": {
+      "events": 13,
+      "wins": 1,
+      "podiums": 5,
+      "top5": 7,
+      "top10": 9,
+      "top20": 12,
+      "pdga_points": 837.5,
+      "tour_weighted_points": 110.2,
+      "avg_finish": 8.54,
+      "win_rate": 0.077,
+      "top10_rate": 0.692
+    }
+  },
+  "division_counts": {
+    "MPO": 13
+  },
+  "results": [
+    {
+      "event_id": "85341",
+      "title": "Samui Swine Classic XII - MPO, MP40, MP50, FPO Presented by Latitude 64",
+      "dates": "31-Jan to 02-Feb-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 28,
+      "pdga_points": 40.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 0.6
+    },
+    {
+      "event_id": "96619",
+      "title": "Bangkok Open 2025",
+      "dates": "22-Nov to 23-Nov-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Bangkok, Thailand",
+      "place": 5,
+      "pdga_points": 50.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$10",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "96436",
+      "title": "Trat Disc Golf Open 2025",
+      "dates": "15-Nov to 16-Nov-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Trat, Thailand",
+      "place": 3,
+      "pdga_points": 15.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "95658",
+      "title": "Coco-breeze 3 - gone with the wind",
+      "dates": "06-Dec to 07-Dec-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Pattaya, Chonburi, Thailand",
+      "place": 1,
+      "pdga_points": 55.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$105",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "74304",
+      "title": "SE Asia Disc Golf Championship 2024",
+      "dates": "26-Jan to 28-Jan-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 15,
+      "pdga_points": 135.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "85901",
+      "title": "Banging Bangkok Chains @ Lakewood",
+      "dates": "23-Nov to 24-Nov-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Samut Prakarn, Thailand",
+      "place": 2,
+      "pdga_points": 95.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "85902",
+      "title": "Coco-Breeze at Pattaya Disc Golf",
+      "dates": "07-Dec to 08-Dec-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Pattaya, Thailand",
+      "place": 3,
+      "pdga_points": 40.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$30",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "73691",
+      "title": "Samui Swine Classic XI - MPO, FPO, MP40, MP50, MA1, FA1",
+      "dates": "02-Feb to 04-Feb-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 7,
+      "pdga_points": 202.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$126",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "63795",
+      "title": "Hyzenbrownie Dreamweaver Open 2023 Powered By Innova Discs",
+      "dates": "25-Jan to 29-Jan-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui Thailand, Thailand",
+      "place": 5,
+      "pdga_points": 25.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "63765",
+      "title": "Chiang Mai Open",
+      "dates": "10-Feb to 12-Feb-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Chiang Mai, Thailand",
+      "place": 13,
+      "pdga_points": 35.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "63567",
+      "title": "Samui Swine Classic X Presented by Prodigy Discs- MPO, FPO, MP40, MP50, MA1",
+      "dates": "03-Feb to 05-Feb-2023",
+      "year": "2023",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 20,
+      "pdga_points": 60.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 8.0
+    },
+    {
+      "event_id": "73403",
+      "title": "Coconut Open - Pattaya Open",
+      "dates": "02-Dec to 03-Dec-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Pattaya, chonburi, Thailand",
+      "place": 3,
+      "pdga_points": 45.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$75",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "63215",
+      "title": "Pattaya Disc Golf Open 2",
+      "dates": "03-Dec to 04-Dec-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Baan Lamung, Thailand",
+      "place": 6,
+      "pdga_points": 40.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "95658",
+      "title": "Coco-breeze 3 - gone with the wind",
+      "dates": "06-Dec to 07-Dec-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Pattaya, Chonburi, Thailand",
+      "place": 1,
+      "pdga_points": 55.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$105",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2025",
+      "events": 4,
+      "wins": 1,
+      "podiums": 2,
+      "top10": 3,
+      "pdga_points": 160.0,
+      "avg_finish": 9.25
+    },
+    {
+      "year": "2024",
+      "events": 4,
+      "wins": 0,
+      "podiums": 2,
+      "top10": 3,
+      "pdga_points": 472.5,
+      "avg_finish": 6.75
+    },
+    {
+      "year": "2023",
+      "events": 4,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 2,
+      "pdga_points": 165.0,
+      "avg_finish": 10.25
+    },
+    {
+      "year": "2022",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 40.0,
+      "avg_finish": 6.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2022-05-10",
+      "rating": 861,
+      "rounds": 4
+    },
+    {
+      "date": "2022-12-13",
+      "rating": 904,
+      "rounds": 7
+    },
+    {
+      "date": "2023-02-14",
+      "rating": 910,
+      "rounds": 17
+    },
+    {
+      "date": "2023-06-13",
+      "rating": 919,
+      "rounds": 14
+    },
+    {
+      "date": "2023-08-08",
+      "rating": 919,
+      "rounds": 18
+    },
+    {
+      "date": "2023-09-12",
+      "rating": 919,
+      "rounds": 21
+    },
+    {
+      "date": "2023-10-10",
+      "rating": 918,
+      "rounds": 26
+    },
+    {
+      "date": "2024-02-13",
+      "rating": 933,
+      "rounds": 28
+    },
+    {
+      "date": "2024-06-11",
+      "rating": 927,
+      "rounds": 24
+    },
+    {
+      "date": "2024-10-08",
+      "rating": 927,
+      "rounds": 19
+    },
+    {
+      "date": "2024-12-10",
+      "rating": 944,
+      "rounds": 16
+    },
+    {
+      "date": "2025-02-11",
+      "rating": 929,
+      "rounds": 16
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 914,
+      "rounds": 14
+    },
+    {
+      "date": "2025-12-09",
+      "rating": 937,
+      "rounds": 15
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 35.0,
+    "season_avg": 73.2,
+    "delta_pct": -52.2
+  },
+  "pdga_url": "https://www.pdga.com/player/210734"
+}

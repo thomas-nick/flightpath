@@ -3,7 +3,6 @@ import { useState } from "react";
 import finishesJson from "../../data/finishes.json";
 import type { FinishBundle } from "../../lib/player-analytics";
 import {
-  ACCENT_GRADIENTS,
   formatNumber,
   playerLocation,
   playerName,
@@ -28,7 +27,7 @@ export function PlayerDirectory({
     <section id="directory" className="fp-section fp-directory">
       <div className="fp-section-head">
         <h2>{compact ? "Tour roster" : "Player directory"}</h2>
-        <div className="fp-filters" role="tablist" aria-label="Division filter">
+        <div className="fp-filters fp-filters-segmented" role="tablist" aria-label="Division filter">
           {(["ALL", "MPO", "FPO"] as const).map((key) => (
             <button
               key={key}
@@ -45,11 +44,14 @@ export function PlayerDirectory({
       </div>
       <ul className="fp-post-list">
         {shown.map((player) => {
-          const g =
-            ACCENT_GRADIENTS[(player.accent ?? 0) % ACCENT_GRADIENTS.length];
           const bundle = finishesMap[player.pdga_number];
           const open = bundle?.splits?.open.finishes ?? bundle?.finishes;
           const am = bundle?.splits?.amateur.finishes;
+          const initials = playerName(player)
+            .split(" ")
+            .map((w) => w[0])
+            .join("")
+            .slice(0, 2);
           return (
             <li key={player.pdga_number}>
               <Link
@@ -57,14 +59,9 @@ export function PlayerDirectory({
                 params={{ slug: player.slug }}
                 className="fp-post-row"
               >
-                <div className="fp-post-thumb" style={{ background: g }}>
-                  <span className="fp-news-card-flare" aria-hidden />
-                  <span>
-                    {playerName(player)
-                      .split(" ")
-                      .map((w) => w[0])
-                      .join("")
-                      .slice(0, 2)}
+                <div className="fp-post-thumb fp-post-thumb-mono">
+                  <span className="fp-post-thumb-initials" aria-hidden>
+                    {initials}
                   </span>
                 </div>
                 <div className="fp-post-copy">

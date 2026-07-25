@@ -1,0 +1,261 @@
+{
+  "pdga": 265959,
+  "name": "Daniel Jeansson #265959",
+  "country": "Sweden",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 895,
+  "classification": "Amateur",
+  "city": "T\u00e4by",
+  "nationality": "",
+  "division": "MA40",
+  "primary_class": "amateur",
+  "pdga_points": 64.0,
+  "tour_weighted_points": 125.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 2,
+  "top5": 2,
+  "top10": 2,
+  "top20": 2,
+  "avg_finish": 2.5,
+  "win_rate": 0.0,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 1381,
+  "weighted_rank": 525,
+  "country_rank": null,
+  "am_events": 2,
+  "am_wins": 0,
+  "am_podiums": 2,
+  "am_top10": 2,
+  "am_pdga_points": 64.0,
+  "last_active": "27-Jan to 29-Jan-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 1,
+      "points": 48.0,
+      "weighted": 110.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 1,
+      "points": 16.0,
+      "weighted": 15.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 2,
+      "top5": 2,
+      "top10": 2,
+      "top20": 2,
+      "pdga_points": 64.0,
+      "tour_weighted_points": 125.0,
+      "avg_finish": 2.5,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 2,
+      "top5": 2,
+      "top10": 2,
+      "top20": 2,
+      "pdga_points": 64.0,
+      "tour_weighted_points": 125.0,
+      "avg_finish": 2.5,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA40": 2
+  },
+  "results": [
+    {
+      "event_id": "95844",
+      "title": "Samui Swine Classic XIII - Ams Presented by Latitude64 - PDGA Asia Tour event #3",
+      "dates": "27-Jan to 29-Jan-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "Koh Samui, Thailand",
+      "place": 3,
+      "pdga_points": 48.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 110.0
+    },
+    {
+      "event_id": "97979",
+      "title": "Samui Winter Warm Up",
+      "dates": "17-Jan-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh samui, New York, Thailand",
+      "place": 2,
+      "pdga_points": 16.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 2,
+      "wins": 0,
+      "podiums": 2,
+      "top10": 2,
+      "pdga_points": 64.0,
+      "avg_finish": 2.5
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2024-11-12",
+      "rating": 865,
+      "rounds": 24
+    },
+    {
+      "date": "2025-01-14",
+      "rating": 867,
+      "rounds": 25
+    },
+    {
+      "date": "2025-03-11",
+      "rating": 865,
+      "rounds": 28
+    },
+    {
+      "date": "2025-04-08",
+      "rating": 869,
+      "rounds": 30
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 868,
+      "rounds": 32
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 870,
+      "rounds": 30
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 876,
+      "rounds": 32
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 885,
+      "rounds": 31
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 884,
+      "rounds": 37
+    },
+    {
+      "date": "2026-02-10",
+      "rating": 889,
+      "rounds": 44
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 890,
+      "rounds": 44
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 891,
+      "rounds": 49
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 894,
+      "rounds": 49
+    },
+    {
+      "date": "2026-06-09",
+      "rating": 893,
+      "rounds": 53
+    },
+    {
+      "date": "2026-07-14",
+      "rating": 895,
+      "rounds": 51
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/265959"
+}

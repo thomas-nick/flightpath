@@ -1,0 +1,247 @@
+{
+  "pdga": 120610,
+  "name": "Junho Jeon #120610",
+  "country": "South Korea",
+  "country_key": "KR",
+  "flag": "\ud83c\uddf0\ud83c\uddf7",
+  "rating": 848,
+  "classification": "Amateur",
+  "city": "Pohang / Gyeongsangbuk-do",
+  "nationality": "",
+  "division": "MA1",
+  "primary_class": "amateur",
+  "pdga_points": 162.5,
+  "tour_weighted_points": 50.5,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 4,
+  "wins": 0,
+  "podiums": 2,
+  "top5": 4,
+  "top10": 4,
+  "top20": 4,
+  "avg_finish": 3.5,
+  "win_rate": 0.0,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 920,
+  "weighted_rank": 920,
+  "country_rank": 49,
+  "am_events": 4,
+  "am_wins": 0,
+  "am_podiums": 2,
+  "am_top10": 4,
+  "am_pdga_points": 162.5,
+  "last_active": "22-Feb-2020",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 52.5,
+      "weighted": 17.5,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 3,
+      "points": 110.0,
+      "weighted": 33.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 4,
+      "wins": 0,
+      "podiums": 2,
+      "top5": 4,
+      "top10": 4,
+      "top20": 4,
+      "pdga_points": 162.5,
+      "tour_weighted_points": 50.5,
+      "avg_finish": 3.5,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 4,
+      "wins": 0,
+      "podiums": 2,
+      "top5": 4,
+      "top10": 4,
+      "top20": 4,
+      "pdga_points": 162.5,
+      "tour_weighted_points": 50.5,
+      "avg_finish": 3.5,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA1": 4
+  },
+  "results": [
+    {
+      "event_id": "43511",
+      "title": "Inaugural Silla Open",
+      "dates": "22-Feb-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Gyeongju, Gyeongsangbuk-do, South Korea",
+      "place": 2,
+      "pdga_points": 40.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "40827",
+      "title": "Episode 1 - The Phantom Turtle Presented by Discraft",
+      "dates": "19-May-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Gimhae/MIryang, Gyeongsangnam-do, South Korea",
+      "place": 4,
+      "pdga_points": 35.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "41267",
+      "title": "Episode 2 - Attack of The Turtles presented by Discraft",
+      "dates": "09-Jun-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Gimhae/MIryang, Gyeongsangnam-do, South Korea",
+      "place": 3,
+      "pdga_points": 35.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "39775",
+      "title": "8th Annual Daegu Open",
+      "dates": "06-Apr to 07-Apr-2019",
+      "year": "2019",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Daegu, Gyeongsangbuk-do, South Korea",
+      "place": 5,
+      "pdga_points": 52.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 17.5
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2020",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 40.0,
+      "avg_finish": 2.0
+    },
+    {
+      "year": "2019",
+      "events": 3,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 3,
+      "pdga_points": 122.5,
+      "avg_finish": 4.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2019-05-14",
+      "rating": 824,
+      "rounds": 3
+    },
+    {
+      "date": "2019-06-11",
+      "rating": 834,
+      "rounds": 5
+    },
+    {
+      "date": "2019-07-09",
+      "rating": 836,
+      "rounds": 7
+    },
+    {
+      "date": "2019-08-13",
+      "rating": 848,
+      "rounds": 11
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 36.7,
+    "season_avg": 52.5,
+    "delta_pct": -30.2
+  },
+  "pdga_url": "https://www.pdga.com/player/120610"
+}

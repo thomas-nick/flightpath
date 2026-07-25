@@ -1,0 +1,246 @@
+{
+  "event_id": "104157",
+  "title": "Marlborough College Jr. Disc Golf Tournament 2026",
+  "location": "ISKANDAR PUTERI, Johor, Malaysia",
+  "dates": "24-May-2026",
+  "year": "2026",
+  "tier": "C",
+  "level": "c_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 16,
+  "avg_mpo_rating": 944.3,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "count": 15
+    },
+    {
+      "flag": "\ud83c\uddf8\ud83c\uddec",
+      "country": "Singapore",
+      "count": 1
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 129558,
+      "name": "James Lai",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 1,
+      "pdga_points": 15.0,
+      "rating": 965,
+      "prize": "$42",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    },
+    {
+      "pdga": 123728,
+      "name": "Danny Whittaker",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 1,
+      "pdga_points": 15.0,
+      "rating": 914,
+      "prize": "$42",
+      "flag": "\ud83c\uddf8\ud83c\uddec",
+      "country": "Singapore",
+      "country_key": "SG"
+    },
+    {
+      "pdga": 113258,
+      "name": "Redha Fahmi Radzuan",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 3,
+      "pdga_points": 5.0,
+      "rating": 954,
+      "prize": "$21",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    }
+  ],
+  "fpo": [
+    {
+      "pdga": 130936,
+      "name": "Rosalie Pili",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 1,
+      "pdga_points": 3.0,
+      "rating": 810,
+      "prize": "$30",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    }
+  ],
+  "amateur": [
+    {
+      "pdga": 309380,
+      "name": "Loo Wei Song",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 25.0,
+      "rating": 836,
+      "prize": "",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    },
+    {
+      "pdga": 240283,
+      "name": "Chuan Sang Lai",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 20.0,
+      "rating": 882,
+      "prize": "",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    },
+    {
+      "pdga": 277751,
+      "name": "Ben Clark",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 3,
+      "pdga_points": 15.0,
+      "rating": 844,
+      "prize": "",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    },
+    {
+      "pdga": 283883,
+      "name": "Buddy Tolba",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 3,
+      "pdga_points": 15.0,
+      "rating": 780,
+      "prize": "",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    },
+    {
+      "pdga": 308635,
+      "name": "Lim Nelson",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 5,
+      "pdga_points": 5.0,
+      "rating": 831,
+      "prize": "",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    },
+    {
+      "pdga": 313113,
+      "name": "Melvin YING Khai De",
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 32.0,
+      "rating": 791,
+      "prize": "",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    },
+    {
+      "pdga": 318194,
+      "name": "MAHFUDZ BIN MOHAMAD NOR",
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "place": 3,
+      "pdga_points": 24.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    },
+    {
+      "pdga": 126428,
+      "name": "Dass Mohan",
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 18.0,
+      "rating": 797,
+      "prize": "",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    },
+    {
+      "pdga": 157636,
+      "name": "Bryan Muirhead",
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 15.0,
+      "rating": 790,
+      "prize": "",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    },
+    {
+      "pdga": 300623,
+      "name": "Yong Ngee See",
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 15.0,
+      "rating": 829,
+      "prize": "",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    },
+    {
+      "pdga": 300248,
+      "name": "Chew Yeen Phang",
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "place": 5,
+      "pdga_points": 6.0,
+      "rating": 832,
+      "prize": "",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    },
+    {
+      "pdga": 309375,
+      "name": "Michael Lee Huey Chyr",
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "place": 6,
+      "pdga_points": 3.0,
+      "rating": 812,
+      "prize": "",
+      "flag": "\ud83c\uddf2\ud83c\uddfe",
+      "country": "Malaysia",
+      "country_key": "MY"
+    }
+  ],
+  "divisions": [
+    "FPO",
+    "MA1",
+    "MA2",
+    "MA50",
+    "MPO"
+  ]
+}

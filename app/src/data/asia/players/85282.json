@@ -1,0 +1,302 @@
+{
+  "pdga": 85282,
+  "name": "William B. Woodward #85282",
+  "country": "United Kingdom",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 833,
+  "classification": "Amateur",
+  "city": "Nottingham",
+  "nationality": "",
+  "division": "MA50",
+  "primary_class": "amateur",
+  "pdga_points": 114.0,
+  "tour_weighted_points": 103.5,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 4,
+  "wins": 0,
+  "podiums": 2,
+  "top5": 3,
+  "top10": 4,
+  "top20": 4,
+  "avg_finish": 4.75,
+  "win_rate": 0.0,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 1099,
+  "weighted_rank": 609,
+  "country_rank": null,
+  "am_events": 4,
+  "am_wins": 0,
+  "am_podiums": 2,
+  "am_top10": 4,
+  "am_pdga_points": 114.0,
+  "last_active": "22-Jan to 26-Jan-2020",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 2,
+      "points": 60.0,
+      "weighted": 55.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 27.0,
+      "weighted": 37.5,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 1,
+      "points": 27.0,
+      "weighted": 11.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 4,
+      "wins": 0,
+      "podiums": 2,
+      "top5": 3,
+      "top10": 4,
+      "top20": 4,
+      "pdga_points": 114.0,
+      "tour_weighted_points": 103.5,
+      "avg_finish": 4.75,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 4,
+      "wins": 0,
+      "podiums": 2,
+      "top5": 3,
+      "top10": 4,
+      "top20": 4,
+      "pdga_points": 114.0,
+      "tour_weighted_points": 103.5,
+      "avg_finish": 4.75,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA50": 4
+  },
+  "results": [
+    {
+      "event_id": "43198",
+      "title": "Samui Swine Classic VII - Ams - Presented by Innova",
+      "dates": "29-Jan to 30-Jan-2020",
+      "year": "2020",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 10,
+      "pdga_points": 24.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "43184",
+      "title": "The 5th Annual Hyzenbrownie Open \"King Of The Island\" 2020",
+      "dates": "22-Jan to 26-Jan-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Namuang Koh Samui, Thailand",
+      "place": 3,
+      "pdga_points": 27.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "33102",
+      "title": "Third Annual Hyzenbrownie Open - The Flaskenpouch 2018",
+      "dates": "27-Jan to 28-Jan-2018",
+      "year": "2018",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 2,
+      "pdga_points": 27.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 37.5
+    },
+    {
+      "event_id": "33706",
+      "title": "Samui Swine Classic V",
+      "dates": "01-Feb to 03-Feb-2018",
+      "year": "2018",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 4,
+      "pdga_points": 36.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 35.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2020",
+      "events": 2,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 2,
+      "pdga_points": 51.0,
+      "avg_finish": 6.5
+    },
+    {
+      "year": "2018",
+      "events": 2,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 2,
+      "pdga_points": 63.0,
+      "avg_finish": 3.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2022-11-08",
+      "rating": 863,
+      "rounds": 21
+    },
+    {
+      "date": "2023-02-14",
+      "rating": 857,
+      "rounds": 21
+    },
+    {
+      "date": "2023-04-11",
+      "rating": 865,
+      "rounds": 21
+    },
+    {
+      "date": "2023-06-13",
+      "rating": 871,
+      "rounds": 14
+    },
+    {
+      "date": "2023-09-12",
+      "rating": 865,
+      "rounds": 13
+    },
+    {
+      "date": "2023-10-10",
+      "rating": 865,
+      "rounds": 15
+    },
+    {
+      "date": "2023-11-14",
+      "rating": 868,
+      "rounds": 15
+    },
+    {
+      "date": "2024-06-11",
+      "rating": 858,
+      "rounds": 14
+    },
+    {
+      "date": "2024-09-10",
+      "rating": 856,
+      "rounds": 11
+    },
+    {
+      "date": "2024-10-08",
+      "rating": 865,
+      "rounds": 13
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 852,
+      "rounds": 11
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 831,
+      "rounds": 12
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 832,
+      "rounds": 12
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 824,
+      "rounds": 11
+    },
+    {
+      "date": "2026-07-14",
+      "rating": 833,
+      "rounds": 9
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 26.0,
+    "season_avg": 36.0,
+    "delta_pct": -27.8
+  },
+  "pdga_url": "https://www.pdga.com/player/85282"
+}

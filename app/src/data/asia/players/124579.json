@@ -1,0 +1,360 @@
+{
+  "pdga": 124579,
+  "name": "Anthony Lowhorn #124579",
+  "country": "United States",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 909,
+  "classification": "Amateur",
+  "city": "Pendleton",
+  "nationality": "",
+  "division": "MA50",
+  "primary_class": "amateur",
+  "pdga_points": 94.5,
+  "tour_weighted_points": 120.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 6,
+  "wins": 1,
+  "podiums": 6,
+  "top5": 6,
+  "top10": 6,
+  "top20": 6,
+  "avg_finish": 2.17,
+  "win_rate": 0.167,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 1812,
+  "weighted_rank": 417,
+  "country_rank": null,
+  "am_events": 6,
+  "am_wins": 1,
+  "am_podiums": 6,
+  "am_top10": 6,
+  "am_pdga_points": 94.5,
+  "last_active": "18-Mar-2023",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 2,
+      "points": 40.5,
+      "weighted": 55.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 4,
+      "points": 54.0,
+      "weighted": 65.0,
+      "wins": 1
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 6,
+      "wins": 1,
+      "podiums": 6,
+      "top5": 6,
+      "top10": 6,
+      "top20": 6,
+      "pdga_points": 94.5,
+      "tour_weighted_points": 120.0,
+      "avg_finish": 2.17,
+      "win_rate": 0.167,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 6,
+      "wins": 1,
+      "podiums": 6,
+      "top5": 6,
+      "top10": 6,
+      "top20": 6,
+      "pdga_points": 94.5,
+      "tour_weighted_points": 120.0,
+      "avg_finish": 2.17,
+      "win_rate": 0.167,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA50": 6
+  },
+  "results": [
+    {
+      "event_id": "69291",
+      "title": "BC3 Fall Classic",
+      "dates": "21-Oct-2023",
+      "year": "2023",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Nashville, Indiana, United States",
+      "place": 3,
+      "pdga_points": 22.5,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 27.5
+    },
+    {
+      "event_id": "67449",
+      "title": "Walnut Cracker - WIFFS (CEP Charity - Rated)",
+      "dates": "18-Mar-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Greencastle, Indiana, United States",
+      "place": 2,
+      "pdga_points": 12.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "61799",
+      "title": "33rd Checkered Flag Open presented by Disc Crazy Am",
+      "dates": "28-Aug-2022",
+      "year": "2022",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Indianapolis , Indiana, United States",
+      "place": 3,
+      "pdga_points": 18.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 27.5
+    },
+    {
+      "event_id": "55823",
+      "title": "Wiffs Finale \"Winters Last Hurrah\" (CEP Charity - Rated)",
+      "dates": "27-Mar-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Monrovia, Indiana, United States",
+      "place": 1,
+      "pdga_points": 21.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "57571",
+      "title": "WIFFS #21 - Unfrozen Open (CEP Charity - Rated)",
+      "dates": "27-Feb-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Richmond, Indiana, United States",
+      "place": 2,
+      "pdga_points": 12.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "54061",
+      "title": "Fling for Hope",
+      "dates": "30-Oct-2021",
+      "year": "2021",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Winchester, Indiana, United States",
+      "place": 2,
+      "pdga_points": 9.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "55823",
+      "title": "Wiffs Finale \"Winters Last Hurrah\" (CEP Charity - Rated)",
+      "dates": "27-Mar-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Monrovia, Indiana, United States",
+      "place": 1,
+      "pdga_points": 21.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2023",
+      "events": 2,
+      "wins": 0,
+      "podiums": 2,
+      "top10": 2,
+      "pdga_points": 34.5,
+      "avg_finish": 2.5
+    },
+    {
+      "year": "2022",
+      "events": 3,
+      "wins": 1,
+      "podiums": 3,
+      "top10": 3,
+      "pdga_points": 51.0,
+      "avg_finish": 2.0
+    },
+    {
+      "year": "2021",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 9.0,
+      "avg_finish": 2.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2024-10-08",
+      "rating": 897,
+      "rounds": 38
+    },
+    {
+      "date": "2025-01-14",
+      "rating": 892,
+      "rounds": 34
+    },
+    {
+      "date": "2025-02-11",
+      "rating": 893,
+      "rounds": 33
+    },
+    {
+      "date": "2025-03-11",
+      "rating": 893,
+      "rounds": 33
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 899,
+      "rounds": 31
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 901,
+      "rounds": 34
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 893,
+      "rounds": 40
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 892,
+      "rounds": 40
+    },
+    {
+      "date": "2025-11-11",
+      "rating": 903,
+      "rounds": 39
+    },
+    {
+      "date": "2025-12-09",
+      "rating": 904,
+      "rounds": 40
+    },
+    {
+      "date": "2026-01-13",
+      "rating": 902,
+      "rounds": 42
+    },
+    {
+      "date": "2026-02-10",
+      "rating": 907,
+      "rounds": 40
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 909,
+      "rounds": 46
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 911,
+      "rounds": 48
+    },
+    {
+      "date": "2026-07-14",
+      "rating": 909,
+      "rounds": 43
+    }
+  ],
+  "streak": {
+    "direction": "up",
+    "recent_avg": 17.5,
+    "season_avg": 14.0,
+    "delta_pct": 25.0
+  },
+  "pdga_url": "https://www.pdga.com/player/124579"
+}

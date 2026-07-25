@@ -1,0 +1,279 @@
+{
+  "pdga": 296733,
+  "name": "\u51cc\u971e \u9ad8 #296733",
+  "country": "China",
+  "country_key": "CN",
+  "flag": "\ud83c\udde8\ud83c\uddf3",
+  "rating": null,
+  "classification": "Amateur",
+  "city": "\u5b81\u6ce2",
+  "nationality": "",
+  "division": "FA2",
+  "primary_class": "amateur",
+  "pdga_points": 81.0,
+  "tour_weighted_points": 127.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 4,
+  "wins": 2,
+  "podiums": 2,
+  "top5": 3,
+  "top10": 4,
+  "top20": 4,
+  "avg_finish": 3.5,
+  "win_rate": 0.5,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 1267,
+  "weighted_rank": 517,
+  "country_rank": 198,
+  "am_events": 4,
+  "am_wins": 2,
+  "am_podiums": 2,
+  "am_top10": 4,
+  "am_pdga_points": 81.0,
+  "last_active": "08-Jul-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 1,
+      "points": 12.0,
+      "weighted": 20.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 2,
+      "points": 69.0,
+      "weighted": 100.0,
+      "wins": 2
+    },
+    "c_tier": {
+      "events": 1,
+      "points": 0.0,
+      "weighted": 7.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 4,
+      "wins": 2,
+      "podiums": 2,
+      "top5": 3,
+      "top10": 4,
+      "top20": 4,
+      "pdga_points": 81.0,
+      "tour_weighted_points": 127.0,
+      "avg_finish": 3.5,
+      "win_rate": 0.5,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 4,
+      "wins": 2,
+      "podiums": 2,
+      "top5": 3,
+      "top10": 4,
+      "top20": 4,
+      "pdga_points": 81.0,
+      "tour_weighted_points": 127.0,
+      "avg_finish": 3.5,
+      "win_rate": 0.5,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "FA2": 4
+  },
+  "results": [
+    {
+      "event_id": "106035",
+      "title": "Shanghai Disc Golf Monthly Tournament (July)",
+      "dates": "08-Jul-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Shanghai, Shanghai Shi, China",
+      "place": 5,
+      "pdga_points": 0.0,
+      "division": "FA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "97899",
+      "title": "2025 Shaoxing China International Disc Golf Open",
+      "dates": "13-Dec to 14-Dec-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Shaoxing, Zhejiang Sheng, China",
+      "place": 1,
+      "pdga_points": 36.0,
+      "division": "FA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 50.0
+    },
+    {
+      "event_id": "93392",
+      "title": "2025\u201c\u911e\u6728\u5c71\u6d77\u201d\u676f\u98de\u76d8\u9ad8\u5c14\u592b\u516c\u5f00\u8d5b\uff1b2025  The \"Yinmu Mountain-Sea Cup\" Disc Golf Open",
+      "dates": "05-Jul to 06-Jul-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Liangshan Yi Autonomous Prefecture, Sichuan Sheng, China",
+      "place": 1,
+      "pdga_points": 33.0,
+      "division": "FA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 50.0
+    },
+    {
+      "event_id": "86261",
+      "title": "2024 CDGC\u718a\u732b\u676f\u63b7\u51c6\u98de\u76d8\u516c\u5f00\u8d5b CDGC Panda Open",
+      "dates": "23-Nov to 24-Nov-2024",
+      "year": "2024",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Wuxi, Jiangsu Sheng, China",
+      "place": 7,
+      "pdga_points": 12.0,
+      "division": "FA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "97899",
+      "title": "2025 Shaoxing China International Disc Golf Open",
+      "dates": "13-Dec to 14-Dec-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Shaoxing, Zhejiang Sheng, China",
+      "place": 1,
+      "pdga_points": 36.0,
+      "division": "FA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 50.0
+    },
+    {
+      "event_id": "93392",
+      "title": "2025\u201c\u911e\u6728\u5c71\u6d77\u201d\u676f\u98de\u76d8\u9ad8\u5c14\u592b\u516c\u5f00\u8d5b\uff1b2025  The \"Yinmu Mountain-Sea Cup\" Disc Golf Open",
+      "dates": "05-Jul to 06-Jul-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Liangshan Yi Autonomous Prefecture, Sichuan Sheng, China",
+      "place": 1,
+      "pdga_points": 33.0,
+      "division": "FA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 50.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 0.0,
+      "avg_finish": 5.0
+    },
+    {
+      "year": "2025",
+      "events": 2,
+      "wins": 2,
+      "podiums": 2,
+      "top10": 2,
+      "pdga_points": 69.0,
+      "avg_finish": 1.0
+    },
+    {
+      "year": "2024",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 12.0,
+      "avg_finish": 7.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2024-12-10",
+      "rating": 578,
+      "rounds": 3
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 632,
+      "rounds": 6
+    }
+  ],
+  "streak": {
+    "direction": "up",
+    "recent_avg": 23.0,
+    "season_avg": 12.0,
+    "delta_pct": 91.7
+  },
+  "pdga_url": "https://www.pdga.com/player/296733"
+}

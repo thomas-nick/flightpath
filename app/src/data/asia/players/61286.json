@@ -1,0 +1,335 @@
+{
+  "pdga": 61286,
+  "name": "Andrew Buess",
+  "country": "India",
+  "country_key": "IN",
+  "flag": "\ud83c\uddee\ud83c\uddf3",
+  "rating": 926,
+  "classification": "Pro",
+  "city": "",
+  "nationality": "",
+  "division": "MA1",
+  "primary_class": "amateur",
+  "pdga_points": 2599.0,
+  "tour_weighted_points": 99.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 6,
+  "wins": 0,
+  "podiums": 2,
+  "top5": 2,
+  "top10": 4,
+  "top20": 4,
+  "avg_finish": 38.17,
+  "win_rate": 0.0,
+  "top10_rate": 0.667,
+  "cash_earned": 0.0,
+  "pdga_rank": 198,
+  "weighted_rank": 505,
+  "country_rank": 102,
+  "am_events": 6,
+  "am_wins": 0,
+  "am_podiums": 2,
+  "am_top10": 4,
+  "am_pdga_points": 2599.0,
+  "last_active": "21-Oct-2023",
+  "by_level": {
+    "major": {
+      "events": 1,
+      "points": 2235.0,
+      "weighted": 12.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 3,
+      "points": 249.0,
+      "weighted": 79.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 2,
+      "points": 115.0,
+      "weighted": 8.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 6,
+      "wins": 0,
+      "podiums": 2,
+      "top5": 2,
+      "top10": 4,
+      "top20": 4,
+      "pdga_points": 2599.0,
+      "tour_weighted_points": 99.0,
+      "avg_finish": 38.17,
+      "win_rate": 0.0,
+      "top10_rate": 0.667
+    },
+    "all": {
+      "events": 6,
+      "wins": 0,
+      "podiums": 2,
+      "top5": 2,
+      "top10": 4,
+      "top20": 4,
+      "pdga_points": 2599.0,
+      "tour_weighted_points": 99.0,
+      "avg_finish": 38.17,
+      "win_rate": 0.0,
+      "top10_rate": 0.667
+    }
+  },
+  "division_counts": {
+    "MA1": 4,
+    "MA2": 2
+  },
+  "results": [
+    {
+      "event_id": "69291",
+      "title": "BC3 Fall Classic",
+      "dates": "21-Oct-2023",
+      "year": "2023",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Nashville, Indiana, United States",
+      "place": 2,
+      "pdga_points": 84.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 37.5
+    },
+    {
+      "event_id": "61799",
+      "title": "33rd Checkered Flag Open presented by Disc Crazy Am",
+      "dates": "28-Aug-2022",
+      "year": "2022",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Indianapolis , Indiana, United States",
+      "place": 22,
+      "pdga_points": 67.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "55823",
+      "title": "Wiffs Finale \"Winters Last Hurrah\" (CEP Charity - Rated)",
+      "dates": "27-Mar-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Monrovia, Indiana, United States",
+      "place": 6,
+      "pdga_points": 60.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "55453",
+      "title": "2022 PDGA Amateur Disc Golf World Championships presented by Toyota",
+      "dates": "21-Jun to 25-Jun-2022",
+      "year": "2022",
+      "tier": "",
+      "level": "major",
+      "is_asia_tour": false,
+      "location": "Princeton, Indiana, United States",
+      "place": 187,
+      "pdga_points": 2235.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 12.0
+    },
+    {
+      "event_id": "58782",
+      "title": "The UFO at BC3 3rd annual",
+      "dates": "16-Apr-2022",
+      "year": "2022",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Nashville, Indiana, United States",
+      "place": 2,
+      "pdga_points": 97.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 37.5
+    },
+    {
+      "event_id": "55941",
+      "title": "WIFFS #5 - Wabash Winter Bash (CEP Charity - Rated)",
+      "dates": "15-Jan-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Wabash, Indiana, United States",
+      "place": 10,
+      "pdga_points": 55.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2023",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 84.0,
+      "avg_finish": 2.0
+    },
+    {
+      "year": "2022",
+      "events": 5,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 3,
+      "pdga_points": 2515.0,
+      "avg_finish": 45.4
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2024-06-11",
+      "rating": 907,
+      "rounds": 56
+    },
+    {
+      "date": "2024-08-13",
+      "rating": 916,
+      "rounds": 53
+    },
+    {
+      "date": "2024-09-10",
+      "rating": 916,
+      "rounds": 48
+    },
+    {
+      "date": "2024-11-12",
+      "rating": 918,
+      "rounds": 47
+    },
+    {
+      "date": "2025-01-14",
+      "rating": 916,
+      "rounds": 42
+    },
+    {
+      "date": "2025-02-11",
+      "rating": 918,
+      "rounds": 46
+    },
+    {
+      "date": "2025-03-11",
+      "rating": 928,
+      "rounds": 40
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 926,
+      "rounds": 39
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 916,
+      "rounds": 36
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 915,
+      "rounds": 37
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 915,
+      "rounds": 41
+    },
+    {
+      "date": "2026-01-13",
+      "rating": 911,
+      "rounds": 36
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 903,
+      "rounds": 30
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 899,
+      "rounds": 29
+    },
+    {
+      "date": "2026-06-09",
+      "rating": 917,
+      "rounds": 38
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 70.5,
+    "season_avg": 795.8,
+    "delta_pct": -91.1
+  },
+  "pdga_url": "https://www.pdga.com/player/61286"
+}

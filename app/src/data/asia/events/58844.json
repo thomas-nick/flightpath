@@ -1,0 +1,231 @@
+{
+  "event_id": "58844",
+  "title": "Songkron Spectacular",
+  "location": "Chiang Mai, Chiang Mai, Thailand",
+  "dates": "16-Apr to 17-Apr-2022",
+  "year": "2022",
+  "tier": "C",
+  "level": "c_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 15,
+  "avg_mpo_rating": 923.4,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "count": 13
+    },
+    {
+      "flag": "\ud83c\uddf0\ud83c\udded",
+      "country": "Cambodia",
+      "count": 1
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 112592,
+      "name": "Danny Diaz",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 1,
+      "pdga_points": 40.0,
+      "rating": 983,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 196549,
+      "name": "Pete Laermanns",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 4,
+      "pdga_points": 25.0,
+      "rating": 928,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 77393,
+      "name": "Nick Georgiou",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 6,
+      "pdga_points": 15.0,
+      "rating": 928,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 4269,
+      "name": "Stephen Deering",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 7,
+      "pdga_points": 10.0,
+      "rating": 886,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 97295,
+      "name": "Aaron Herman",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 8,
+      "pdga_points": 5.0,
+      "rating": 892,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    }
+  ],
+  "fpo": [],
+  "amateur": [
+    {
+      "pdga": 271811,
+      "name": "Kanchaya Dtaeng Mo Herman",
+      "division": "FA2",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 12.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 271812,
+      "name": "Suvapriya Mook Pimkwang",
+      "division": "FA2",
+      "class_bucket": "amateur",
+      "place": 3,
+      "pdga_points": 10.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 202969,
+      "name": "Joshua Slabaugh",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 45.0,
+      "rating": 858,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 77395,
+      "name": "View Georgiou",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 40.0,
+      "rating": 906,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 214223,
+      "name": "David Bondy",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 4,
+      "pdga_points": 30.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 153943,
+      "name": "Jared Cahners",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 6,
+      "pdga_points": 20.0,
+      "rating": 831,
+      "prize": "",
+      "flag": "\ud83c\uddf0\ud83c\udded",
+      "country": "Cambodia",
+      "country_key": "KH"
+    },
+    {
+      "pdga": 171863,
+      "name": "Adam Birkan",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 7,
+      "pdga_points": 15.0,
+      "rating": 740,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 214733,
+      "name": "Philip Gassert",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 8,
+      "pdga_points": 10.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 197296,
+      "name": "Ray Dai",
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 24.0,
+      "rating": 770,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 213786,
+      "name": "Joshua Dai",
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "place": 4,
+      "pdga_points": 18.0,
+      "rating": 783,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    }
+  ],
+  "divisions": [
+    "FA2",
+    "MA1",
+    "MA3",
+    "MPO"
+  ]
+}

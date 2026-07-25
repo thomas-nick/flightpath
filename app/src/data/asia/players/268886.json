@@ -1,0 +1,253 @@
+{
+  "pdga": 268886,
+  "name": "Jerald Salufranio #268886",
+  "country": "Philippines",
+  "country_key": "PH",
+  "flag": "\ud83c\uddf5\ud83c\udded",
+  "rating": null,
+  "classification": "Amateur",
+  "city": "Capas Tarlac",
+  "nationality": "",
+  "division": "MA1",
+  "primary_class": "amateur",
+  "pdga_points": 98.0,
+  "tour_weighted_points": 35.6,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 4,
+  "wins": 0,
+  "podiums": 2,
+  "top5": 2,
+  "top10": 3,
+  "top20": 4,
+  "avg_finish": 7.0,
+  "win_rate": 0.0,
+  "top10_rate": 0.75,
+  "cash_earned": 0.0,
+  "pdga_rank": 1171,
+  "weighted_rank": 1094,
+  "country_rank": 42,
+  "am_events": 4,
+  "am_wins": 0,
+  "am_podiums": 2,
+  "am_top10": 3,
+  "am_pdga_points": 98.0,
+  "last_active": "13-Jul-2025",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 4,
+      "points": 98.0,
+      "weighted": 35.6,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 4,
+      "wins": 0,
+      "podiums": 2,
+      "top5": 2,
+      "top10": 3,
+      "top20": 4,
+      "pdga_points": 98.0,
+      "tour_weighted_points": 35.6,
+      "avg_finish": 7.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.75
+    },
+    "all": {
+      "events": 4,
+      "wins": 0,
+      "podiums": 2,
+      "top5": 2,
+      "top10": 3,
+      "top20": 4,
+      "pdga_points": 98.0,
+      "tour_weighted_points": 35.6,
+      "avg_finish": 7.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.75
+    }
+  },
+  "division_counts": {
+    "MA3": 1,
+    "MA2": 1,
+    "MA1": 2
+  },
+  "results": [
+    {
+      "event_id": "93258",
+      "title": "Derek Robins Frisbeeversary Tournament at Tarlac",
+      "dates": "13-Jul-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Municipality of San Jose , Tarlac, Philippines",
+      "place": 17,
+      "pdga_points": 45.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "75357",
+      "title": "LIPAD PILIPINAS OPEN 2024 presented by Provincial Government of Tarlac",
+      "dates": "24-Feb to 25-Feb-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Tarlac, Tarlac, Philippines",
+      "place": 2,
+      "pdga_points": 20.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "72188",
+      "title": "National Amateur Championship",
+      "dates": "08-Oct-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Tarlac, Tarlac, Philippines",
+      "place": 2,
+      "pdga_points": 18.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "75358",
+      "title": "DGAP One Year Anniversary Tournament at Nayong Pilipino",
+      "dates": "03-Dec-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Paranaque, Metro Manila, Philippines",
+      "place": 7,
+      "pdga_points": 15.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2025",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 45.0,
+      "avg_finish": 17.0
+    },
+    {
+      "year": "2024",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 20.0,
+      "avg_finish": 2.0
+    },
+    {
+      "year": "2023",
+      "events": 2,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 2,
+      "pdga_points": 33.0,
+      "avg_finish": 4.5
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2023-10-10",
+      "rating": 893,
+      "rounds": 1
+    },
+    {
+      "date": "2023-12-12",
+      "rating": 843,
+      "rounds": 2
+    },
+    {
+      "date": "2024-03-12",
+      "rating": 843,
+      "rounds": 4
+    }
+  ],
+  "streak": {
+    "direction": "up",
+    "recent_avg": 27.7,
+    "season_avg": 15.0,
+    "delta_pct": 84.4
+  },
+  "pdga_url": "https://www.pdga.com/player/268886"
+}

@@ -13,7 +13,12 @@ import { Route as SitemapDotxmlRouteImport } from './routes/sitemap[.]xml'
 import { Route as RobotsDottxtRouteImport } from './routes/robots[.]txt'
 import { Route as IndexRouteImport } from './routes/index'
 import { Route as PlayersIndexRouteImport } from './routes/players/index'
+import { Route as EventsIndexRouteImport } from './routes/events/index'
+import { Route as CoursesIndexRouteImport } from './routes/courses/index'
+import { Route as CountriesIndexRouteImport } from './routes/countries/index'
 import { Route as PlayersSlugRouteImport } from './routes/players/$slug'
+import { Route as CoursesSlugRouteImport } from './routes/courses/$slug'
+import { Route as CountriesKeyRouteImport } from './routes/countries/$key'
 
 const SitemapDotxmlRoute = SitemapDotxmlRouteImport.update({
   id: '/sitemap.xml',
@@ -35,9 +40,34 @@ const PlayersIndexRoute = PlayersIndexRouteImport.update({
   path: '/players/',
   getParentRoute: () => rootRouteImport,
 } as any)
+const EventsIndexRoute = EventsIndexRouteImport.update({
+  id: '/events/',
+  path: '/events/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const CoursesIndexRoute = CoursesIndexRouteImport.update({
+  id: '/courses/',
+  path: '/courses/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const CountriesIndexRoute = CountriesIndexRouteImport.update({
+  id: '/countries/',
+  path: '/countries/',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const PlayersSlugRoute = PlayersSlugRouteImport.update({
   id: '/players/$slug',
   path: '/players/$slug',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const CoursesSlugRoute = CoursesSlugRouteImport.update({
+  id: '/courses/$slug',
+  path: '/courses/$slug',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const CountriesKeyRoute = CountriesKeyRouteImport.update({
+  id: '/countries/$key',
+  path: '/countries/$key',
   getParentRoute: () => rootRouteImport,
 } as any)
 
@@ -45,14 +75,24 @@ export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
   '/robots.txt': typeof RobotsDottxtRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
+  '/countries/$key': typeof CountriesKeyRoute
+  '/courses/$slug': typeof CoursesSlugRoute
   '/players/$slug': typeof PlayersSlugRoute
+  '/countries/': typeof CountriesIndexRoute
+  '/courses/': typeof CoursesIndexRoute
+  '/events/': typeof EventsIndexRoute
   '/players/': typeof PlayersIndexRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
   '/robots.txt': typeof RobotsDottxtRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
+  '/countries/$key': typeof CountriesKeyRoute
+  '/courses/$slug': typeof CoursesSlugRoute
   '/players/$slug': typeof PlayersSlugRoute
+  '/countries': typeof CountriesIndexRoute
+  '/courses': typeof CoursesIndexRoute
+  '/events': typeof EventsIndexRoute
   '/players': typeof PlayersIndexRoute
 }
 export interface FileRoutesById {
@@ -60,21 +100,50 @@ export interface FileRoutesById {
   '/': typeof IndexRoute
   '/robots.txt': typeof RobotsDottxtRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
+  '/countries/$key': typeof CountriesKeyRoute
+  '/courses/$slug': typeof CoursesSlugRoute
   '/players/$slug': typeof PlayersSlugRoute
+  '/countries/': typeof CountriesIndexRoute
+  '/courses/': typeof CoursesIndexRoute
+  '/events/': typeof EventsIndexRoute
   '/players/': typeof PlayersIndexRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
   fullPaths:
-    '/' | '/robots.txt' | '/sitemap.xml' | '/players/$slug' | '/players/'
+    | '/'
+    | '/robots.txt'
+    | '/sitemap.xml'
+    | '/countries/$key'
+    | '/courses/$slug'
+    | '/players/$slug'
+    | '/countries/'
+    | '/courses/'
+    | '/events/'
+    | '/players/'
   fileRoutesByTo: FileRoutesByTo
-  to: '/' | '/robots.txt' | '/sitemap.xml' | '/players/$slug' | '/players'
+  to:
+    | '/'
+    | '/robots.txt'
+    | '/sitemap.xml'
+    | '/countries/$key'
+    | '/courses/$slug'
+    | '/players/$slug'
+    | '/countries'
+    | '/courses'
+    | '/events'
+    | '/players'
   id:
     | '__root__'
     | '/'
     | '/robots.txt'
     | '/sitemap.xml'
+    | '/countries/$key'
+    | '/courses/$slug'
     | '/players/$slug'
+    | '/countries/'
+    | '/courses/'
+    | '/events/'
     | '/players/'
   fileRoutesById: FileRoutesById
 }
@@ -82,7 +151,12 @@ export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
   RobotsDottxtRoute: typeof RobotsDottxtRoute
   SitemapDotxmlRoute: typeof SitemapDotxmlRoute
+  CountriesKeyRoute: typeof CountriesKeyRoute
+  CoursesSlugRoute: typeof CoursesSlugRoute
   PlayersSlugRoute: typeof PlayersSlugRoute
+  CountriesIndexRoute: typeof CountriesIndexRoute
+  CoursesIndexRoute: typeof CoursesIndexRoute
+  EventsIndexRoute: typeof EventsIndexRoute
   PlayersIndexRoute: typeof PlayersIndexRoute
 }
 
@@ -116,11 +190,46 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof PlayersIndexRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/events/': {
+      id: '/events/'
+      path: '/events'
+      fullPath: '/events/'
+      preLoaderRoute: typeof EventsIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/courses/': {
+      id: '/courses/'
+      path: '/courses'
+      fullPath: '/courses/'
+      preLoaderRoute: typeof CoursesIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/countries/': {
+      id: '/countries/'
+      path: '/countries'
+      fullPath: '/countries/'
+      preLoaderRoute: typeof CountriesIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/players/$slug': {
       id: '/players/$slug'
       path: '/players/$slug'
       fullPath: '/players/$slug'
       preLoaderRoute: typeof PlayersSlugRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/courses/$slug': {
+      id: '/courses/$slug'
+      path: '/courses/$slug'
+      fullPath: '/courses/$slug'
+      preLoaderRoute: typeof CoursesSlugRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/countries/$key': {
+      id: '/countries/$key'
+      path: '/countries/$key'
+      fullPath: '/countries/$key'
+      preLoaderRoute: typeof CountriesKeyRouteImport
       parentRoute: typeof rootRouteImport
     }
   }
@@ -130,7 +239,12 @@ const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
   RobotsDottxtRoute: RobotsDottxtRoute,
   SitemapDotxmlRoute: SitemapDotxmlRoute,
+  CountriesKeyRoute: CountriesKeyRoute,
+  CoursesSlugRoute: CoursesSlugRoute,
   PlayersSlugRoute: PlayersSlugRoute,
+  CountriesIndexRoute: CountriesIndexRoute,
+  CoursesIndexRoute: CoursesIndexRoute,
+  EventsIndexRoute: EventsIndexRoute,
   PlayersIndexRoute: PlayersIndexRoute,
 }
 export const routeTree = rootRouteImport

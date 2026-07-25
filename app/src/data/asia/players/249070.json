@@ -1,0 +1,318 @@
+{
+  "pdga": 249070,
+  "name": "Sean Hancock #249070",
+  "country": "United States",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 967,
+  "classification": "Amateur",
+  "city": "Baltimore",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 770.0,
+  "tour_weighted_points": 87.5,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 5,
+  "wins": 0,
+  "podiums": 2,
+  "top5": 4,
+  "top10": 5,
+  "top20": 5,
+  "avg_finish": 4.0,
+  "win_rate": 0.0,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 331,
+  "weighted_rank": 676,
+  "country_rank": null,
+  "am_events": 0,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 0,
+  "am_pdga_points": 0.0,
+  "last_active": "05-Apr to 06-Apr-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 4,
+      "points": 630.0,
+      "weighted": 72.5,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 1,
+      "points": 140.0,
+      "weighted": 15.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 5,
+      "wins": 0,
+      "podiums": 2,
+      "top5": 4,
+      "top10": 5,
+      "top20": 5,
+      "pdga_points": 770.0,
+      "tour_weighted_points": 87.5,
+      "avg_finish": 4.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "all": {
+      "events": 5,
+      "wins": 0,
+      "podiums": 2,
+      "top5": 4,
+      "top10": 5,
+      "top20": 5,
+      "pdga_points": 770.0,
+      "tour_weighted_points": 87.5,
+      "avg_finish": 4.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MPO": 5
+  },
+  "results": [
+    {
+      "event_id": "101188",
+      "title": "CDGT Championship Kunshan - China Disc Golf Course Tour Event #1",
+      "dates": "05-Apr to 06-Apr-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Kunshan, Jiangsu Sheng, China",
+      "place": 2,
+      "pdga_points": 140.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "103363",
+      "title": "2026 Kunshan-Taiwan Disc Golf Invitational Tournament (Open & Amateur Divisions)",
+      "dates": "03-May to 04-May-2026",
+      "year": "2026",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Kunshan, Jiangsu Sheng, China",
+      "place": 4,
+      "pdga_points": 157.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "97308",
+      "title": "Asia-Pacific Disc Golf Open(Yinzhou, Ningbo)",
+      "dates": "22-Nov to 23-Nov-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Ningbo, Zhejiang Sheng, China",
+      "place": 7,
+      "pdga_points": 112.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "97899",
+      "title": "2025 Shaoxing China International Disc Golf Open",
+      "dates": "13-Dec to 14-Dec-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Shaoxing, Zhejiang Sheng, China",
+      "place": 3,
+      "pdga_points": 195.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 27.5
+    },
+    {
+      "event_id": "96657",
+      "title": "Chain Open - presented by Innova Discs",
+      "dates": "01-Nov to 02-Nov-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Zhenjiang, Jiangsu Sheng, China",
+      "place": 4,
+      "pdga_points": 165.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 17.5
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 2,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 2,
+      "pdga_points": 297.5,
+      "avg_finish": 3.0
+    },
+    {
+      "year": "2025",
+      "events": 3,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 3,
+      "pdga_points": 472.5,
+      "avg_finish": 4.67
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2024-12-10",
+      "rating": 952,
+      "rounds": 65
+    },
+    {
+      "date": "2025-01-14",
+      "rating": 948,
+      "rounds": 69
+    },
+    {
+      "date": "2025-02-11",
+      "rating": 949,
+      "rounds": 72
+    },
+    {
+      "date": "2025-03-11",
+      "rating": 952,
+      "rounds": 72
+    },
+    {
+      "date": "2025-04-08",
+      "rating": 953,
+      "rounds": 69
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 957,
+      "rounds": 75
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 959,
+      "rounds": 74
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 965,
+      "rounds": 74
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 965,
+      "rounds": 70
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 965,
+      "rounds": 70
+    },
+    {
+      "date": "2025-12-09",
+      "rating": 964,
+      "rounds": 55
+    },
+    {
+      "date": "2026-01-13",
+      "rating": 962,
+      "rounds": 53
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 963,
+      "rounds": 42
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 966,
+      "rounds": 34
+    },
+    {
+      "date": "2026-07-14",
+      "rating": 967,
+      "rounds": 30
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 136.7,
+    "season_avg": 180.0,
+    "delta_pct": -24.1
+  },
+  "pdga_url": "https://www.pdga.com/player/249070"
+}

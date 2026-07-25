@@ -1,0 +1,612 @@
+{
+  "pdga": 190653,
+  "name": "Kathy Zumwalt #190653",
+  "country": "Singapore",
+  "country_key": "SG",
+  "flag": "\ud83c\uddf8\ud83c\uddec",
+  "rating": 854,
+  "classification": "Amateur",
+  "city": "Singapore",
+  "nationality": "United States",
+  "division": "FPO",
+  "primary_class": "open_fpo",
+  "pdga_points": 191.5,
+  "tour_weighted_points": 259.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 13,
+  "wins": 9,
+  "podiums": 12,
+  "top5": 12,
+  "top10": 13,
+  "top20": 13,
+  "avg_finish": 1.62,
+  "win_rate": 0.692,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 839,
+  "weighted_rank": 241,
+  "country_rank": 24,
+  "am_events": 9,
+  "am_wins": 6,
+  "am_podiums": 8,
+  "am_top10": 9,
+  "am_pdga_points": 146.5,
+  "last_active": "04-Apr-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 31.5,
+      "weighted": 50.0,
+      "wins": 1
+    },
+    "c_tier": {
+      "events": 12,
+      "points": 160.0,
+      "weighted": 209.0,
+      "wins": 8
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 4,
+      "wins": 3,
+      "podiums": 4,
+      "top5": 4,
+      "top10": 4,
+      "top20": 4,
+      "pdga_points": 45.0,
+      "tour_weighted_points": 75.0,
+      "avg_finish": 1.25,
+      "win_rate": 0.75,
+      "top10_rate": 1.0
+    },
+    "amateur": {
+      "events": 9,
+      "wins": 6,
+      "podiums": 8,
+      "top5": 8,
+      "top10": 9,
+      "top20": 9,
+      "pdga_points": 146.5,
+      "tour_weighted_points": 184.0,
+      "avg_finish": 1.78,
+      "win_rate": 0.667,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 13,
+      "wins": 9,
+      "podiums": 12,
+      "top5": 12,
+      "top10": 13,
+      "top20": 13,
+      "pdga_points": 191.5,
+      "tour_weighted_points": 259.0,
+      "avg_finish": 1.62,
+      "win_rate": 0.692,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA1": 1,
+    "FA1": 5,
+    "FPO": 4,
+    "MA2": 3
+  },
+  "results": [
+    {
+      "event_id": "103638",
+      "title": "2026 WGE: Power-Putt Girls",
+      "dates": "24-May-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 1,
+      "pdga_points": 6.0,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "97674",
+      "title": "2026 Singapore Sling",
+      "dates": "17-Jan to 18-Jan-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 1,
+      "pdga_points": 9.0,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "102149",
+      "title": "2026 Dover Dash",
+      "dates": "04-Apr-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore,  , Singapore",
+      "place": 6,
+      "pdga_points": 25.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "94658",
+      "title": "MALAYSIA OPEN 2025",
+      "dates": "30-Aug to 31-Aug-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "JOHOR BAHRU, Johor, Malaysia",
+      "place": 1,
+      "pdga_points": 18.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "90385",
+      "title": "Dover Dash 2025",
+      "dates": "22-Mar-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 1,
+      "pdga_points": 6.0,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "95233",
+      "title": "2025 Singapore Disc Golf Championships",
+      "dates": "16-Aug to 17-Aug-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 2,
+      "pdga_points": 8.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "74304",
+      "title": "SE Asia Disc Golf Championship 2024",
+      "dates": "26-Jan to 28-Jan-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 1,
+      "pdga_points": 31.5,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 50.0
+    },
+    {
+      "event_id": "85079",
+      "title": "2024 Singapore Disc Golf Championships",
+      "dates": "21-Sep to 22-Sep-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 1,
+      "pdga_points": 32.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "78012",
+      "title": "2024 Tanglin Hill Safari",
+      "dates": "16-Mar-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore, AP, Singapore",
+      "place": 2,
+      "pdga_points": 20.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "75766",
+      "title": "Singapore Sling 2024",
+      "dates": "13-Jan-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 1,
+      "pdga_points": 9.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "78949",
+      "title": "4th Annual Johor State Disc Golf Championship",
+      "dates": "13-Apr-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 1,
+      "pdga_points": 9.0,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "78954",
+      "title": "6th Annual Malaysia National Disc Golf Championship",
+      "dates": "03-Aug to 04-Aug-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 2,
+      "pdga_points": 15.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "73950",
+      "title": "2023 Singapore Disc Golf Championships",
+      "dates": "23-Sep to 24-Sep-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 1,
+      "pdga_points": 3.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "103638",
+      "title": "2026 WGE: Power-Putt Girls",
+      "dates": "24-May-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 1,
+      "pdga_points": 6.0,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "97674",
+      "title": "2026 Singapore Sling",
+      "dates": "17-Jan to 18-Jan-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 1,
+      "pdga_points": 9.0,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "94658",
+      "title": "MALAYSIA OPEN 2025",
+      "dates": "30-Aug to 31-Aug-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "JOHOR BAHRU, Johor, Malaysia",
+      "place": 1,
+      "pdga_points": 18.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "90385",
+      "title": "Dover Dash 2025",
+      "dates": "22-Mar-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 1,
+      "pdga_points": 6.0,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "74304",
+      "title": "SE Asia Disc Golf Championship 2024",
+      "dates": "26-Jan to 28-Jan-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 1,
+      "pdga_points": 31.5,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 50.0
+    },
+    {
+      "event_id": "85079",
+      "title": "2024 Singapore Disc Golf Championships",
+      "dates": "21-Sep to 22-Sep-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 1,
+      "pdga_points": 32.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "75766",
+      "title": "Singapore Sling 2024",
+      "dates": "13-Jan-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 1,
+      "pdga_points": 9.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "78949",
+      "title": "4th Annual Johor State Disc Golf Championship",
+      "dates": "13-Apr-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 1,
+      "pdga_points": 9.0,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "73950",
+      "title": "2023 Singapore Disc Golf Championships",
+      "dates": "23-Sep to 24-Sep-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 1,
+      "pdga_points": 3.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 3,
+      "wins": 2,
+      "podiums": 2,
+      "top10": 3,
+      "pdga_points": 40.0,
+      "avg_finish": 2.67
+    },
+    {
+      "year": "2025",
+      "events": 3,
+      "wins": 2,
+      "podiums": 3,
+      "top10": 3,
+      "pdga_points": 32.0,
+      "avg_finish": 1.33
+    },
+    {
+      "year": "2024",
+      "events": 6,
+      "wins": 4,
+      "podiums": 6,
+      "top10": 6,
+      "pdga_points": 116.5,
+      "avg_finish": 1.33
+    },
+    {
+      "year": "2023",
+      "events": 1,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 3.0,
+      "avg_finish": 1.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2023-05-09",
+      "rating": 857,
+      "rounds": 15
+    },
+    {
+      "date": "2023-06-13",
+      "rating": 848,
+      "rounds": 15
+    },
+    {
+      "date": "2023-10-10",
+      "rating": 848,
+      "rounds": 16
+    },
+    {
+      "date": "2024-02-13",
+      "rating": 844,
+      "rounds": 18
+    },
+    {
+      "date": "2024-04-09",
+      "rating": 841,
+      "rounds": 18
+    },
+    {
+      "date": "2024-05-14",
+      "rating": 841,
+      "rounds": 18
+    },
+    {
+      "date": "2024-08-13",
+      "rating": 840,
+      "rounds": 13
+    },
+    {
+      "date": "2024-10-08",
+      "rating": 841,
+      "rounds": 15
+    },
+    {
+      "date": "2025-04-08",
+      "rating": 837,
+      "rounds": 8
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 842,
+      "rounds": 8
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 857,
+      "rounds": 10
+    },
+    {
+      "date": "2025-12-09",
+      "rating": 835,
+      "rounds": 12
+    },
+    {
+      "date": "2026-02-10",
+      "rating": 852,
+      "rounds": 17
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 854,
+      "rounds": 17
+    },
+    {
+      "date": "2026-06-09",
+      "rating": 854,
+      "rounds": 19
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 13.3,
+    "season_avg": 15.2,
+    "delta_pct": -12.0
+  },
+  "pdga_url": "https://www.pdga.com/player/190653"
+}

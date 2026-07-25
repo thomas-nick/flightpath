@@ -1,0 +1,250 @@
+{
+  "pdga": 70480,
+  "name": "Jason Plunk #70480",
+  "country": "United States",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 956,
+  "classification": "Professional",
+  "city": "Pebble Beach",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 605.0,
+  "tour_weighted_points": 115.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 4,
+  "wins": 2,
+  "podiums": 4,
+  "top5": 4,
+  "top10": 4,
+  "top20": 4,
+  "avg_finish": 1.5,
+  "win_rate": 0.5,
+  "top10_rate": 1.0,
+  "cash_earned": 758.0,
+  "pdga_rank": 404,
+  "weighted_rank": 559,
+  "country_rank": null,
+  "am_events": 0,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 0,
+  "am_pdga_points": 0.0,
+  "last_active": "19-May-2019",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 2,
+      "points": 450.0,
+      "weighted": 75.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 2,
+      "points": 155.0,
+      "weighted": 40.0,
+      "wins": 2
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 4,
+      "wins": 2,
+      "podiums": 4,
+      "top5": 4,
+      "top10": 4,
+      "top20": 4,
+      "pdga_points": 605.0,
+      "tour_weighted_points": 115.0,
+      "avg_finish": 1.5,
+      "win_rate": 0.5,
+      "top10_rate": 1.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "all": {
+      "events": 4,
+      "wins": 2,
+      "podiums": 4,
+      "top5": 4,
+      "top10": 4,
+      "top20": 4,
+      "pdga_points": 605.0,
+      "tour_weighted_points": 115.0,
+      "avg_finish": 1.5,
+      "win_rate": 0.5,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MPO": 4
+  },
+  "results": [
+    {
+      "event_id": "40977",
+      "title": "Korea Open Championship",
+      "dates": "28-Sep to 29-Sep-2019",
+      "year": "2019",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Gyeongju Nasandeul Park, Gyeongsangbuk-do, South Korea",
+      "place": 2,
+      "pdga_points": 112.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$291",
+      "weighted_points": 37.5
+    },
+    {
+      "event_id": "40827",
+      "title": "Episode 1 - The Phantom Turtle Presented by Discraft",
+      "dates": "19-May-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Gimhae/MIryang, Gyeongsangnam-do, South Korea",
+      "place": 1,
+      "pdga_points": 85.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$160",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "41267",
+      "title": "Episode 2 - Attack of The Turtles presented by Discraft",
+      "dates": "09-Jun-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Gimhae/MIryang, Gyeongsangnam-do, South Korea",
+      "place": 1,
+      "pdga_points": 70.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$145",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "41245",
+      "title": "The 7th Asia Championship",
+      "dates": "03-Aug to 04-Aug-2019",
+      "year": "2019",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Fukuoka, Fukuoka, Japan",
+      "place": 2,
+      "pdga_points": 337.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$162",
+      "weighted_points": 37.5
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "40827",
+      "title": "Episode 1 - The Phantom Turtle Presented by Discraft",
+      "dates": "19-May-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Gimhae/MIryang, Gyeongsangnam-do, South Korea",
+      "place": 1,
+      "pdga_points": 85.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$160",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "41267",
+      "title": "Episode 2 - Attack of The Turtles presented by Discraft",
+      "dates": "09-Jun-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Gimhae/MIryang, Gyeongsangnam-do, South Korea",
+      "place": 1,
+      "pdga_points": 70.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$145",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2019",
+      "events": 4,
+      "wins": 2,
+      "podiums": 4,
+      "top10": 4,
+      "pdga_points": 605.0,
+      "avg_finish": 1.5
+    }
+  ],
+  "rating_history": [],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 89.2,
+    "season_avg": 337.5,
+    "delta_pct": -73.6
+  },
+  "pdga_url": "https://www.pdga.com/player/70480"
+}

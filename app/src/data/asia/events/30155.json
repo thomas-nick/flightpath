@@ -1,0 +1,53 @@
+{
+  "event_id": "30155",
+  "title": "The 5th Maiko Open - 1 Day Sunday",
+  "location": "Maiko, Japan",
+  "dates": "12-Jun-2016",
+  "year": "2016",
+  "tier": "B",
+  "level": "b_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 2,
+  "avg_mpo_rating": 943.0,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "count": 2
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 8203,
+      "name": "Masaki Aoki",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 1,
+      "pdga_points": 22.5,
+      "rating": 926,
+      "prize": "$18",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 8071,
+      "name": "Jun Mochizuki",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 2,
+      "pdga_points": 15.0,
+      "rating": 960,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    }
+  ],
+  "fpo": [],
+  "amateur": [],
+  "divisions": [
+    "MPO"
+  ]
+}

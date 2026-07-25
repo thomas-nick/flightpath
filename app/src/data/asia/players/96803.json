@@ -1,0 +1,360 @@
+{
+  "pdga": 96803,
+  "name": "Jungho Song #96803",
+  "country": "South Korea",
+  "country_key": "KR",
+  "flag": "\ud83c\uddf0\ud83c\uddf7",
+  "rating": 903,
+  "classification": "Professional",
+  "city": "Daegu",
+  "nationality": "",
+  "division": "MA1",
+  "primary_class": "amateur",
+  "pdga_points": 360.0,
+  "tour_weighted_points": 101.5,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 7,
+  "wins": 0,
+  "podiums": 5,
+  "top5": 5,
+  "top10": 7,
+  "top20": 7,
+  "avg_finish": 4.0,
+  "win_rate": 0.0,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 573,
+  "weighted_rank": 613,
+  "country_rank": 31,
+  "am_events": 7,
+  "am_wins": 0,
+  "am_podiums": 5,
+  "am_top10": 7,
+  "am_pdga_points": 360.0,
+  "last_active": "30-Apr-2023",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 75.0,
+      "weighted": 37.5,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 6,
+      "points": 285.0,
+      "weighted": 64.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 7,
+      "wins": 0,
+      "podiums": 5,
+      "top5": 5,
+      "top10": 7,
+      "top20": 7,
+      "pdga_points": 360.0,
+      "tour_weighted_points": 101.5,
+      "avg_finish": 4.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 7,
+      "wins": 0,
+      "podiums": 5,
+      "top5": 5,
+      "top10": 7,
+      "top20": 7,
+      "pdga_points": 360.0,
+      "tour_weighted_points": 101.5,
+      "avg_finish": 4.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA1": 6,
+    "MA40": 1
+  },
+  "results": [
+    {
+      "event_id": "68443",
+      "title": "11th Daegu International Open",
+      "dates": "30-Apr-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Daegu, Daegu, South Korea",
+      "place": 2,
+      "pdga_points": 115.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "43199",
+      "title": "Episode 3 - Revenge of The Turtle Presented by Discraft",
+      "dates": "24-Nov-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Gimhae/Miryang, Gyeongsangnam-do, South Korea",
+      "place": 2,
+      "pdga_points": 40.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "40827",
+      "title": "Episode 1 - The Phantom Turtle Presented by Discraft",
+      "dates": "19-May-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Gimhae/MIryang, Gyeongsangnam-do, South Korea",
+      "place": 9,
+      "pdga_points": 10.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "40974",
+      "title": "Korea Masters Pro/Am",
+      "dates": "12-May-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Gyeongju, Gyeongsangbuk-do, South Korea",
+      "place": 2,
+      "pdga_points": 20.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "41267",
+      "title": "Episode 2 - Attack of The Turtles presented by Discraft",
+      "dates": "09-Jun-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Gimhae/MIryang, Gyeongsangnam-do, South Korea",
+      "place": 3,
+      "pdga_points": 35.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "39775",
+      "title": "8th Annual Daegu Open",
+      "dates": "06-Apr to 07-Apr-2019",
+      "year": "2019",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Daegu, Gyeongsangbuk-do, South Korea",
+      "place": 2,
+      "pdga_points": 75.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 37.5
+    },
+    {
+      "event_id": "35612",
+      "title": "7th Daegu International Open",
+      "dates": "28-Apr to 29-Apr-2018",
+      "year": "2018",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Daegu, Daegu, South Korea",
+      "place": 8,
+      "pdga_points": 65.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2023",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 115.0,
+      "avg_finish": 2.0
+    },
+    {
+      "year": "2019",
+      "events": 5,
+      "wins": 0,
+      "podiums": 4,
+      "top10": 5,
+      "pdga_points": 180.0,
+      "avg_finish": 3.6
+    },
+    {
+      "year": "2018",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 65.0,
+      "avg_finish": 8.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2019-07-09",
+      "rating": 851,
+      "rounds": 8
+    },
+    {
+      "date": "2019-12-10",
+      "rating": 863,
+      "rounds": 10
+    },
+    {
+      "date": "2023-05-09",
+      "rating": 868,
+      "rounds": 2
+    },
+    {
+      "date": "2024-02-13",
+      "rating": 850,
+      "rounds": 5
+    },
+    {
+      "date": "2024-06-11",
+      "rating": 859,
+      "rounds": 8
+    },
+    {
+      "date": "2024-11-12",
+      "rating": 863,
+      "rounds": 8
+    },
+    {
+      "date": "2024-12-10",
+      "rating": 874,
+      "rounds": 12
+    },
+    {
+      "date": "2025-04-08",
+      "rating": 888,
+      "rounds": 11
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 901,
+      "rounds": 14
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 902,
+      "rounds": 14
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 909,
+      "rounds": 15
+    },
+    {
+      "date": "2026-02-10",
+      "rating": 910,
+      "rounds": 11
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 902,
+      "rounds": 13
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 910,
+      "rounds": 15
+    },
+    {
+      "date": "2026-07-14",
+      "rating": 903,
+      "rounds": 11
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 55.0,
+    "season_avg": 48.8,
+    "delta_pct": 12.8
+  },
+  "pdga_url": "https://www.pdga.com/player/96803"
+}

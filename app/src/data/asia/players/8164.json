@@ -1,0 +1,370 @@
+{
+  "pdga": 8164,
+  "name": "Akira Ohtaki #8164",
+  "country": "Japan",
+  "country_key": "JP",
+  "flag": "\ud83c\uddef\ud83c\uddf5",
+  "rating": 915,
+  "classification": "Professional",
+  "city": "Yurihonjo-shi",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 652.5,
+  "tour_weighted_points": 48.5,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 6,
+  "wins": 0,
+  "podiums": 0,
+  "top5": 2,
+  "top10": 2,
+  "top20": 5,
+  "avg_finish": 14.83,
+  "win_rate": 0.0,
+  "top10_rate": 0.333,
+  "cash_earned": 16.0,
+  "pdga_rank": 385,
+  "weighted_rank": 943,
+  "country_rank": 140,
+  "am_events": 0,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 0,
+  "am_pdga_points": 0.0,
+  "last_active": "15-Jul to 17-Jul-2023",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 6,
+      "points": 652.5,
+      "weighted": 48.5,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 6,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 2,
+      "top10": 2,
+      "top20": 5,
+      "pdga_points": 652.5,
+      "tour_weighted_points": 48.5,
+      "avg_finish": 14.83,
+      "win_rate": 0.0,
+      "top10_rate": 0.333
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "all": {
+      "events": 6,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 2,
+      "top10": 2,
+      "top20": 5,
+      "pdga_points": 652.5,
+      "tour_weighted_points": 48.5,
+      "avg_finish": 14.83,
+      "win_rate": 0.0,
+      "top10_rate": 0.333
+    }
+  },
+  "division_counts": {
+    "MPO": 6
+  },
+  "results": [
+    {
+      "event_id": "70095",
+      "title": "The 2nd Disc Golf Japan Series",
+      "dates": "15-Jul to 17-Jul-2023",
+      "year": "2023",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Utsunomiya, Tochigi, Japan",
+      "place": 33,
+      "pdga_points": 105.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.5
+    },
+    {
+      "event_id": "41241",
+      "title": "The 21st. Nippon Open",
+      "dates": "25-May to 26-May-2019",
+      "year": "2019",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Sakai, Fukui, Japan",
+      "place": 15,
+      "pdga_points": 90.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "36415",
+      "title": "The 20th Nippon Open",
+      "dates": "26-May to 27-May-2018",
+      "year": "2018",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Fukui City, Fukui, Japan",
+      "place": 14,
+      "pdga_points": 225.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "32251",
+      "title": "The 19th Nippon Open",
+      "dates": "05-May-2017",
+      "year": "2017",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Hirugano, Gifu, Japan",
+      "place": 19,
+      "pdga_points": 97.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$16",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "11159",
+      "title": "Japan Doubles Championships",
+      "dates": "12-Feb to 13-Feb-2011",
+      "year": "2011",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Hitachi, Ibaraki, Japan",
+      "place": 4,
+      "pdga_points": 82.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "10357",
+      "title": "Japan Mixed Doubles Championships",
+      "dates": "06-Feb to 07-Feb-2010",
+      "year": "2010",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Hitachi, Ibaraki, Japan",
+      "place": 4,
+      "pdga_points": 52.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 17.5
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2023",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 105.0,
+      "avg_finish": 33.0
+    },
+    {
+      "year": "2019",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 90.0,
+      "avg_finish": 15.0
+    },
+    {
+      "year": "2018",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 225.0,
+      "avg_finish": 14.0
+    },
+    {
+      "year": "2017",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 97.5,
+      "avg_finish": 19.0
+    },
+    {
+      "year": "2011",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 82.5,
+      "avg_finish": 4.0
+    },
+    {
+      "year": "2010",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 52.5,
+      "avg_finish": 4.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2024-06-11",
+      "rating": 918,
+      "rounds": 26
+    },
+    {
+      "date": "2024-07-09",
+      "rating": 923,
+      "rounds": 25
+    },
+    {
+      "date": "2024-08-13",
+      "rating": 923,
+      "rounds": 25
+    },
+    {
+      "date": "2024-09-10",
+      "rating": 911,
+      "rounds": 21
+    },
+    {
+      "date": "2024-10-08",
+      "rating": 927,
+      "rounds": 18
+    },
+    {
+      "date": "2024-11-12",
+      "rating": 920,
+      "rounds": 19
+    },
+    {
+      "date": "2025-03-11",
+      "rating": 917,
+      "rounds": 21
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 930,
+      "rounds": 21
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 923,
+      "rounds": 21
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 903,
+      "rounds": 22
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 915,
+      "rounds": 24
+    },
+    {
+      "date": "2025-11-11",
+      "rating": 915,
+      "rounds": 25
+    },
+    {
+      "date": "2025-12-09",
+      "rating": 909,
+      "rounds": 25
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 911,
+      "rounds": 27
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 915,
+      "rounds": 27
+    }
+  ],
+  "streak": {
+    "direction": "up",
+    "recent_avg": 140.0,
+    "season_avg": 77.5,
+    "delta_pct": 80.6
+  },
+  "pdga_url": "https://www.pdga.com/player/8164"
+}

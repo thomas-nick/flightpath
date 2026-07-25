@@ -1,0 +1,279 @@
+{
+  "pdga": 303755,
+  "name": "Yingzi Sun #303755",
+  "country": "China",
+  "country_key": "CN",
+  "flag": "\ud83c\udde8\ud83c\uddf3",
+  "rating": 537,
+  "classification": "Amateur",
+  "city": "Beijing",
+  "nationality": "",
+  "division": "FA50",
+  "primary_class": "amateur",
+  "pdga_points": 19.25,
+  "tour_weighted_points": 173.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 5,
+  "wins": 0,
+  "podiums": 2,
+  "top5": 2,
+  "top10": 5,
+  "top20": 5,
+  "avg_finish": 5.8,
+  "win_rate": 0.0,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 1831,
+  "weighted_rank": 395,
+  "country_rank": 278,
+  "am_events": 5,
+  "am_wins": 0,
+  "am_podiums": 2,
+  "am_top10": 5,
+  "am_pdga_points": 19.25,
+  "last_active": "06-Feb to 08-Feb-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 1,
+      "points": 2.25,
+      "weighted": 150.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 4,
+      "points": 17.0,
+      "weighted": 23.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 5,
+      "wins": 0,
+      "podiums": 2,
+      "top5": 2,
+      "top10": 5,
+      "top20": 5,
+      "pdga_points": 19.25,
+      "tour_weighted_points": 173.0,
+      "avg_finish": 5.8,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 5,
+      "wins": 0,
+      "podiums": 2,
+      "top5": 2,
+      "top10": 5,
+      "top20": 5,
+      "pdga_points": 19.25,
+      "tour_weighted_points": 173.0,
+      "avg_finish": 5.8,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "FA50": 3,
+    "FA2": 2
+  },
+  "results": [
+    {
+      "event_id": "103293",
+      "title": "CDGT Championship Beijing - China Disc Golf Course Tour Event #2",
+      "dates": "30-May to 31-May-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Beijing, Beijing Shi, China",
+      "place": 9,
+      "pdga_points": 6.0,
+      "division": "FA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "101178",
+      "title": "Spring of Wenyu River 2026 - \u5317\u4eac\u6e29\u6986\u6cb3\u6625\u5b63\u516c\u5f00\u8d5b2026 - MA2, FA2, MA50, FA50, MJ15",
+      "dates": "07-Mar-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Beijing, Beijing Shi, China",
+      "place": 7,
+      "pdga_points": 1.5,
+      "division": "FA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "97037",
+      "title": "Chiang Mai Open IV - PDGA Asia Tour Event #4",
+      "dates": "06-Feb to 08-Feb-2026",
+      "year": "2026",
+      "tier": "B",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "Chiang Mai, Thailand",
+      "place": 2,
+      "pdga_points": 2.25,
+      "division": "FA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 150.0
+    },
+    {
+      "event_id": "89067",
+      "title": "2025 Autumn Open of Beijing Wenyu River-2025\u5317\u4eac\u6e29\u6986\u6cb3\u79cb\u5b63\u516c\u5f00\u8d5b",
+      "dates": "20-Sep-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Beijing, Beijing Shi, China",
+      "place": 8,
+      "pdga_points": 8.0,
+      "division": "FA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "89000",
+      "title": "2025 Spring Open of Beijing Wenyu River-2025\u5317\u4eac\u6e29\u6986\u6cb3\u6625\u5b63\u516c\u5f00\u8d5b - MA2\\FA2\\MA50\\FA50\\MA60\\FA60\\MA70\\FA70MJ15\\FJ15",
+      "dates": "08-Mar-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Beijing, Beijing Shi, China",
+      "place": 3,
+      "pdga_points": 1.5,
+      "division": "FA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 3,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 3,
+      "pdga_points": 9.75,
+      "avg_finish": 6.0
+    },
+    {
+      "year": "2025",
+      "events": 2,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 2,
+      "pdga_points": 9.5,
+      "avg_finish": 5.5
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2025-03-11",
+      "rating": 387,
+      "rounds": 2
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 461,
+      "rounds": 4
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 479,
+      "rounds": 5
+    },
+    {
+      "date": "2026-01-13",
+      "rating": 497,
+      "rounds": 7
+    },
+    {
+      "date": "2026-02-10",
+      "rating": 496,
+      "rounds": 10
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 517,
+      "rounds": 11
+    },
+    {
+      "date": "2026-06-09",
+      "rating": 537,
+      "rounds": 11
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 3.2,
+    "season_avg": 4.8,
+    "delta_pct": -31.6
+  },
+  "pdga_url": "https://www.pdga.com/player/303755"
+}

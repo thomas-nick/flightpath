@@ -1,0 +1,367 @@
+{
+  "pdga": 170285,
+  "name": "Rob Decker #170285",
+  "country": "United States",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 872,
+  "classification": "Amateur",
+  "city": "Kamuela",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 113.0,
+  "tour_weighted_points": 122.1,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 8,
+  "wins": 0,
+  "podiums": 2,
+  "top5": 6,
+  "top10": 7,
+  "top20": 8,
+  "avg_finish": 5.0,
+  "win_rate": 0.0,
+  "top10_rate": 0.875,
+  "cash_earned": 0.0,
+  "pdga_rank": 1103,
+  "weighted_rank": 530,
+  "country_rank": null,
+  "am_events": 7,
+  "am_wins": 0,
+  "am_podiums": 2,
+  "am_top10": 6,
+  "am_pdga_points": 108.0,
+  "last_active": "27-Jan to 29-Jan-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 1,
+      "points": 18.0,
+      "weighted": 40.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 30.0,
+      "weighted": 37.5,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 6,
+      "points": 65.0,
+      "weighted": 44.6,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 1,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 5.0,
+      "tour_weighted_points": 7.0,
+      "avg_finish": 5.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 7,
+      "wins": 0,
+      "podiums": 2,
+      "top5": 5,
+      "top10": 6,
+      "top20": 7,
+      "pdga_points": 108.0,
+      "tour_weighted_points": 115.1,
+      "avg_finish": 5.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.857
+    },
+    "all": {
+      "events": 8,
+      "wins": 0,
+      "podiums": 2,
+      "top5": 6,
+      "top10": 7,
+      "top20": 8,
+      "pdga_points": 113.0,
+      "tour_weighted_points": 122.1,
+      "avg_finish": 5.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.875
+    }
+  },
+  "division_counts": {
+    "MA60": 5,
+    "MA50": 2,
+    "MPO": 1
+  },
+  "results": [
+    {
+      "event_id": "95844",
+      "title": "Samui Swine Classic XIII - Ams Presented by Latitude64 - PDGA Asia Tour event #3",
+      "dates": "27-Jan to 29-Jan-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "Koh Samui, Thailand",
+      "place": 7,
+      "pdga_points": 18.0,
+      "division": "MA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 40.0
+    },
+    {
+      "event_id": "97979",
+      "title": "Samui Winter Warm Up",
+      "dates": "17-Jan-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh samui, New York, Thailand",
+      "place": 4,
+      "pdga_points": 6.0,
+      "division": "MA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "101735",
+      "title": "Freedom Flight Open",
+      "dates": "09-May-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, New York, Thailand",
+      "place": 5,
+      "pdga_points": 5.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "84698",
+      "title": "Samui Swine Classic XII - MA1, MA2, MA3, MA40, MA50, MA60, FA1 Presented by Latitude 64",
+      "dates": "28-Jan to 30-Jan-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 2,
+      "pdga_points": 26.0,
+      "division": "MA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "87260",
+      "title": "Samui Winter Warm Up II",
+      "dates": "19-Jan-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 4,
+      "pdga_points": 4.0,
+      "division": "MA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "86211",
+      "title": "3rd Annual Chiang Mai Open",
+      "dates": "07-Feb to 09-Feb-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "San Kamphaeng, Thailand",
+      "place": 11,
+      "pdga_points": 12.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "95658",
+      "title": "Coco-breeze 3 - gone with the wind",
+      "dates": "06-Dec to 07-Dec-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Pattaya, Chonburi, Thailand",
+      "place": 5,
+      "pdga_points": 12.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "73676",
+      "title": "Samui Swine Classic XI - MA3, MA2, MA40, MA50, MA60",
+      "dates": "30-Jan to 01-Feb-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 2,
+      "pdga_points": 30.0,
+      "division": "MA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 37.5
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 3,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 3,
+      "pdga_points": 29.0,
+      "avg_finish": 5.33
+    },
+    {
+      "year": "2025",
+      "events": 4,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 3,
+      "pdga_points": 54.0,
+      "avg_finish": 5.5
+    },
+    {
+      "year": "2024",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 30.0,
+      "avg_finish": 2.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2021-07-13",
+      "rating": 800,
+      "rounds": 3
+    },
+    {
+      "date": "2021-12-14",
+      "rating": 819,
+      "rounds": 6
+    },
+    {
+      "date": "2022-07-12",
+      "rating": 840,
+      "rounds": 8
+    },
+    {
+      "date": "2022-09-13",
+      "rating": 858,
+      "rounds": 9
+    },
+    {
+      "date": "2022-11-08",
+      "rating": 856,
+      "rounds": 11
+    },
+    {
+      "date": "2023-02-14",
+      "rating": 866,
+      "rounds": 11
+    },
+    {
+      "date": "2024-02-13",
+      "rating": 867,
+      "rounds": 9
+    },
+    {
+      "date": "2025-02-11",
+      "rating": 846,
+      "rounds": 10
+    },
+    {
+      "date": "2025-03-11",
+      "rating": 846,
+      "rounds": 10
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 858,
+      "rounds": 12
+    },
+    {
+      "date": "2025-12-09",
+      "rating": 856,
+      "rounds": 14
+    },
+    {
+      "date": "2026-02-10",
+      "rating": 862,
+      "rounds": 15
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 872,
+      "rounds": 14
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 9.7,
+    "season_avg": 16.8,
+    "delta_pct": -42.5
+  },
+  "pdga_url": "https://www.pdga.com/player/170285"
+}

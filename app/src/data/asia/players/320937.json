@@ -1,0 +1,262 @@
+{
+  "pdga": 320937,
+  "name": "Edgardo Jay Montisor #320937",
+  "country": "Philippines",
+  "country_key": "PH",
+  "flag": "\ud83c\uddf5\ud83c\udded",
+  "rating": 820,
+  "classification": "Amateur",
+  "city": "Kabacan",
+  "nationality": "",
+  "division": "MA1",
+  "primary_class": "amateur",
+  "pdga_points": 161.0,
+  "tour_weighted_points": 55.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 4,
+  "wins": 1,
+  "podiums": 2,
+  "top5": 2,
+  "top10": 3,
+  "top20": 4,
+  "avg_finish": 5.5,
+  "win_rate": 0.25,
+  "top10_rate": 0.75,
+  "cash_earned": 0.0,
+  "pdga_rank": 925,
+  "weighted_rank": 884,
+  "country_rank": 32,
+  "am_events": 4,
+  "am_wins": 1,
+  "am_podiums": 2,
+  "am_top10": 3,
+  "am_pdga_points": 161.0,
+  "last_active": "27-Feb to 01-Mar-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 1,
+      "points": 8.0,
+      "weighted": 16.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 3,
+      "points": 153.0,
+      "weighted": 39.0,
+      "wins": 1
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 4,
+      "wins": 1,
+      "podiums": 2,
+      "top5": 2,
+      "top10": 3,
+      "top20": 4,
+      "pdga_points": 161.0,
+      "tour_weighted_points": 55.0,
+      "avg_finish": 5.5,
+      "win_rate": 0.25,
+      "top10_rate": 0.75
+    },
+    "all": {
+      "events": 4,
+      "wins": 1,
+      "podiums": 2,
+      "top5": 2,
+      "top10": 3,
+      "top20": 4,
+      "pdga_points": 161.0,
+      "tour_weighted_points": 55.0,
+      "avg_finish": 5.5,
+      "win_rate": 0.25,
+      "top10_rate": 0.75
+    }
+  },
+  "division_counts": {
+    "MA2": 1,
+    "MA1": 2,
+    "MA4": 1
+  },
+  "results": [
+    {
+      "event_id": "102331",
+      "title": "USM Discgolf Community Tournament",
+      "dates": "27-Mar to 28-Mar-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "KABACAN, Cotabato, Philippines",
+      "place": 2,
+      "pdga_points": 50.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "97272",
+      "title": "Lipad Pilipinas IV - PDGA Asia Tour #5 presented by Province of Tarlac",
+      "dates": "27-Feb to 01-Mar-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "San Jose, Tarlac, Philippines",
+      "place": 12,
+      "pdga_points": 8.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 16.0
+    },
+    {
+      "event_id": "99288",
+      "title": "USM First Flight Inagural Disc Golf Tournament",
+      "dates": "24-Jan-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Kabacan, Cotabato, Philippines",
+      "place": 1,
+      "pdga_points": 78.0,
+      "division": "MA4",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "104201",
+      "title": "ONE USM Tournament + WGE Event",
+      "dates": "23-May to 24-May-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Kabacan, Cotabato, Philippines",
+      "place": 7,
+      "pdga_points": 25.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "99288",
+      "title": "USM First Flight Inagural Disc Golf Tournament",
+      "dates": "24-Jan-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Kabacan, Cotabato, Philippines",
+      "place": 1,
+      "pdga_points": 78.0,
+      "division": "MA4",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 4,
+      "wins": 1,
+      "podiums": 2,
+      "top10": 3,
+      "pdga_points": 161.0,
+      "avg_finish": 5.5
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2026-02-10",
+      "rating": 852,
+      "rounds": 1
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 797,
+      "rounds": 4
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 811,
+      "rounds": 6
+    },
+    {
+      "date": "2026-06-09",
+      "rating": 819,
+      "rounds": 8
+    },
+    {
+      "date": "2026-07-14",
+      "rating": 820,
+      "rounds": 14
+    }
+  ],
+  "streak": {
+    "direction": "up",
+    "recent_avg": 45.3,
+    "season_avg": 25.0,
+    "delta_pct": 81.3
+  },
+  "pdga_url": "https://www.pdga.com/player/320937"
+}

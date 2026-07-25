@@ -1,0 +1,360 @@
+{
+  "pdga": 270444,
+  "name": "Saiphin Saengsala #270444",
+  "country": "United States",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 684,
+  "classification": "Amateur",
+  "city": "Chino",
+  "nationality": "",
+  "division": "FA2",
+  "primary_class": "amateur",
+  "pdga_points": 28.0,
+  "tour_weighted_points": 47.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 7,
+  "wins": 0,
+  "podiums": 1,
+  "top5": 5,
+  "top10": 7,
+  "top20": 7,
+  "avg_finish": 4.86,
+  "win_rate": 0.0,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 1704,
+  "weighted_rank": 957,
+  "country_rank": null,
+  "am_events": 7,
+  "am_wins": 0,
+  "am_podiums": 1,
+  "am_top10": 7,
+  "am_pdga_points": 28.0,
+  "last_active": "07-Feb to 09-Feb-2025",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 7,
+      "points": 28.0,
+      "weighted": 47.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 7,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 5,
+      "top10": 7,
+      "top20": 7,
+      "pdga_points": 28.0,
+      "tour_weighted_points": 47.0,
+      "avg_finish": 4.86,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 7,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 5,
+      "top10": 7,
+      "top20": 7,
+      "pdga_points": 28.0,
+      "tour_weighted_points": 47.0,
+      "avg_finish": 4.86,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "FA2": 4,
+    "FA1": 3
+  },
+  "results": [
+    {
+      "event_id": "86211",
+      "title": "3rd Annual Chiang Mai Open",
+      "dates": "07-Feb to 09-Feb-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "San Kamphaeng, Thailand",
+      "place": 7,
+      "pdga_points": 2.0,
+      "division": "FA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "85570",
+      "title": "Festival of Flight II",
+      "dates": "16-Nov to 17-Nov-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Chiang Mai, Thailand",
+      "place": 5,
+      "pdga_points": 2.0,
+      "division": "FA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "85411",
+      "title": "Jungle Jam",
+      "dates": "13-Oct-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Chiang Mai, Thailand",
+      "place": 5,
+      "pdga_points": 3.0,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "74984",
+      "title": "Chiang Mai Open",
+      "dates": "09-Feb to 11-Feb-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Chiang Mai, Thailand",
+      "place": 3,
+      "pdga_points": 2.0,
+      "division": "FA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "84942",
+      "title": "Chains on Fire 2",
+      "dates": "07-Sep-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Chiang Mai, Thailand",
+      "place": 4,
+      "pdga_points": 3.0,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "76180",
+      "title": "3rd Annual Winter Cup",
+      "dates": "23-Dec-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Chiang Mai, Chiang Mai, Thailand",
+      "place": 6,
+      "pdga_points": 12.0,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "73650",
+      "title": "Festival of Flight I",
+      "dates": "18-Nov to 19-Nov-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Chiang Mai, Chiang Mai, Thailand",
+      "place": 4,
+      "pdga_points": 4.0,
+      "division": "FA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2025",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 2.0,
+      "avg_finish": 7.0
+    },
+    {
+      "year": "2024",
+      "events": 4,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 4,
+      "pdga_points": 10.0,
+      "avg_finish": 4.25
+    },
+    {
+      "year": "2023",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 2,
+      "pdga_points": 16.0,
+      "avg_finish": 5.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2024-09-10",
+      "rating": 620,
+      "rounds": 8
+    },
+    {
+      "date": "2024-11-12",
+      "rating": 654,
+      "rounds": 10
+    },
+    {
+      "date": "2024-12-10",
+      "rating": 651,
+      "rounds": 12
+    },
+    {
+      "date": "2025-02-11",
+      "rating": 639,
+      "rounds": 12
+    },
+    {
+      "date": "2025-03-11",
+      "rating": 650,
+      "rounds": 11
+    },
+    {
+      "date": "2025-04-08",
+      "rating": 637,
+      "rounds": 13
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 632,
+      "rounds": 16
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 631,
+      "rounds": 18
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 631,
+      "rounds": 20
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 639,
+      "rounds": 23
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 639,
+      "rounds": 24
+    },
+    {
+      "date": "2025-11-11",
+      "rating": 642,
+      "rounds": 25
+    },
+    {
+      "date": "2026-01-13",
+      "rating": 642,
+      "rounds": 26
+    },
+    {
+      "date": "2026-02-10",
+      "rating": 644,
+      "rounds": 28
+    },
+    {
+      "date": "2026-07-14",
+      "rating": 684,
+      "rounds": 19
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 2.3,
+    "season_avg": 5.2,
+    "delta_pct": -55.6
+  },
+  "pdga_url": "https://www.pdga.com/player/270444"
+}

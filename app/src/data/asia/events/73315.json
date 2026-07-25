@@ -1,0 +1,152 @@
+{
+  "event_id": "73315",
+  "title": "Boxed Out 2023 Supported by Innova",
+  "location": "Siem Reap, Cambodia",
+  "dates": "26-Dec-2023",
+  "year": "2023",
+  "tier": "C",
+  "level": "c_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 9,
+  "avg_mpo_rating": 861.6,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddf0\ud83c\udded",
+      "country": "Cambodia",
+      "count": 5
+    },
+    {
+      "flag": "\ud83c\uddfb\ud83c\uddf3",
+      "country": "Vietnam",
+      "count": 1
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 99277,
+      "name": "Jacob Neff",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 1,
+      "pdga_points": 25.0,
+      "rating": 891,
+      "prize": "$50",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 153623,
+      "name": "Greg James",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 2,
+      "pdga_points": 20.0,
+      "rating": 904,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 125037,
+      "name": "Pich Ban",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 3,
+      "pdga_points": 15.0,
+      "rating": 837,
+      "prize": "",
+      "flag": "\ud83c\uddf0\ud83c\udded",
+      "country": "Cambodia",
+      "country_key": "KH"
+    },
+    {
+      "pdga": 16472,
+      "name": "Greg Hill",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 4,
+      "pdga_points": 10.0,
+      "rating": 851,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 153943,
+      "name": "Jared Cahners",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 5,
+      "pdga_points": 5.0,
+      "rating": 825,
+      "prize": "",
+      "flag": "\ud83c\uddf0\ud83c\udded",
+      "country": "Cambodia",
+      "country_key": "KH"
+    }
+  ],
+  "fpo": [],
+  "amateur": [
+    {
+      "pdga": 195350,
+      "name": "Dave King",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 15.0,
+      "rating": 860,
+      "prize": "",
+      "flag": "\ud83c\uddfb\ud83c\uddf3",
+      "country": "Vietnam",
+      "country_key": "VN"
+    },
+    {
+      "pdga": 240808,
+      "name": "Penh Ban",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 10.0,
+      "rating": 793,
+      "prize": "",
+      "flag": "\ud83c\uddf0\ud83c\udded",
+      "country": "Cambodia",
+      "country_key": "KH"
+    },
+    {
+      "pdga": 27524,
+      "name": "Marlin Petersheim",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 3,
+      "pdga_points": 5.0,
+      "rating": 794,
+      "prize": "",
+      "flag": "\ud83c\uddf0\ud83c\udded",
+      "country": "Cambodia",
+      "country_key": "KH"
+    },
+    {
+      "pdga": 129515,
+      "name": "Ben Coxsedge",
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 20.0,
+      "rating": 740,
+      "prize": "",
+      "flag": "\ud83c\uddf0\ud83c\udded",
+      "country": "Cambodia",
+      "country_key": "KH"
+    }
+  ],
+  "divisions": [
+    "MA1",
+    "MA2",
+    "MPO"
+  ]
+}

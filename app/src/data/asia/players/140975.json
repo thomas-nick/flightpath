@@ -1,0 +1,261 @@
+{
+  "pdga": 140975,
+  "name": "Lissandra Britton #140975",
+  "country": "United States",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 769,
+  "classification": "Amateur",
+  "city": "Anderson",
+  "nationality": "",
+  "division": "FA1",
+  "primary_class": "amateur",
+  "pdga_points": 114.0,
+  "tour_weighted_points": 23.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 1,
+  "top5": 1,
+  "top10": 1,
+  "top20": 1,
+  "avg_finish": 33.0,
+  "win_rate": 0.0,
+  "top10_rate": 0.5,
+  "cash_earned": 0.0,
+  "pdga_rank": 1653,
+  "weighted_rank": 1332,
+  "country_rank": null,
+  "am_events": 2,
+  "am_wins": 0,
+  "am_podiums": 1,
+  "am_top10": 1,
+  "am_pdga_points": 114.0,
+  "last_active": "21-Jun to 25-Jun-2022",
+  "by_level": {
+    "major": {
+      "events": 1,
+      "points": 108.0,
+      "weighted": 12.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 1,
+      "points": 6.0,
+      "weighted": 11.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 114.0,
+      "tour_weighted_points": 23.0,
+      "avg_finish": 33.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.5
+    },
+    "all": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 114.0,
+      "tour_weighted_points": 23.0,
+      "avg_finish": 33.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.5
+    }
+  },
+  "division_counts": {
+    "FA1": 2
+  },
+  "results": [
+    {
+      "event_id": "55823",
+      "title": "Wiffs Finale \"Winters Last Hurrah\" (CEP Charity - Rated)",
+      "dates": "27-Mar-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Monrovia, Indiana, United States",
+      "place": 3,
+      "pdga_points": 6.0,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "55453",
+      "title": "2022 PDGA Amateur Disc Golf World Championships presented by Toyota",
+      "dates": "21-Jun to 25-Jun-2022",
+      "year": "2022",
+      "tier": "",
+      "level": "major",
+      "is_asia_tour": false,
+      "location": "Princeton, Indiana, United States",
+      "place": 63,
+      "pdga_points": 108.0,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 12.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2022",
+      "events": 2,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 114.0,
+      "avg_finish": 33.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2020-10-13",
+      "rating": 679,
+      "rounds": 6
+    },
+    {
+      "date": "2020-11-10",
+      "rating": 714,
+      "rounds": 7
+    },
+    {
+      "date": "2021-02-09",
+      "rating": 712,
+      "rounds": 10
+    },
+    {
+      "date": "2021-04-13",
+      "rating": 722,
+      "rounds": 15
+    },
+    {
+      "date": "2021-05-11",
+      "rating": 732,
+      "rounds": 19
+    },
+    {
+      "date": "2021-06-08",
+      "rating": 742,
+      "rounds": 23
+    },
+    {
+      "date": "2021-07-13",
+      "rating": 753,
+      "rounds": 29
+    },
+    {
+      "date": "2021-08-10",
+      "rating": 747,
+      "rounds": 34
+    },
+    {
+      "date": "2021-09-14",
+      "rating": 743,
+      "rounds": 38
+    },
+    {
+      "date": "2021-10-12",
+      "rating": 754,
+      "rounds": 41
+    },
+    {
+      "date": "2021-11-09",
+      "rating": 760,
+      "rounds": 43
+    },
+    {
+      "date": "2022-04-12",
+      "rating": 769,
+      "rounds": 37
+    },
+    {
+      "date": "2022-07-12",
+      "rating": 767,
+      "rounds": 26
+    },
+    {
+      "date": "2024-06-11",
+      "rating": 769,
+      "rounds": 6
+    },
+    {
+      "date": "2024-11-12",
+      "rating": 759,
+      "rounds": 4
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/140975"
+}

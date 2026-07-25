@@ -1,0 +1,135 @@
+{
+  "event_id": "62395",
+  "title": "2022 Suzhou Jiangsu Challenge \uff08\u82cf\u5dde\uff09\u6c5f\u82cf\u6311\u6218\u8d5b\u548c\u5973\u5b50\u5168\u7403\u8d5b\u4e8b + WGE",
+  "location": "Suzhou, Jiangsu Sheng, China",
+  "dates": "07-Aug-2022",
+  "year": "2022",
+  "tier": "C",
+  "level": "c_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 8,
+  "avg_mpo_rating": 834.5,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "count": 6
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 152399,
+      "name": "Yinchu Shen",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 1,
+      "pdga_points": 30.0,
+      "rating": 799,
+      "prize": "$65",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 110420,
+      "name": "Tim Flanders",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 2,
+      "pdga_points": 25.0,
+      "rating": 870,
+      "prize": "$40",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 228951,
+      "name": "Ernie Yanshen",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 4,
+      "pdga_points": 15.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 228942,
+      "name": "Qian Miao",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 5,
+      "pdga_points": 10.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 228240,
+      "name": "Kevin Wang",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 6,
+      "pdga_points": 5.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    }
+  ],
+  "fpo": [
+    {
+      "pdga": 228239,
+      "name": "Yanwen Ma",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 1,
+      "pdga_points": 6.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 152810,
+      "name": "Echo Li",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 2,
+      "pdga_points": 3.0,
+      "rating": 790,
+      "prize": "$35",
+      "flag": "\ud83c\udf10",
+      "country": "New Zealand",
+      "country_key": ""
+    }
+  ],
+  "amateur": [
+    {
+      "pdga": 54204,
+      "name": "Ronald Valle",
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 8.0,
+      "rating": 792,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    }
+  ],
+  "divisions": [
+    "FPO",
+    "MA40",
+    "MPO"
+  ]
+}

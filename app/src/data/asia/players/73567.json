@@ -1,0 +1,286 @@
+{
+  "pdga": 73567,
+  "name": "Samuel Taylor",
+  "country": "India",
+  "country_key": "IN",
+  "flag": "\ud83c\uddee\ud83c\uddf3",
+  "rating": 863,
+  "classification": "Pro",
+  "city": "",
+  "nationality": "",
+  "division": "MA60",
+  "primary_class": "amateur",
+  "pdga_points": 26.0,
+  "tour_weighted_points": 32.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 3,
+  "wins": 0,
+  "podiums": 1,
+  "top5": 2,
+  "top10": 3,
+  "top20": 3,
+  "avg_finish": 5.67,
+  "win_rate": 0.0,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 2716,
+  "weighted_rank": 1127,
+  "country_rank": 959,
+  "am_events": 3,
+  "am_wins": 0,
+  "am_podiums": 1,
+  "am_top10": 3,
+  "am_pdga_points": 26.0,
+  "last_active": "18-Mar-2023",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 18.0,
+      "weighted": 10.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 2,
+      "points": 8.0,
+      "weighted": 22.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 3,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 2,
+      "top10": 3,
+      "top20": 3,
+      "pdga_points": 26.0,
+      "tour_weighted_points": 32.0,
+      "avg_finish": 5.67,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 3,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 2,
+      "top10": 3,
+      "top20": 3,
+      "pdga_points": 26.0,
+      "tour_weighted_points": 32.0,
+      "avg_finish": 5.67,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA60": 3
+  },
+  "results": [
+    {
+      "event_id": "67449",
+      "title": "Walnut Cracker - WIFFS (CEP Charity - Rated)",
+      "dates": "18-Mar-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Greencastle, Indiana, United States",
+      "place": 5,
+      "pdga_points": 4.0,
+      "division": "MA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "61799",
+      "title": "33rd Checkered Flag Open presented by Disc Crazy Am",
+      "dates": "28-Aug-2022",
+      "year": "2022",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Indianapolis , Indiana, United States",
+      "place": 10,
+      "pdga_points": 18.0,
+      "division": "MA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "56568",
+      "title": "WIFFS #17 - The Nashville Chill sponsored by Westside Discs (CEP Charity - Rated)",
+      "dates": "19-Feb-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Nashville, Indiana, United States",
+      "place": 2,
+      "pdga_points": 4.0,
+      "division": "MA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2023",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 4.0,
+      "avg_finish": 5.0
+    },
+    {
+      "year": "2022",
+      "events": 2,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 2,
+      "pdga_points": 22.0,
+      "avg_finish": 6.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2023-04-11",
+      "rating": 848,
+      "rounds": 32
+    },
+    {
+      "date": "2023-05-09",
+      "rating": 853,
+      "rounds": 30
+    },
+    {
+      "date": "2023-08-08",
+      "rating": 857,
+      "rounds": 28
+    },
+    {
+      "date": "2023-09-12",
+      "rating": 855,
+      "rounds": 30
+    },
+    {
+      "date": "2023-10-10",
+      "rating": 847,
+      "rounds": 33
+    },
+    {
+      "date": "2024-06-11",
+      "rating": 848,
+      "rounds": 20
+    },
+    {
+      "date": "2024-08-13",
+      "rating": 835,
+      "rounds": 17
+    },
+    {
+      "date": "2024-10-08",
+      "rating": 846,
+      "rounds": 16
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 847,
+      "rounds": 13
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 842,
+      "rounds": 12
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 852,
+      "rounds": 8
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 851,
+      "rounds": 8
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 848,
+      "rounds": 13
+    },
+    {
+      "date": "2026-06-09",
+      "rating": 849,
+      "rounds": 16
+    },
+    {
+      "date": "2026-07-14",
+      "rating": 851,
+      "rounds": 19
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/73567"
+}

@@ -1,0 +1,245 @@
+{
+  "pdga": 152879,
+  "name": "Branden Fisher",
+  "country": "India",
+  "country_key": "IN",
+  "flag": "\ud83c\uddee\ud83c\uddf3",
+  "rating": 917,
+  "classification": "Pro",
+  "city": "",
+  "nationality": "",
+  "division": "MA1",
+  "primary_class": "amateur",
+  "pdga_points": 1275.0,
+  "tour_weighted_points": 12.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top5": 0,
+  "top10": 0,
+  "top20": 0,
+  "avg_finish": 251.0,
+  "win_rate": 0.0,
+  "top10_rate": 0.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 329,
+  "weighted_rank": 2032,
+  "country_rank": 161,
+  "am_events": 1,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 0,
+  "am_pdga_points": 1275.0,
+  "last_active": "21-Jun to 25-Jun-2022",
+  "by_level": {
+    "major": {
+      "events": 1,
+      "points": 1275.0,
+      "weighted": 12.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 1275.0,
+      "tour_weighted_points": 12.0,
+      "avg_finish": 251.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "all": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 1275.0,
+      "tour_weighted_points": 12.0,
+      "avg_finish": 251.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    }
+  },
+  "division_counts": {
+    "MA1": 1
+  },
+  "results": [
+    {
+      "event_id": "55453",
+      "title": "2022 PDGA Amateur Disc Golf World Championships presented by Toyota",
+      "dates": "21-Jun to 25-Jun-2022",
+      "year": "2022",
+      "tier": "",
+      "level": "major",
+      "is_asia_tour": false,
+      "location": "Princeton, Indiana, United States",
+      "place": 251,
+      "pdga_points": 1275.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 12.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2022",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 1275.0,
+      "avg_finish": 251.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2021-08-10",
+      "rating": 905,
+      "rounds": 23
+    },
+    {
+      "date": "2021-09-14",
+      "rating": 913,
+      "rounds": 27
+    },
+    {
+      "date": "2021-10-12",
+      "rating": 908,
+      "rounds": 32
+    },
+    {
+      "date": "2022-03-08",
+      "rating": 910,
+      "rounds": 32
+    },
+    {
+      "date": "2022-04-12",
+      "rating": 914,
+      "rounds": 33
+    },
+    {
+      "date": "2022-06-14",
+      "rating": 917,
+      "rounds": 34
+    },
+    {
+      "date": "2022-07-12",
+      "rating": 914,
+      "rounds": 31
+    },
+    {
+      "date": "2023-04-11",
+      "rating": 916,
+      "rounds": 11
+    },
+    {
+      "date": "2023-05-09",
+      "rating": 914,
+      "rounds": 15
+    },
+    {
+      "date": "2023-06-13",
+      "rating": 928,
+      "rounds": 16
+    },
+    {
+      "date": "2023-07-11",
+      "rating": 923,
+      "rounds": 18
+    },
+    {
+      "date": "2023-08-08",
+      "rating": 932,
+      "rounds": 18
+    },
+    {
+      "date": "2023-09-12",
+      "rating": 939,
+      "rounds": 21
+    },
+    {
+      "date": "2024-05-14",
+      "rating": 942,
+      "rounds": 20
+    },
+    {
+      "date": "2024-07-09",
+      "rating": 935,
+      "rounds": 10
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/152879"
+}

@@ -1,0 +1,319 @@
+{
+  "pdga": 107274,
+  "name": "Trevor Westlake #107274",
+  "country": "Thailand",
+  "country_key": "TH",
+  "flag": "\ud83c\uddf9\ud83c\udded",
+  "rating": 763,
+  "classification": "Amateur",
+  "city": "Koh Samui",
+  "nationality": "",
+  "division": "MA3",
+  "primary_class": "amateur",
+  "pdga_points": 63.0,
+  "tour_weighted_points": 45.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 7,
+  "wins": 0,
+  "podiums": 0,
+  "top5": 3,
+  "top10": 5,
+  "top20": 7,
+  "avg_finish": 7.71,
+  "win_rate": 0.0,
+  "top10_rate": 0.714,
+  "cash_earned": 0.0,
+  "pdga_rank": 1386,
+  "weighted_rank": 977,
+  "country_rank": 87,
+  "am_events": 7,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 5,
+  "am_pdga_points": 63.0,
+  "last_active": "03-Feb to 04-Feb-2022",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 2,
+      "points": 34.0,
+      "weighted": 16.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 5,
+      "points": 29.0,
+      "weighted": 29.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 7,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 3,
+      "top10": 5,
+      "top20": 7,
+      "pdga_points": 63.0,
+      "tour_weighted_points": 45.0,
+      "avg_finish": 7.71,
+      "win_rate": 0.0,
+      "top10_rate": 0.714
+    },
+    "all": {
+      "events": 7,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 3,
+      "top10": 5,
+      "top20": 7,
+      "pdga_points": 63.0,
+      "tour_weighted_points": 45.0,
+      "avg_finish": 7.71,
+      "win_rate": 0.0,
+      "top10_rate": 0.714
+    }
+  },
+  "division_counts": {
+    "MA3": 3,
+    "MA2": 2,
+    "MA40": 2
+  },
+  "results": [
+    {
+      "event_id": "56991",
+      "title": "Hyzenbrownie \"Destination Open\" 2022",
+      "dates": "29-Jan to 30-Jan-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surrathani, Thailand",
+      "place": 6,
+      "pdga_points": 8.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "55037",
+      "title": "Samui Swine Classic IX - MA3, MA2, FA1, MA40, MA50, MA60",
+      "dates": "03-Feb to 04-Feb-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 6,
+      "pdga_points": 12.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "49604",
+      "title": "Hyzenbrownie \"Hyzenwide Open\" 2021",
+      "dates": "30-Jan to 31-Jan-2021",
+      "year": "2021",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 5,
+      "pdga_points": 0.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "48026",
+      "title": "Samui Swine Classic VIII",
+      "dates": "26-Jan to 27-Jan-2021",
+      "year": "2021",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 5,
+      "pdga_points": 9.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "43198",
+      "title": "Samui Swine Classic VII - Ams - Presented by Innova",
+      "dates": "29-Jan to 30-Jan-2020",
+      "year": "2020",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 14,
+      "pdga_points": 18.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 8.0
+    },
+    {
+      "event_id": "38588",
+      "title": "Samui Swine Classic VI - Presented by Dynamic Discs - Ams",
+      "dates": "06-Feb to 07-Feb-2019",
+      "year": "2019",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 14,
+      "pdga_points": 16.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 8.0
+    },
+    {
+      "event_id": "35672",
+      "title": "Samui Songkran Soaker - Samui Series #2",
+      "dates": "22-Apr-2018",
+      "year": "2018",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 4,
+      "pdga_points": 0.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2022",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 2,
+      "pdga_points": 20.0,
+      "avg_finish": 6.0
+    },
+    {
+      "year": "2021",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 2,
+      "pdga_points": 9.0,
+      "avg_finish": 5.0
+    },
+    {
+      "year": "2020",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 18.0,
+      "avg_finish": 14.0
+    },
+    {
+      "year": "2019",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 16.0,
+      "avg_finish": 14.0
+    },
+    {
+      "year": "2018",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 0.0,
+      "avg_finish": 4.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2018-05-22",
+      "rating": 765,
+      "rounds": 6
+    },
+    {
+      "date": "2019-02-26",
+      "rating": 760,
+      "rounds": 8
+    },
+    {
+      "date": "2019-05-14",
+      "rating": 763,
+      "rounds": 8
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 6.7,
+    "season_avg": 10.8,
+    "delta_pct": -38.0
+  },
+  "pdga_url": "https://www.pdga.com/player/107274"
+}

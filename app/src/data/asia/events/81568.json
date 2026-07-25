@@ -1,0 +1,163 @@
+{
+  "event_id": "81568",
+  "title": "5\u6708\u6df1\u5733\u9ad8\u5c14\u592b\u98de\u76d8\u6708\u4f8b\u8d5b-\u5706\u684c\u98de\u76d8WGE-Presented By XCOM Discs",
+  "location": "Shenzhen, Guangdong Sheng, China",
+  "dates": "18-May-2024",
+  "year": "2024",
+  "tier": "C",
+  "level": "c_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 10,
+  "avg_mpo_rating": null,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "count": 9
+    },
+    {
+      "flag": "\ud83c\uddf9\ud83c\uddfc",
+      "country": "Chinese Taipei",
+      "count": 1
+    }
+  ],
+  "mpo": [],
+  "fpo": [],
+  "amateur": [
+    {
+      "pdga": 280847,
+      "name": "Bella Zhang",
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 18.0,
+      "rating": 790,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 273689,
+      "name": "Xiaohong Tao",
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 15.0,
+      "rating": 558,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 286075,
+      "name": "Yan Zhang",
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "place": 3,
+      "pdga_points": 12.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 273175,
+      "name": "Yiwen Mao",
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "place": 4,
+      "pdga_points": 9.0,
+      "rating": 470,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 275339,
+      "name": "Ding Yufeng",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 45.0,
+      "rating": 736,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 101832,
+      "name": "Jianchao Long",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 40.0,
+      "rating": 887,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 100741,
+      "name": "Felix Wang",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 3,
+      "pdga_points": 35.0,
+      "rating": 832,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 272462,
+      "name": "Qian Yiran",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 4,
+      "pdga_points": 30.0,
+      "rating": 738,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 144129,
+      "name": "Chia Pin Lee",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 6,
+      "pdga_points": 20.0,
+      "rating": 907,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\uddfc",
+      "country": "Chinese Taipei",
+      "country_key": "TW"
+    },
+    {
+      "pdga": 274017,
+      "name": "Gan Zheng",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 8,
+      "pdga_points": 10.0,
+      "rating": 537,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    }
+  ],
+  "divisions": [
+    "FA1",
+    "MA1"
+  ]
+}

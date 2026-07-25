@@ -1,0 +1,456 @@
+{
+  "pdga": 110965,
+  "name": "Didrik Fjeld Elset #110965",
+  "country": "Norway",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 910,
+  "classification": "Professional",
+  "city": "Oslo",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 887.5,
+  "tour_weighted_points": 110.0,
+  "asia_tour_points": 30.0,
+  "asia_tour_events": 1,
+  "events_played": 11,
+  "wins": 2,
+  "podiums": 3,
+  "top5": 6,
+  "top10": 9,
+  "top20": 9,
+  "avg_finish": 8.82,
+  "win_rate": 0.182,
+  "top10_rate": 0.818,
+  "cash_earned": 502.0,
+  "pdga_rank": 282,
+  "weighted_rank": 578,
+  "country_rank": null,
+  "am_events": 0,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 0,
+  "am_pdga_points": 0.0,
+  "last_active": "30-Jan to 01-Feb-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 1,
+      "points": 30.0,
+      "weighted": 6.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 3,
+      "points": 427.5,
+      "weighted": 24.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 7,
+      "points": 430.0,
+      "weighted": 80.0,
+      "wins": 2
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 11,
+      "wins": 2,
+      "podiums": 3,
+      "top5": 6,
+      "top10": 9,
+      "top20": 9,
+      "pdga_points": 887.5,
+      "tour_weighted_points": 110.0,
+      "avg_finish": 8.82,
+      "win_rate": 0.182,
+      "top10_rate": 0.818
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "all": {
+      "events": 11,
+      "wins": 2,
+      "podiums": 3,
+      "top5": 6,
+      "top10": 9,
+      "top20": 9,
+      "pdga_points": 887.5,
+      "tour_weighted_points": 110.0,
+      "avg_finish": 8.82,
+      "win_rate": 0.182,
+      "top10_rate": 0.818
+    }
+  },
+  "division_counts": {
+    "MPO": 11
+  },
+  "results": [
+    {
+      "event_id": "95859",
+      "title": "Samui Swine Classic XIII - Pros. Presented by Latitude64 - PDGA Asia Tour Event #3",
+      "dates": "30-Jan to 01-Feb-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "Koh Samui, Thailand",
+      "place": 34,
+      "pdga_points": 30.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 6.0
+    },
+    {
+      "event_id": "74304",
+      "title": "SE Asia Disc Golf Championship 2024",
+      "dates": "26-Jan to 28-Jan-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 7,
+      "pdga_points": 195.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$43",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "73691",
+      "title": "Samui Swine Classic XI - MPO, FPO, MP40, MP50, MA1, FA1",
+      "dates": "02-Feb to 04-Feb-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 23,
+      "pdga_points": 82.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "68443",
+      "title": "11th Daegu International Open",
+      "dates": "30-Apr-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Daegu, Daegu, South Korea",
+      "place": 1,
+      "pdga_points": 90.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$252",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "66066",
+      "title": "Singapore Sling 2023",
+      "dates": "25-Feb-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 5,
+      "pdga_points": 35.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$37",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "69861",
+      "title": "Malaysia Summer All-Star 2023",
+      "dates": "24-Jun to 25-Jun-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 4,
+      "pdga_points": 40.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$32",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "73950",
+      "title": "2023 Singapore Disc Golf Championships",
+      "dates": "23-Sep to 24-Sep-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 2,
+      "pdga_points": 50.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$40",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "70134",
+      "title": "The 9th Asia Championships",
+      "dates": "19-Aug to 20-Aug-2023",
+      "year": "2023",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "fukuoka, Fukuoka, Japan",
+      "place": 6,
+      "pdga_points": 150.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$35",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "75119",
+      "title": "MDGT #2 (Ara Damansara DGC)",
+      "dates": "18-Nov-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Petaling Jaya, Selangor, Malaysia",
+      "place": 1,
+      "pdga_points": 25.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$42",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "71873",
+      "title": "5th Annual 2023 Malaysia National Championship",
+      "dates": "05-Aug to 06-Aug-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 5,
+      "pdga_points": 160.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$21",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "64710",
+      "title": "DGAP LIPAD PILIPINAS OPEN 2023 presented by Divergent Discs",
+      "dates": "04-Mar to 05-Mar-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Amadeo, Cavite, Philippines",
+      "place": 9,
+      "pdga_points": 30.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "68443",
+      "title": "11th Daegu International Open",
+      "dates": "30-Apr-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Daegu, Daegu, South Korea",
+      "place": 1,
+      "pdga_points": 90.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$252",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "75119",
+      "title": "MDGT #2 (Ara Damansara DGC)",
+      "dates": "18-Nov-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Petaling Jaya, Selangor, Malaysia",
+      "place": 1,
+      "pdga_points": 25.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$42",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 30.0,
+      "avg_finish": 34.0
+    },
+    {
+      "year": "2024",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 277.5,
+      "avg_finish": 15.0
+    },
+    {
+      "year": "2023",
+      "events": 8,
+      "wins": 2,
+      "podiums": 3,
+      "top10": 8,
+      "pdga_points": 580.0,
+      "avg_finish": 4.12
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2023-09-12",
+      "rating": 941,
+      "rounds": 16
+    },
+    {
+      "date": "2023-10-10",
+      "rating": 948,
+      "rounds": 18
+    },
+    {
+      "date": "2023-12-12",
+      "rating": 955,
+      "rounds": 23
+    },
+    {
+      "date": "2024-02-13",
+      "rating": 949,
+      "rounds": 29
+    },
+    {
+      "date": "2024-05-14",
+      "rating": 949,
+      "rounds": 26
+    },
+    {
+      "date": "2024-06-11",
+      "rating": 944,
+      "rounds": 28
+    },
+    {
+      "date": "2024-07-09",
+      "rating": 940,
+      "rounds": 27
+    },
+    {
+      "date": "2024-09-10",
+      "rating": 941,
+      "rounds": 24
+    },
+    {
+      "date": "2024-10-08",
+      "rating": 942,
+      "rounds": 24
+    },
+    {
+      "date": "2024-12-10",
+      "rating": 941,
+      "rounds": 24
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 930,
+      "rounds": 11
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 922,
+      "rounds": 15
+    },
+    {
+      "date": "2025-12-09",
+      "rating": 926,
+      "rounds": 13
+    },
+    {
+      "date": "2026-02-10",
+      "rating": 912,
+      "rounds": 16
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 910,
+      "rounds": 18
+    }
+  ],
+  "streak": {
+    "direction": "up",
+    "recent_avg": 102.5,
+    "season_avg": 72.5,
+    "delta_pct": 41.4
+  },
+  "pdga_url": "https://www.pdga.com/player/110965"
+}

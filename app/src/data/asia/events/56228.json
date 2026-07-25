@@ -1,0 +1,66 @@
+{
+  "event_id": "56228",
+  "title": "Khmer Cup III",
+  "location": "Siem Reap, Cambodia",
+  "dates": "12-Feb to 13-Feb-2022",
+  "year": "2022",
+  "tier": "C",
+  "level": "c_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 3,
+  "avg_mpo_rating": 854.3,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddf0\ud83c\udded",
+      "country": "Cambodia",
+      "count": 1
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 205058,
+      "name": "Nolan Cope",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 1,
+      "pdga_points": 20.0,
+      "rating": 924,
+      "prize": "$70",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 16472,
+      "name": "Greg Hill",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 2,
+      "pdga_points": 15.0,
+      "rating": 808,
+      "prize": "$30",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 125037,
+      "name": "Pich Ban",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 3,
+      "pdga_points": 10.0,
+      "rating": 831,
+      "prize": "$20",
+      "flag": "\ud83c\uddf0\ud83c\udded",
+      "country": "Cambodia",
+      "country_key": "KH"
+    }
+  ],
+  "fpo": [],
+  "amateur": [],
+  "divisions": [
+    "MPO"
+  ]
+}

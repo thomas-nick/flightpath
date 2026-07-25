@@ -1,0 +1,449 @@
+{
+  "pdga": 102093,
+  "name": "Pejman Norouzi #102093",
+  "country": "Thailand",
+  "country_key": "TH",
+  "flag": "\ud83c\uddf9\ud83c\udded",
+  "rating": 938,
+  "classification": "Professional",
+  "city": "Koh Samui",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 947.5,
+  "tour_weighted_points": 183.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 12,
+  "wins": 0,
+  "podiums": 4,
+  "top5": 7,
+  "top10": 11,
+  "top20": 12,
+  "avg_finish": 5.58,
+  "win_rate": 0.0,
+  "top10_rate": 0.917,
+  "cash_earned": 125.0,
+  "pdga_rank": 264,
+  "weighted_rank": 375,
+  "country_rank": 12,
+  "am_events": 4,
+  "am_wins": 0,
+  "am_podiums": 1,
+  "am_top10": 3,
+  "am_pdga_points": 702.5,
+  "last_active": "13-Jan-2024",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 4,
+      "points": 680.0,
+      "weighted": 103.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 142.5,
+      "weighted": 10.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 7,
+      "points": 125.0,
+      "weighted": 70.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 8,
+      "wins": 0,
+      "podiums": 3,
+      "top5": 6,
+      "top10": 8,
+      "top20": 8,
+      "pdga_points": 245.0,
+      "tour_weighted_points": 90.0,
+      "avg_finish": 4.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 4,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 3,
+      "top20": 4,
+      "pdga_points": 702.5,
+      "tour_weighted_points": 93.0,
+      "avg_finish": 8.75,
+      "win_rate": 0.0,
+      "top10_rate": 0.75
+    },
+    "all": {
+      "events": 12,
+      "wins": 0,
+      "podiums": 4,
+      "top5": 7,
+      "top10": 11,
+      "top20": 12,
+      "pdga_points": 947.5,
+      "tour_weighted_points": 183.0,
+      "avg_finish": 5.58,
+      "win_rate": 0.0,
+      "top10_rate": 0.917
+    }
+  },
+  "division_counts": {
+    "MA1": 4,
+    "MPO": 8
+  },
+  "results": [
+    {
+      "event_id": "74874",
+      "title": "Samui Winter Warm Up",
+      "dates": "13-Jan-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 6,
+      "pdga_points": 5.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "43198",
+      "title": "Samui Swine Classic VII - Ams - Presented by Innova",
+      "dates": "29-Jan to 30-Jan-2020",
+      "year": "2020",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 13,
+      "pdga_points": 90.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 8.0
+    },
+    {
+      "event_id": "44826",
+      "title": "Flying Saucers",
+      "dates": "14-Mar-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 4,
+      "pdga_points": 25.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$29",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "41108",
+      "title": "Samui Spring Fling 2",
+      "dates": "19-May-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 4,
+      "pdga_points": 10.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "40375",
+      "title": "Samui Shamrock Shakedown 2",
+      "dates": "17-Mar-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 4,
+      "pdga_points": 10.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "40740",
+      "title": "Samui Songkran Soaker 2",
+      "dates": "15-Apr-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 2,
+      "pdga_points": 20.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "38592",
+      "title": "Samui Swine Classic VI - Presented by Dynamic Discs - Pros",
+      "dates": "08-Feb to 10-Feb-2019",
+      "year": "2019",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 8,
+      "pdga_points": 120.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$96",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "38588",
+      "title": "Samui Swine Classic VI - Presented by Dynamic Discs - Ams",
+      "dates": "06-Feb to 07-Feb-2019",
+      "year": "2019",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 3,
+      "pdga_points": 210.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 55.0
+    },
+    {
+      "event_id": "33102",
+      "title": "Third Annual Hyzenbrownie Open - The Flaskenpouch 2018",
+      "dates": "27-Jan to 28-Jan-2018",
+      "year": "2018",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 10,
+      "pdga_points": 142.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "38563",
+      "title": "Samui Turkey Shoot - Samui Series #9",
+      "dates": "18-Nov-2018",
+      "year": "2018",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 2,
+      "pdga_points": 30.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "38564",
+      "title": "Samui Santa's Surprise - Samui Series #10",
+      "dates": "16-Dec-2018",
+      "year": "2018",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 2,
+      "pdga_points": 25.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "33706",
+      "title": "Samui Swine Classic V",
+      "dates": "01-Feb to 03-Feb-2018",
+      "year": "2018",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 9,
+      "pdga_points": 260.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2024",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 5.0,
+      "avg_finish": 6.0
+    },
+    {
+      "year": "2020",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 115.0,
+      "avg_finish": 8.5
+    },
+    {
+      "year": "2019",
+      "events": 5,
+      "wins": 0,
+      "podiums": 2,
+      "top10": 5,
+      "pdga_points": 370.0,
+      "avg_finish": 4.2
+    },
+    {
+      "year": "2018",
+      "events": 4,
+      "wins": 0,
+      "podiums": 2,
+      "top10": 4,
+      "pdga_points": 457.5,
+      "avg_finish": 5.75
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2018-01-31",
+      "rating": 941,
+      "rounds": 3
+    },
+    {
+      "date": "2018-03-13",
+      "rating": 920,
+      "rounds": 8
+    },
+    {
+      "date": "2018-05-22",
+      "rating": 906,
+      "rounds": 11
+    },
+    {
+      "date": "2018-10-30",
+      "rating": 902,
+      "rounds": 13
+    },
+    {
+      "date": "2018-11-28",
+      "rating": 906,
+      "rounds": 15
+    },
+    {
+      "date": "2018-12-18",
+      "rating": 917,
+      "rounds": 17
+    },
+    {
+      "date": "2019-01-29",
+      "rating": 933,
+      "rounds": 22
+    },
+    {
+      "date": "2019-02-26",
+      "rating": 944,
+      "rounds": 21
+    },
+    {
+      "date": "2019-04-09",
+      "rating": 947,
+      "rounds": 22
+    },
+    {
+      "date": "2019-05-14",
+      "rating": 939,
+      "rounds": 33
+    },
+    {
+      "date": "2019-06-11",
+      "rating": 942,
+      "rounds": 33
+    },
+    {
+      "date": "2019-07-09",
+      "rating": 941,
+      "rounds": 37
+    },
+    {
+      "date": "2019-10-08",
+      "rating": 938,
+      "rounds": 39
+    },
+    {
+      "date": "2020-02-11",
+      "rating": 930,
+      "rounds": 28
+    },
+    {
+      "date": "2020-04-14",
+      "rating": 928,
+      "rounds": 22
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 40.0,
+    "season_avg": 91.9,
+    "delta_pct": -56.5
+  },
+  "pdga_url": "https://www.pdga.com/player/102093"
+}

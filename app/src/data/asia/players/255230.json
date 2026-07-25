@@ -1,0 +1,431 @@
+{
+  "pdga": 255230,
+  "name": "Dave Tan #255230",
+  "country": "Malaysia",
+  "country_key": "MY",
+  "flag": "\ud83c\uddf2\ud83c\uddfe",
+  "rating": null,
+  "classification": "Amateur",
+  "city": "Ulu Tiram / Johor",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 298.0,
+  "tour_weighted_points": 117.1,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 11,
+  "wins": 2,
+  "podiums": 4,
+  "top5": 9,
+  "top10": 10,
+  "top20": 11,
+  "avg_finish": 5.27,
+  "win_rate": 0.182,
+  "top10_rate": 0.909,
+  "cash_earned": 0.0,
+  "pdga_rank": 648,
+  "weighted_rank": 549,
+  "country_rank": 15,
+  "am_events": 10,
+  "am_wins": 2,
+  "am_podiums": 4,
+  "am_top10": 10,
+  "am_pdga_points": 213.0,
+  "last_active": "05-Jul to 06-Jul-2025",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 54.0,
+      "weighted": 17.5,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 10,
+      "points": 244.0,
+      "weighted": 99.6,
+      "wins": 2
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 1,
+      "pdga_points": 85.0,
+      "tour_weighted_points": 1.6,
+      "avg_finish": 20.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 10,
+      "wins": 2,
+      "podiums": 4,
+      "top5": 9,
+      "top10": 10,
+      "top20": 10,
+      "pdga_points": 213.0,
+      "tour_weighted_points": 115.5,
+      "avg_finish": 3.8,
+      "win_rate": 0.2,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 11,
+      "wins": 2,
+      "podiums": 4,
+      "top5": 9,
+      "top10": 10,
+      "top20": 11,
+      "pdga_points": 298.0,
+      "tour_weighted_points": 117.1,
+      "avg_finish": 5.27,
+      "win_rate": 0.182,
+      "top10_rate": 0.909
+    }
+  },
+  "division_counts": {
+    "MA4": 1,
+    "MA3": 4,
+    "MPO": 1,
+    "MA1": 3,
+    "MA2": 1,
+    "MA40": 1
+  },
+  "results": [
+    {
+      "event_id": "94658",
+      "title": "MALAYSIA OPEN 2025",
+      "dates": "30-Aug to 31-Aug-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "JOHOR BAHRU, Johor, Malaysia",
+      "place": 3,
+      "pdga_points": 3.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "95233",
+      "title": "2025 Singapore Disc Golf Championships",
+      "dates": "16-Aug to 17-Aug-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 4,
+      "pdga_points": 4.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "93957",
+      "title": "Johor Disc Golf Open 2025",
+      "dates": "05-Jul to 06-Jul-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 8,
+      "pdga_points": 10.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "74304",
+      "title": "SE Asia Disc Golf Championship 2024",
+      "dates": "26-Jan to 28-Jan-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 5,
+      "pdga_points": 54.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "78012",
+      "title": "2024 Tanglin Hill Safari",
+      "dates": "16-Mar-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore, AP, Singapore",
+      "place": 5,
+      "pdga_points": 8.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "69861",
+      "title": "Malaysia Summer All-Star 2023",
+      "dates": "24-Jun to 25-Jun-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 1,
+      "pdga_points": 15.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "73464",
+      "title": "MDGT #1 (Pelangi Indah DGC)",
+      "dates": "21-Oct-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru , Johor, Malaysia",
+      "place": 5,
+      "pdga_points": 50.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "75119",
+      "title": "MDGT #2 (Ara Damansara DGC)",
+      "dates": "18-Nov-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Petaling Jaya, Selangor, Malaysia",
+      "place": 1,
+      "pdga_points": 55.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "64802",
+      "title": "2022 Malaysia Disc Golf Tour (Stop #4 / Bale Club DGC)",
+      "dates": "14-Jan-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 2,
+      "pdga_points": 8.0,
+      "division": "MA4",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "68319",
+      "title": "3rd Annual Johor State Disc Golf Championship",
+      "dates": "08-Apr-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 4,
+      "pdga_points": 6.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "71873",
+      "title": "5th Annual 2023 Malaysia National Championship",
+      "dates": "05-Aug to 06-Aug-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 20,
+      "pdga_points": 85.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.6
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "69861",
+      "title": "Malaysia Summer All-Star 2023",
+      "dates": "24-Jun to 25-Jun-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 1,
+      "pdga_points": 15.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "75119",
+      "title": "MDGT #2 (Ara Damansara DGC)",
+      "dates": "18-Nov-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Petaling Jaya, Selangor, Malaysia",
+      "place": 1,
+      "pdga_points": 55.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2025",
+      "events": 3,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 3,
+      "pdga_points": 17.0,
+      "avg_finish": 5.0
+    },
+    {
+      "year": "2024",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 2,
+      "pdga_points": 62.0,
+      "avg_finish": 5.0
+    },
+    {
+      "year": "2023",
+      "events": 6,
+      "wins": 2,
+      "podiums": 3,
+      "top10": 5,
+      "pdga_points": 219.0,
+      "avg_finish": 5.5
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2023-04-11",
+      "rating": 741,
+      "rounds": 2
+    },
+    {
+      "date": "2023-05-09",
+      "rating": 730,
+      "rounds": 4
+    },
+    {
+      "date": "2023-06-13",
+      "rating": 731,
+      "rounds": 8
+    },
+    {
+      "date": "2023-07-11",
+      "rating": 735,
+      "rounds": 10
+    },
+    {
+      "date": "2023-08-08",
+      "rating": 748,
+      "rounds": 13
+    },
+    {
+      "date": "2023-11-14",
+      "rating": 765,
+      "rounds": 15
+    },
+    {
+      "date": "2023-12-12",
+      "rating": 776,
+      "rounds": 17
+    },
+    {
+      "date": "2024-02-13",
+      "rating": 783,
+      "rounds": 17
+    },
+    {
+      "date": "2024-04-09",
+      "rating": 774,
+      "rounds": 18
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 5.7,
+    "season_avg": 35.1,
+    "delta_pct": -83.9
+  },
+  "pdga_url": "https://www.pdga.com/player/255230"
+}

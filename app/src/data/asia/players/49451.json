@@ -1,0 +1,252 @@
+{
+  "pdga": 49451,
+  "name": "Takashi Kuroda #49451",
+  "country": "Japan",
+  "country_key": "JP",
+  "flag": "\ud83c\uddef\ud83c\uddf5",
+  "rating": 935,
+  "classification": "Professional",
+  "city": "Nasushiobara Shi",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 382.5,
+  "tour_weighted_points": 63.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 5,
+  "wins": 0,
+  "podiums": 1,
+  "top5": 2,
+  "top10": 4,
+  "top20": 5,
+  "avg_finish": 7.6,
+  "win_rate": 0.0,
+  "top10_rate": 0.8,
+  "cash_earned": 12.0,
+  "pdga_rank": 548,
+  "weighted_rank": 820,
+  "country_rank": 173,
+  "am_events": 1,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 1,
+  "am_pdga_points": 90.0,
+  "last_active": "18-Jul-2016",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 4,
+      "points": 352.5,
+      "weighted": 59.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 1,
+      "points": 30.0,
+      "weighted": 4.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 4,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 3,
+      "top20": 4,
+      "pdga_points": 292.5,
+      "tour_weighted_points": 45.5,
+      "avg_finish": 8.25,
+      "win_rate": 0.0,
+      "top10_rate": 0.75
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 1,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 90.0,
+      "tour_weighted_points": 17.5,
+      "avg_finish": 5.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 5,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 2,
+      "top10": 4,
+      "top20": 5,
+      "pdga_points": 382.5,
+      "tour_weighted_points": 63.0,
+      "avg_finish": 7.6,
+      "win_rate": 0.0,
+      "top10_rate": 0.8
+    }
+  },
+  "division_counts": {
+    "MPO": 4,
+    "MA1": 1
+  },
+  "results": [
+    {
+      "event_id": "30156",
+      "title": "The 20th Kanto Open - Am",
+      "dates": "18-Jul-2016",
+      "year": "2016",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Utsunomiya, Japan",
+      "place": 5,
+      "pdga_points": 90.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "17580",
+      "title": "25th Tokyo Open",
+      "dates": "19-Apr to 20-Apr-2014",
+      "year": "2014",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Tatsumi, Tokyo, Japan",
+      "place": 14,
+      "pdga_points": 75.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "17610",
+      "title": "Japan Team Championships",
+      "dates": "12-Jan to 13-Jan-2014",
+      "year": "2014",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Oyama, Tochigi, Japan",
+      "place": 3,
+      "pdga_points": 127.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$12",
+      "weighted_points": 27.5
+    },
+    {
+      "event_id": "17607",
+      "title": "Japan Doubles Championships 2014",
+      "dates": "08-Mar to 09-Mar-2014",
+      "year": "2014",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Hitachi, Ibaraki, Japan",
+      "place": 8,
+      "pdga_points": 30.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "13651",
+      "title": "8th Masters Championships",
+      "dates": "08-Dec to 09-Dec-2012",
+      "year": "2012",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Hitachi, Ibaraki, Japan",
+      "place": 8,
+      "pdga_points": 60.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 10.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2016",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 90.0,
+      "avg_finish": 5.0
+    },
+    {
+      "year": "2014",
+      "events": 3,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 2,
+      "pdga_points": 232.5,
+      "avg_finish": 8.33
+    },
+    {
+      "year": "2012",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 60.0,
+      "avg_finish": 8.0
+    }
+  ],
+  "rating_history": [],
+  "streak": {
+    "direction": "up",
+    "recent_avg": 97.5,
+    "season_avg": 45.0,
+    "delta_pct": 116.7
+  },
+  "pdga_url": "https://www.pdga.com/player/49451"
+}

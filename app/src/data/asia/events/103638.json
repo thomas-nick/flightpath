@@ -1,0 +1,193 @@
+{
+  "event_id": "103638",
+  "title": "2026 WGE: Power-Putt Girls",
+  "location": "Singapore",
+  "dates": "24-May-2026",
+  "year": "2026",
+  "tier": "C",
+  "level": "c_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 12,
+  "avg_mpo_rating": 947.7,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddf8\ud83c\uddec",
+      "country": "Singapore",
+      "count": 9
+    },
+    {
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "count": 1
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 312209,
+      "name": "Tyn Long Tay",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 1,
+      "pdga_points": 20.0,
+      "rating": 910,
+      "prize": "",
+      "flag": "\ud83c\uddf8\ud83c\uddec",
+      "country": "Singapore",
+      "country_key": "SG"
+    },
+    {
+      "pdga": 190658,
+      "name": "Caspian Zumwalt",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 2,
+      "pdga_points": 15.0,
+      "rating": 953,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 239872,
+      "name": "Kaede Matayoshi",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 4,
+      "pdga_points": 5.0,
+      "rating": 980,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    }
+  ],
+  "fpo": [],
+  "amateur": [
+    {
+      "pdga": 190653,
+      "name": "Kathy Zumwalt",
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 6.0,
+      "rating": 854,
+      "prize": "",
+      "flag": "\ud83c\uddf8\ud83c\uddec",
+      "country": "Singapore",
+      "country_key": "SG"
+    },
+    {
+      "pdga": 298038,
+      "name": "Joleen Tan",
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 3.0,
+      "rating": 804,
+      "prize": "",
+      "flag": "\ud83c\uddf8\ud83c\uddec",
+      "country": "Singapore",
+      "country_key": "SG"
+    },
+    {
+      "pdga": 318446,
+      "name": "Mei Wa Liew",
+      "division": "FA2",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 4.0,
+      "rating": 572,
+      "prize": "",
+      "flag": "\ud83c\uddf8\ud83c\uddec",
+      "country": "Singapore",
+      "country_key": "SG"
+    },
+    {
+      "pdga": 214235,
+      "name": "Joseph Cheong",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 40.0,
+      "rating": 840,
+      "prize": "",
+      "flag": "\ud83c\uddf8\ud83c\uddec",
+      "country": "Singapore",
+      "country_key": "SG"
+    },
+    {
+      "pdga": 72004,
+      "name": "Ian Lee",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 35.0,
+      "rating": 869,
+      "prize": "",
+      "flag": "\ud83c\uddf8\ud83c\uddec",
+      "country": "Singapore",
+      "country_key": "SG"
+    },
+    {
+      "pdga": 145727,
+      "name": "Matthew Xiao Ming Ooi",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 4,
+      "pdga_points": 25.0,
+      "rating": 897,
+      "prize": "",
+      "flag": "\ud83c\uddf8\ud83c\uddec",
+      "country": "Singapore",
+      "country_key": "SG"
+    },
+    {
+      "pdga": 234922,
+      "name": "Mark Newton",
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 32.0,
+      "rating": 846,
+      "prize": "",
+      "flag": "\ud83c\uddf8\ud83c\uddec",
+      "country": "Singapore",
+      "country_key": "SG"
+    },
+    {
+      "pdga": 293067,
+      "name": "David Trovell",
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 28.0,
+      "rating": 852,
+      "prize": "",
+      "flag": "\ud83c\uddf8\ud83c\uddec",
+      "country": "Singapore",
+      "country_key": "SG"
+    },
+    {
+      "pdga": 190649,
+      "name": "Zachary Zumwalt",
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 28.0,
+      "rating": 905,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    }
+  ],
+  "divisions": [
+    "FA1",
+    "FA2",
+    "MA1",
+    "MA40",
+    "MPO"
+  ]
+}

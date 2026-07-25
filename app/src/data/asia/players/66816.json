@@ -1,0 +1,286 @@
+{
+  "pdga": 66816,
+  "name": "Naoyo Yoshida #66816",
+  "country": "Japan",
+  "country_key": "JP",
+  "flag": "\ud83c\uddef\ud83c\uddf5",
+  "rating": null,
+  "classification": "Professional",
+  "city": "Sumida Ku",
+  "nationality": "",
+  "division": "FPO",
+  "primary_class": "open_fpo",
+  "pdga_points": 337.5,
+  "tour_weighted_points": 137.5,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 6,
+  "wins": 1,
+  "podiums": 1,
+  "top5": 6,
+  "top10": 6,
+  "top20": 6,
+  "avg_finish": 3.67,
+  "win_rate": 0.167,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 597,
+  "weighted_rank": 486,
+  "country_rank": 179,
+  "am_events": 3,
+  "am_wins": 1,
+  "am_podiums": 1,
+  "am_top10": 3,
+  "am_pdga_points": 210.0,
+  "last_active": "03-Aug to 04-Aug-2019",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 6,
+      "points": 337.5,
+      "weighted": 137.5,
+      "wins": 1
+    },
+    "c_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 1,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 82.5,
+      "tour_weighted_points": 17.5,
+      "avg_finish": 4.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "open_fpo": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 2,
+      "top10": 2,
+      "top20": 2,
+      "pdga_points": 45.0,
+      "tour_weighted_points": 35.0,
+      "avg_finish": 4.5,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "amateur": {
+      "events": 3,
+      "wins": 1,
+      "podiums": 1,
+      "top5": 3,
+      "top10": 3,
+      "top20": 3,
+      "pdga_points": 210.0,
+      "tour_weighted_points": 85.0,
+      "avg_finish": 3.0,
+      "win_rate": 0.333,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 6,
+      "wins": 1,
+      "podiums": 1,
+      "top5": 6,
+      "top10": 6,
+      "top20": 6,
+      "pdga_points": 337.5,
+      "tour_weighted_points": 137.5,
+      "avg_finish": 3.67,
+      "win_rate": 0.167,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MPO": 1,
+    "MA1": 3,
+    "FPO": 2
+  },
+  "results": [
+    {
+      "event_id": "42912",
+      "title": "The 33rd Kyushu Open",
+      "dates": "30-Nov to 01-Dec-2019",
+      "year": "2019",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Fukuoka, Fukuoka, Japan",
+      "place": 5,
+      "pdga_points": 9.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "41245",
+      "title": "The 7th Asia Championship",
+      "dates": "03-Aug to 04-Aug-2019",
+      "year": "2019",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Fukuoka, Fukuoka, Japan",
+      "place": 4,
+      "pdga_points": 36.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "30797",
+      "title": "The 30th Kyushu Open",
+      "dates": "03-Dec to 04-Dec-2016",
+      "year": "2016",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Kyushu, Fukuoka, Japan",
+      "place": 4,
+      "pdga_points": 52.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "21114",
+      "title": "The 4th Fukui Open",
+      "dates": "30-May to 31-May-2015",
+      "year": "2015",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Sakai, Fukui, Japan",
+      "place": 4,
+      "pdga_points": 67.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "21002",
+      "title": "The 13th Saga Open",
+      "dates": "11-Apr to 12-Apr-2015",
+      "year": "2015",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Kanzaki, Saga, Japan",
+      "place": 1,
+      "pdga_points": 90.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 50.0
+    },
+    {
+      "event_id": "17558",
+      "title": "Japan Mixed Doubles Championships",
+      "dates": "06-Mar to 07-Mar-2015",
+      "year": "2015",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Hitachi, Ibaraki, Japan",
+      "place": 4,
+      "pdga_points": 82.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 17.5
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "21002",
+      "title": "The 13th Saga Open",
+      "dates": "11-Apr to 12-Apr-2015",
+      "year": "2015",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Kanzaki, Saga, Japan",
+      "place": 1,
+      "pdga_points": 90.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 50.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2019",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 2,
+      "pdga_points": 45.0,
+      "avg_finish": 4.5
+    },
+    {
+      "year": "2016",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 52.5,
+      "avg_finish": 4.0
+    },
+    {
+      "year": "2015",
+      "events": 3,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 3,
+      "pdga_points": 240.0,
+      "avg_finish": 3.0
+    }
+  ],
+  "rating_history": [],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 32.5,
+    "season_avg": 80.0,
+    "delta_pct": -59.4
+  },
+  "pdga_url": "https://www.pdga.com/player/66816"
+}

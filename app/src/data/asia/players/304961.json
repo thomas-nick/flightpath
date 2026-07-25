@@ -1,0 +1,368 @@
+{
+  "pdga": 304961,
+  "name": "Zihui Zhou #304961",
+  "country": "China",
+  "country_key": "CN",
+  "flag": "\ud83c\udde8\ud83c\uddf3",
+  "rating": 827,
+  "classification": "Professional",
+  "city": "Shanghai",
+  "nationality": "",
+  "division": "FPO",
+  "primary_class": "open_fpo",
+  "pdga_points": 224.5,
+  "tour_weighted_points": 194.0,
+  "asia_tour_points": 27.0,
+  "asia_tour_events": 1,
+  "events_played": 9,
+  "wins": 2,
+  "podiums": 2,
+  "top5": 6,
+  "top10": 8,
+  "top20": 9,
+  "avg_finish": 5.89,
+  "win_rate": 0.222,
+  "top10_rate": 0.889,
+  "cash_earned": 250.0,
+  "pdga_rank": 778,
+  "weighted_rank": 345,
+  "country_rank": 123,
+  "am_events": 2,
+  "am_wins": 1,
+  "am_podiums": 1,
+  "am_top10": 1,
+  "am_pdga_points": 87.0,
+  "last_active": "13-Mar to 15-Mar-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 1,
+      "points": 27.0,
+      "weighted": 70.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 4,
+      "points": 136.5,
+      "weighted": 89.0,
+      "wins": 1
+    },
+    "c_tier": {
+      "events": 4,
+      "points": 61.0,
+      "weighted": 35.0,
+      "wins": 1
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 10.0,
+      "tour_weighted_points": 4.0,
+      "avg_finish": 10.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "open_fpo": {
+      "events": 6,
+      "wins": 1,
+      "podiums": 1,
+      "top5": 5,
+      "top10": 6,
+      "top20": 6,
+      "pdga_points": 127.5,
+      "tour_weighted_points": 136.0,
+      "avg_finish": 4.33,
+      "win_rate": 0.167,
+      "top10_rate": 1.0
+    },
+    "amateur": {
+      "events": 2,
+      "wins": 1,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 1,
+      "top20": 2,
+      "pdga_points": 87.0,
+      "tour_weighted_points": 54.0,
+      "avg_finish": 8.5,
+      "win_rate": 0.5,
+      "top10_rate": 0.5
+    },
+    "all": {
+      "events": 9,
+      "wins": 2,
+      "podiums": 2,
+      "top5": 6,
+      "top10": 8,
+      "top20": 9,
+      "pdga_points": 224.5,
+      "tour_weighted_points": 194.0,
+      "avg_finish": 5.89,
+      "win_rate": 0.222,
+      "top10_rate": 0.889
+    }
+  },
+  "division_counts": {
+    "FPO": 6,
+    "MPO": 1,
+    "MA1": 1,
+    "FA2": 1
+  },
+  "results": [
+    {
+      "event_id": "103293",
+      "title": "CDGT Championship Beijing - China Disc Golf Course Tour Event #2",
+      "dates": "30-May to 31-May-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Beijing, Beijing Shi, China",
+      "place": 6,
+      "pdga_points": 15.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "102673",
+      "title": "Shanghai Disc Golf Monthly Tournament (March)",
+      "dates": "27-Mar-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Shanghai, Shanghai Shi, China",
+      "place": 10,
+      "pdga_points": 10.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "97588",
+      "title": "PDGA Asia Tour Championship - PDGA Asia Tour Event #7",
+      "dates": "13-Mar to 15-Mar-2026",
+      "year": "2026",
+      "tier": "B",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "Shanghai, Shanghai Shi, China",
+      "place": 5,
+      "pdga_points": 27.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "",
+      "weighted_points": 70.0
+    },
+    {
+      "event_id": "101188",
+      "title": "CDGT Championship Kunshan - China Disc Golf Course Tour Event #1",
+      "dates": "05-Apr to 06-Apr-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Kunshan, Jiangsu Sheng, China",
+      "place": 5,
+      "pdga_points": 18.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "103363",
+      "title": "2026 Kunshan-Taiwan Disc Golf Invitational Tournament (Open & Amateur Divisions)",
+      "dates": "03-May to 04-May-2026",
+      "year": "2026",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Kunshan, Jiangsu Sheng, China",
+      "place": 16,
+      "pdga_points": 60.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "98425",
+      "title": "\u7b2c\u56db\u5c4a\u201c\u68ee\u6797\u4e4b\u738b\u201d\uff08\u6606\u5c71\uff09\u4e89\u9738\u8d5b The 4th Annual \"King of the Forest\" (Kunshan) Challenge",
+      "dates": "02-Jan-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Kunshan, Jiangsu Sheng, China",
+      "place": 1,
+      "pdga_points": 18.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "$111",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "90038",
+      "title": "2025 CDGC\u98de\u76d8\u9ad8\u5c14\u592b\u5de1\u56de\u8d5b-\u91cd\u5e86  2025 CDGC Disc Golf Tour - Chongqing",
+      "dates": "29-Mar to 30-Mar-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Chongqing, Chongqing Shi, China",
+      "place": 1,
+      "pdga_points": 27.0,
+      "division": "FA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 50.0
+    },
+    {
+      "event_id": "97899",
+      "title": "2025 Shaoxing China International Disc Golf Open",
+      "dates": "13-Dec to 14-Dec-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Shaoxing, Zhejiang Sheng, China",
+      "place": 4,
+      "pdga_points": 18.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "$139",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "96234",
+      "title": "2025\u957f\u4e09\u89d2\u63b7\u51c6\u98de\u76d8\uff08\u6606\u5c71\uff09\u516c\u5f00\u8d5b\u66a8CDGC\u98de\u76d8\u9ad8\u5c14\u592b\u5de1\u56de\u8d5b\u603b\u51b3\u8d5b-2025 Yangzi River Delta Disc Golf  (KUNSHAN) Open - All Other Divisions",
+      "dates": "04-Oct to 05-Oct-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Kunshan, Jiangsu Sheng, China",
+      "place": 5,
+      "pdga_points": 31.5,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "",
+      "weighted_points": 17.5
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "98425",
+      "title": "\u7b2c\u56db\u5c4a\u201c\u68ee\u6797\u4e4b\u738b\u201d\uff08\u6606\u5c71\uff09\u4e89\u9738\u8d5b The 4th Annual \"King of the Forest\" (Kunshan) Challenge",
+      "dates": "02-Jan-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Kunshan, Jiangsu Sheng, China",
+      "place": 1,
+      "pdga_points": 18.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "$111",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "90038",
+      "title": "2025 CDGC\u98de\u76d8\u9ad8\u5c14\u592b\u5de1\u56de\u8d5b-\u91cd\u5e86  2025 CDGC Disc Golf Tour - Chongqing",
+      "dates": "29-Mar to 30-Mar-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Chongqing, Chongqing Shi, China",
+      "place": 1,
+      "pdga_points": 27.0,
+      "division": "FA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 50.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 6,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 5,
+      "pdga_points": 148.0,
+      "avg_finish": 7.17
+    },
+    {
+      "year": "2025",
+      "events": 3,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 3,
+      "pdga_points": 76.5,
+      "avg_finish": 3.33
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2025-04-08",
+      "rating": 768,
+      "rounds": 3
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 788,
+      "rounds": 6
+    },
+    {
+      "date": "2026-01-13",
+      "rating": 807,
+      "rounds": 11
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 825,
+      "rounds": 15
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 827,
+      "rounds": 18
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 17.3,
+    "season_avg": 28.8,
+    "delta_pct": -39.7
+  },
+  "pdga_url": "https://www.pdga.com/player/304961"
+}

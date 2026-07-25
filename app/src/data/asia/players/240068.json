@@ -1,0 +1,401 @@
+{
+  "pdga": 240068,
+  "name": "Darren Voon #240068",
+  "country": "Singapore",
+  "country_key": "SG",
+  "flag": "\ud83c\uddf8\ud83c\uddec",
+  "rating": null,
+  "classification": "Amateur",
+  "city": "",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 542.5,
+  "tour_weighted_points": 137.7,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 11,
+  "wins": 1,
+  "podiums": 6,
+  "top5": 9,
+  "top10": 9,
+  "top20": 10,
+  "avg_finish": 5.82,
+  "win_rate": 0.091,
+  "top10_rate": 0.818,
+  "cash_earned": 0.0,
+  "pdga_rank": 429,
+  "weighted_rank": 485,
+  "country_rank": 12,
+  "am_events": 8,
+  "am_wins": 1,
+  "am_podiums": 6,
+  "am_top10": 8,
+  "am_pdga_points": 377.5,
+  "last_active": "18-Jan to 19-Jan-2025",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 82.5,
+      "weighted": 37.5,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 10,
+      "points": 460.0,
+      "weighted": 100.2,
+      "wins": 1
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 3,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 1,
+      "top10": 1,
+      "top20": 2,
+      "pdga_points": 165.0,
+      "tour_weighted_points": 10.2,
+      "avg_finish": 14.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.333
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 8,
+      "wins": 1,
+      "podiums": 6,
+      "top5": 8,
+      "top10": 8,
+      "top20": 8,
+      "pdga_points": 377.5,
+      "tour_weighted_points": 127.5,
+      "avg_finish": 2.75,
+      "win_rate": 0.125,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 11,
+      "wins": 1,
+      "podiums": 6,
+      "top5": 9,
+      "top10": 9,
+      "top20": 10,
+      "pdga_points": 542.5,
+      "tour_weighted_points": 137.7,
+      "avg_finish": 5.82,
+      "win_rate": 0.091,
+      "top10_rate": 0.818
+    }
+  },
+  "division_counts": {
+    "MA1": 8,
+    "MPO": 3
+  },
+  "results": [
+    {
+      "event_id": "86250",
+      "title": "SE Asia Disc Golf Championship 2025",
+      "dates": "18-Jan to 19-Jan-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 2,
+      "pdga_points": 82.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 37.5
+    },
+    {
+      "event_id": "87020",
+      "title": "Singapore Sling 2025",
+      "dates": "11-Jan to 12-Jan-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 2,
+      "pdga_points": 20.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "67073",
+      "title": "2023 Formosa Disc Golf Championships supported by Innova",
+      "dates": "27-May to 28-May-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Houli Dist., Taichung City, Chinese Taipei",
+      "place": 21,
+      "pdga_points": 115.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "66066",
+      "title": "Singapore Sling 2023",
+      "dates": "25-Feb-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 5,
+      "pdga_points": 55.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "73950",
+      "title": "2023 Singapore Disc Golf Championships",
+      "dates": "23-Sep to 24-Sep-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 3,
+      "pdga_points": 45.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "73464",
+      "title": "MDGT #1 (Pelangi Indah DGC)",
+      "dates": "21-Oct-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru , Johor, Malaysia",
+      "place": 5,
+      "pdga_points": 40.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "64802",
+      "title": "2022 Malaysia Disc Golf Tour (Stop #4 / Bale Club DGC)",
+      "dates": "14-Jan-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 16,
+      "pdga_points": 10.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "71837",
+      "title": "Kallang Roar at Kallang Riverside Park",
+      "dates": "08-Jul-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 1,
+      "pdga_points": 30.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "60442",
+      "title": "Fairfield High Tea",
+      "dates": "28-May-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 2,
+      "pdga_points": 60.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "61046",
+      "title": "Tanjong Rhu Flex Fun",
+      "dates": "18-Jun-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 5,
+      "pdga_points": 40.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "61822",
+      "title": "Dover Dash 2022",
+      "dates": "16-Jul-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 2,
+      "pdga_points": 45.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "71837",
+      "title": "Kallang Roar at Kallang Riverside Park",
+      "dates": "08-Jul-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 1,
+      "pdga_points": 30.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2025",
+      "events": 2,
+      "wins": 0,
+      "podiums": 2,
+      "top10": 2,
+      "pdga_points": 102.5,
+      "avg_finish": 2.0
+    },
+    {
+      "year": "2023",
+      "events": 6,
+      "wins": 1,
+      "podiums": 2,
+      "top10": 4,
+      "pdga_points": 295.0,
+      "avg_finish": 8.5
+    },
+    {
+      "year": "2022",
+      "events": 3,
+      "wins": 0,
+      "podiums": 2,
+      "top10": 3,
+      "pdga_points": 145.0,
+      "avg_finish": 3.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2022-12-13",
+      "rating": 930,
+      "rounds": 3
+    },
+    {
+      "date": "2023-02-14",
+      "rating": 910,
+      "rounds": 5
+    },
+    {
+      "date": "2023-03-14",
+      "rating": 903,
+      "rounds": 7
+    },
+    {
+      "date": "2023-06-13",
+      "rating": 911,
+      "rounds": 10
+    },
+    {
+      "date": "2023-07-11",
+      "rating": 910,
+      "rounds": 9
+    },
+    {
+      "date": "2023-10-10",
+      "rating": 898,
+      "rounds": 11
+    },
+    {
+      "date": "2023-11-14",
+      "rating": 906,
+      "rounds": 13
+    }
+  ],
+  "streak": {
+    "direction": "up",
+    "recent_avg": 72.5,
+    "season_avg": 40.6,
+    "delta_pct": 78.5
+  },
+  "pdga_url": "https://www.pdga.com/player/240068"
+}

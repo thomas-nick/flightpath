@@ -1,0 +1,311 @@
+{
+  "pdga": 123990,
+  "name": "Todd Ronchetti #123990",
+  "country": "United States",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 904,
+  "classification": "Amateur",
+  "city": "Bloomington",
+  "nationality": "",
+  "division": "MA2",
+  "primary_class": "amateur",
+  "pdga_points": 2235.0,
+  "tour_weighted_points": 48.6,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 4,
+  "wins": 1,
+  "podiums": 2,
+  "top5": 2,
+  "top10": 2,
+  "top20": 3,
+  "avg_finish": 53.25,
+  "win_rate": 0.25,
+  "top10_rate": 0.5,
+  "cash_earned": 0.0,
+  "pdga_rank": 227,
+  "weighted_rank": 849,
+  "country_rank": null,
+  "am_events": 4,
+  "am_wins": 1,
+  "am_podiums": 2,
+  "am_top10": 2,
+  "am_pdga_points": 2235.0,
+  "last_active": "21-Jun to 25-Jun-2022",
+  "by_level": {
+    "major": {
+      "events": 1,
+      "points": 2115.0,
+      "weighted": 12.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 3,
+      "points": 120.0,
+      "weighted": 36.6,
+      "wins": 1
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 4,
+      "wins": 1,
+      "podiums": 2,
+      "top5": 2,
+      "top10": 2,
+      "top20": 3,
+      "pdga_points": 2235.0,
+      "tour_weighted_points": 48.6,
+      "avg_finish": 53.25,
+      "win_rate": 0.25,
+      "top10_rate": 0.5
+    },
+    "all": {
+      "events": 4,
+      "wins": 1,
+      "podiums": 2,
+      "top5": 2,
+      "top10": 2,
+      "top20": 3,
+      "pdga_points": 2235.0,
+      "tour_weighted_points": 48.6,
+      "avg_finish": 53.25,
+      "win_rate": 0.25,
+      "top10_rate": 0.5
+    }
+  },
+  "division_counts": {
+    "MA1": 1,
+    "MA2": 3
+  },
+  "results": [
+    {
+      "event_id": "55823",
+      "title": "Wiffs Finale \"Winters Last Hurrah\" (CEP Charity - Rated)",
+      "dates": "27-Mar-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Monrovia, Indiana, United States",
+      "place": 2,
+      "pdga_points": 76.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "55453",
+      "title": "2022 PDGA Amateur Disc Golf World Championships presented by Toyota",
+      "dates": "21-Jun to 25-Jun-2022",
+      "year": "2022",
+      "tier": "",
+      "level": "major",
+      "is_asia_tour": false,
+      "location": "Princeton, Indiana, United States",
+      "place": 195,
+      "pdga_points": 2115.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 12.0
+    },
+    {
+      "event_id": "56568",
+      "title": "WIFFS #17 - The Nashville Chill sponsored by Westside Discs (CEP Charity - Rated)",
+      "dates": "19-Feb-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Nashville, Indiana, United States",
+      "place": 15,
+      "pdga_points": 8.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "62558",
+      "title": "2022 limestone open by BDGC",
+      "dates": "17-Sep-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Ellettsville , Indiana, United States",
+      "place": 1,
+      "pdga_points": 36.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "62558",
+      "title": "2022 limestone open by BDGC",
+      "dates": "17-Sep-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Ellettsville , Indiana, United States",
+      "place": 1,
+      "pdga_points": 36.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2022",
+      "events": 4,
+      "wins": 1,
+      "podiums": 2,
+      "top10": 2,
+      "pdga_points": 2235.0,
+      "avg_finish": 53.25
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2024-05-14",
+      "rating": 895,
+      "rounds": 25
+    },
+    {
+      "date": "2024-06-11",
+      "rating": 892,
+      "rounds": 26
+    },
+    {
+      "date": "2024-07-09",
+      "rating": 884,
+      "rounds": 23
+    },
+    {
+      "date": "2024-08-13",
+      "rating": 885,
+      "rounds": 21
+    },
+    {
+      "date": "2024-09-10",
+      "rating": 885,
+      "rounds": 22
+    },
+    {
+      "date": "2025-02-11",
+      "rating": 894,
+      "rounds": 17
+    },
+    {
+      "date": "2025-04-08",
+      "rating": 884,
+      "rounds": 13
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 897,
+      "rounds": 9
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 907,
+      "rounds": 8
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 916,
+      "rounds": 11
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 912,
+      "rounds": 19
+    },
+    {
+      "date": "2026-01-13",
+      "rating": 905,
+      "rounds": 21
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 897,
+      "rounds": 23
+    },
+    {
+      "date": "2026-06-09",
+      "rating": 903,
+      "rounds": 21
+    },
+    {
+      "date": "2026-07-14",
+      "rating": 904,
+      "rounds": 18
+    }
+  ],
+  "streak": {
+    "direction": "up",
+    "recent_avg": 733.0,
+    "season_avg": 36.0,
+    "delta_pct": 1936.1
+  },
+  "pdga_url": "https://www.pdga.com/player/123990"
+}

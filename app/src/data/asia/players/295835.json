@@ -1,0 +1,425 @@
+{
+  "pdga": 295835,
+  "name": "Dustin Ciarla #295835",
+  "country": "Hong Kong",
+  "country_key": "HK",
+  "flag": "\ud83c\udded\ud83c\uddf0",
+  "rating": 929,
+  "classification": "Professional",
+  "city": "Sheung Wan",
+  "nationality": "Canada",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 773.0,
+  "tour_weighted_points": 201.7,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 11,
+  "wins": 0,
+  "podiums": 2,
+  "top5": 8,
+  "top10": 8,
+  "top20": 11,
+  "avg_finish": 6.09,
+  "win_rate": 0.0,
+  "top10_rate": 0.727,
+  "cash_earned": 18.0,
+  "pdga_rank": 330,
+  "weighted_rank": 329,
+  "country_rank": 3,
+  "am_events": 6,
+  "am_wins": 0,
+  "am_podiums": 1,
+  "am_top10": 4,
+  "am_pdga_points": 460.5,
+  "last_active": "27-Jan to 29-Jan-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 1,
+      "points": 50.0,
+      "weighted": 110.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 4,
+      "points": 555.0,
+      "weighted": 56.5,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 6,
+      "points": 168.0,
+      "weighted": 35.2,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 5,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 4,
+      "top10": 4,
+      "top20": 5,
+      "pdga_points": 312.5,
+      "tour_weighted_points": 46.5,
+      "avg_finish": 5.6,
+      "win_rate": 0.0,
+      "top10_rate": 0.8
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 6,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 4,
+      "top10": 4,
+      "top20": 6,
+      "pdga_points": 460.5,
+      "tour_weighted_points": 155.2,
+      "avg_finish": 6.5,
+      "win_rate": 0.0,
+      "top10_rate": 0.667
+    },
+    "all": {
+      "events": 11,
+      "wins": 0,
+      "podiums": 2,
+      "top5": 8,
+      "top10": 8,
+      "top20": 11,
+      "pdga_points": 773.0,
+      "tour_weighted_points": 201.7,
+      "avg_finish": 6.09,
+      "win_rate": 0.0,
+      "top10_rate": 0.727
+    }
+  },
+  "division_counts": {
+    "MA1": 5,
+    "MPO": 5,
+    "MA40": 1
+  },
+  "results": [
+    {
+      "event_id": "95844",
+      "title": "Samui Swine Classic XIII - Ams Presented by Latitude64 - PDGA Asia Tour event #3",
+      "dates": "27-Jan to 29-Jan-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "Koh Samui, Thailand",
+      "place": 3,
+      "pdga_points": 50.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 110.0
+    },
+    {
+      "event_id": "101163",
+      "title": "Mini Chain Open - presented by \u4e09\u4f65\u6535",
+      "dates": "16-Mar-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Shanghai, Shanghai Shi, China",
+      "place": 3,
+      "pdga_points": 0.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "98972",
+      "title": "\u201c\u6731\u96c0\u676f\u201d\u6e7e\u533a\u98de\u76d8\u9ad8\u5c14\u592b\u516c\u5f00\u8d5b - MA1, FA1, MPO, FPO",
+      "dates": "27-Dec to 28-Dec-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "guangzhou, Guangdong Sheng, China",
+      "place": 4,
+      "pdga_points": 25.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$18",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "86250",
+      "title": "SE Asia Disc Golf Championship 2025",
+      "dates": "18-Jan to 19-Jan-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 5,
+      "pdga_points": 60.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "94738",
+      "title": "Philippine National Disc Golf Championship",
+      "dates": "13-Sep to 14-Sep-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Municipality of San Jose, Tarlac, Philippines",
+      "place": 5,
+      "pdga_points": 40.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "87020",
+      "title": "Singapore Sling 2025",
+      "dates": "11-Jan to 12-Jan-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 4,
+      "pdga_points": 28.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "86211",
+      "title": "3rd Annual Chiang Mai Open",
+      "dates": "07-Feb to 09-Feb-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "San Kamphaeng, Thailand",
+      "place": 12,
+      "pdga_points": 25.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "93392",
+      "title": "2025\u201c\u911e\u6728\u5c71\u6d77\u201d\u676f\u98de\u76d8\u9ad8\u5c14\u592b\u516c\u5f00\u8d5b\uff1b2025  The \"Yinmu Mountain-Sea Cup\" Disc Golf Open",
+      "dates": "05-Jul to 06-Jul-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Liangshan Yi Autonomous Prefecture, Sichuan Sheng, China",
+      "place": 5,
+      "pdga_points": 75.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "96234",
+      "title": "2025\u957f\u4e09\u89d2\u63b7\u51c6\u98de\u76d8\uff08\u6606\u5c71\uff09\u516c\u5f00\u8d5b\u66a8CDGC\u98de\u76d8\u9ad8\u5c14\u592b\u5de1\u56de\u8d5b\u603b\u51b3\u8d5b-2025 Yangzi River Delta Disc Golf  (KUNSHAN) Open - All Other Divisions",
+      "dates": "04-Oct to 05-Oct-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Kunshan, Jiangsu Sheng, China",
+      "place": 11,
+      "pdga_points": 172.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "96657",
+      "title": "Chain Open - presented by Innova Discs",
+      "dates": "01-Nov to 02-Nov-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Zhenjiang, Jiangsu Sheng, China",
+      "place": 4,
+      "pdga_points": 247.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "87356",
+      "title": "\u6731\u96c0\u676f\u6e7e\u533a\u9ad8\u5c14\u592b\u98de\u76d8\u4ea4\u6d41\u8d5b",
+      "dates": "21-Dec to 22-Dec-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "guangzhou, Guangdong Sheng, China",
+      "place": 11,
+      "pdga_points": 50.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 1.6
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 2,
+      "wins": 0,
+      "podiums": 2,
+      "top10": 2,
+      "pdga_points": 50.0,
+      "avg_finish": 3.0
+    },
+    {
+      "year": "2025",
+      "events": 8,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 6,
+      "pdga_points": 673.0,
+      "avg_finish": 6.25
+    },
+    {
+      "year": "2024",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 50.0,
+      "avg_finish": 11.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2025-02-11",
+      "rating": 835,
+      "rounds": 11
+    },
+    {
+      "date": "2025-03-11",
+      "rating": 854,
+      "rounds": 14
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 873,
+      "rounds": 17
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 877,
+      "rounds": 24
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 889,
+      "rounds": 26
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 894,
+      "rounds": 32
+    },
+    {
+      "date": "2025-11-11",
+      "rating": 895,
+      "rounds": 34
+    },
+    {
+      "date": "2025-12-09",
+      "rating": 899,
+      "rounds": 39
+    },
+    {
+      "date": "2026-01-13",
+      "rating": 904,
+      "rounds": 44
+    },
+    {
+      "date": "2026-02-10",
+      "rating": 914,
+      "rounds": 51
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 917,
+      "rounds": 51
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 919,
+      "rounds": 57
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 921,
+      "rounds": 59
+    },
+    {
+      "date": "2026-06-09",
+      "rating": 921,
+      "rounds": 59
+    },
+    {
+      "date": "2026-07-14",
+      "rating": 929,
+      "rounds": 62
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 25.0,
+    "season_avg": 87.2,
+    "delta_pct": -71.3
+  },
+  "pdga_url": "https://www.pdga.com/player/295835"
+}

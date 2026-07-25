@@ -1,0 +1,133 @@
+{
+  "event_id": "38591",
+  "title": "Hyzenbrownie Open \"Hurljam 2019\" - Pros",
+  "location": "Namuang, Thailand",
+  "dates": "12-Feb to 13-Feb-2019",
+  "year": "2019",
+  "tier": "C",
+  "level": "c_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 8,
+  "avg_mpo_rating": 958.3,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "count": 1
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 26416,
+      "name": "Philo Brathwaite",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 1,
+      "pdga_points": 35.0,
+      "rating": 1023,
+      "prize": "$350",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 44859,
+      "name": "Jarmo Aulu",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 2,
+      "pdga_points": 30.0,
+      "rating": 947,
+      "prize": "$200",
+      "flag": "\ud83c\udf10",
+      "country": "Finland",
+      "country_key": ""
+    },
+    {
+      "pdga": 102124,
+      "name": "Joel Pallari",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 3,
+      "pdga_points": 25.0,
+      "rating": 957,
+      "prize": "$125",
+      "flag": "\ud83c\udf10",
+      "country": "Finland",
+      "country_key": ""
+    },
+    {
+      "pdga": 72851,
+      "name": "Marko Mustasilta",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 4,
+      "pdga_points": 20.0,
+      "rating": 953,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "Finland",
+      "country_key": ""
+    },
+    {
+      "pdga": 45430,
+      "name": "George Kamenos",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 5,
+      "pdga_points": 15.0,
+      "rating": 938,
+      "prize": "",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "country_key": "KR"
+    },
+    {
+      "pdga": 65636,
+      "name": "Adam Schneiter",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 6,
+      "pdga_points": 10.0,
+      "rating": 933,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "Poland",
+      "country_key": ""
+    },
+    {
+      "pdga": 89366,
+      "name": "Tom\u00e1\u0161 Dole\u017eel",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 6,
+      "pdga_points": 10.0,
+      "rating": 957,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "Czech Republic",
+      "country_key": ""
+    }
+  ],
+  "fpo": [
+    {
+      "pdga": 57529,
+      "name": "Hannele M\u00e4\u00e4tt\u00e4",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 1,
+      "pdga_points": 3.0,
+      "rating": 901,
+      "prize": "$80",
+      "flag": "\ud83c\udf10",
+      "country": "Finland",
+      "country_key": ""
+    }
+  ],
+  "amateur": [],
+  "divisions": [
+    "FPO",
+    "MPO"
+  ]
+}

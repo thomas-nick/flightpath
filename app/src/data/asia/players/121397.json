@@ -1,0 +1,588 @@
+{
+  "pdga": 121397,
+  "name": "Ju Hwang Yun #121397",
+  "country": "South Korea",
+  "country_key": "KR",
+  "flag": "\ud83c\uddf0\ud83c\uddf7",
+  "rating": 894,
+  "classification": "Amateur",
+  "city": "Yeongdong-gun / Chungcheongbuk-do",
+  "nationality": "",
+  "division": "MA60",
+  "primary_class": "amateur",
+  "pdga_points": 172.5,
+  "tour_weighted_points": 256.5,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 13,
+  "wins": 7,
+  "podiums": 11,
+  "top5": 11,
+  "top10": 13,
+  "top20": 13,
+  "avg_finish": 2.46,
+  "win_rate": 0.538,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 891,
+  "weighted_rank": 247,
+  "country_rank": 48,
+  "am_events": 13,
+  "am_wins": 7,
+  "am_podiums": 11,
+  "am_top10": 13,
+  "am_pdga_points": 172.5,
+  "last_active": "29-Mar-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 3,
+      "points": 70.5,
+      "weighted": 87.5,
+      "wins": 1
+    },
+    "c_tier": {
+      "events": 10,
+      "points": 102.0,
+      "weighted": 169.0,
+      "wins": 6
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 13,
+      "wins": 7,
+      "podiums": 11,
+      "top5": 11,
+      "top10": 13,
+      "top20": 13,
+      "pdga_points": 172.5,
+      "tour_weighted_points": 256.5,
+      "avg_finish": 2.46,
+      "win_rate": 0.538,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 13,
+      "wins": 7,
+      "podiums": 11,
+      "top5": 11,
+      "top10": 13,
+      "top20": 13,
+      "pdga_points": 172.5,
+      "tour_weighted_points": 256.5,
+      "avg_finish": 2.46,
+      "win_rate": 0.538,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA60": 8,
+    "MA65": 3,
+    "MA1": 2
+  },
+  "results": [
+    {
+      "event_id": "101741",
+      "title": "Pump it up #3 Doubles (OPEN)",
+      "dates": "29-Mar-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Yeongdong-gun, Chungcheongbuk-do, South Korea",
+      "place": 1,
+      "pdga_points": 8.0,
+      "division": "MA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "96091",
+      "title": "1st Yangju Art Valley International Open - MA1, MA2, FA1, FA2, MA65",
+      "dates": "26-Oct-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Yangju, Gyeonggi-do, South Korea",
+      "place": 1,
+      "pdga_points": 12.0,
+      "division": "MA65",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "90272",
+      "title": "13th Daegu Open",
+      "dates": "26-Apr to 27-Apr-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Daegu, Daegu, South Korea",
+      "place": 10,
+      "pdga_points": 37.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "88635",
+      "title": "2nd Go for it Republic of Korea",
+      "dates": "23-Mar-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Yeongdong, Chungcheongbuk-do, South Korea",
+      "place": 2,
+      "pdga_points": 4.0,
+      "division": "MA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "91661",
+      "title": "2ND YeongDong OPEN",
+      "dates": "14-Jun to 15-Jun-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "yeongdong gun, Chungcheongbuk-do, South Korea",
+      "place": 1,
+      "pdga_points": 9.0,
+      "division": "MA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 50.0
+    },
+    {
+      "event_id": "78950",
+      "title": "Go for it Republic of Korea",
+      "dates": "31-Mar-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Yeongdong-gun, Chungcheongbuk-do, South Korea",
+      "place": 2,
+      "pdga_points": 8.0,
+      "division": "MA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "86185",
+      "title": "The 38th Kyushu Open",
+      "dates": "30-Nov to 01-Dec-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Fukuoka-shi, Fukuoka, Japan",
+      "place": 3,
+      "pdga_points": 24.0,
+      "division": "MA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 27.5
+    },
+    {
+      "event_id": "80706",
+      "title": "Songdam Doubles",
+      "dates": "28-Apr-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Yeongdong-gun, Chungcheongbuk-do, South Korea",
+      "place": 2,
+      "pdga_points": 16.0,
+      "division": "MA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "84879",
+      "title": "YEONGDONG OPEN",
+      "dates": "17-Nov-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "yeongdong gun, Chungcheongbuk-do, South Korea",
+      "place": 1,
+      "pdga_points": 8.0,
+      "division": "MA65",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "85021",
+      "title": "2024 National Foundation Days Cup",
+      "dates": "05-Oct to 06-Oct-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Youngdong, Chungcheongbuk-do, South Korea",
+      "place": 6,
+      "pdga_points": 20.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "68443",
+      "title": "11th Daegu International Open",
+      "dates": "30-Apr-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Daegu, Daegu, South Korea",
+      "place": 1,
+      "pdga_points": 10.0,
+      "division": "MA65",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "73757",
+      "title": "2023 Chairman's Tournament",
+      "dates": "15-Oct-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Daegu, Daegu, South Korea",
+      "place": 1,
+      "pdga_points": 10.0,
+      "division": "MA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "40827",
+      "title": "Episode 1 - The Phantom Turtle Presented by Discraft",
+      "dates": "19-May-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Gimhae/MIryang, Gyeongsangnam-do, South Korea",
+      "place": 1,
+      "pdga_points": 6.0,
+      "division": "MA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "101741",
+      "title": "Pump it up #3 Doubles (OPEN)",
+      "dates": "29-Mar-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Yeongdong-gun, Chungcheongbuk-do, South Korea",
+      "place": 1,
+      "pdga_points": 8.0,
+      "division": "MA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "96091",
+      "title": "1st Yangju Art Valley International Open - MA1, MA2, FA1, FA2, MA65",
+      "dates": "26-Oct-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Yangju, Gyeonggi-do, South Korea",
+      "place": 1,
+      "pdga_points": 12.0,
+      "division": "MA65",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "91661",
+      "title": "2ND YeongDong OPEN",
+      "dates": "14-Jun to 15-Jun-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "yeongdong gun, Chungcheongbuk-do, South Korea",
+      "place": 1,
+      "pdga_points": 9.0,
+      "division": "MA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 50.0
+    },
+    {
+      "event_id": "84879",
+      "title": "YEONGDONG OPEN",
+      "dates": "17-Nov-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "yeongdong gun, Chungcheongbuk-do, South Korea",
+      "place": 1,
+      "pdga_points": 8.0,
+      "division": "MA65",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "68443",
+      "title": "11th Daegu International Open",
+      "dates": "30-Apr-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Daegu, Daegu, South Korea",
+      "place": 1,
+      "pdga_points": 10.0,
+      "division": "MA65",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "73757",
+      "title": "2023 Chairman's Tournament",
+      "dates": "15-Oct-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Daegu, Daegu, South Korea",
+      "place": 1,
+      "pdga_points": 10.0,
+      "division": "MA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "40827",
+      "title": "Episode 1 - The Phantom Turtle Presented by Discraft",
+      "dates": "19-May-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Gimhae/MIryang, Gyeongsangnam-do, South Korea",
+      "place": 1,
+      "pdga_points": 6.0,
+      "division": "MA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 1,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 8.0,
+      "avg_finish": 1.0
+    },
+    {
+      "year": "2025",
+      "events": 4,
+      "wins": 2,
+      "podiums": 3,
+      "top10": 4,
+      "pdga_points": 62.5,
+      "avg_finish": 3.5
+    },
+    {
+      "year": "2024",
+      "events": 5,
+      "wins": 1,
+      "podiums": 4,
+      "top10": 5,
+      "pdga_points": 76.0,
+      "avg_finish": 2.8
+    },
+    {
+      "year": "2023",
+      "events": 2,
+      "wins": 2,
+      "podiums": 2,
+      "top10": 2,
+      "pdga_points": 20.0,
+      "avg_finish": 1.0
+    },
+    {
+      "year": "2019",
+      "events": 1,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 6.0,
+      "avg_finish": 1.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2023-05-09",
+      "rating": 875,
+      "rounds": 2
+    },
+    {
+      "date": "2023-11-14",
+      "rating": 873,
+      "rounds": 4
+    },
+    {
+      "date": "2024-04-09",
+      "rating": 858,
+      "rounds": 6
+    },
+    {
+      "date": "2024-10-08",
+      "rating": 861,
+      "rounds": 6
+    },
+    {
+      "date": "2024-12-10",
+      "rating": 857,
+      "rounds": 8
+    },
+    {
+      "date": "2025-04-08",
+      "rating": 833,
+      "rounds": 9
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 833,
+      "rounds": 10
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 842,
+      "rounds": 13
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 854,
+      "rounds": 15
+    },
+    {
+      "date": "2025-11-11",
+      "rating": 858,
+      "rounds": 15
+    },
+    {
+      "date": "2026-02-10",
+      "rating": 850,
+      "rounds": 13
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 857,
+      "rounds": 15
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 868,
+      "rounds": 18
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 881,
+      "rounds": 19
+    },
+    {
+      "date": "2026-06-09",
+      "rating": 894,
+      "rounds": 18
+    }
+  ],
+  "streak": {
+    "direction": "up",
+    "recent_avg": 19.2,
+    "season_avg": 11.5,
+    "delta_pct": 66.7
+  },
+  "pdga_url": "https://www.pdga.com/player/121397"
+}

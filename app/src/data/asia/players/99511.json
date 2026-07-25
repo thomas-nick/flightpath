@@ -1,0 +1,271 @@
+{
+  "pdga": 99511,
+  "name": "Nate Johnson #99511",
+  "country": "United States",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 940,
+  "classification": "Professional",
+  "city": "Pleasant Hill",
+  "nationality": "",
+  "division": "MA1",
+  "primary_class": "amateur",
+  "pdga_points": 978.0,
+  "tour_weighted_points": 28.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top5": 0,
+  "top10": 1,
+  "top20": 2,
+  "avg_finish": 12.0,
+  "win_rate": 0.0,
+  "top10_rate": 0.5,
+  "cash_earned": 0.0,
+  "pdga_rank": 383,
+  "weighted_rank": 1187,
+  "country_rank": null,
+  "am_events": 2,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 1,
+  "am_pdga_points": 978.0,
+  "last_active": "05-Aug to 07-Aug-2022",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 2,
+      "points": 978.0,
+      "weighted": 28.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 1,
+      "top20": 2,
+      "pdga_points": 978.0,
+      "tour_weighted_points": 28.0,
+      "avg_finish": 12.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.5
+    },
+    "all": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 1,
+      "top20": 2,
+      "pdga_points": 978.0,
+      "tour_weighted_points": 28.0,
+      "avg_finish": 12.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.5
+    }
+  },
+  "division_counts": {
+    "MA1": 1,
+    "MA2": 1
+  },
+  "results": [
+    {
+      "event_id": "55383",
+      "title": "The TruBank Des Moines Challenge presented by Discraft",
+      "dates": "05-Aug to 07-Aug-2022",
+      "year": "2022",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Indianola, Iowa, United States",
+      "place": 7,
+      "pdga_points": 408.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "47868",
+      "title": "Des Moines Challenge Presented by GEICO Des Moines",
+      "dates": "09-Jul to 11-Jul-2021",
+      "year": "2021",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Indianola, Iowa, United States",
+      "place": 17,
+      "pdga_points": 570.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 8.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2022",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 408.0,
+      "avg_finish": 7.0
+    },
+    {
+      "year": "2021",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 570.0,
+      "avg_finish": 17.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2025-03-11",
+      "rating": 938,
+      "rounds": 78
+    },
+    {
+      "date": "2025-04-08",
+      "rating": 933,
+      "rounds": 81
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 929,
+      "rounds": 78
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 931,
+      "rounds": 80
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 934,
+      "rounds": 75
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 938,
+      "rounds": 79
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 938,
+      "rounds": 76
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 942,
+      "rounds": 80
+    },
+    {
+      "date": "2025-11-11",
+      "rating": 941,
+      "rounds": 78
+    },
+    {
+      "date": "2025-12-09",
+      "rating": 938,
+      "rounds": 75
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 936,
+      "rounds": 67
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 932,
+      "rounds": 64
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 936,
+      "rounds": 65
+    },
+    {
+      "date": "2026-06-09",
+      "rating": 935,
+      "rounds": 67
+    },
+    {
+      "date": "2026-07-14",
+      "rating": 940,
+      "rounds": 76
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/99511"
+}

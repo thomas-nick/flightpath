@@ -1,0 +1,603 @@
+{
+  "pdga": 129558,
+  "name": "James Lai #129558",
+  "country": "Malaysia",
+  "country_key": "MY",
+  "flag": "\ud83c\uddf2\ud83c\uddfe",
+  "rating": 965,
+  "classification": "Professional",
+  "city": "Cheras",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 1170.5,
+  "tour_weighted_points": 209.6,
+  "asia_tour_points": 105.0,
+  "asia_tour_events": 1,
+  "events_played": 16,
+  "wins": 5,
+  "podiums": 10,
+  "top5": 11,
+  "top10": 13,
+  "top20": 16,
+  "avg_finish": 4.5,
+  "win_rate": 0.312,
+  "top10_rate": 0.812,
+  "cash_earned": 685.0,
+  "pdga_rank": 193,
+  "weighted_rank": 321,
+  "country_rank": 3,
+  "am_events": 3,
+  "am_wins": 0,
+  "am_podiums": 3,
+  "am_top10": 3,
+  "am_pdga_points": 88.0,
+  "last_active": "09-Jan to 11-Jan-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 1,
+      "points": 105.0,
+      "weighted": 16.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 2,
+      "points": 382.5,
+      "weighted": 14.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 13,
+      "points": 683.0,
+      "weighted": 179.6,
+      "wins": 5
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 13,
+      "wins": 5,
+      "podiums": 7,
+      "top5": 8,
+      "top10": 10,
+      "top20": 13,
+      "pdga_points": 1082.5,
+      "tour_weighted_points": 172.6,
+      "avg_finish": 4.92,
+      "win_rate": 0.385,
+      "top10_rate": 0.769
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 3,
+      "wins": 0,
+      "podiums": 3,
+      "top5": 3,
+      "top10": 3,
+      "top20": 3,
+      "pdga_points": 88.0,
+      "tour_weighted_points": 37.0,
+      "avg_finish": 2.67,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 16,
+      "wins": 5,
+      "podiums": 10,
+      "top5": 11,
+      "top10": 13,
+      "top20": 16,
+      "pdga_points": 1170.5,
+      "tour_weighted_points": 209.6,
+      "avg_finish": 4.5,
+      "win_rate": 0.312,
+      "top10_rate": 0.812
+    }
+  },
+  "division_counts": {
+    "MPO": 13,
+    "MA2": 1,
+    "MA40": 2
+  },
+  "results": [
+    {
+      "event_id": "104157",
+      "title": "Marlborough College Jr. Disc Golf Tournament 2026",
+      "dates": "24-May-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "ISKANDAR PUTERI, Johor, Malaysia",
+      "place": 1,
+      "pdga_points": 15.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$42",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "97674",
+      "title": "2026 Singapore Sling",
+      "dates": "17-Jan to 18-Jan-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 1,
+      "pdga_points": 60.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$124",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "96943",
+      "title": "2026 Asia Disc Golf Open - PDGA Asia Tour Event #1",
+      "dates": "09-Jan to 11-Jan-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "Kaohsiung, Kaohsiung City, Chinese Taipei",
+      "place": 11,
+      "pdga_points": 105.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 16.0
+    },
+    {
+      "event_id": "94658",
+      "title": "MALAYSIA OPEN 2025",
+      "dates": "30-Aug to 31-Aug-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "JOHOR BAHRU, Johor, Malaysia",
+      "place": 1,
+      "pdga_points": 75.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$142",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "87020",
+      "title": "Singapore Sling 2025",
+      "dates": "11-Jan to 12-Jan-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 2,
+      "pdga_points": 65.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$100",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "86211",
+      "title": "3rd Annual Chiang Mai Open",
+      "dates": "07-Feb to 09-Feb-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "San Kamphaeng, Thailand",
+      "place": 11,
+      "pdga_points": 40.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "93957",
+      "title": "Johor Disc Golf Open 2025",
+      "dates": "05-Jul to 06-Jul-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 1,
+      "pdga_points": 30.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$68",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "96657",
+      "title": "Chain Open - presented by Innova Discs",
+      "dates": "01-Nov to 02-Nov-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Zhenjiang, Jiangsu Sheng, China",
+      "place": 7,
+      "pdga_points": 142.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$55",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "74057",
+      "title": "2024 Asia Open Disc Golf",
+      "dates": "20-Jan to 21-Jan-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Taipei City, Taipei City, Chinese Taipei",
+      "place": 12,
+      "pdga_points": 240.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$32",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "78012",
+      "title": "2024 Tanglin Hill Safari",
+      "dates": "16-Mar-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore, AP, Singapore",
+      "place": 5,
+      "pdga_points": 20.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$30",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "67073",
+      "title": "2023 Formosa Disc Golf Championships supported by Innova",
+      "dates": "27-May to 28-May-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Houli Dist., Taichung City, Chinese Taipei",
+      "place": 9,
+      "pdga_points": 175.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$68",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "60442",
+      "title": "Fairfield High Tea",
+      "dates": "28-May-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 2,
+      "pdga_points": 10.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$24",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "61511",
+      "title": "The Godfather Classic presented by Chiang Mai Disc Golf",
+      "dates": "20-Aug-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Chiang Mai, Thailand",
+      "place": 1,
+      "pdga_points": 105.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "42689",
+      "title": "Singapore Sling 2020",
+      "dates": "19-Jan-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 3,
+      "pdga_points": 40.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "43398",
+      "title": "Shipwrecked in Malaysia",
+      "dates": "18-Jan-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 2,
+      "pdga_points": 24.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "44826",
+      "title": "Flying Saucers",
+      "dates": "14-Mar-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 3,
+      "pdga_points": 24.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "104157",
+      "title": "Marlborough College Jr. Disc Golf Tournament 2026",
+      "dates": "24-May-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "ISKANDAR PUTERI, Johor, Malaysia",
+      "place": 1,
+      "pdga_points": 15.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$42",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "97674",
+      "title": "2026 Singapore Sling",
+      "dates": "17-Jan to 18-Jan-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 1,
+      "pdga_points": 60.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$124",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "94658",
+      "title": "MALAYSIA OPEN 2025",
+      "dates": "30-Aug to 31-Aug-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "JOHOR BAHRU, Johor, Malaysia",
+      "place": 1,
+      "pdga_points": 75.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$142",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "93957",
+      "title": "Johor Disc Golf Open 2025",
+      "dates": "05-Jul to 06-Jul-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 1,
+      "pdga_points": 30.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$68",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "61511",
+      "title": "The Godfather Classic presented by Chiang Mai Disc Golf",
+      "dates": "20-Aug-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Chiang Mai, Thailand",
+      "place": 1,
+      "pdga_points": 105.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 3,
+      "wins": 2,
+      "podiums": 2,
+      "top10": 2,
+      "pdga_points": 180.0,
+      "avg_finish": 4.33
+    },
+    {
+      "year": "2025",
+      "events": 5,
+      "wins": 2,
+      "podiums": 3,
+      "top10": 4,
+      "pdga_points": 352.5,
+      "avg_finish": 4.4
+    },
+    {
+      "year": "2024",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 260.0,
+      "avg_finish": 8.5
+    },
+    {
+      "year": "2023",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 175.0,
+      "avg_finish": 9.0
+    },
+    {
+      "year": "2022",
+      "events": 2,
+      "wins": 1,
+      "podiums": 2,
+      "top10": 2,
+      "pdga_points": 115.0,
+      "avg_finish": 1.5
+    },
+    {
+      "year": "2020",
+      "events": 3,
+      "wins": 0,
+      "podiums": 3,
+      "top10": 3,
+      "pdga_points": 88.0,
+      "avg_finish": 2.67
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2020-02-11",
+      "rating": 867,
+      "rounds": 4
+    },
+    {
+      "date": "2020-04-14",
+      "rating": 855,
+      "rounds": 6
+    },
+    {
+      "date": "2022-06-14",
+      "rating": 901,
+      "rounds": 1
+    },
+    {
+      "date": "2022-09-13",
+      "rating": 944,
+      "rounds": 3
+    },
+    {
+      "date": "2023-06-13",
+      "rating": 948,
+      "rounds": 6
+    },
+    {
+      "date": "2024-02-13",
+      "rating": 954,
+      "rounds": 8
+    },
+    {
+      "date": "2024-04-09",
+      "rating": 947,
+      "rounds": 8
+    },
+    {
+      "date": "2025-01-14",
+      "rating": 952,
+      "rounds": 10
+    },
+    {
+      "date": "2025-02-11",
+      "rating": 951,
+      "rounds": 10
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 962,
+      "rounds": 8
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 965,
+      "rounds": 11
+    },
+    {
+      "date": "2025-12-09",
+      "rating": 960,
+      "rounds": 14
+    },
+    {
+      "date": "2026-02-10",
+      "rating": 965,
+      "rounds": 17
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 60.0,
+    "season_avg": 76.2,
+    "delta_pct": -21.3
+  },
+  "pdga_url": "https://www.pdga.com/player/129558"
+}

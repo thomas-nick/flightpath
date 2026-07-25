@@ -1,0 +1,366 @@
+{
+  "pdga": 121109,
+  "name": "Yunong Xia #121109",
+  "country": "China",
+  "country_key": "CN",
+  "flag": "\ud83c\udde8\ud83c\uddf3",
+  "rating": 809,
+  "classification": "Amateur",
+  "city": "Wuxi",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 240.0,
+  "tour_weighted_points": 57.7,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 7,
+  "wins": 1,
+  "podiums": 1,
+  "top5": 2,
+  "top10": 3,
+  "top20": 6,
+  "avg_finish": 12.71,
+  "win_rate": 0.143,
+  "top10_rate": 0.429,
+  "cash_earned": 0.0,
+  "pdga_rank": 736,
+  "weighted_rank": 861,
+  "country_rank": 115,
+  "am_events": 6,
+  "am_wins": 1,
+  "am_podiums": 1,
+  "am_top10": 3,
+  "am_pdga_points": 150.0,
+  "last_active": "13-Mar to 15-Mar-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 1,
+      "points": 0.0,
+      "weighted": 16.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 2,
+      "points": 120.0,
+      "weighted": 11.5,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 4,
+      "points": 120.0,
+      "weighted": 30.2,
+      "wins": 1
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 1,
+      "pdga_points": 90.0,
+      "tour_weighted_points": 1.6,
+      "avg_finish": 13.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 6,
+      "wins": 1,
+      "podiums": 1,
+      "top5": 2,
+      "top10": 3,
+      "top20": 5,
+      "pdga_points": 150.0,
+      "tour_weighted_points": 56.1,
+      "avg_finish": 12.67,
+      "win_rate": 0.167,
+      "top10_rate": 0.5
+    },
+    "all": {
+      "events": 7,
+      "wins": 1,
+      "podiums": 1,
+      "top5": 2,
+      "top10": 3,
+      "top20": 6,
+      "pdga_points": 240.0,
+      "tour_weighted_points": 57.7,
+      "avg_finish": 12.71,
+      "win_rate": 0.143,
+      "top10_rate": 0.429
+    }
+  },
+  "division_counts": {
+    "MA3": 2,
+    "MPO": 1,
+    "MA1": 4
+  },
+  "results": [
+    {
+      "event_id": "97588",
+      "title": "PDGA Asia Tour Championship - PDGA Asia Tour Event #7",
+      "dates": "13-Mar to 15-Mar-2026",
+      "year": "2026",
+      "tier": "B",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "Shanghai, Shanghai Shi, China",
+      "place": 13,
+      "pdga_points": 0.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 16.0
+    },
+    {
+      "event_id": "97308",
+      "title": "Asia-Pacific Disc Golf Open(Yinzhou, Ningbo)",
+      "dates": "22-Nov to 23-Nov-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Ningbo, Zhejiang Sheng, China",
+      "place": 8,
+      "pdga_points": 120.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "96657",
+      "title": "Chain Open - presented by Innova Discs",
+      "dates": "01-Nov to 02-Nov-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Zhenjiang, Jiangsu Sheng, China",
+      "place": 36,
+      "pdga_points": 0.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 1.5
+    },
+    {
+      "event_id": "65915",
+      "title": "2023 New Year Cup Of Disc Golf Tournament Kunshan",
+      "dates": "13-Jan to 14-Jan-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Kunshan, Zhejiang Sheng, China",
+      "place": 13,
+      "pdga_points": 5.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "57901",
+      "title": "The 2nd Yangtze River Delta Open \u65cb\u98ce\u98de\u76d8\u4ff1\u4e50\u90e8 Disc Golf Tournament",
+      "dates": "21-Aug-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Suzhou, Jiangsu Sheng, China",
+      "place": 1,
+      "pdga_points": 25.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "61687",
+      "title": "4th Annual 2022 Malaysia National Championship",
+      "dates": "13-Aug to 14-Aug-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 5,
+      "pdga_points": 0.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "50780",
+      "title": "2021 Spring Cup Disc Golf Tournament",
+      "dates": "27-Mar to 28-Mar-2021",
+      "year": "2021",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Suzhou, Jiangsu Sheng, China",
+      "place": 13,
+      "pdga_points": 90.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.6
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "57901",
+      "title": "The 2nd Yangtze River Delta Open \u65cb\u98ce\u98de\u76d8\u4ff1\u4e50\u90e8 Disc Golf Tournament",
+      "dates": "21-Aug-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Suzhou, Jiangsu Sheng, China",
+      "place": 1,
+      "pdga_points": 25.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 0.0,
+      "avg_finish": 13.0
+    },
+    {
+      "year": "2025",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 120.0,
+      "avg_finish": 22.0
+    },
+    {
+      "year": "2023",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 5.0,
+      "avg_finish": 13.0
+    },
+    {
+      "year": "2022",
+      "events": 2,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 2,
+      "pdga_points": 25.0,
+      "avg_finish": 3.0
+    },
+    {
+      "year": "2021",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 90.0,
+      "avg_finish": 13.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2019-05-14",
+      "rating": 822,
+      "rounds": 4
+    },
+    {
+      "date": "2019-06-11",
+      "rating": 867,
+      "rounds": 9
+    },
+    {
+      "date": "2019-10-08",
+      "rating": 871,
+      "rounds": 14
+    },
+    {
+      "date": "2021-04-13",
+      "rating": 864,
+      "rounds": 8
+    },
+    {
+      "date": "2022-09-13",
+      "rating": 843,
+      "rounds": 5
+    },
+    {
+      "date": "2023-02-14",
+      "rating": 839,
+      "rounds": 7
+    },
+    {
+      "date": "2025-12-09",
+      "rating": 787,
+      "rounds": 2
+    },
+    {
+      "date": "2026-01-13",
+      "rating": 813,
+      "rounds": 5
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 809,
+      "rounds": 6
+    }
+  ],
+  "streak": {
+    "direction": "up",
+    "recent_avg": 40.0,
+    "season_avg": 30.0,
+    "delta_pct": 33.3
+  },
+  "pdga_url": "https://www.pdga.com/player/121109"
+}

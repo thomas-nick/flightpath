@@ -1,0 +1,377 @@
+{
+  "pdga": 128019,
+  "name": "Alex Lai #128019",
+  "country": "Malaysia",
+  "country_key": "MY",
+  "flag": "\ud83c\uddf2\ud83c\uddfe",
+  "rating": 833,
+  "classification": "Amateur",
+  "city": "Johor Bahru",
+  "nationality": "",
+  "division": "MA50",
+  "primary_class": "amateur",
+  "pdga_points": 142.0,
+  "tour_weighted_points": 67.6,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 9,
+  "wins": 0,
+  "podiums": 3,
+  "top5": 6,
+  "top10": 7,
+  "top20": 9,
+  "avg_finish": 5.44,
+  "win_rate": 0.0,
+  "top10_rate": 0.778,
+  "cash_earned": 0.0,
+  "pdga_rank": 993,
+  "weighted_rank": 792,
+  "country_rank": 30,
+  "am_events": 9,
+  "am_wins": 0,
+  "am_podiums": 3,
+  "am_top10": 7,
+  "am_pdga_points": 142.0,
+  "last_active": "17-Jan to 18-Jan-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 6.0,
+      "weighted": 4.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 8,
+      "points": 136.0,
+      "weighted": 63.6,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 9,
+      "wins": 0,
+      "podiums": 3,
+      "top5": 6,
+      "top10": 7,
+      "top20": 9,
+      "pdga_points": 142.0,
+      "tour_weighted_points": 67.6,
+      "avg_finish": 5.44,
+      "win_rate": 0.0,
+      "top10_rate": 0.778
+    },
+    "all": {
+      "events": 9,
+      "wins": 0,
+      "podiums": 3,
+      "top5": 6,
+      "top10": 7,
+      "top20": 9,
+      "pdga_points": 142.0,
+      "tour_weighted_points": 67.6,
+      "avg_finish": 5.44,
+      "win_rate": 0.0,
+      "top10_rate": 0.778
+    }
+  },
+  "division_counts": {
+    "MA2": 1,
+    "MA40": 3,
+    "MA1": 1,
+    "MA50": 4
+  },
+  "results": [
+    {
+      "event_id": "97674",
+      "title": "2026 Singapore Sling",
+      "dates": "17-Jan to 18-Jan-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 4,
+      "pdga_points": 21.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "93621",
+      "title": "2025 Fairfield Qualifier",
+      "dates": "14-Jun-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 3,
+      "pdga_points": 12.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "93957",
+      "title": "Johor Disc Golf Open 2025",
+      "dates": "05-Jul to 06-Jul-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 4,
+      "pdga_points": 24.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "96657",
+      "title": "Chain Open - presented by Innova Discs",
+      "dates": "01-Nov to 02-Nov-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Zhenjiang, Jiangsu Sheng, China",
+      "place": 11,
+      "pdga_points": 6.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "78012",
+      "title": "2024 Tanglin Hill Safari",
+      "dates": "16-Mar-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore, AP, Singapore",
+      "place": 2,
+      "pdga_points": 12.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "61511",
+      "title": "The Godfather Classic presented by Chiang Mai Disc Golf",
+      "dates": "20-Aug-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Chiang Mai, Thailand",
+      "place": 3,
+      "pdga_points": 35.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "42689",
+      "title": "Singapore Sling 2020",
+      "dates": "19-Jan-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 11,
+      "pdga_points": 8.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "43398",
+      "title": "Shipwrecked in Malaysia",
+      "dates": "18-Jan-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 4,
+      "pdga_points": 16.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "44826",
+      "title": "Flying Saucers",
+      "dates": "14-Mar-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 7,
+      "pdga_points": 8.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 21.0,
+      "avg_finish": 4.0
+    },
+    {
+      "year": "2025",
+      "events": 3,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 2,
+      "pdga_points": 42.0,
+      "avg_finish": 6.0
+    },
+    {
+      "year": "2024",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 12.0,
+      "avg_finish": 2.0
+    },
+    {
+      "year": "2022",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 35.0,
+      "avg_finish": 3.0
+    },
+    {
+      "year": "2020",
+      "events": 3,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 2,
+      "pdga_points": 32.0,
+      "avg_finish": 7.33
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2020-02-11",
+      "rating": 790,
+      "rounds": 4
+    },
+    {
+      "date": "2020-04-14",
+      "rating": 776,
+      "rounds": 6
+    },
+    {
+      "date": "2022-09-13",
+      "rating": 835,
+      "rounds": 2
+    },
+    {
+      "date": "2024-04-09",
+      "rating": 830,
+      "rounds": 3
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 829,
+      "rounds": 6
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 843,
+      "rounds": 13
+    },
+    {
+      "date": "2025-12-09",
+      "rating": 838,
+      "rounds": 14
+    },
+    {
+      "date": "2026-02-10",
+      "rating": 833,
+      "rounds": 16
+    }
+  ],
+  "streak": {
+    "direction": "up",
+    "recent_avg": 19.0,
+    "season_avg": 14.2,
+    "delta_pct": 34.1
+  },
+  "pdga_url": "https://www.pdga.com/player/128019"
+}

@@ -1,0 +1,245 @@
+{
+  "pdga": 88646,
+  "name": "Lucas Deal",
+  "country": "India",
+  "country_key": "IN",
+  "flag": "\ud83c\uddee\ud83c\uddf3",
+  "rating": 919,
+  "classification": "Pro",
+  "city": "",
+  "nationality": "",
+  "division": "MA2",
+  "primary_class": "amateur",
+  "pdga_points": 584.0,
+  "tour_weighted_points": 8.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top5": 0,
+  "top10": 0,
+  "top20": 1,
+  "avg_finish": 16.0,
+  "win_rate": 0.0,
+  "top10_rate": 0.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 571,
+  "weighted_rank": 2394,
+  "country_rank": 249,
+  "am_events": 1,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 0,
+  "am_pdga_points": 584.0,
+  "last_active": "09-Jul to 11-Jul-2021",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 1,
+      "points": 584.0,
+      "weighted": 8.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 1,
+      "pdga_points": 584.0,
+      "tour_weighted_points": 8.0,
+      "avg_finish": 16.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "all": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 1,
+      "pdga_points": 584.0,
+      "tour_weighted_points": 8.0,
+      "avg_finish": 16.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    }
+  },
+  "division_counts": {
+    "MA2": 1
+  },
+  "results": [
+    {
+      "event_id": "47868",
+      "title": "Des Moines Challenge Presented by GEICO Des Moines",
+      "dates": "09-Jul to 11-Jul-2021",
+      "year": "2021",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Indianola, Iowa, United States",
+      "place": 16,
+      "pdga_points": 584.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 8.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2021",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 584.0,
+      "avg_finish": 16.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2021-02-09",
+      "rating": 917,
+      "rounds": 22
+    },
+    {
+      "date": "2021-03-09",
+      "rating": 914,
+      "rounds": 24
+    },
+    {
+      "date": "2021-04-13",
+      "rating": 915,
+      "rounds": 27
+    },
+    {
+      "date": "2021-05-11",
+      "rating": 920,
+      "rounds": 31
+    },
+    {
+      "date": "2021-06-08",
+      "rating": 919,
+      "rounds": 34
+    },
+    {
+      "date": "2021-07-13",
+      "rating": 918,
+      "rounds": 37
+    },
+    {
+      "date": "2021-09-14",
+      "rating": 928,
+      "rounds": 36
+    },
+    {
+      "date": "2021-10-12",
+      "rating": 931,
+      "rounds": 35
+    },
+    {
+      "date": "2022-03-08",
+      "rating": 936,
+      "rounds": 23
+    },
+    {
+      "date": "2022-04-12",
+      "rating": 946,
+      "rounds": 22
+    },
+    {
+      "date": "2022-06-14",
+      "rating": 949,
+      "rounds": 22
+    },
+    {
+      "date": "2022-08-09",
+      "rating": 952,
+      "rounds": 22
+    },
+    {
+      "date": "2022-11-08",
+      "rating": 953,
+      "rounds": 16
+    },
+    {
+      "date": "2023-06-13",
+      "rating": 944,
+      "rounds": 9
+    },
+    {
+      "date": "2023-07-11",
+      "rating": 953,
+      "rounds": 7
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/88646"
+}

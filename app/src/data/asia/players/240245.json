@@ -1,0 +1,331 @@
+{
+  "pdga": 240245,
+  "name": "John Kopp #240245",
+  "country": "Cambodia",
+  "country_key": "KH",
+  "flag": "\ud83c\uddf0\ud83c\udded",
+  "rating": 781,
+  "classification": "Amateur",
+  "city": "Krong Siem Reap",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 148.5,
+  "tour_weighted_points": 94.5,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 7,
+  "wins": 0,
+  "podiums": 5,
+  "top5": 6,
+  "top10": 7,
+  "top20": 7,
+  "avg_finish": 3.14,
+  "win_rate": 0.0,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 977,
+  "weighted_rank": 645,
+  "country_rank": 4,
+  "am_events": 6,
+  "am_wins": 0,
+  "am_podiums": 5,
+  "am_top10": 6,
+  "am_pdga_points": 96.0,
+  "last_active": "22-Mar to 23-Mar-2025",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 15.0,
+      "weighted": 27.5,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 6,
+      "points": 133.5,
+      "weighted": 67.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 1,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 52.5,
+      "tour_weighted_points": 7.0,
+      "avg_finish": 4.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 6,
+      "wins": 0,
+      "podiums": 5,
+      "top5": 5,
+      "top10": 6,
+      "top20": 6,
+      "pdga_points": 96.0,
+      "tour_weighted_points": 87.5,
+      "avg_finish": 3.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 7,
+      "wins": 0,
+      "podiums": 5,
+      "top5": 6,
+      "top10": 7,
+      "top20": 7,
+      "pdga_points": 148.5,
+      "tour_weighted_points": 94.5,
+      "avg_finish": 3.14,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA1": 4,
+    "MA3": 1,
+    "MA2": 1,
+    "MPO": 1
+  },
+  "results": [
+    {
+      "event_id": "87584",
+      "title": "A Holiday in Cambodia",
+      "dates": "22-Mar to 23-Mar-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Siem Reap, Cambodia",
+      "place": 6,
+      "pdga_points": 15.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "87653",
+      "title": "Siem Reap Singles",
+      "dates": "04-Jan to 08-Feb-2025",
+      "year": "2025",
+      "tier": "",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Siem Reap, Cambodia",
+      "place": 4,
+      "pdga_points": 52.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "85921",
+      "title": "Boxed Out Round 3",
+      "dates": "26-Dec-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Siem Reap, Cambodia",
+      "place": 2,
+      "pdga_points": 20.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "76563",
+      "title": "Holiday In Cambodia",
+      "dates": "23-Mar to 24-Mar-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Siem Reap, Cambodia",
+      "place": 3,
+      "pdga_points": 24.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "67191",
+      "title": "Holiday in Cambodia II",
+      "dates": "25-Mar to 26-Mar-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Siem Reap, Cambodia",
+      "place": 2,
+      "pdga_points": 10.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "64744",
+      "title": "The Khmer Cup 2023",
+      "dates": "17-Feb to 19-Feb-2023",
+      "year": "2023",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Siem Reap, Cambodia",
+      "place": 3,
+      "pdga_points": 15.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 27.5
+    },
+    {
+      "event_id": "65065",
+      "title": "Boxed Out",
+      "dates": "26-Dec-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Siem Reap, Cambodia",
+      "place": 2,
+      "pdga_points": 12.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2025",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 2,
+      "pdga_points": 67.5,
+      "avg_finish": 5.0
+    },
+    {
+      "year": "2024",
+      "events": 2,
+      "wins": 0,
+      "podiums": 2,
+      "top10": 2,
+      "pdga_points": 44.0,
+      "avg_finish": 2.5
+    },
+    {
+      "year": "2023",
+      "events": 2,
+      "wins": 0,
+      "podiums": 2,
+      "top10": 2,
+      "pdga_points": 25.0,
+      "avg_finish": 2.5
+    },
+    {
+      "year": "2022",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 12.0,
+      "avg_finish": 2.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2023-01-10",
+      "rating": 781,
+      "rounds": 2
+    },
+    {
+      "date": "2023-03-14",
+      "rating": 817,
+      "rounds": 5
+    },
+    {
+      "date": "2023-04-11",
+      "rating": 828,
+      "rounds": 7
+    },
+    {
+      "date": "2024-04-09",
+      "rating": 800,
+      "rounds": 9
+    },
+    {
+      "date": "2025-01-14",
+      "rating": 836,
+      "rounds": 8
+    },
+    {
+      "date": "2025-02-11",
+      "rating": 791,
+      "rounds": 9
+    },
+    {
+      "date": "2025-04-08",
+      "rating": 809,
+      "rounds": 12
+    }
+  ],
+  "streak": {
+    "direction": "up",
+    "recent_avg": 29.2,
+    "season_avg": 15.2,
+    "delta_pct": 91.3
+  },
+  "pdga_url": "https://www.pdga.com/player/240245"
+}

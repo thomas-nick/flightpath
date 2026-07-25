@@ -1,0 +1,55 @@
+{
+  "event_id": "61416",
+  "title": "Birds Of A Feather",
+  "location": "Koh Chang, Thailand",
+  "dates": "16-Jun-2022",
+  "year": "2022",
+  "tier": "C",
+  "level": "c_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 2,
+  "avg_mpo_rating": 894.0,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "count": 2
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 12353,
+      "name": "Brock Pitzer",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 1,
+      "pdga_points": 10.0,
+      "rating": 894,
+      "prize": "$28",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    }
+  ],
+  "fpo": [],
+  "amateur": [
+    {
+      "pdga": 210956,
+      "name": "JamJam Pitzer",
+      "division": "FA4",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 4.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    }
+  ],
+  "divisions": [
+    "FA4",
+    "MPO"
+  ]
+}

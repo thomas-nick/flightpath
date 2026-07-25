@@ -1,0 +1,508 @@
+{
+  "pdga": 90008,
+  "name": "Arto Myllyl\u00e4 #90008",
+  "country": "Finland",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 935,
+  "classification": "Amateur",
+  "city": "Kotka",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 1151.0,
+  "tour_weighted_points": 216.3,
+  "asia_tour_points": 257.5,
+  "asia_tour_events": 3,
+  "events_played": 15,
+  "wins": 0,
+  "podiums": 3,
+  "top5": 4,
+  "top10": 6,
+  "top20": 14,
+  "avg_finish": 11.4,
+  "win_rate": 0.0,
+  "top10_rate": 0.4,
+  "cash_earned": 0.0,
+  "pdga_rank": 203,
+  "weighted_rank": 305,
+  "country_rank": null,
+  "am_events": 4,
+  "am_wins": 0,
+  "am_podiums": 3,
+  "am_top10": 3,
+  "am_pdga_points": 161.0,
+  "last_active": "20-Jan to 22-Jan-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 3,
+      "points": 257.5,
+      "weighted": 72.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 2,
+      "points": 112.0,
+      "weighted": 83.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 4,
+      "points": 547.5,
+      "weighted": 19.5,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 6,
+      "points": 234.0,
+      "weighted": 41.8,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 11,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 1,
+      "top10": 3,
+      "top20": 10,
+      "pdga_points": 990.0,
+      "tour_weighted_points": 103.3,
+      "avg_finish": 14.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.273
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 4,
+      "wins": 0,
+      "podiums": 3,
+      "top5": 3,
+      "top10": 3,
+      "top20": 4,
+      "pdga_points": 161.0,
+      "tour_weighted_points": 113.0,
+      "avg_finish": 4.25,
+      "win_rate": 0.0,
+      "top10_rate": 0.75
+    },
+    "all": {
+      "events": 15,
+      "wins": 0,
+      "podiums": 3,
+      "top5": 4,
+      "top10": 6,
+      "top20": 14,
+      "pdga_points": 1151.0,
+      "tour_weighted_points": 216.3,
+      "avg_finish": 11.4,
+      "win_rate": 0.0,
+      "top10_rate": 0.4
+    }
+  },
+  "division_counts": {
+    "MPO": 11,
+    "MA40": 2,
+    "MA3": 1,
+    "MA2": 1
+  },
+  "results": [
+    {
+      "event_id": "95859",
+      "title": "Samui Swine Classic XIII - Pros. Presented by Latitude64 - PDGA Asia Tour Event #3",
+      "dates": "30-Jan to 01-Feb-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "Koh Samui, Thailand",
+      "place": 17,
+      "pdga_points": 115.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 16.0
+    },
+    {
+      "event_id": "99301",
+      "title": "The 11th Annual Hyzenbrownie Open \u201cThe Greenskeeper\u2019s Guild\u201d",
+      "dates": "24-Jan to 25-Jan-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surrathani , Thailand",
+      "place": 11,
+      "pdga_points": 5.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "96727",
+      "title": "Siam Open 2026 - PDGA Asia Tour Event #2",
+      "dates": "20-Jan to 22-Jan-2026",
+      "year": "2026",
+      "tier": "B",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "Bangkok, Thailand",
+      "place": 14,
+      "pdga_points": 30.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 16.0
+    },
+    {
+      "event_id": "97037",
+      "title": "Chiang Mai Open IV - PDGA Asia Tour Event #4",
+      "dates": "06-Feb to 08-Feb-2026",
+      "year": "2026",
+      "tier": "B",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "Chiang Mai, Thailand",
+      "place": 8,
+      "pdga_points": 112.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 40.0
+    },
+    {
+      "event_id": "85341",
+      "title": "Samui Swine Classic XII - MPO, MP40, MP50, FPO Presented by Latitude 64",
+      "dates": "31-Jan to 02-Feb-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 19,
+      "pdga_points": 85.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "88309",
+      "title": "Hyzenbrownie X The Grin Reefer 2025 - Pros",
+      "dates": "25-Jan to 26-Jan-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Surrathani, Thailand",
+      "place": 14,
+      "pdga_points": 25.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "86250",
+      "title": "SE Asia Disc Golf Championship 2025",
+      "dates": "18-Jan to 19-Jan-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 20,
+      "pdga_points": 60.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "86211",
+      "title": "3rd Annual Chiang Mai Open",
+      "dates": "07-Feb to 09-Feb-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "San Kamphaeng, Thailand",
+      "place": 5,
+      "pdga_points": 70.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "74304",
+      "title": "SE Asia Disc Golf Championship 2024",
+      "dates": "26-Jan to 28-Jan-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 12,
+      "pdga_points": 157.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "74057",
+      "title": "2024 Asia Open Disc Golf",
+      "dates": "20-Jan to 21-Jan-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Taipei City, Taipei City, Chinese Taipei",
+      "place": 6,
+      "pdga_points": 285.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "73691",
+      "title": "Samui Swine Classic XI - MPO, FPO, MP40, MP50, MA1, FA1",
+      "dates": "02-Feb to 04-Feb-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 28,
+      "pdga_points": 45.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.5
+    },
+    {
+      "event_id": "43198",
+      "title": "Samui Swine Classic VII - Ams - Presented by Innova",
+      "dates": "29-Jan to 30-Jan-2020",
+      "year": "2020",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 11,
+      "pdga_points": 40.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 8.0
+    },
+    {
+      "event_id": "43184",
+      "title": "The 5th Annual Hyzenbrownie Open \"King Of The Island\" 2020",
+      "dates": "22-Jan to 26-Jan-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Namuang Koh Samui, Thailand",
+      "place": 2,
+      "pdga_points": 28.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "38587",
+      "title": "Hyzenbrownie Open \"Hurljam 2019\" - Ams",
+      "dates": "14-Feb to 15-Feb-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Namuang, Thailand",
+      "place": 2,
+      "pdga_points": 21.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "38588",
+      "title": "Samui Swine Classic VI - Presented by Dynamic Discs - Ams",
+      "dates": "06-Feb to 07-Feb-2019",
+      "year": "2019",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 2,
+      "pdga_points": 72.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 75.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 4,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 262.5,
+      "avg_finish": 12.5
+    },
+    {
+      "year": "2025",
+      "events": 4,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 240.0,
+      "avg_finish": 14.5
+    },
+    {
+      "year": "2024",
+      "events": 3,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 487.5,
+      "avg_finish": 15.33
+    },
+    {
+      "year": "2020",
+      "events": 2,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 68.0,
+      "avg_finish": 6.5
+    },
+    {
+      "year": "2019",
+      "events": 2,
+      "wins": 0,
+      "podiums": 2,
+      "top10": 2,
+      "pdga_points": 93.0,
+      "avg_finish": 2.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2023-10-10",
+      "rating": 917,
+      "rounds": 30
+    },
+    {
+      "date": "2023-11-14",
+      "rating": 923,
+      "rounds": 31
+    },
+    {
+      "date": "2024-02-13",
+      "rating": 930,
+      "rounds": 40
+    },
+    {
+      "date": "2024-06-11",
+      "rating": 928,
+      "rounds": 43
+    },
+    {
+      "date": "2024-07-09",
+      "rating": 934,
+      "rounds": 41
+    },
+    {
+      "date": "2024-08-13",
+      "rating": 936,
+      "rounds": 39
+    },
+    {
+      "date": "2024-09-10",
+      "rating": 936,
+      "rounds": 39
+    },
+    {
+      "date": "2024-11-12",
+      "rating": 936,
+      "rounds": 38
+    },
+    {
+      "date": "2025-02-11",
+      "rating": 930,
+      "rounds": 36
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 928,
+      "rounds": 42
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 926,
+      "rounds": 35
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 925,
+      "rounds": 38
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 928,
+      "rounds": 40
+    },
+    {
+      "date": "2026-02-10",
+      "rating": 940,
+      "rounds": 34
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 935,
+      "rounds": 33
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 50.0,
+    "season_avg": 83.4,
+    "delta_pct": -40.1
+  },
+  "pdga_url": "https://www.pdga.com/player/90008"
+}

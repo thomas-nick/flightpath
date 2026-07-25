@@ -1,0 +1,303 @@
+{
+  "pdga": 152810,
+  "name": "Echo Li #152810",
+  "country": "New Zealand",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 861,
+  "classification": "Professional",
+  "city": "Te Anau",
+  "nationality": "",
+  "division": "FPO",
+  "primary_class": "open_fpo",
+  "pdga_points": 39.0,
+  "tour_weighted_points": 250.0,
+  "asia_tour_points": 18.0,
+  "asia_tour_events": 2,
+  "events_played": 4,
+  "wins": 0,
+  "podiums": 4,
+  "top5": 4,
+  "top10": 4,
+  "top20": 4,
+  "avg_finish": 2.5,
+  "win_rate": 0.0,
+  "top10_rate": 1.0,
+  "cash_earned": 35.0,
+  "pdga_rank": 1601,
+  "weighted_rank": 254,
+  "country_rank": null,
+  "am_events": 1,
+  "am_wins": 0,
+  "am_podiums": 1,
+  "am_top10": 1,
+  "am_pdga_points": 18.0,
+  "last_active": "20-Jan to 22-Jan-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 2,
+      "points": 18.0,
+      "weighted": 220.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 2,
+      "points": 21.0,
+      "weighted": 30.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 3,
+      "wins": 0,
+      "podiums": 3,
+      "top5": 3,
+      "top10": 3,
+      "top20": 3,
+      "pdga_points": 21.0,
+      "tour_weighted_points": 235.0,
+      "avg_finish": 2.67,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "amateur": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 18.0,
+      "tour_weighted_points": 15.0,
+      "avg_finish": 2.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 4,
+      "wins": 0,
+      "podiums": 4,
+      "top5": 4,
+      "top10": 4,
+      "top20": 4,
+      "pdga_points": 39.0,
+      "tour_weighted_points": 250.0,
+      "avg_finish": 2.5,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "FPO": 3,
+    "FA1": 1
+  },
+  "results": [
+    {
+      "event_id": "95859",
+      "title": "Samui Swine Classic XIII - Pros. Presented by Latitude64 - PDGA Asia Tour Event #3",
+      "dates": "30-Jan to 01-Feb-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "Koh Samui, Thailand",
+      "place": 3,
+      "pdga_points": 9.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "",
+      "weighted_points": 110.0
+    },
+    {
+      "event_id": "96727",
+      "title": "Siam Open 2026 - PDGA Asia Tour Event #2",
+      "dates": "20-Jan to 22-Jan-2026",
+      "year": "2026",
+      "tier": "B",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "Bangkok, Thailand",
+      "place": 3,
+      "pdga_points": 9.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "",
+      "weighted_points": 110.0
+    },
+    {
+      "event_id": "62395",
+      "title": "2022 Suzhou Jiangsu Challenge \uff08\u82cf\u5dde\uff09\u6c5f\u82cf\u6311\u6218\u8d5b\u548c\u5973\u5b50\u5168\u7403\u8d5b\u4e8b + WGE",
+      "dates": "07-Aug-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Suzhou, Jiangsu Sheng, China",
+      "place": 2,
+      "pdga_points": 3.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "$35",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "62454",
+      "title": "2022 Kunshan The Yangtze River Delta Open",
+      "dates": "06-Aug-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Kunshan, Suzhou, Jiangsu Sheng, China",
+      "place": 2,
+      "pdga_points": 18.0,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 2,
+      "wins": 0,
+      "podiums": 2,
+      "top10": 2,
+      "pdga_points": 18.0,
+      "avg_finish": 3.0
+    },
+    {
+      "year": "2022",
+      "events": 2,
+      "wins": 0,
+      "podiums": 2,
+      "top10": 2,
+      "pdga_points": 21.0,
+      "avg_finish": 2.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2025-01-14",
+      "rating": 846,
+      "rounds": 47
+    },
+    {
+      "date": "2025-03-11",
+      "rating": 843,
+      "rounds": 36
+    },
+    {
+      "date": "2025-04-08",
+      "rating": 840,
+      "rounds": 40
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 845,
+      "rounds": 38
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 849,
+      "rounds": 36
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 850,
+      "rounds": 39
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 859,
+      "rounds": 37
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 859,
+      "rounds": 39
+    },
+    {
+      "date": "2025-11-11",
+      "rating": 862,
+      "rounds": 39
+    },
+    {
+      "date": "2025-12-09",
+      "rating": 858,
+      "rounds": 41
+    },
+    {
+      "date": "2026-01-13",
+      "rating": 852,
+      "rounds": 41
+    },
+    {
+      "date": "2026-02-10",
+      "rating": 857,
+      "rounds": 47
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 856,
+      "rounds": 48
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 862,
+      "rounds": 49
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 861,
+      "rounds": 47
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 7.0,
+    "season_avg": 18.0,
+    "delta_pct": -61.1
+  },
+  "pdga_url": "https://www.pdga.com/player/152810"
+}

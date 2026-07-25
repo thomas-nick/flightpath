@@ -1,0 +1,212 @@
+{
+  "event_id": "48668",
+  "title": "Taiwan National / \u76df\u4e3b\u8cfd",
+  "location": "Gongliao District, New Taipei City, Chinese Taipei",
+  "dates": "09-Jan to 10-Jan-2021",
+  "year": "2021",
+  "tier": "C",
+  "level": "c_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 14,
+  "avg_mpo_rating": 938.7,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddf9\ud83c\uddfc",
+      "country": "Chinese Taipei",
+      "count": 14
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 128836,
+      "name": "Jacky Chen",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 1,
+      "pdga_points": 85.0,
+      "rating": 1040,
+      "prize": "$210",
+      "flag": "\ud83c\uddf9\ud83c\uddfc",
+      "country": "Chinese Taipei",
+      "country_key": "TW"
+    },
+    {
+      "pdga": 129243,
+      "name": "Ace Hsiao",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 2,
+      "pdga_points": 80.0,
+      "rating": 997,
+      "prize": "$140",
+      "flag": "\ud83c\uddf9\ud83c\uddfc",
+      "country": "Chinese Taipei",
+      "country_key": "TW"
+    },
+    {
+      "pdga": 43608,
+      "name": "Chia-Shih Lo",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 3,
+      "pdga_points": 75.0,
+      "rating": 950,
+      "prize": "$105",
+      "flag": "\ud83c\uddf9\ud83c\uddfc",
+      "country": "Chinese Taipei",
+      "country_key": "TW"
+    },
+    {
+      "pdga": 144129,
+      "name": "Chia Pin Lee",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 4,
+      "pdga_points": 70.0,
+      "rating": null,
+      "prize": "$88",
+      "flag": "\ud83c\uddf9\ud83c\uddfc",
+      "country": "Chinese Taipei",
+      "country_key": "TW"
+    },
+    {
+      "pdga": 8720,
+      "name": "Richard Tang",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 5,
+      "pdga_points": 65.0,
+      "rating": 963,
+      "prize": "$61",
+      "flag": "\ud83c\uddf9\ud83c\uddfc",
+      "country": "Chinese Taipei",
+      "country_key": "TW"
+    },
+    {
+      "pdga": 62239,
+      "name": "Ming Hsing Chen",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 8,
+      "pdga_points": 50.0,
+      "rating": 966,
+      "prize": "$28",
+      "flag": "\ud83c\uddf9\ud83c\uddfc",
+      "country": "Chinese Taipei",
+      "country_key": "TW"
+    },
+    {
+      "pdga": 143709,
+      "name": "Shenghung Cheng",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 9,
+      "pdga_points": 45.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\uddfc",
+      "country": "Chinese Taipei",
+      "country_key": "TW"
+    },
+    {
+      "pdga": 8737,
+      "name": "Kevin Chen",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 11,
+      "pdga_points": 35.0,
+      "rating": 879,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\uddfc",
+      "country": "Chinese Taipei",
+      "country_key": "TW"
+    },
+    {
+      "pdga": 84195,
+      "name": "Jesse Staerkel",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 14,
+      "pdga_points": 20.0,
+      "rating": 887,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\uddfc",
+      "country": "Chinese Taipei",
+      "country_key": "TW"
+    },
+    {
+      "pdga": 43610,
+      "name": "Chia-Fang Chen",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 15,
+      "pdga_points": 15.0,
+      "rating": 884,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\uddfc",
+      "country": "Chinese Taipei",
+      "country_key": "TW"
+    },
+    {
+      "pdga": 91705,
+      "name": "Nathan Owen",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 16,
+      "pdga_points": 10.0,
+      "rating": 882,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\uddfc",
+      "country": "Chinese Taipei",
+      "country_key": "TW"
+    }
+  ],
+  "fpo": [],
+  "amateur": [
+    {
+      "pdga": 54305,
+      "name": "Yi-Jen Huang",
+      "division": "MA4",
+      "class_bucket": "amateur",
+      "place": 4,
+      "pdga_points": 0.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\uddfc",
+      "country": "Chinese Taipei",
+      "country_key": "TW"
+    },
+    {
+      "pdga": 8715,
+      "name": "Hung Jun Lin",
+      "division": "MA70",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 6.0,
+      "rating": 828,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\uddfc",
+      "country": "Chinese Taipei",
+      "country_key": "TW"
+    },
+    {
+      "pdga": 8717,
+      "name": "Bee Fa Chen",
+      "division": "MA70",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 4.5,
+      "rating": 742,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\uddfc",
+      "country": "Chinese Taipei",
+      "country_key": "TW"
+    }
+  ],
+  "divisions": [
+    "MA4",
+    "MA70",
+    "MPO"
+  ]
+}

@@ -1,0 +1,620 @@
+{
+  "pdga": 62659,
+  "name": "David Morra #62659",
+  "country": "United States",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 959,
+  "classification": "Professional",
+  "city": "Kailua",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 850.0,
+  "tour_weighted_points": 368.5,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 14,
+  "wins": 8,
+  "podiums": 11,
+  "top5": 14,
+  "top10": 14,
+  "top20": 14,
+  "avg_finish": 2.07,
+  "win_rate": 0.571,
+  "top10_rate": 1.0,
+  "cash_earned": 530.0,
+  "pdga_rank": 291,
+  "weighted_rank": 158,
+  "country_rank": null,
+  "am_events": 4,
+  "am_wins": 1,
+  "am_podiums": 3,
+  "am_top10": 4,
+  "am_pdga_points": 510.0,
+  "last_active": "20-Feb-2021",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 2,
+      "points": 342.0,
+      "weighted": 155.0,
+      "wins": 1
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 108.0,
+      "weighted": 37.5,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 11,
+      "points": 400.0,
+      "weighted": 176.0,
+      "wins": 7
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 10,
+      "wins": 7,
+      "podiums": 8,
+      "top5": 10,
+      "top10": 10,
+      "top20": 10,
+      "pdga_points": 340.0,
+      "tour_weighted_points": 169.0,
+      "avg_finish": 1.8,
+      "win_rate": 0.7,
+      "top10_rate": 1.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 4,
+      "wins": 1,
+      "podiums": 3,
+      "top5": 4,
+      "top10": 4,
+      "top20": 4,
+      "pdga_points": 510.0,
+      "tour_weighted_points": 199.5,
+      "avg_finish": 2.75,
+      "win_rate": 0.25,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 14,
+      "wins": 8,
+      "podiums": 11,
+      "top5": 14,
+      "top10": 14,
+      "top20": 14,
+      "pdga_points": 850.0,
+      "tour_weighted_points": 368.5,
+      "avg_finish": 2.07,
+      "win_rate": 0.571,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MPO": 10,
+    "MA1": 2,
+    "MA40": 2
+  },
+  "results": [
+    {
+      "event_id": "49579",
+      "title": "Singapore Sling 2021",
+      "dates": "20-Feb-2021",
+      "year": "2021",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 1,
+      "pdga_points": 10.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "43198",
+      "title": "Samui Swine Classic VII - Ams - Presented by Innova",
+      "dates": "29-Jan to 30-Jan-2020",
+      "year": "2020",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 3,
+      "pdga_points": 190.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 55.0
+    },
+    {
+      "event_id": "42689",
+      "title": "Singapore Sling 2020",
+      "dates": "19-Jan-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 1,
+      "pdga_points": 45.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$134",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "43398",
+      "title": "Shipwrecked in Malaysia",
+      "dates": "18-Jan-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 4,
+      "pdga_points": 35.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$65",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "44826",
+      "title": "Flying Saucers",
+      "dates": "14-Mar-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 5,
+      "pdga_points": 20.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "47954",
+      "title": "2020 Social Distancing Open @ Kallang Riverside",
+      "dates": "12-Dec-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 1,
+      "pdga_points": 20.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "43307",
+      "title": "Sizzlin Saigon Winter Open 2020",
+      "dates": "10-Jan to 12-Jan-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Ho Chi Minh City, Vietnam",
+      "place": 1,
+      "pdga_points": 30.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$81",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "40802",
+      "title": "Beasts Unchained",
+      "dates": "27-Apr-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Gelang Patah, Johor, Malaysia",
+      "place": 1,
+      "pdga_points": 60.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$96",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "41595",
+      "title": "Chains",
+      "dates": "22-Jun-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Pulai, Johor, Malaysia",
+      "place": 1,
+      "pdga_points": 65.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$48",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "43341",
+      "title": "Capital City Crush in Kuala Lumpur",
+      "dates": "14-Dec-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Shah Alam, Selangor, Malaysia",
+      "place": 1,
+      "pdga_points": 25.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$66",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "41952",
+      "title": "2019 Singapore Disc Golf Championships",
+      "dates": "07-Sep-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 2,
+      "pdga_points": 30.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$40",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "33102",
+      "title": "Third Annual Hyzenbrownie Open - The Flaskenpouch 2018",
+      "dates": "27-Jan to 28-Jan-2018",
+      "year": "2018",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 2,
+      "pdga_points": 108.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 37.5
+    },
+    {
+      "event_id": "33706",
+      "title": "Samui Swine Classic V",
+      "dates": "01-Feb to 03-Feb-2018",
+      "year": "2018",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 1,
+      "pdga_points": 152.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 100.0
+    },
+    {
+      "event_id": "30551",
+      "title": "Koh Som Invitational 2",
+      "dates": "01-Feb-2017",
+      "year": "2017",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Som, Koh Samui, Surat Thani, Thailand",
+      "place": 5,
+      "pdga_points": 60.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "49579",
+      "title": "Singapore Sling 2021",
+      "dates": "20-Feb-2021",
+      "year": "2021",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 1,
+      "pdga_points": 10.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "42689",
+      "title": "Singapore Sling 2020",
+      "dates": "19-Jan-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 1,
+      "pdga_points": 45.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$134",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "47954",
+      "title": "2020 Social Distancing Open @ Kallang Riverside",
+      "dates": "12-Dec-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 1,
+      "pdga_points": 20.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "43307",
+      "title": "Sizzlin Saigon Winter Open 2020",
+      "dates": "10-Jan to 12-Jan-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Ho Chi Minh City, Vietnam",
+      "place": 1,
+      "pdga_points": 30.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$81",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "40802",
+      "title": "Beasts Unchained",
+      "dates": "27-Apr-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Gelang Patah, Johor, Malaysia",
+      "place": 1,
+      "pdga_points": 60.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$96",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "41595",
+      "title": "Chains",
+      "dates": "22-Jun-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Pulai, Johor, Malaysia",
+      "place": 1,
+      "pdga_points": 65.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$48",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "43341",
+      "title": "Capital City Crush in Kuala Lumpur",
+      "dates": "14-Dec-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Shah Alam, Selangor, Malaysia",
+      "place": 1,
+      "pdga_points": 25.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$66",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "33706",
+      "title": "Samui Swine Classic V",
+      "dates": "01-Feb to 03-Feb-2018",
+      "year": "2018",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Surat Thani, Thailand",
+      "place": 1,
+      "pdga_points": 152.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 100.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2021",
+      "events": 1,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 10.0,
+      "avg_finish": 1.0
+    },
+    {
+      "year": "2020",
+      "events": 6,
+      "wins": 3,
+      "podiums": 4,
+      "top10": 6,
+      "pdga_points": 340.0,
+      "avg_finish": 2.5
+    },
+    {
+      "year": "2019",
+      "events": 4,
+      "wins": 3,
+      "podiums": 4,
+      "top10": 4,
+      "pdga_points": 180.0,
+      "avg_finish": 1.25
+    },
+    {
+      "year": "2018",
+      "events": 2,
+      "wins": 1,
+      "podiums": 2,
+      "top10": 2,
+      "pdga_points": 260.0,
+      "avg_finish": 1.5
+    },
+    {
+      "year": "2017",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 60.0,
+      "avg_finish": 5.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2024-02-13",
+      "rating": 957,
+      "rounds": 18
+    },
+    {
+      "date": "2024-03-12",
+      "rating": 955,
+      "rounds": 13
+    },
+    {
+      "date": "2024-04-09",
+      "rating": 958,
+      "rounds": 15
+    },
+    {
+      "date": "2024-05-14",
+      "rating": 966,
+      "rounds": 12
+    },
+    {
+      "date": "2024-10-08",
+      "rating": 970,
+      "rounds": 12
+    },
+    {
+      "date": "2025-02-11",
+      "rating": 973,
+      "rounds": 15
+    },
+    {
+      "date": "2025-04-08",
+      "rating": 959,
+      "rounds": 15
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 969,
+      "rounds": 17
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 963,
+      "rounds": 17
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 961,
+      "rounds": 19
+    },
+    {
+      "date": "2026-01-13",
+      "rating": 959,
+      "rounds": 19
+    },
+    {
+      "date": "2026-02-10",
+      "rating": 951,
+      "rounds": 17
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 951,
+      "rounds": 17
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 958,
+      "rounds": 13
+    },
+    {
+      "date": "2026-07-14",
+      "rating": 959,
+      "rounds": 12
+    }
+  ],
+  "streak": {
+    "direction": "up",
+    "recent_avg": 81.7,
+    "season_avg": 55.0,
+    "delta_pct": 48.5
+  },
+  "pdga_url": "https://www.pdga.com/player/62659"
+}

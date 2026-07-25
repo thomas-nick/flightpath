@@ -1,0 +1,316 @@
+{
+  "pdga": 226303,
+  "name": "Gianna Yim #226303",
+  "country": "Japan",
+  "country_key": "JP",
+  "flag": "\ud83c\uddef\ud83c\uddf5",
+  "rating": 748,
+  "classification": "Amateur",
+  "city": "Yomitan",
+  "nationality": "United States",
+  "division": "FA3",
+  "primary_class": "amateur",
+  "pdga_points": 16.5,
+  "tour_weighted_points": 441.5,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 4,
+  "wins": 2,
+  "podiums": 3,
+  "top5": 3,
+  "top10": 4,
+  "top20": 4,
+  "avg_finish": 2.5,
+  "win_rate": 0.5,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 1865,
+  "weighted_rank": 126,
+  "country_rank": 301,
+  "am_events": 4,
+  "am_wins": 2,
+  "am_podiums": 3,
+  "am_top10": 4,
+  "am_pdga_points": 16.5,
+  "last_active": "09-Jan to 11-Jan-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 2,
+      "points": 6.0,
+      "weighted": 400.0,
+      "wins": 2
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 4.5,
+      "weighted": 37.5,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 1,
+      "points": 6.0,
+      "weighted": 4.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 4,
+      "wins": 2,
+      "podiums": 3,
+      "top5": 3,
+      "top10": 4,
+      "top20": 4,
+      "pdga_points": 16.5,
+      "tour_weighted_points": 441.5,
+      "avg_finish": 2.5,
+      "win_rate": 0.5,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 4,
+      "wins": 2,
+      "podiums": 3,
+      "top5": 3,
+      "top10": 4,
+      "top20": 4,
+      "pdga_points": 16.5,
+      "tour_weighted_points": 441.5,
+      "avg_finish": 2.5,
+      "win_rate": 0.5,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "FA3": 2,
+    "FA1": 2
+  },
+  "results": [
+    {
+      "event_id": "96943",
+      "title": "2026 Asia Disc Golf Open - PDGA Asia Tour Event #1",
+      "dates": "09-Jan to 11-Jan-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "Kaohsiung, Kaohsiung City, Chinese Taipei",
+      "place": 1,
+      "pdga_points": 1.5,
+      "division": "FA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 200.0
+    },
+    {
+      "event_id": "97704",
+      "title": "The 14th Okinawa Open - PDGA  Asia Tour Event #6",
+      "dates": "06-Mar to 08-Mar-2026",
+      "year": "2026",
+      "tier": "B",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "Kunigami-gun, Okinawa, Japan",
+      "place": 1,
+      "pdga_points": 4.5,
+      "division": "FA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 200.0
+    },
+    {
+      "event_id": "87628",
+      "title": "The13th Okinawa Open",
+      "dates": "22-Feb to 23-Feb-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Kunigami-gun, Okinawa, Japan",
+      "place": 2,
+      "pdga_points": 4.5,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 37.5
+    },
+    {
+      "event_id": "89229",
+      "title": "2025 Formosa Disc Golf Championships",
+      "dates": "14-Jun to 15-Jun-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Kaohsiung City, Kaohsiung City, Chinese Taipei",
+      "place": 6,
+      "pdga_points": 6.0,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "96943",
+      "title": "2026 Asia Disc Golf Open - PDGA Asia Tour Event #1",
+      "dates": "09-Jan to 11-Jan-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "Kaohsiung, Kaohsiung City, Chinese Taipei",
+      "place": 1,
+      "pdga_points": 1.5,
+      "division": "FA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 200.0
+    },
+    {
+      "event_id": "97704",
+      "title": "The 14th Okinawa Open - PDGA  Asia Tour Event #6",
+      "dates": "06-Mar to 08-Mar-2026",
+      "year": "2026",
+      "tier": "B",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "Kunigami-gun, Okinawa, Japan",
+      "place": 1,
+      "pdga_points": 4.5,
+      "division": "FA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 200.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 2,
+      "wins": 2,
+      "podiums": 2,
+      "top10": 2,
+      "pdga_points": 6.0,
+      "avg_finish": 1.0
+    },
+    {
+      "year": "2025",
+      "events": 2,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 2,
+      "pdga_points": 10.5,
+      "avg_finish": 4.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2022-09-13",
+      "rating": 717,
+      "rounds": 2
+    },
+    {
+      "date": "2023-03-14",
+      "rating": 704,
+      "rounds": 5
+    },
+    {
+      "date": "2023-04-11",
+      "rating": 718,
+      "rounds": 8
+    },
+    {
+      "date": "2023-06-13",
+      "rating": 709,
+      "rounds": 11
+    },
+    {
+      "date": "2023-07-11",
+      "rating": 723,
+      "rounds": 13
+    },
+    {
+      "date": "2023-08-08",
+      "rating": 722,
+      "rounds": 15
+    },
+    {
+      "date": "2023-10-10",
+      "rating": 706,
+      "rounds": 17
+    },
+    {
+      "date": "2025-03-11",
+      "rating": 730,
+      "rounds": 7
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 735,
+      "rounds": 8
+    },
+    {
+      "date": "2026-02-10",
+      "rating": 745,
+      "rounds": 8
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 748,
+      "rounds": 9
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 3.5,
+    "season_avg": 6.0,
+    "delta_pct": -41.7
+  },
+  "pdga_url": "https://www.pdga.com/player/226303"
+}

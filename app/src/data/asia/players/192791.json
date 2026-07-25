@@ -1,0 +1,270 @@
+{
+  "pdga": 192791,
+  "name": "Steven Castillo",
+  "country": "India",
+  "country_key": "IN",
+  "flag": "\ud83c\uddee\ud83c\uddf3",
+  "rating": null,
+  "classification": "Pro",
+  "city": "",
+  "nationality": "",
+  "division": "MA4",
+  "primary_class": "amateur",
+  "pdga_points": 40.0,
+  "tour_weighted_points": 5.6,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top5": 0,
+  "top10": 1,
+  "top20": 2,
+  "avg_finish": 10.5,
+  "win_rate": 0.0,
+  "top10_rate": 0.5,
+  "cash_earned": 0.0,
+  "pdga_rank": 2432,
+  "weighted_rank": 2694,
+  "country_rank": 850,
+  "am_events": 2,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 1,
+  "am_pdga_points": 40.0,
+  "last_active": "27-Feb-2022",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 2,
+      "points": 40.0,
+      "weighted": 5.6,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 1,
+      "top20": 2,
+      "pdga_points": 40.0,
+      "tour_weighted_points": 5.6,
+      "avg_finish": 10.5,
+      "win_rate": 0.0,
+      "top10_rate": 0.5
+    },
+    "all": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 1,
+      "top20": 2,
+      "pdga_points": 40.0,
+      "tour_weighted_points": 5.6,
+      "avg_finish": 10.5,
+      "win_rate": 0.0,
+      "top10_rate": 0.5
+    }
+  },
+  "division_counts": {
+    "MA4": 2
+  },
+  "results": [
+    {
+      "event_id": "57571",
+      "title": "WIFFS #21 - Unfrozen Open (CEP Charity - Rated)",
+      "dates": "27-Feb-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Richmond, Indiana, United States",
+      "place": 7,
+      "pdga_points": 10.0,
+      "division": "MA4",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "54061",
+      "title": "Fling for Hope",
+      "dates": "30-Oct-2021",
+      "year": "2021",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Winchester, Indiana, United States",
+      "place": 14,
+      "pdga_points": 30.0,
+      "division": "MA4",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 1.6
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2022",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 10.0,
+      "avg_finish": 7.0
+    },
+    {
+      "year": "2021",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 30.0,
+      "avg_finish": 14.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2024-08-13",
+      "rating": 843,
+      "rounds": 35
+    },
+    {
+      "date": "2024-09-10",
+      "rating": 842,
+      "rounds": 35
+    },
+    {
+      "date": "2024-10-08",
+      "rating": 843,
+      "rounds": 34
+    },
+    {
+      "date": "2024-11-12",
+      "rating": 838,
+      "rounds": 42
+    },
+    {
+      "date": "2025-01-14",
+      "rating": 839,
+      "rounds": 44
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 852,
+      "rounds": 30
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 846,
+      "rounds": 26
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 845,
+      "rounds": 26
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 846,
+      "rounds": 30
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 848,
+      "rounds": 31
+    },
+    {
+      "date": "2025-11-11",
+      "rating": 854,
+      "rounds": 29
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 856,
+      "rounds": 27
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 853,
+      "rounds": 30
+    },
+    {
+      "date": "2026-06-09",
+      "rating": 854,
+      "rounds": 38
+    },
+    {
+      "date": "2026-07-14",
+      "rating": 856,
+      "rounds": 36
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/192791"
+}

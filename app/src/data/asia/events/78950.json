@@ -1,0 +1,272 @@
+{
+  "event_id": "78950",
+  "title": "Go for it Republic of Korea",
+  "location": "Yeongdong-gun, Chungcheongbuk-do, South Korea",
+  "dates": "31-Mar-2024",
+  "year": "2024",
+  "tier": "C",
+  "level": "c_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 18,
+  "avg_mpo_rating": 928.1,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "count": 14
+    },
+    {
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "count": 2
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 154511,
+      "name": "Kyle Krieckhaus",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 1,
+      "pdga_points": 40.0,
+      "rating": 976,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 120696,
+      "name": "Sangman Lee",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 2,
+      "pdga_points": 35.0,
+      "rating": 938,
+      "prize": "$46",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "country_key": "KR"
+    },
+    {
+      "pdga": 70510,
+      "name": "Eunsik Hwang",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 3,
+      "pdga_points": 30.0,
+      "rating": 923,
+      "prize": "$33",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "country_key": "KR"
+    },
+    {
+      "pdga": 56592,
+      "name": "Hyundo Jang",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 4,
+      "pdga_points": 25.0,
+      "rating": 937,
+      "prize": "$25",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "country_key": "KR"
+    },
+    {
+      "pdga": 117294,
+      "name": "Daeman Kang",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 5,
+      "pdga_points": 20.0,
+      "rating": 953,
+      "prize": "",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "country_key": "KR"
+    },
+    {
+      "pdga": 215876,
+      "name": "Ki Yong Kim",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 6,
+      "pdga_points": 15.0,
+      "rating": 892,
+      "prize": "",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "country_key": "KR"
+    },
+    {
+      "pdga": 120746,
+      "name": "Sindeok Kang",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 8,
+      "pdga_points": 5.0,
+      "rating": 878,
+      "prize": "",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "country_key": "KR"
+    }
+  ],
+  "fpo": [
+    {
+      "pdga": 56593,
+      "name": "Jiwon Kim",
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "place": 1,
+      "pdga_points": 3.0,
+      "rating": 834,
+      "prize": "$22",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "country_key": "KR"
+    }
+  ],
+  "amateur": [
+    {
+      "pdga": 80592,
+      "name": "Seth Weimer",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 55.0,
+      "rating": 887,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 250877,
+      "name": "Myung Jun Kwak",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 50.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "country_key": "KR"
+    },
+    {
+      "pdga": 239648,
+      "name": "Dave La Velle",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 7,
+      "pdga_points": 25.0,
+      "rating": 786,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 116403,
+      "name": "Sanghyun Lee",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 8,
+      "pdga_points": 20.0,
+      "rating": 851,
+      "prize": "",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "country_key": "KR"
+    },
+    {
+      "pdga": 116429,
+      "name": "Sungsu Lee",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 9,
+      "pdga_points": 15.0,
+      "rating": 819,
+      "prize": "",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "country_key": "KR"
+    },
+    {
+      "pdga": 232733,
+      "name": "Eric Busch",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 11,
+      "pdga_points": 5.0,
+      "rating": 738,
+      "prize": "",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "country_key": "KR"
+    },
+    {
+      "pdga": 12353,
+      "name": "Brock Pitzer",
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 6.0,
+      "rating": 867,
+      "prize": "",
+      "flag": "\ud83c\uddf9\ud83c\udded",
+      "country": "Thailand",
+      "country_key": "TH"
+    },
+    {
+      "pdga": 121397,
+      "name": "Ju Hwang Yun",
+      "division": "MA60",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 8.0,
+      "rating": 873,
+      "prize": "",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "country_key": "KR"
+    },
+    {
+      "pdga": 250884,
+      "name": "Sunhee Kim",
+      "division": "MA60",
+      "class_bucket": "amateur",
+      "place": 3,
+      "pdga_points": 6.0,
+      "rating": 820,
+      "prize": "",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "country_key": "KR"
+    },
+    {
+      "pdga": 91683,
+      "name": "Tae Woo Lee",
+      "division": "MA60",
+      "class_bucket": "amateur",
+      "place": 4,
+      "pdga_points": 4.0,
+      "rating": 828,
+      "prize": "",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "country_key": "KR"
+    }
+  ],
+  "divisions": [
+    "FPO",
+    "MA1",
+    "MA50",
+    "MA60",
+    "MPO"
+  ]
+}

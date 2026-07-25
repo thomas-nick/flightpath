@@ -1,0 +1,226 @@
+{
+  "pdga": 274750,
+  "name": "Akiha Koganezawa #274750",
+  "country": "Japan",
+  "country_key": "JP",
+  "flag": "\ud83c\uddef\ud83c\uddf5",
+  "rating": 820,
+  "classification": "Professional",
+  "city": "Kumamoto-shi",
+  "nationality": "",
+  "division": "FPO",
+  "primary_class": "open_fpo",
+  "pdga_points": 18.0,
+  "tour_weighted_points": 45.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 3,
+  "wins": 0,
+  "podiums": 0,
+  "top5": 2,
+  "top10": 3,
+  "top20": 3,
+  "avg_finish": 6.0,
+  "win_rate": 0.0,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 1839,
+  "weighted_rank": 979,
+  "country_rank": 300,
+  "am_events": 0,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 0,
+  "am_pdga_points": 0.0,
+  "last_active": "22-Feb to 23-Feb-2025",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 3,
+      "points": 18.0,
+      "weighted": 45.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 3,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 2,
+      "top10": 3,
+      "top20": 3,
+      "pdga_points": 18.0,
+      "tour_weighted_points": 45.0,
+      "avg_finish": 6.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "amateur": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "all": {
+      "events": 3,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 2,
+      "top10": 3,
+      "top20": 3,
+      "pdga_points": 18.0,
+      "tour_weighted_points": 45.0,
+      "avg_finish": 6.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "FPO": 3
+  },
+  "results": [
+    {
+      "event_id": "87628",
+      "title": "The13th Okinawa Open",
+      "dates": "22-Feb to 23-Feb-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Kunigami-gun, Okinawa, Japan",
+      "place": 5,
+      "pdga_points": 9.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "85149",
+      "title": "The 36th National Championships (PRO)",
+      "dates": "22-Sep to 23-Sep-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Minamisouma-shi, Fukushima, Japan",
+      "place": 8,
+      "pdga_points": 4.5,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "83205",
+      "title": "The 1st Uminaka Classic",
+      "dates": "17-Aug to 18-Aug-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Fukuoka-shi, Fukuoka, Japan",
+      "place": 5,
+      "pdga_points": 4.5,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "",
+      "weighted_points": 17.5
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2025",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 9.0,
+      "avg_finish": 5.0
+    },
+    {
+      "year": "2024",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 2,
+      "pdga_points": 9.0,
+      "avg_finish": 6.5
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2024-09-10",
+      "rating": 816,
+      "rounds": 3
+    },
+    {
+      "date": "2024-10-08",
+      "rating": 820,
+      "rounds": 5
+    },
+    {
+      "date": "2025-03-11",
+      "rating": 824,
+      "rounds": 8
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/274750"
+}

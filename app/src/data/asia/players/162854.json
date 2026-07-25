@@ -1,0 +1,261 @@
+{
+  "pdga": 162854,
+  "name": "James Kaiser",
+  "country": "India",
+  "country_key": "IN",
+  "flag": "\ud83c\uddee\ud83c\uddf3",
+  "rating": 877,
+  "classification": "Pro",
+  "city": "",
+  "nationality": "",
+  "division": "MA2",
+  "primary_class": "amateur",
+  "pdga_points": 68.0,
+  "tour_weighted_points": 31.5,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 1,
+  "top5": 1,
+  "top10": 2,
+  "top20": 2,
+  "avg_finish": 4.5,
+  "win_rate": 0.0,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 2058,
+  "weighted_rank": 1137,
+  "country_rank": 741,
+  "am_events": 2,
+  "am_wins": 0,
+  "am_podiums": 1,
+  "am_top10": 2,
+  "am_pdga_points": 68.0,
+  "last_active": "19-Feb-2023",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 48.0,
+      "weighted": 27.5,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 1,
+      "points": 20.0,
+      "weighted": 4.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 2,
+      "top20": 2,
+      "pdga_points": 68.0,
+      "tour_weighted_points": 31.5,
+      "avg_finish": 4.5,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 2,
+      "top20": 2,
+      "pdga_points": 68.0,
+      "tour_weighted_points": 31.5,
+      "avg_finish": 4.5,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA2": 2
+  },
+  "results": [
+    {
+      "event_id": "66360",
+      "title": "WIFFS The Nashville Chill sponsored by Westside Discs (CEP Charity - Rated)",
+      "dates": "19-Feb-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Nashville, Indiana, United States",
+      "place": 6,
+      "pdga_points": 20.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "71253",
+      "title": "Hendricks County Open",
+      "dates": "08-Jul-2023",
+      "year": "2023",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Danville, Indiana, United States",
+      "place": 3,
+      "pdga_points": 48.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 27.5
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2023",
+      "events": 2,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 2,
+      "pdga_points": 68.0,
+      "avg_finish": 4.5
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2023-06-13",
+      "rating": 890,
+      "rounds": 48
+    },
+    {
+      "date": "2023-07-11",
+      "rating": 896,
+      "rounds": 47
+    },
+    {
+      "date": "2023-08-08",
+      "rating": 896,
+      "rounds": 49
+    },
+    {
+      "date": "2023-09-12",
+      "rating": 899,
+      "rounds": 47
+    },
+    {
+      "date": "2023-10-10",
+      "rating": 900,
+      "rounds": 51
+    },
+    {
+      "date": "2023-11-14",
+      "rating": 901,
+      "rounds": 50
+    },
+    {
+      "date": "2023-12-12",
+      "rating": 904,
+      "rounds": 43
+    },
+    {
+      "date": "2024-01-09",
+      "rating": 906,
+      "rounds": 42
+    },
+    {
+      "date": "2024-02-13",
+      "rating": 906,
+      "rounds": 40
+    },
+    {
+      "date": "2024-03-12",
+      "rating": 909,
+      "rounds": 36
+    },
+    {
+      "date": "2024-05-14",
+      "rating": 908,
+      "rounds": 32
+    },
+    {
+      "date": "2024-06-11",
+      "rating": 903,
+      "rounds": 33
+    },
+    {
+      "date": "2024-08-13",
+      "rating": 900,
+      "rounds": 28
+    },
+    {
+      "date": "2024-11-12",
+      "rating": 900,
+      "rounds": 22
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 892,
+      "rounds": 11
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/162854"
+}

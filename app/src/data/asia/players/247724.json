@@ -1,0 +1,261 @@
+{
+  "pdga": 247724,
+  "name": "Marcos Silva #247724",
+  "country": "Brazil",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 834,
+  "classification": "Amateur",
+  "city": "S\u00e3o Paulo",
+  "nationality": "",
+  "division": "MA4",
+  "primary_class": "amateur",
+  "pdga_points": 37.0,
+  "tour_weighted_points": 5.6,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top5": 0,
+  "top10": 0,
+  "top20": 2,
+  "avg_finish": 18.5,
+  "win_rate": 0.0,
+  "top10_rate": 0.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 2481,
+  "weighted_rank": 2697,
+  "country_rank": null,
+  "am_events": 2,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 0,
+  "am_pdga_points": 37.0,
+  "last_active": "19-Feb-2023",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 27.0,
+      "weighted": 4.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 1,
+      "points": 10.0,
+      "weighted": 1.6,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 2,
+      "pdga_points": 37.0,
+      "tour_weighted_points": 5.6,
+      "avg_finish": 18.5,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "all": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 2,
+      "pdga_points": 37.0,
+      "tour_weighted_points": 5.6,
+      "avg_finish": 18.5,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    }
+  },
+  "division_counts": {
+    "MA4": 2
+  },
+  "results": [
+    {
+      "event_id": "66360",
+      "title": "WIFFS The Nashville Chill sponsored by Westside Discs (CEP Charity - Rated)",
+      "dates": "19-Feb-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Nashville, Indiana, United States",
+      "place": 18,
+      "pdga_points": 10.0,
+      "division": "MA4",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "71253",
+      "title": "Hendricks County Open",
+      "dates": "08-Jul-2023",
+      "year": "2023",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Danville, Indiana, United States",
+      "place": 19,
+      "pdga_points": 27.0,
+      "division": "MA4",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2023",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 37.0,
+      "avg_finish": 18.5
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2024-05-14",
+      "rating": 781,
+      "rounds": 23
+    },
+    {
+      "date": "2024-07-09",
+      "rating": 786,
+      "rounds": 15
+    },
+    {
+      "date": "2024-08-13",
+      "rating": 782,
+      "rounds": 15
+    },
+    {
+      "date": "2024-09-10",
+      "rating": 778,
+      "rounds": 13
+    },
+    {
+      "date": "2024-11-12",
+      "rating": 780,
+      "rounds": 12
+    },
+    {
+      "date": "2025-01-14",
+      "rating": 775,
+      "rounds": 11
+    },
+    {
+      "date": "2025-02-11",
+      "rating": 768,
+      "rounds": 12
+    },
+    {
+      "date": "2025-03-11",
+      "rating": 767,
+      "rounds": 15
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 781,
+      "rounds": 17
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 777,
+      "rounds": 19
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 781,
+      "rounds": 22
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 818,
+      "rounds": 12
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 833,
+      "rounds": 18
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 828,
+      "rounds": 20
+    },
+    {
+      "date": "2026-07-14",
+      "rating": 834,
+      "rounds": 18
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/247724"
+}

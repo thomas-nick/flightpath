@@ -1,0 +1,466 @@
+{
+  "pdga": 151864,
+  "name": "Reiko Ito #151864",
+  "country": "Japan",
+  "country_key": "JP",
+  "flag": "\ud83c\uddef\ud83c\uddf5",
+  "rating": 814,
+  "classification": "Professional",
+  "city": "Kitakami-shi",
+  "nationality": "",
+  "division": "FPO",
+  "primary_class": "open_fpo",
+  "pdga_points": 196.5,
+  "tour_weighted_points": 211.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 12,
+  "wins": 1,
+  "podiums": 3,
+  "top5": 6,
+  "top10": 11,
+  "top20": 12,
+  "avg_finish": 6.25,
+  "win_rate": 0.083,
+  "top10_rate": 0.917,
+  "cash_earned": 20.0,
+  "pdga_rank": 830,
+  "weighted_rank": 316,
+  "country_rank": 207,
+  "am_events": 0,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 0,
+  "am_pdga_points": 0.0,
+  "last_active": "14-Sep to 15-Sep-2025",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 11,
+      "points": 190.5,
+      "weighted": 204.0,
+      "wins": 1
+    },
+    "c_tier": {
+      "events": 1,
+      "points": 6.0,
+      "weighted": 7.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 1,
+      "top10": 2,
+      "top20": 2,
+      "pdga_points": 105.0,
+      "tour_weighted_points": 27.5,
+      "avg_finish": 6.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "open_fpo": {
+      "events": 10,
+      "wins": 1,
+      "podiums": 3,
+      "top5": 5,
+      "top10": 9,
+      "top20": 10,
+      "pdga_points": 91.5,
+      "tour_weighted_points": 183.5,
+      "avg_finish": 6.3,
+      "win_rate": 0.1,
+      "top10_rate": 0.9
+    },
+    "amateur": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "all": {
+      "events": 12,
+      "wins": 1,
+      "podiums": 3,
+      "top5": 6,
+      "top10": 11,
+      "top20": 12,
+      "pdga_points": 196.5,
+      "tour_weighted_points": 211.0,
+      "avg_finish": 6.25,
+      "win_rate": 0.083,
+      "top10_rate": 0.917
+    }
+  },
+  "division_counts": {
+    "FPO": 10,
+    "MPO": 2
+  },
+  "results": [
+    {
+      "event_id": "95830",
+      "title": "The 25th Tohoku Open",
+      "dates": "14-Sep to 15-Sep-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Yurihonjo-shi, Akita, Japan",
+      "place": 1,
+      "pdga_points": 4.5,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "$20",
+      "weighted_points": 50.0
+    },
+    {
+      "event_id": "82579",
+      "title": "The 13th Hokkaido Open",
+      "dates": "29-Jun to 30-Jun-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Futami-gun, Hokkaido, Japan",
+      "place": 3,
+      "pdga_points": 4.5,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "",
+      "weighted_points": 27.5
+    },
+    {
+      "event_id": "85798",
+      "title": "The 3rd Maiko Classic",
+      "dates": "26-Oct to 27-Oct-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Minamiuonuma-shi, Niigata, Japan",
+      "place": 7,
+      "pdga_points": 9.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "79794",
+      "title": "The 2nd Michinoku Queen's Cup +WGE",
+      "dates": "18-May to 19-May-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Kitakami-shi, Iwate, Japan",
+      "place": 5,
+      "pdga_points": 6.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "68953",
+      "title": "2023 National Mix Doubles Championship",
+      "dates": "18-Mar to 19-Mar-2023",
+      "year": "2023",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Hitachinaka, Ibaraki, Japan",
+      "place": 4,
+      "pdga_points": 90.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "70095",
+      "title": "The 2nd Disc Golf Japan Series",
+      "dates": "15-Jul to 17-Jul-2023",
+      "year": "2023",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Utsunomiya, Tochigi, Japan",
+      "place": 9,
+      "pdga_points": 27.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "63248",
+      "title": "The 36th Kyushu Open",
+      "dates": "26-Nov to 27-Nov-2022",
+      "year": "2022",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Fukuoka, Fukuoka, Japan",
+      "place": 8,
+      "pdga_points": 9.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "59219",
+      "title": "2022 National Mix Doubles Championships",
+      "dates": "26-Mar to 27-Mar-2022",
+      "year": "2022",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Hitachinaka City, Ibaraki, Japan",
+      "place": 8,
+      "pdga_points": 15.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "58648",
+      "title": "The 17th Kiyosatonomori Open",
+      "dates": "21-May to 22-May-2022",
+      "year": "2022",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Kiyosato, Yamanashi, Japan",
+      "place": 8,
+      "pdga_points": 4.5,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "61988",
+      "title": "Japan Series Disc Golf Championships",
+      "dates": "17-Sep to 19-Sep-2022",
+      "year": "2022",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Utsunomiya, Tochigi, Japan",
+      "place": 15,
+      "pdga_points": 13.5,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "62982",
+      "title": "The 22nd Tohoku Open",
+      "dates": "08-Oct to 09-Oct-2022",
+      "year": "2022",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Yurihonjo City, Akita, Japan",
+      "place": 5,
+      "pdga_points": 9.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "60441",
+      "title": "The 11th Hokkaido Open",
+      "dates": "02-Jul to 03-Jul-2022",
+      "year": "2022",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Yakumo, Hokkaido, Japan",
+      "place": 2,
+      "pdga_points": 4.5,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "",
+      "weighted_points": 37.5
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "95830",
+      "title": "The 25th Tohoku Open",
+      "dates": "14-Sep to 15-Sep-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Yurihonjo-shi, Akita, Japan",
+      "place": 1,
+      "pdga_points": 4.5,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "$20",
+      "weighted_points": 50.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2025",
+      "events": 1,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 4.5,
+      "avg_finish": 1.0
+    },
+    {
+      "year": "2024",
+      "events": 3,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 3,
+      "pdga_points": 19.5,
+      "avg_finish": 5.0
+    },
+    {
+      "year": "2023",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 2,
+      "pdga_points": 117.0,
+      "avg_finish": 6.5
+    },
+    {
+      "year": "2022",
+      "events": 6,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 5,
+      "pdga_points": 55.5,
+      "avg_finish": 7.67
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2023-11-14",
+      "rating": 825,
+      "rounds": 31
+    },
+    {
+      "date": "2024-06-11",
+      "rating": 821,
+      "rounds": 23
+    },
+    {
+      "date": "2024-07-09",
+      "rating": 823,
+      "rounds": 26
+    },
+    {
+      "date": "2024-08-13",
+      "rating": 831,
+      "rounds": 25
+    },
+    {
+      "date": "2024-10-08",
+      "rating": 829,
+      "rounds": 13
+    },
+    {
+      "date": "2024-11-12",
+      "rating": 833,
+      "rounds": 16
+    },
+    {
+      "date": "2025-03-11",
+      "rating": 832,
+      "rounds": 19
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 829,
+      "rounds": 21
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 812,
+      "rounds": 21
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 815,
+      "rounds": 24
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 823,
+      "rounds": 27
+    },
+    {
+      "date": "2025-11-11",
+      "rating": 822,
+      "rounds": 28
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 810,
+      "rounds": 26
+    },
+    {
+      "date": "2026-06-09",
+      "rating": 808,
+      "rounds": 23
+    },
+    {
+      "date": "2026-07-14",
+      "rating": 814,
+      "rounds": 26
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 6.0,
+    "season_avg": 19.8,
+    "delta_pct": -69.7
+  },
+  "pdga_url": "https://www.pdga.com/player/151864"
+}

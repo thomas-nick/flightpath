@@ -1,0 +1,459 @@
+{
+  "pdga": 276042,
+  "name": "Lorenzo Nogales #276042",
+  "country": "Philippines",
+  "country_key": "PH",
+  "flag": "\ud83c\uddf5\ud83c\udded",
+  "rating": 844,
+  "classification": "Amateur",
+  "city": "Silang",
+  "nationality": "",
+  "division": "MA1",
+  "primary_class": "amateur",
+  "pdga_points": 241.0,
+  "tour_weighted_points": 165.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 12,
+  "wins": 2,
+  "podiums": 7,
+  "top5": 9,
+  "top10": 12,
+  "top20": 12,
+  "avg_finish": 4.17,
+  "win_rate": 0.167,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 734,
+  "weighted_rank": 412,
+  "country_rank": 20,
+  "am_events": 12,
+  "am_wins": 2,
+  "am_podiums": 7,
+  "am_top10": 12,
+  "am_pdga_points": 241.0,
+  "last_active": "27-Feb to 01-Mar-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 1,
+      "points": 20.0,
+      "weighted": 40.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 11,
+      "points": 221.0,
+      "weighted": 125.0,
+      "wins": 2
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 12,
+      "wins": 2,
+      "podiums": 7,
+      "top5": 9,
+      "top10": 12,
+      "top20": 12,
+      "pdga_points": 241.0,
+      "tour_weighted_points": 165.0,
+      "avg_finish": 4.17,
+      "win_rate": 0.167,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 12,
+      "wins": 2,
+      "podiums": 7,
+      "top5": 9,
+      "top10": 12,
+      "top20": 12,
+      "pdga_points": 241.0,
+      "tour_weighted_points": 165.0,
+      "avg_finish": 4.17,
+      "win_rate": 0.167,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA1": 6,
+    "MA2": 5,
+    "MA3": 1
+  },
+  "results": [
+    {
+      "event_id": "97272",
+      "title": "Lipad Pilipinas IV - PDGA Asia Tour #5 presented by Province of Tarlac",
+      "dates": "27-Feb to 01-Mar-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "San Jose, Tarlac, Philippines",
+      "place": 8,
+      "pdga_points": 20.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 40.0
+    },
+    {
+      "event_id": "102225",
+      "title": "2026 Cavite Invitational",
+      "dates": "25-Apr to 26-Apr-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Indang, Cavite, Philippines",
+      "place": 4,
+      "pdga_points": 48.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "89767",
+      "title": "Enkantierra Nature Park Disc Golf Course  Inaugural Tournament",
+      "dates": "29-Mar-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Santo Tomas, Batangas, Philippines",
+      "place": 2,
+      "pdga_points": 25.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "91152",
+      "title": "Cavite Open Tournament 2025",
+      "dates": "26-Apr to 27-Apr-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Indang, Cavite, Philippines",
+      "place": 1,
+      "pdga_points": 40.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "87026",
+      "title": "LIPAD PILIPINAS III Island of Palawan Edition",
+      "dates": "22-Feb to 23-Feb-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Quezon, Palawan, Philippines",
+      "place": 3,
+      "pdga_points": 15.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "94738",
+      "title": "Philippine National Disc Golf Championship",
+      "dates": "13-Sep to 14-Sep-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Municipality of San Jose, Tarlac, Philippines",
+      "place": 10,
+      "pdga_points": 20.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "97012",
+      "title": "DGAP 3rd Anniversary Disc Golf Tournament  2025",
+      "dates": "08-Nov to 09-Nov-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Santo Tomas, Batangas, Philippines",
+      "place": 8,
+      "pdga_points": 20.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "75357",
+      "title": "LIPAD PILIPINAS OPEN 2024 presented by Provincial Government of Tarlac",
+      "dates": "24-Feb to 25-Feb-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Tarlac, Tarlac, Philippines",
+      "place": 3,
+      "pdga_points": 9.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "80554",
+      "title": "Drifwoods Action Park DGC Inaugural Open & WGE",
+      "dates": "18-May to 19-May-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Indang, Cavite, Philippines",
+      "place": 2,
+      "pdga_points": 4.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "86114",
+      "title": "Spirits of Manila Disc Golf Open",
+      "dates": "10-Nov-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Paranaque , Metro Manila, Philippines",
+      "place": 1,
+      "pdga_points": 20.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "82870",
+      "title": "Manila Open 2024",
+      "dates": "07-Jul-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Paranaque , Metro Manila, Philippines",
+      "place": 3,
+      "pdga_points": 8.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "84966",
+      "title": "Philippines National Amature Championship",
+      "dates": "05-Oct to 06-Oct-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Dasmarinas, Cavite, Philippines",
+      "place": 5,
+      "pdga_points": 12.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "91152",
+      "title": "Cavite Open Tournament 2025",
+      "dates": "26-Apr to 27-Apr-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Indang, Cavite, Philippines",
+      "place": 1,
+      "pdga_points": 40.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "86114",
+      "title": "Spirits of Manila Disc Golf Open",
+      "dates": "10-Nov-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Paranaque , Metro Manila, Philippines",
+      "place": 1,
+      "pdga_points": 20.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 2,
+      "pdga_points": 68.0,
+      "avg_finish": 6.0
+    },
+    {
+      "year": "2025",
+      "events": 5,
+      "wins": 1,
+      "podiums": 3,
+      "top10": 5,
+      "pdga_points": 120.0,
+      "avg_finish": 4.8
+    },
+    {
+      "year": "2024",
+      "events": 5,
+      "wins": 1,
+      "podiums": 4,
+      "top10": 5,
+      "pdga_points": 53.0,
+      "avg_finish": 2.8
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2024-03-12",
+      "rating": 795,
+      "rounds": 2
+    },
+    {
+      "date": "2024-06-11",
+      "rating": 796,
+      "rounds": 4
+    },
+    {
+      "date": "2024-07-09",
+      "rating": 791,
+      "rounds": 6
+    },
+    {
+      "date": "2024-10-08",
+      "rating": 803,
+      "rounds": 8
+    },
+    {
+      "date": "2024-11-12",
+      "rating": 816,
+      "rounds": 10
+    },
+    {
+      "date": "2025-03-11",
+      "rating": 815,
+      "rounds": 12
+    },
+    {
+      "date": "2025-04-08",
+      "rating": 819,
+      "rounds": 12
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 834,
+      "rounds": 15
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 837,
+      "rounds": 13
+    },
+    {
+      "date": "2025-11-11",
+      "rating": 828,
+      "rounds": 13
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 835,
+      "rounds": 12
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 844,
+      "rounds": 12
+    }
+  ],
+  "streak": {
+    "direction": "up",
+    "recent_avg": 31.0,
+    "season_avg": 16.4,
+    "delta_pct": 88.5
+  },
+  "pdga_url": "https://www.pdga.com/player/276042"
+}

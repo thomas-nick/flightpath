@@ -1,0 +1,159 @@
+{
+  "event_id": "40974",
+  "title": "Korea Masters Pro/Am",
+  "location": "Gyeongju, Gyeongsangbuk-do, South Korea",
+  "dates": "12-May-2019",
+  "year": "2019",
+  "tier": "C",
+  "level": "c_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 10,
+  "avg_mpo_rating": null,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "count": 9
+    }
+  ],
+  "mpo": [],
+  "fpo": [],
+  "amateur": [
+    {
+      "pdga": 117254,
+      "name": "Hyejin Kang",
+      "division": "FA40",
+      "class_bucket": "amateur",
+      "place": 3,
+      "pdga_points": 8.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "country_key": "KR"
+    },
+    {
+      "pdga": 96809,
+      "name": "Jongho Lee",
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 24.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "country_key": "KR"
+    },
+    {
+      "pdga": 96803,
+      "name": "Jungho Song",
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 20.0,
+      "rating": 870,
+      "prize": "",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "country_key": "KR"
+    },
+    {
+      "pdga": 96798,
+      "name": "Myunghwa Lee",
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "place": 3,
+      "pdga_points": 16.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "country_key": "KR"
+    },
+    {
+      "pdga": 96808,
+      "name": "Sunggon Bang",
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "place": 4,
+      "pdga_points": 12.0,
+      "rating": 902,
+      "prize": "",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "country_key": "KR"
+    },
+    {
+      "pdga": 89071,
+      "name": "Bryan Hutcherson",
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "place": 6,
+      "pdga_points": 4.0,
+      "rating": 814,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 116429,
+      "name": "Sungsu Lee",
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 21.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "country_key": "KR"
+    },
+    {
+      "pdga": 116730,
+      "name": "Sungwoo Lim",
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 18.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "country_key": "KR"
+    },
+    {
+      "pdga": 76685,
+      "name": "Seong Taek Lim",
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "place": 3,
+      "pdga_points": 15.0,
+      "rating": 766,
+      "prize": "",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "country_key": "KR"
+    },
+    {
+      "pdga": 97811,
+      "name": "Sooncheol Jang",
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "place": 5,
+      "pdga_points": 9.0,
+      "rating": 799,
+      "prize": "",
+      "flag": "\ud83c\uddf0\ud83c\uddf7",
+      "country": "South Korea",
+      "country_key": "KR"
+    }
+  ],
+  "divisions": [
+    "FA40",
+    "MA40",
+    "MA50"
+  ]
+}

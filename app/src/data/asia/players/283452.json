@@ -1,0 +1,384 @@
+{
+  "pdga": 283452,
+  "name": "xiao ren #283452",
+  "country": "China",
+  "country_key": "CN",
+  "flag": "\ud83c\udde8\ud83c\uddf3",
+  "rating": 858,
+  "classification": "Amateur",
+  "city": "Beijing",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 584.5,
+  "tour_weighted_points": 116.5,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 10,
+  "wins": 0,
+  "podiums": 2,
+  "top5": 5,
+  "top10": 7,
+  "top20": 8,
+  "avg_finish": 9.8,
+  "win_rate": 0.0,
+  "top10_rate": 0.7,
+  "cash_earned": 0.0,
+  "pdga_rank": 413,
+  "weighted_rank": 553,
+  "country_rank": 60,
+  "am_events": 7,
+  "am_wins": 0,
+  "am_podiums": 2,
+  "am_top10": 7,
+  "am_pdga_points": 487.0,
+  "last_active": "13-Mar to 15-Mar-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 1,
+      "points": 30.0,
+      "weighted": 40.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 1,
+      "points": 150.0,
+      "weighted": 20.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 3,
+      "points": 97.5,
+      "weighted": 9.5,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 5,
+      "points": 307.0,
+      "weighted": 47.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 3,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 1,
+      "pdga_points": 97.5,
+      "tour_weighted_points": 9.5,
+      "avg_finish": 21.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 7,
+      "wins": 0,
+      "podiums": 2,
+      "top5": 5,
+      "top10": 7,
+      "top20": 7,
+      "pdga_points": 487.0,
+      "tour_weighted_points": 107.0,
+      "avg_finish": 5.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 10,
+      "wins": 0,
+      "podiums": 2,
+      "top5": 5,
+      "top10": 7,
+      "top20": 8,
+      "pdga_points": 584.5,
+      "tour_weighted_points": 116.5,
+      "avg_finish": 9.8,
+      "win_rate": 0.0,
+      "top10_rate": 0.7
+    }
+  },
+  "division_counts": {
+    "MA1": 6,
+    "MA2": 1,
+    "MPO": 3
+  },
+  "results": [
+    {
+      "event_id": "97588",
+      "title": "PDGA Asia Tour Championship - PDGA Asia Tour Event #7",
+      "dates": "13-Mar to 15-Mar-2026",
+      "year": "2026",
+      "tier": "B",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "Shanghai, Shanghai Shi, China",
+      "place": 7,
+      "pdga_points": 30.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 40.0
+    },
+    {
+      "event_id": "101178",
+      "title": "Spring of Wenyu River 2026 - \u5317\u4eac\u6e29\u6986\u6cb3\u6625\u5b63\u516c\u5f00\u8d5b2026 - MA2, FA2, MA50, FA50, MJ15",
+      "dates": "07-Mar-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Beijing, Beijing Shi, China",
+      "place": 5,
+      "pdga_points": 52.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "101204",
+      "title": "Spring of Wenyu River 2026 - \u5317\u4eac\u6e29\u6986\u6cb3\u6625\u5b63\u516c\u5f00\u8d5b2026 - Pro, MA1, FA1",
+      "dates": "07-Mar-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Beijing, Beijing Shi, China",
+      "place": 3,
+      "pdga_points": 90.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "90038",
+      "title": "2025 CDGC\u98de\u76d8\u9ad8\u5c14\u592b\u5de1\u56de\u8d5b-\u91cd\u5e86  2025 CDGC Disc Golf Tour - Chongqing",
+      "dates": "29-Mar to 30-Mar-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Chongqing, Chongqing Shi, China",
+      "place": 27,
+      "pdga_points": 30.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.5
+    },
+    {
+      "event_id": "95358",
+      "title": "2025CDGC\u5de1\u56de\u8d5b\u00b7\u54c8\u5c14\u6ee8\u7ad9 - Pro and MA1\\MA2\\FA1\\FA2",
+      "dates": "23-Aug to 24-Aug-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Harbin, Heilongjiang Sheng, China",
+      "place": 13,
+      "pdga_points": 22.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "97899",
+      "title": "2025 Shaoxing China International Disc Golf Open",
+      "dates": "13-Dec to 14-Dec-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Shaoxing, Zhejiang Sheng, China",
+      "place": 23,
+      "pdga_points": 45.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "89014",
+      "title": "2025 Spring Open of Beijing Wenyu River-2025\u5317\u4eac\u6e29\u6986\u6cb3\u6625\u5b63\u516c\u5f00\u8d5b - MPO\\FPO\\MP40\\FP40\\MA1\\FA1",
+      "dates": "09-Mar-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Beijing, Beijing Shi, China",
+      "place": 4,
+      "pdga_points": 75.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "90011",
+      "title": "\u9996\u5c4a\u201c\u4e91\u9876\u676f\u201d\u98de\u76d8\u9ad8\u5c14\u592b\u9080\u8bf7\u8d5b\u66a8\u534e\u590f\u98de\u76d8\u9ad8\u5c14\u592b\u8054\u8d5b",
+      "dates": "05-Jul-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "baishan shi, Jilin Sheng, China",
+      "place": 5,
+      "pdga_points": 20.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "86261",
+      "title": "2024 CDGC\u718a\u732b\u676f\u63b7\u51c6\u98de\u76d8\u516c\u5f00\u8d5b CDGC Panda Open",
+      "dates": "23-Nov to 24-Nov-2024",
+      "year": "2024",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Wuxi, Jiangsu Sheng, China",
+      "place": 9,
+      "pdga_points": 150.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "86333",
+      "title": "\u5317\u4eac\u6e29\u6986\u6b63\u7ecf\u7acb\u51ac\u4e0d\u6b63\u7ecf\u6311\u6218\u8d5b",
+      "dates": "02-Nov-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Beijing, Beijing Shi, China",
+      "place": 2,
+      "pdga_points": 70.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 3,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 3,
+      "pdga_points": 172.0,
+      "avg_finish": 5.0
+    },
+    {
+      "year": "2025",
+      "events": 5,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 2,
+      "pdga_points": 192.5,
+      "avg_finish": 14.4
+    },
+    {
+      "year": "2024",
+      "events": 2,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 2,
+      "pdga_points": 220.0,
+      "avg_finish": 5.5
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2024-11-12",
+      "rating": 887,
+      "rounds": 1
+    },
+    {
+      "date": "2024-12-10",
+      "rating": 846,
+      "rounds": 4
+    },
+    {
+      "date": "2025-03-11",
+      "rating": 841,
+      "rounds": 6
+    },
+    {
+      "date": "2025-04-08",
+      "rating": 834,
+      "rounds": 9
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 841,
+      "rounds": 11
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 836,
+      "rounds": 14
+    },
+    {
+      "date": "2026-01-13",
+      "rating": 839,
+      "rounds": 13
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 850,
+      "rounds": 15
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 844,
+      "rounds": 16
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 858,
+      "rounds": 22
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 57.3,
+    "season_avg": 58.9,
+    "delta_pct": -2.7
+  },
+  "pdga_url": "https://www.pdga.com/player/283452"
+}

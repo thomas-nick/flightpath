@@ -1,0 +1,288 @@
+{
+  "pdga": 296849,
+  "name": "Yang HuiLing #296849",
+  "country": "China",
+  "country_key": "CN",
+  "flag": "\ud83c\udde8\ud83c\uddf3",
+  "rating": 613,
+  "classification": "Amateur",
+  "city": "BeiJing\u2006SHi",
+  "nationality": "",
+  "division": "FA50",
+  "primary_class": "amateur",
+  "pdga_points": 18.75,
+  "tour_weighted_points": 81.5,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 5,
+  "wins": 0,
+  "podiums": 2,
+  "top5": 3,
+  "top10": 5,
+  "top20": 5,
+  "avg_finish": 5.0,
+  "win_rate": 0.0,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 1835,
+  "weighted_rank": 702,
+  "country_rank": 279,
+  "am_events": 5,
+  "am_wins": 0,
+  "am_podiums": 2,
+  "am_top10": 5,
+  "am_pdga_points": 18.75,
+  "last_active": "05-Apr to 06-Apr-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 1,
+      "points": 3.0,
+      "weighted": 35.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 6.75,
+      "weighted": 27.5,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 3,
+      "points": 9.0,
+      "weighted": 19.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 5,
+      "wins": 0,
+      "podiums": 2,
+      "top5": 3,
+      "top10": 5,
+      "top20": 5,
+      "pdga_points": 18.75,
+      "tour_weighted_points": 81.5,
+      "avg_finish": 5.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 5,
+      "wins": 0,
+      "podiums": 2,
+      "top5": 3,
+      "top10": 5,
+      "top20": 5,
+      "pdga_points": 18.75,
+      "tour_weighted_points": 81.5,
+      "avg_finish": 5.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "FA50": 4,
+    "FA60": 1
+  },
+  "results": [
+    {
+      "event_id": "103293",
+      "title": "CDGT Championship Beijing - China Disc Golf Course Tour Event #2",
+      "dates": "30-May to 31-May-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Beijing, Beijing Shi, China",
+      "place": 9,
+      "pdga_points": 4.5,
+      "division": "FA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "105343",
+      "title": "\"\u6237\u5916\u5728\u6cb3\u5317-\u79e6\u7687\u5c71\u6d77\"Beidaihe New Area 2nd Disc Golf Open Tournament",
+      "dates": "27-Jun to 28-Jun-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Qinhuangdao, Hebei Sheng, China",
+      "place": 3,
+      "pdga_points": 0.0,
+      "division": "FA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "101188",
+      "title": "CDGT Championship Kunshan - China Disc Golf Course Tour Event #1",
+      "dates": "05-Apr to 06-Apr-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Kunshan, Jiangsu Sheng, China",
+      "place": 6,
+      "pdga_points": 4.5,
+      "division": "FA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "90038",
+      "title": "2025 CDGC\u98de\u76d8\u9ad8\u5c14\u592b\u5de1\u56de\u8d5b-\u91cd\u5e86  2025 CDGC Disc Golf Tour - Chongqing",
+      "dates": "29-Mar to 30-Mar-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Chongqing, Chongqing Shi, China",
+      "place": 3,
+      "pdga_points": 6.75,
+      "division": "FA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 27.5
+    },
+    {
+      "event_id": "86261",
+      "title": "2024 CDGC\u718a\u732b\u676f\u63b7\u51c6\u98de\u76d8\u516c\u5f00\u8d5b CDGC Panda Open",
+      "dates": "23-Nov to 24-Nov-2024",
+      "year": "2024",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Wuxi, Jiangsu Sheng, China",
+      "place": 4,
+      "pdga_points": 3.0,
+      "division": "FA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 35.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 3,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 3,
+      "pdga_points": 9.0,
+      "avg_finish": 6.0
+    },
+    {
+      "year": "2025",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 6.75,
+      "avg_finish": 3.0
+    },
+    {
+      "year": "2024",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 3.0,
+      "avg_finish": 4.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2024-12-10",
+      "rating": 387,
+      "rounds": 3
+    },
+    {
+      "date": "2025-04-08",
+      "rating": 483,
+      "rounds": 5
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 601,
+      "rounds": 4
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 607,
+      "rounds": 6
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 619,
+      "rounds": 7
+    },
+    {
+      "date": "2026-06-09",
+      "rating": 618,
+      "rounds": 9
+    },
+    {
+      "date": "2026-07-14",
+      "rating": 613,
+      "rounds": 9
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 3.0,
+    "season_avg": 4.9,
+    "delta_pct": -38.5
+  },
+  "pdga_url": "https://www.pdga.com/player/296849"
+}

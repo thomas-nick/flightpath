@@ -1,0 +1,158 @@
+{
+  "event_id": "81665",
+  "title": "The 19th Masters National Championships",
+  "location": "Inashiki-gun, Ibaraki, Japan",
+  "dates": "15-Jun to 16-Jun-2024",
+  "year": "2024",
+  "tier": "B",
+  "level": "b_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 10,
+  "avg_mpo_rating": null,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "count": 9
+    }
+  ],
+  "mpo": [],
+  "fpo": [],
+  "amateur": [
+    {
+      "pdga": 214758,
+      "name": "Taiyo Yamaguchi",
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 120.0,
+      "rating": 943,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 161039,
+      "name": "Kohei Aranami",
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "place": 5,
+      "pdga_points": 102.0,
+      "rating": 900,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 155088,
+      "name": "Hiroaki Kitahara",
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "place": 5,
+      "pdga_points": 102.0,
+      "rating": 912,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 69431,
+      "name": "Thomas Henson",
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "place": 8,
+      "pdga_points": 84.0,
+      "rating": 913,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 241406,
+      "name": "Takehiko Sawada",
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "place": 11,
+      "pdga_points": 66.0,
+      "rating": 853,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 200681,
+      "name": "Makoto Kubo",
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "place": 14,
+      "pdga_points": 48.0,
+      "rating": 858,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 243261,
+      "name": "Kenichiro Kubo",
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "place": 15,
+      "pdga_points": 42.0,
+      "rating": 880,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 200684,
+      "name": "Hayato Kurumatani",
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "place": 15,
+      "pdga_points": 42.0,
+      "rating": 850,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 242593,
+      "name": "Eizo Suhara",
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 18.0,
+      "rating": 882,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    },
+    {
+      "pdga": 3633,
+      "name": "Hiroyuki Sato",
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 13.5,
+      "rating": 879,
+      "prize": "",
+      "flag": "\ud83c\uddef\ud83c\uddf5",
+      "country": "Japan",
+      "country_key": "JP"
+    }
+  ],
+  "divisions": [
+    "MA40",
+    "MA50"
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "pdga": 184242,
+  "name": "Boris Van de Loock #184242",
+  "country": "Belgium",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 889,
+  "classification": "Amateur",
+  "city": "Brugge",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 35.0,
+  "tour_weighted_points": 4.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top5": 0,
+  "top10": 1,
+  "top20": 1,
+  "avg_finish": 8.0,
+  "win_rate": 0.0,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 1639,
+  "weighted_rank": 1988,
+  "country_rank": null,
+  "am_events": 0,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 0,
+  "am_pdga_points": 0.0,
+  "last_active": "04-Mar to 05-Mar-2023",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 1,
+      "points": 35.0,
+      "weighted": 4.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 35.0,
+      "tour_weighted_points": 4.0,
+      "avg_finish": 8.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "all": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 35.0,
+      "tour_weighted_points": 4.0,
+      "avg_finish": 8.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MPO": 1
+  },
+  "results": [
+    {
+      "event_id": "64710",
+      "title": "DGAP LIPAD PILIPINAS OPEN 2023 presented by Divergent Discs",
+      "dates": "04-Mar to 05-Mar-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Amadeo, Cavite, Philippines",
+      "place": 8,
+      "pdga_points": 35.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2023",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 35.0,
+      "avg_finish": 8.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2024-07-09",
+      "rating": 879,
+      "rounds": 13
+    },
+    {
+      "date": "2024-09-10",
+      "rating": 884,
+      "rounds": 13
+    },
+    {
+      "date": "2024-10-08",
+      "rating": 882,
+      "rounds": 13
+    },
+    {
+      "date": "2024-11-12",
+      "rating": 875,
+      "rounds": 18
+    },
+    {
+      "date": "2025-04-08",
+      "rating": 876,
+      "rounds": 18
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 881,
+      "rounds": 18
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 889,
+      "rounds": 20
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 885,
+      "rounds": 20
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 884,
+      "rounds": 20
+    },
+    {
+      "date": "2025-11-11",
+      "rating": 888,
+      "rounds": 21
+    },
+    {
+      "date": "2025-12-09",
+      "rating": 887,
+      "rounds": 20
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 894,
+      "rounds": 20
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 897,
+      "rounds": 20
+    },
+    {
+      "date": "2026-06-09",
+      "rating": 898,
+      "rounds": 17
+    },
+    {
+      "date": "2026-07-14",
+      "rating": 889,
+      "rounds": 20
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/184242"
+}

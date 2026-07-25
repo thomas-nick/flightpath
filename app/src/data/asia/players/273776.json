@@ -1,0 +1,252 @@
+{
+  "pdga": 273776,
+  "name": "Cole Headley #273776",
+  "country": "Japan",
+  "country_key": "JP",
+  "flag": "\ud83c\uddef\ud83c\uddf5",
+  "rating": 912,
+  "classification": "Professional",
+  "city": "Chatan",
+  "nationality": "United States",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 165.0,
+  "tour_weighted_points": 37.5,
+  "asia_tour_points": 22.5,
+  "asia_tour_events": 1,
+  "events_played": 3,
+  "wins": 0,
+  "podiums": 0,
+  "top5": 1,
+  "top10": 1,
+  "top20": 3,
+  "avg_finish": 12.67,
+  "win_rate": 0.0,
+  "top10_rate": 0.333,
+  "cash_earned": 0.0,
+  "pdga_rank": 906,
+  "weighted_rank": 1063,
+  "country_rank": 220,
+  "am_events": 1,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 1,
+  "am_pdga_points": 0.0,
+  "last_active": "06-Mar to 08-Mar-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 1,
+      "points": 22.5,
+      "weighted": 16.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 2,
+      "points": 142.5,
+      "weighted": 21.5,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 2,
+      "pdga_points": 165.0,
+      "tour_weighted_points": 20.0,
+      "avg_finish": 16.5,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 1,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 17.5,
+      "avg_finish": 5.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 3,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 1,
+      "top10": 1,
+      "top20": 3,
+      "pdga_points": 165.0,
+      "tour_weighted_points": 37.5,
+      "avg_finish": 12.67,
+      "win_rate": 0.0,
+      "top10_rate": 0.333
+    }
+  },
+  "division_counts": {
+    "MPO": 2,
+    "MA1": 1
+  },
+  "results": [
+    {
+      "event_id": "97704",
+      "title": "The 14th Okinawa Open - PDGA  Asia Tour Event #6",
+      "dates": "06-Mar to 08-Mar-2026",
+      "year": "2026",
+      "tier": "B",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "Kunigami-gun, Okinawa, Japan",
+      "place": 16,
+      "pdga_points": 22.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 16.0
+    },
+    {
+      "event_id": "103427",
+      "title": "The 28th Nippon Open presented by Latitude 64\u00b0",
+      "dates": "04-Jul to 05-Jul-2026",
+      "year": "2026",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Gamo-gun, Shiga, Japan",
+      "place": 5,
+      "pdga_points": 0.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "96928",
+      "title": "The 39th Kyushu Open",
+      "dates": "29-Nov to 30-Nov-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Fukuoka-shi, Fukuoka, Japan",
+      "place": 17,
+      "pdga_points": 142.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 22.5,
+      "avg_finish": 10.5
+    },
+    {
+      "year": "2025",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 142.5,
+      "avg_finish": 17.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2023-12-12",
+      "rating": 818,
+      "rounds": 2
+    },
+    {
+      "date": "2024-05-14",
+      "rating": 848,
+      "rounds": 5
+    },
+    {
+      "date": "2024-06-11",
+      "rating": 868,
+      "rounds": 11
+    },
+    {
+      "date": "2024-07-09",
+      "rating": 869,
+      "rounds": 14
+    },
+    {
+      "date": "2024-08-13",
+      "rating": 868,
+      "rounds": 16
+    },
+    {
+      "date": "2024-09-10",
+      "rating": 875,
+      "rounds": 21
+    },
+    {
+      "date": "2026-01-13",
+      "rating": 912,
+      "rounds": 8
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 912,
+      "rounds": 8
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/273776"
+}

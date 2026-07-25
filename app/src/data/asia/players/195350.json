@@ -1,0 +1,516 @@
+{
+  "pdga": 195350,
+  "name": "Dave King #195350",
+  "country": "Vietnam",
+  "country_key": "VN",
+  "flag": "\ud83c\uddfb\ud83c\uddf3",
+  "rating": 876,
+  "classification": "Amateur",
+  "city": "Thu Duc",
+  "nationality": "",
+  "division": "MA1",
+  "primary_class": "amateur",
+  "pdga_points": 484.5,
+  "tour_weighted_points": 191.6,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 11,
+  "wins": 5,
+  "podiums": 6,
+  "top5": 7,
+  "top10": 9,
+  "top20": 11,
+  "avg_finish": 5.18,
+  "win_rate": 0.455,
+  "top10_rate": 0.818,
+  "cash_earned": 0.0,
+  "pdga_rank": 462,
+  "weighted_rank": 352,
+  "country_rank": 3,
+  "am_events": 11,
+  "am_wins": 5,
+  "am_podiums": 6,
+  "am_top10": 9,
+  "am_pdga_points": 484.5,
+  "last_active": "28-Jan to 30-Jan-2025",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 3,
+      "points": 214.5,
+      "weighted": 104.0,
+      "wins": 2
+    },
+    "c_tier": {
+      "events": 8,
+      "points": 270.0,
+      "weighted": 87.6,
+      "wins": 3
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 11,
+      "wins": 5,
+      "podiums": 6,
+      "top5": 7,
+      "top10": 9,
+      "top20": 11,
+      "pdga_points": 484.5,
+      "tour_weighted_points": 191.6,
+      "avg_finish": 5.18,
+      "win_rate": 0.455,
+      "top10_rate": 0.818
+    },
+    "all": {
+      "events": 11,
+      "wins": 5,
+      "podiums": 6,
+      "top5": 7,
+      "top10": 9,
+      "top20": 11,
+      "pdga_points": 484.5,
+      "tour_weighted_points": 191.6,
+      "avg_finish": 5.18,
+      "win_rate": 0.455,
+      "top10_rate": 0.818
+    }
+  },
+  "division_counts": {
+    "MA1": 6,
+    "MA40": 3,
+    "MA3": 1,
+    "MA2": 1
+  },
+  "results": [
+    {
+      "event_id": "84698",
+      "title": "Samui Swine Classic XII - MA1, MA2, MA3, MA40, MA50, MA60, FA1 Presented by Latitude 64",
+      "dates": "28-Jan to 30-Jan-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 12,
+      "pdga_points": 75.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "87584",
+      "title": "A Holiday in Cambodia",
+      "dates": "22-Mar to 23-Mar-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Siem Reap, Cambodia",
+      "place": 4,
+      "pdga_points": 25.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "86211",
+      "title": "3rd Annual Chiang Mai Open",
+      "dates": "07-Feb to 09-Feb-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "San Kamphaeng, Thailand",
+      "place": 3,
+      "pdga_points": 64.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "73676",
+      "title": "Samui Swine Classic XI - MA3, MA2, MA40, MA50, MA60",
+      "dates": "30-Jan to 01-Feb-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 1,
+      "pdga_points": 60.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 50.0
+    },
+    {
+      "event_id": "74304",
+      "title": "SE Asia Disc Golf Championship 2024",
+      "dates": "26-Jan to 28-Jan-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 1,
+      "pdga_points": 72.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 50.0
+    },
+    {
+      "event_id": "75876",
+      "title": "The Khmer Cup 2024 Presented by Lone Star Discs",
+      "dates": "16-Feb to 18-Feb-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Siem Reap, Cambodia",
+      "place": 6,
+      "pdga_points": 20.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "75766",
+      "title": "Singapore Sling 2024",
+      "dates": "13-Jan-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 8,
+      "pdga_points": 35.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "73691",
+      "title": "Samui Swine Classic XI - MPO, FPO, MP40, MP50, MA1, FA1",
+      "dates": "02-Feb to 04-Feb-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 19,
+      "pdga_points": 82.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "73315",
+      "title": "Boxed Out 2023 Supported by Innova",
+      "dates": "26-Dec-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Siem Reap, Cambodia",
+      "place": 1,
+      "pdga_points": 15.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "66066",
+      "title": "Singapore Sling 2023",
+      "dates": "25-Feb-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 1,
+      "pdga_points": 12.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "63886",
+      "title": "Trees",
+      "dates": "15-Oct-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahry, Johor, Malaysia",
+      "place": 1,
+      "pdga_points": 24.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "73676",
+      "title": "Samui Swine Classic XI - MA3, MA2, MA40, MA50, MA60",
+      "dates": "30-Jan to 01-Feb-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 1,
+      "pdga_points": 60.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 50.0
+    },
+    {
+      "event_id": "74304",
+      "title": "SE Asia Disc Golf Championship 2024",
+      "dates": "26-Jan to 28-Jan-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 1,
+      "pdga_points": 72.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 50.0
+    },
+    {
+      "event_id": "73315",
+      "title": "Boxed Out 2023 Supported by Innova",
+      "dates": "26-Dec-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Siem Reap, Cambodia",
+      "place": 1,
+      "pdga_points": 15.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "66066",
+      "title": "Singapore Sling 2023",
+      "dates": "25-Feb-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 1,
+      "pdga_points": 12.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "63886",
+      "title": "Trees",
+      "dates": "15-Oct-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahry, Johor, Malaysia",
+      "place": 1,
+      "pdga_points": 24.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2025",
+      "events": 3,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 2,
+      "pdga_points": 164.0,
+      "avg_finish": 6.33
+    },
+    {
+      "year": "2024",
+      "events": 5,
+      "wins": 2,
+      "podiums": 2,
+      "top10": 4,
+      "pdga_points": 269.5,
+      "avg_finish": 7.0
+    },
+    {
+      "year": "2023",
+      "events": 2,
+      "wins": 2,
+      "podiums": 2,
+      "top10": 2,
+      "pdga_points": 27.0,
+      "avg_finish": 1.0
+    },
+    {
+      "year": "2022",
+      "events": 1,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 24.0,
+      "avg_finish": 1.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2024-11-12",
+      "rating": 871,
+      "rounds": 51
+    },
+    {
+      "date": "2024-12-10",
+      "rating": 873,
+      "rounds": 49
+    },
+    {
+      "date": "2025-02-11",
+      "rating": 880,
+      "rounds": 44
+    },
+    {
+      "date": "2025-03-11",
+      "rating": 880,
+      "rounds": 47
+    },
+    {
+      "date": "2025-04-08",
+      "rating": 879,
+      "rounds": 45
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 876,
+      "rounds": 43
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 879,
+      "rounds": 43
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 881,
+      "rounds": 46
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 882,
+      "rounds": 38
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 886,
+      "rounds": 41
+    },
+    {
+      "date": "2025-11-11",
+      "rating": 887,
+      "rounds": 40
+    },
+    {
+      "date": "2025-12-09",
+      "rating": 887,
+      "rounds": 41
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 883,
+      "rounds": 30
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 874,
+      "rounds": 32
+    },
+    {
+      "date": "2026-06-09",
+      "rating": 876,
+      "rounds": 31
+    }
+  ],
+  "streak": {
+    "direction": "up",
+    "recent_avg": 54.7,
+    "season_avg": 40.1,
+    "delta_pct": 36.5
+  },
+  "pdga_url": "https://www.pdga.com/player/195350"
+}

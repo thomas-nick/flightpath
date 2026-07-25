@@ -1,0 +1,339 @@
+{
+  "pdga": 92674,
+  "name": "Toyohiko Himei #92674",
+  "country": "Japan",
+  "country_key": "JP",
+  "flag": "\ud83c\uddef\ud83c\uddf5",
+  "rating": 948,
+  "classification": "Professional",
+  "city": "Atsugi",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 511.5,
+  "tour_weighted_points": 89.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 4,
+  "wins": 1,
+  "podiums": 1,
+  "top5": 3,
+  "top10": 3,
+  "top20": 4,
+  "avg_finish": 6.75,
+  "win_rate": 0.25,
+  "top10_rate": 0.75,
+  "cash_earned": 0.0,
+  "pdga_rank": 444,
+  "weighted_rank": 668,
+  "country_rank": 154,
+  "am_events": 2,
+  "am_wins": 1,
+  "am_podiums": 1,
+  "am_top10": 2,
+  "am_pdga_points": 106.5,
+  "last_active": "29-Feb to 01-Mar-2020",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 4,
+      "points": 511.5,
+      "weighted": 89.0,
+      "wins": 1
+    },
+    "c_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 1,
+      "top10": 1,
+      "top20": 2,
+      "pdga_points": 405.0,
+      "tour_weighted_points": 21.5,
+      "avg_finish": 11.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.5
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 2,
+      "wins": 1,
+      "podiums": 1,
+      "top5": 2,
+      "top10": 2,
+      "top20": 2,
+      "pdga_points": 106.5,
+      "tour_weighted_points": 67.5,
+      "avg_finish": 2.5,
+      "win_rate": 0.5,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 4,
+      "wins": 1,
+      "podiums": 1,
+      "top5": 3,
+      "top10": 3,
+      "top20": 4,
+      "pdga_points": 511.5,
+      "tour_weighted_points": 89.0,
+      "avg_finish": 6.75,
+      "win_rate": 0.25,
+      "top10_rate": 0.75
+    }
+  },
+  "division_counts": {
+    "MPO": 2,
+    "MA1": 1,
+    "MA4": 1
+  },
+  "results": [
+    {
+      "event_id": "44596",
+      "title": "2020 National Doubles Championships",
+      "dates": "29-Feb to 01-Mar-2020",
+      "year": "2020",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Hitachinaka, Ibaraki, Japan",
+      "place": 5,
+      "pdga_points": 180.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "41245",
+      "title": "The 7th Asia Championship",
+      "dates": "03-Aug to 04-Aug-2019",
+      "year": "2019",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Fukuoka, Fukuoka, Japan",
+      "place": 17,
+      "pdga_points": 225.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "34639",
+      "title": "National Doubles Championships - Divisional Doubles",
+      "dates": "03-Mar to 04-Mar-2018",
+      "year": "2018",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Hitachinaka, Ibaraki, Japan",
+      "place": 1,
+      "pdga_points": 9.0,
+      "division": "MA4",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 50.0
+    },
+    {
+      "event_id": "32210",
+      "title": "National Doubles Championships",
+      "dates": "04-Mar to 05-Mar-2017",
+      "year": "2017",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Hitachinaka, Ibaraki, Japan",
+      "place": 4,
+      "pdga_points": 97.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 17.5
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "34639",
+      "title": "National Doubles Championships - Divisional Doubles",
+      "dates": "03-Mar to 04-Mar-2018",
+      "year": "2018",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Hitachinaka, Ibaraki, Japan",
+      "place": 1,
+      "pdga_points": 9.0,
+      "division": "MA4",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 50.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2020",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 180.0,
+      "avg_finish": 5.0
+    },
+    {
+      "year": "2019",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 225.0,
+      "avg_finish": 17.0
+    },
+    {
+      "year": "2018",
+      "events": 1,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 9.0,
+      "avg_finish": 1.0
+    },
+    {
+      "year": "2017",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 97.5,
+      "avg_finish": 4.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2017-06-27",
+      "rating": 938,
+      "rounds": 6
+    },
+    {
+      "date": "2017-07-25",
+      "rating": 908,
+      "rounds": 9
+    },
+    {
+      "date": "2017-08-22",
+      "rating": 906,
+      "rounds": 12
+    },
+    {
+      "date": "2017-10-25",
+      "rating": 904,
+      "rounds": 15
+    },
+    {
+      "date": "2018-01-31",
+      "rating": 906,
+      "rounds": 18
+    },
+    {
+      "date": "2018-06-26",
+      "rating": 921,
+      "rounds": 20
+    },
+    {
+      "date": "2018-10-09",
+      "rating": 915,
+      "rounds": 11
+    },
+    {
+      "date": "2018-10-30",
+      "rating": 927,
+      "rounds": 14
+    },
+    {
+      "date": "2019-01-29",
+      "rating": 924,
+      "rounds": 15
+    },
+    {
+      "date": "2019-07-09",
+      "rating": 927,
+      "rounds": 15
+    },
+    {
+      "date": "2019-09-10",
+      "rating": 934,
+      "rounds": 14
+    },
+    {
+      "date": "2019-10-08",
+      "rating": 949,
+      "rounds": 12
+    },
+    {
+      "date": "2020-01-14",
+      "rating": 948,
+      "rounds": 15
+    },
+    {
+      "date": "2020-10-13",
+      "rating": 955,
+      "rounds": 9
+    },
+    {
+      "date": "2020-12-08",
+      "rating": 941,
+      "rounds": 8
+    }
+  ],
+  "streak": {
+    "direction": "up",
+    "recent_avg": 138.0,
+    "season_avg": 97.5,
+    "delta_pct": 41.5
+  },
+  "pdga_url": "https://www.pdga.com/player/92674"
+}

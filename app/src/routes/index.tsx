@@ -1,23 +1,25 @@
 import { createFileRoute } from "@tanstack/react-router";
+import { AsiaLeaderboard } from "../components/flightpath/asia-leaderboard";
+import { AsiaTourStandings } from "../components/flightpath/asia-tour-standings";
+import { CountryGrid } from "../components/flightpath/country-grid";
 import { FeaturedPlayers } from "../components/flightpath/featured-players";
 import { Hero } from "../components/flightpath/hero";
-import { PlayerDirectory } from "../components/flightpath/player-directory";
-import { ScheduleRail } from "../components/flightpath/schedule-rail";
 import { PageShell } from "../components/flightpath/site-chrome";
 import { SmoothScroll } from "../components/flightpath/smooth-scroll";
-import eliteSeries from "../data/elite-series-2026.json";
-import { getPlayers } from "../lib/players";
+import { UpcomingRail } from "../components/flightpath/upcoming-rail";
+import { getAsiaBoard } from "../lib/asia";
+import { getFlightpathTop } from "../lib/flightpath-rating";
 
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
       {
-        title: "Flightpath — Disc Golf Pro Tour Ledger",
+        title: "Flightpath Asia — Disc Golf Leaderboards",
       },
       {
         name: "description",
         content:
-          "Elite Series player dossiers for the Disc Golf Pro Tour with historical PDGA stats.",
+          "PDGA Asia Tour standings, national leaders, and historical player dossiers across Asian disc golf tournaments.",
       },
     ],
   }),
@@ -25,28 +27,36 @@ export const Route = createFileRoute("/")({
 });
 
 function Index() {
-  const players = getPlayers();
+  const board = getAsiaBoard();
+  const featured = getFlightpathTop(10);
 
   return (
     <PageShell>
       <SmoothScroll />
       <Hero />
-      <FeaturedPlayers players={players} />
-      <ScheduleRail events={eliteSeries} />
-      <PlayerDirectory players={players} compact />
+      <UpcomingRail />
+      <FeaturedPlayers asiaPlayers={featured} />
+      <CountryGrid
+        limit={8}
+        title="Country hubs"
+        subtitle="National boards, hosted tournaments, and all-time stats across Asia."
+      />
+      <AsiaTourStandings />
+      <AsiaLeaderboard />
       <section className="fp-section fp-close">
-        <h2>Follow the flight.</h2>
+        <h2>The archive is growing.</h2>
         <p>
-          Every line on this ledger comes from the PDGA API and the official
-          Elite Series calendar.
+          {board.total_players} players across {board.total_events} PDGA tournaments in
+          Asia — open and amateur. Weekly leagues stay off the board. Historical seasons
+          backfill into this ledger over time.
         </p>
         <a
           className="fp-cta-enter"
-          href="https://www.pdga.com/elite-series"
+          href="https://www.pdga.com/asiatour"
           target="_blank"
           rel="noreferrer"
         >
-          PDGA Elite Series
+          PDGA Asia Tour
         </a>
       </section>
     </PageShell>

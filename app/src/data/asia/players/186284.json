@@ -1,0 +1,352 @@
+{
+  "pdga": 186284,
+  "name": "Ian Tinsley",
+  "country": "India",
+  "country_key": "IN",
+  "flag": "\ud83c\uddee\ud83c\uddf3",
+  "rating": 826,
+  "classification": "Pro",
+  "city": "",
+  "nationality": "",
+  "division": "MA3",
+  "primary_class": "amateur",
+  "pdga_points": 102.5,
+  "tour_weighted_points": 37.6,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 7,
+  "wins": 0,
+  "podiums": 0,
+  "top5": 2,
+  "top10": 6,
+  "top20": 7,
+  "avg_finish": 8.57,
+  "win_rate": 0.0,
+  "top10_rate": 0.857,
+  "cash_earned": 0.0,
+  "pdga_rank": 1740,
+  "weighted_rank": 988,
+  "country_rank": 655,
+  "am_events": 7,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 6,
+  "am_pdga_points": 102.5,
+  "last_active": "19-Feb-2023",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 7.5,
+      "weighted": 10.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 6,
+      "points": 95.0,
+      "weighted": 27.6,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 7,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 2,
+      "top10": 6,
+      "top20": 7,
+      "pdga_points": 102.5,
+      "tour_weighted_points": 37.6,
+      "avg_finish": 8.57,
+      "win_rate": 0.0,
+      "top10_rate": 0.857
+    },
+    "all": {
+      "events": 7,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 2,
+      "top10": 6,
+      "top20": 7,
+      "pdga_points": 102.5,
+      "tour_weighted_points": 37.6,
+      "avg_finish": 8.57,
+      "win_rate": 0.0,
+      "top10_rate": 0.857
+    }
+  },
+  "division_counts": {
+    "MA3": 5,
+    "MA2": 1,
+    "MA1": 1
+  },
+  "results": [
+    {
+      "event_id": "69291",
+      "title": "BC3 Fall Classic",
+      "dates": "21-Oct-2023",
+      "year": "2023",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Nashville, Indiana, United States",
+      "place": 10,
+      "pdga_points": 7.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "66360",
+      "title": "WIFFS The Nashville Chill sponsored by Westside Discs (CEP Charity - Rated)",
+      "dates": "19-Feb-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Nashville, Indiana, United States",
+      "place": 9,
+      "pdga_points": 8.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "55823",
+      "title": "Wiffs Finale \"Winters Last Hurrah\" (CEP Charity - Rated)",
+      "dates": "27-Mar-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Monrovia, Indiana, United States",
+      "place": 17,
+      "pdga_points": 15.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "56568",
+      "title": "WIFFS #17 - The Nashville Chill sponsored by Westside Discs (CEP Charity - Rated)",
+      "dates": "19-Feb-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Nashville, Indiana, United States",
+      "place": 9,
+      "pdga_points": 21.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "56249",
+      "title": "WIFFS #4 - Basket Bash by Dads Fore Disc Golf (CEP Charity - Rated)",
+      "dates": "09-Jan-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Princeton, Indiana, United States",
+      "place": 6,
+      "pdga_points": 21.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "56370",
+      "title": "WIFFS #23 - MoRE Madness (CEP Charity - Rated)",
+      "dates": "06-Mar-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Rushville, Indiana, United States",
+      "place": 5,
+      "pdga_points": 24.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "57268",
+      "title": "WIFFS #14 Mitten Road Trip (CEP Charity - Rated)",
+      "dates": "06-Feb-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Bowling Green, Indiana, United States",
+      "place": 4,
+      "pdga_points": 6.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2023",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 2,
+      "pdga_points": 15.5,
+      "avg_finish": 9.5
+    },
+    {
+      "year": "2022",
+      "events": 5,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 4,
+      "pdga_points": 87.0,
+      "avg_finish": 8.2
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2024-08-13",
+      "rating": 900,
+      "rounds": 46
+    },
+    {
+      "date": "2024-09-10",
+      "rating": 901,
+      "rounds": 51
+    },
+    {
+      "date": "2024-11-12",
+      "rating": 902,
+      "rounds": 45
+    },
+    {
+      "date": "2025-01-14",
+      "rating": 902,
+      "rounds": 43
+    },
+    {
+      "date": "2025-02-11",
+      "rating": 903,
+      "rounds": 43
+    },
+    {
+      "date": "2025-04-08",
+      "rating": 908,
+      "rounds": 38
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 901,
+      "rounds": 34
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 908,
+      "rounds": 31
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 914,
+      "rounds": 24
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 908,
+      "rounds": 25
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 911,
+      "rounds": 28
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 909,
+      "rounds": 16
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 918,
+      "rounds": 18
+    },
+    {
+      "date": "2026-06-09",
+      "rating": 930,
+      "rounds": 17
+    },
+    {
+      "date": "2026-07-14",
+      "rating": 926,
+      "rounds": 14
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 10.2,
+    "season_avg": 18.0,
+    "delta_pct": -43.5
+  },
+  "pdga_url": "https://www.pdga.com/player/186284"
+}

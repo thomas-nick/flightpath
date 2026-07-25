@@ -1,0 +1,411 @@
+{
+  "pdga": 74695,
+  "name": "Atsuhiko Manzaki #74695",
+  "country": "Japan",
+  "country_key": "JP",
+  "flag": "\ud83c\uddef\ud83c\uddf5",
+  "rating": 876,
+  "classification": "Amateur",
+  "city": "Iwaki Shi",
+  "nationality": "",
+  "division": "MA40",
+  "primary_class": "amateur",
+  "pdga_points": 165.0,
+  "tour_weighted_points": 286.5,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 10,
+  "wins": 2,
+  "podiums": 6,
+  "top5": 9,
+  "top10": 9,
+  "top20": 10,
+  "avg_finish": 4.4,
+  "win_rate": 0.2,
+  "top10_rate": 0.9,
+  "cash_earned": 0.0,
+  "pdga_rank": 912,
+  "weighted_rank": 209,
+  "country_rank": 223,
+  "am_events": 10,
+  "am_wins": 2,
+  "am_podiums": 6,
+  "am_top10": 9,
+  "am_pdga_points": 165.0,
+  "last_active": "06-Aug to 07-Aug-2022",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 10,
+      "points": 165.0,
+      "weighted": 286.5,
+      "wins": 2
+    },
+    "c_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 10,
+      "wins": 2,
+      "podiums": 6,
+      "top5": 9,
+      "top10": 9,
+      "top20": 10,
+      "pdga_points": 165.0,
+      "tour_weighted_points": 286.5,
+      "avg_finish": 4.4,
+      "win_rate": 0.2,
+      "top10_rate": 0.9
+    },
+    "all": {
+      "events": 10,
+      "wins": 2,
+      "podiums": 6,
+      "top5": 9,
+      "top10": 9,
+      "top20": 10,
+      "pdga_points": 165.0,
+      "tour_weighted_points": 286.5,
+      "avg_finish": 4.4,
+      "win_rate": 0.2,
+      "top10_rate": 0.9
+    }
+  },
+  "division_counts": {
+    "MA50": 3,
+    "MA1": 1,
+    "MA40": 6
+  },
+  "results": [
+    {
+      "event_id": "60507",
+      "title": "The 26th Kanto Open",
+      "dates": "17-Jul to 18-Jul-2022",
+      "year": "2022",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Utsunomiya, Tochigi, Japan",
+      "place": 1,
+      "pdga_points": 27.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 50.0
+    },
+    {
+      "event_id": "62982",
+      "title": "The 22nd Tohoku Open",
+      "dates": "08-Oct to 09-Oct-2022",
+      "year": "2022",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Yurihonjo City, Akita, Japan",
+      "place": 5,
+      "pdga_points": 4.5,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "60506",
+      "title": "Michinoku Open 2022 + WGE",
+      "dates": "06-Aug to 07-Aug-2022",
+      "year": "2022",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Kitakami, Iwate, Japan",
+      "place": 3,
+      "pdga_points": 4.5,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 27.5
+    },
+    {
+      "event_id": "41244",
+      "title": "The 23rd. Kanto Open",
+      "dates": "13-Jul to 15-Jul-2019",
+      "year": "2019",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Utsunomiya, Tochigi, Japan",
+      "place": 3,
+      "pdga_points": 30.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 27.5
+    },
+    {
+      "event_id": "41246",
+      "title": "The 14th Michinoku Open",
+      "dates": "11-Aug to 12-Aug-2019",
+      "year": "2019",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Kitakami, Iwate, Japan",
+      "place": 4,
+      "pdga_points": 6.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "36395",
+      "title": "The 1st Miyagi Michinoku Open",
+      "dates": "24-Mar to 25-Mar-2018",
+      "year": "2018",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Shibata-gun, Miyagi, Japan",
+      "place": 2,
+      "pdga_points": 12.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 37.5
+    },
+    {
+      "event_id": "36752",
+      "title": "The 13th Masters National Championships",
+      "dates": "23-Jun to 24-Jun-2018",
+      "year": "2018",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Miho-mura, Ibaraki, Japan",
+      "place": 4,
+      "pdga_points": 18.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "36755",
+      "title": "The 13th Michinoku Open",
+      "dates": "18-Aug to 19-Aug-2018",
+      "year": "2018",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "KItakami city, Iwate, Japan",
+      "place": 2,
+      "pdga_points": 18.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 37.5
+    },
+    {
+      "event_id": "36754",
+      "title": "The 22nd Kanto Open",
+      "dates": "14-Jul to 16-Jul-2018",
+      "year": "2018",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Utsunomiya, Tochigi, Japan",
+      "place": 1,
+      "pdga_points": 30.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 50.0
+    },
+    {
+      "event_id": "21311",
+      "title": "The 19th Kanto Open",
+      "dates": "11-Jul to 12-Jul-2015",
+      "year": "2015",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Utsunomiya, Tochigi, Japan",
+      "place": 19,
+      "pdga_points": 15.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "60507",
+      "title": "The 26th Kanto Open",
+      "dates": "17-Jul to 18-Jul-2022",
+      "year": "2022",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Utsunomiya, Tochigi, Japan",
+      "place": 1,
+      "pdga_points": 27.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 50.0
+    },
+    {
+      "event_id": "36754",
+      "title": "The 22nd Kanto Open",
+      "dates": "14-Jul to 16-Jul-2018",
+      "year": "2018",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Utsunomiya, Tochigi, Japan",
+      "place": 1,
+      "pdga_points": 30.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 50.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2022",
+      "events": 3,
+      "wins": 1,
+      "podiums": 2,
+      "top10": 3,
+      "pdga_points": 36.0,
+      "avg_finish": 3.0
+    },
+    {
+      "year": "2019",
+      "events": 2,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 2,
+      "pdga_points": 36.0,
+      "avg_finish": 3.5
+    },
+    {
+      "year": "2018",
+      "events": 4,
+      "wins": 1,
+      "podiums": 3,
+      "top10": 4,
+      "pdga_points": 78.0,
+      "avg_finish": 2.25
+    },
+    {
+      "year": "2015",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 15.0,
+      "avg_finish": 19.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2015-09-01",
+      "rating": 809,
+      "rounds": 2
+    },
+    {
+      "date": "2015-10-20",
+      "rating": 759,
+      "rounds": 5
+    },
+    {
+      "date": "2015-12-08",
+      "rating": 785,
+      "rounds": 7
+    },
+    {
+      "date": "2016-06-21",
+      "rating": 791,
+      "rounds": 8
+    },
+    {
+      "date": "2016-09-20",
+      "rating": 790,
+      "rounds": 11
+    },
+    {
+      "date": "2016-10-18",
+      "rating": 804,
+      "rounds": 16
+    },
+    {
+      "date": "2016-11-15",
+      "rating": 813,
+      "rounds": 19
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 12.0,
+    "season_avg": 18.4,
+    "delta_pct": -34.9
+  },
+  "pdga_url": "https://www.pdga.com/player/74695"
+}

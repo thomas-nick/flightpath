@@ -1,0 +1,271 @@
+{
+  "pdga": 157956,
+  "name": "Wyatt Hickey #157956",
+  "country": "United States",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 928,
+  "classification": "Amateur",
+  "city": "Niles",
+  "nationality": "",
+  "division": "MA1",
+  "primary_class": "amateur",
+  "pdga_points": 3767.0,
+  "tour_weighted_points": 27.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 1,
+  "top5": 1,
+  "top10": 1,
+  "top20": 1,
+  "avg_finish": 44.5,
+  "win_rate": 0.0,
+  "top10_rate": 0.5,
+  "cash_earned": 0.0,
+  "pdga_rank": 104,
+  "weighted_rank": 1222,
+  "country_rank": null,
+  "am_events": 2,
+  "am_wins": 0,
+  "am_podiums": 1,
+  "am_top10": 1,
+  "am_pdga_points": 3767.0,
+  "last_active": "28-Mar-2026",
+  "by_level": {
+    "major": {
+      "events": 1,
+      "points": 3735.0,
+      "weighted": 12.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 1,
+      "points": 32.0,
+      "weighted": 15.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 3767.0,
+      "tour_weighted_points": 27.0,
+      "avg_finish": 44.5,
+      "win_rate": 0.0,
+      "top10_rate": 0.5
+    },
+    "all": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 3767.0,
+      "tour_weighted_points": 27.0,
+      "avg_finish": 44.5,
+      "win_rate": 0.0,
+      "top10_rate": 0.5
+    }
+  },
+  "division_counts": {
+    "MA1": 1,
+    "MA40": 1
+  },
+  "results": [
+    {
+      "event_id": "99336",
+      "title": "Sloppy Seconds presented by Frozen Chosen & SJVDGC",
+      "dates": "28-Mar-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Mishawaka, Indiana, United States",
+      "place": 2,
+      "pdga_points": 32.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "55453",
+      "title": "2022 PDGA Amateur Disc Golf World Championships presented by Toyota",
+      "dates": "21-Jun to 25-Jun-2022",
+      "year": "2022",
+      "tier": "",
+      "level": "major",
+      "is_asia_tour": false,
+      "location": "Princeton, Indiana, United States",
+      "place": 87,
+      "pdga_points": 3735.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 12.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 32.0,
+      "avg_finish": 2.0
+    },
+    {
+      "year": "2022",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 3735.0,
+      "avg_finish": 87.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2024-09-10",
+      "rating": 923,
+      "rounds": 39
+    },
+    {
+      "date": "2024-10-08",
+      "rating": 925,
+      "rounds": 38
+    },
+    {
+      "date": "2024-11-12",
+      "rating": 924,
+      "rounds": 40
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 924,
+      "rounds": 29
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 918,
+      "rounds": 27
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 912,
+      "rounds": 29
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 917,
+      "rounds": 26
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 919,
+      "rounds": 27
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 923,
+      "rounds": 27
+    },
+    {
+      "date": "2025-11-11",
+      "rating": 922,
+      "rounds": 26
+    },
+    {
+      "date": "2025-12-09",
+      "rating": 923,
+      "rounds": 27
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 925,
+      "rounds": 31
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 929,
+      "rounds": 32
+    },
+    {
+      "date": "2026-06-09",
+      "rating": 930,
+      "rounds": 36
+    },
+    {
+      "date": "2026-07-14",
+      "rating": 928,
+      "rounds": 38
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/157956"
+}

@@ -1,0 +1,235 @@
+{
+  "pdga": 788,
+  "name": "John Putnam #788",
+  "country": "United States",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 934,
+  "classification": "Amateur",
+  "city": "Charlotte",
+  "nationality": "",
+  "division": "MA60",
+  "primary_class": "amateur",
+  "pdga_points": 0.0,
+  "tour_weighted_points": 0.6,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top5": 0,
+  "top10": 0,
+  "top20": 0,
+  "avg_finish": 1200.0,
+  "win_rate": 0.0,
+  "top10_rate": 0.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 2230,
+  "weighted_rank": 2348,
+  "country_rank": null,
+  "am_events": 1,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 0,
+  "am_pdga_points": 0.0,
+  "last_active": "28-Apr-2024",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 1,
+      "points": 0.0,
+      "weighted": 0.6,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.6,
+      "avg_finish": 1200.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "all": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.6,
+      "avg_finish": 1200.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    }
+  },
+  "division_counts": {
+    "MA60": 1
+  },
+  "results": [
+    {
+      "event_id": "80706",
+      "title": "Songdam Doubles",
+      "dates": "28-Apr-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Yeongdong-gun, Chungcheongbuk-do, South Korea",
+      "place": 1200,
+      "pdga_points": 0.0,
+      "division": "MA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 0.6
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2024",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 0.0,
+      "avg_finish": 1200.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2019-11-12",
+      "rating": 856,
+      "rounds": 1
+    },
+    {
+      "date": "2023-12-12",
+      "rating": 889,
+      "rounds": 5
+    },
+    {
+      "date": "2024-01-09",
+      "rating": 870,
+      "rounds": 7
+    },
+    {
+      "date": "2024-06-11",
+      "rating": 887,
+      "rounds": 9
+    },
+    {
+      "date": "2024-07-09",
+      "rating": 888,
+      "rounds": 10
+    },
+    {
+      "date": "2024-08-13",
+      "rating": 864,
+      "rounds": 14
+    },
+    {
+      "date": "2024-10-08",
+      "rating": 891,
+      "rounds": 18
+    },
+    {
+      "date": "2024-12-10",
+      "rating": 896,
+      "rounds": 19
+    },
+    {
+      "date": "2025-03-11",
+      "rating": 905,
+      "rounds": 13
+    },
+    {
+      "date": "2025-04-08",
+      "rating": 923,
+      "rounds": 16
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 920,
+      "rounds": 18
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 924,
+      "rounds": 17
+    },
+    {
+      "date": "2026-07-14",
+      "rating": 934,
+      "rounds": 8
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/788"
+}

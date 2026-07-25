@@ -1,0 +1,418 @@
+{
+  "pdga": 277751,
+  "name": "Ben Clark #277751",
+  "country": "Malaysia",
+  "country_key": "MY",
+  "flag": "\ud83c\uddf2\ud83c\uddfe",
+  "rating": 835,
+  "classification": "Amateur",
+  "city": "Iskandar Puteri",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 347.0,
+  "tour_weighted_points": 126.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 10,
+  "wins": 2,
+  "podiums": 5,
+  "top5": 7,
+  "top10": 10,
+  "top20": 10,
+  "avg_finish": 4.3,
+  "win_rate": 0.2,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 586,
+  "weighted_rank": 518,
+  "country_rank": 13,
+  "am_events": 9,
+  "am_wins": 2,
+  "am_podiums": 5,
+  "am_top10": 9,
+  "am_pdga_points": 277.0,
+  "last_active": "24-May-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 2,
+      "points": 129.0,
+      "weighted": 45.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 8,
+      "points": 218.0,
+      "weighted": 81.0,
+      "wins": 2
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 70.0,
+      "tour_weighted_points": 4.0,
+      "avg_finish": 8.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 9,
+      "wins": 2,
+      "podiums": 5,
+      "top5": 7,
+      "top10": 9,
+      "top20": 9,
+      "pdga_points": 277.0,
+      "tour_weighted_points": 122.0,
+      "avg_finish": 3.89,
+      "win_rate": 0.222,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 10,
+      "wins": 2,
+      "podiums": 5,
+      "top5": 7,
+      "top10": 10,
+      "top20": 10,
+      "pdga_points": 347.0,
+      "tour_weighted_points": 126.0,
+      "avg_finish": 4.3,
+      "win_rate": 0.2,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA1": 4,
+    "MA3": 2,
+    "MPO": 1,
+    "MA40": 3
+  },
+  "results": [
+    {
+      "event_id": "104157",
+      "title": "Marlborough College Jr. Disc Golf Tournament 2026",
+      "dates": "24-May-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "ISKANDAR PUTERI, Johor, Malaysia",
+      "place": 3,
+      "pdga_points": 15.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "97674",
+      "title": "2026 Singapore Sling",
+      "dates": "17-Jan to 18-Jan-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 3,
+      "pdga_points": 4.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "94658",
+      "title": "MALAYSIA OPEN 2025",
+      "dates": "30-Aug to 31-Aug-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "JOHOR BAHRU, Johor, Malaysia",
+      "place": 6,
+      "pdga_points": 45.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "86250",
+      "title": "SE Asia Disc Golf Championship 2025",
+      "dates": "18-Jan to 19-Jan-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 4,
+      "pdga_points": 66.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "93957",
+      "title": "Johor Disc Golf Open 2025",
+      "dates": "05-Jul to 06-Jul-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 5,
+      "pdga_points": 25.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "74304",
+      "title": "SE Asia Disc Golf Championship 2024",
+      "dates": "26-Jan to 28-Jan-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 3,
+      "pdga_points": 63.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 27.5
+    },
+    {
+      "event_id": "86342",
+      "title": "Crispy Original Disc Golf Tournament",
+      "dates": "23-Nov-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Iskandar Puteri, Johor, Malaysia",
+      "place": 1,
+      "pdga_points": 12.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "81349",
+      "title": "2024 PDGA Women's Global Event - Malaysia +WGE",
+      "dates": "17-May to 18-May-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 9,
+      "pdga_points": 20.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "78949",
+      "title": "4th Annual Johor State Disc Golf Championship",
+      "dates": "13-Apr-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 1,
+      "pdga_points": 27.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "78954",
+      "title": "6th Annual Malaysia National Disc Golf Championship",
+      "dates": "03-Aug to 04-Aug-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 8,
+      "pdga_points": 70.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "86342",
+      "title": "Crispy Original Disc Golf Tournament",
+      "dates": "23-Nov-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Iskandar Puteri, Johor, Malaysia",
+      "place": 1,
+      "pdga_points": 12.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "78949",
+      "title": "4th Annual Johor State Disc Golf Championship",
+      "dates": "13-Apr-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 1,
+      "pdga_points": 27.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 2,
+      "wins": 0,
+      "podiums": 2,
+      "top10": 2,
+      "pdga_points": 19.0,
+      "avg_finish": 3.0
+    },
+    {
+      "year": "2025",
+      "events": 3,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 3,
+      "pdga_points": 136.0,
+      "avg_finish": 5.0
+    },
+    {
+      "year": "2024",
+      "events": 5,
+      "wins": 2,
+      "podiums": 3,
+      "top10": 5,
+      "pdga_points": 192.0,
+      "avg_finish": 4.4
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2024-02-13",
+      "rating": 824,
+      "rounds": 3
+    },
+    {
+      "date": "2024-05-14",
+      "rating": 826,
+      "rounds": 5
+    },
+    {
+      "date": "2024-06-11",
+      "rating": 818,
+      "rounds": 6
+    },
+    {
+      "date": "2024-08-13",
+      "rating": 827,
+      "rounds": 9
+    },
+    {
+      "date": "2024-12-10",
+      "rating": 832,
+      "rounds": 11
+    },
+    {
+      "date": "2025-02-11",
+      "rating": 844,
+      "rounds": 13
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 858,
+      "rounds": 9
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 858,
+      "rounds": 10
+    },
+    {
+      "date": "2026-02-10",
+      "rating": 844,
+      "rounds": 10
+    },
+    {
+      "date": "2026-06-09",
+      "rating": 835,
+      "rounds": 9
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 21.3,
+    "season_avg": 40.4,
+    "delta_pct": -47.2
+  },
+  "pdga_url": "https://www.pdga.com/player/277751"
+}

@@ -1,0 +1,245 @@
+{
+  "pdga": 112475,
+  "name": "Craig Faletic",
+  "country": "India",
+  "country_key": "IN",
+  "flag": "\ud83c\uddee\ud83c\uddf3",
+  "rating": 909,
+  "classification": "Pro",
+  "city": "",
+  "nationality": "",
+  "division": "MA2",
+  "primary_class": "amateur",
+  "pdga_points": 132.0,
+  "tour_weighted_points": 27.5,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 1,
+  "top5": 1,
+  "top10": 1,
+  "top20": 1,
+  "avg_finish": 3.0,
+  "win_rate": 0.0,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 1551,
+  "weighted_rank": 1200,
+  "country_rank": 602,
+  "am_events": 1,
+  "am_wins": 0,
+  "am_podiums": 1,
+  "am_top10": 1,
+  "am_pdga_points": 132.0,
+  "last_active": "28-Aug-2022",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 132.0,
+      "weighted": 27.5,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 132.0,
+      "tour_weighted_points": 27.5,
+      "avg_finish": 3.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 132.0,
+      "tour_weighted_points": 27.5,
+      "avg_finish": 3.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA2": 1
+  },
+  "results": [
+    {
+      "event_id": "61799",
+      "title": "33rd Checkered Flag Open presented by Disc Crazy Am",
+      "dates": "28-Aug-2022",
+      "year": "2022",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Indianapolis , Indiana, United States",
+      "place": 3,
+      "pdga_points": 132.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 27.5
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2022",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 132.0,
+      "avg_finish": 3.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2023-10-10",
+      "rating": 908,
+      "rounds": 21
+    },
+    {
+      "date": "2023-11-14",
+      "rating": 910,
+      "rounds": 19
+    },
+    {
+      "date": "2023-12-12",
+      "rating": 912,
+      "rounds": 18
+    },
+    {
+      "date": "2024-02-13",
+      "rating": 916,
+      "rounds": 20
+    },
+    {
+      "date": "2024-05-14",
+      "rating": 912,
+      "rounds": 22
+    },
+    {
+      "date": "2024-08-13",
+      "rating": 928,
+      "rounds": 19
+    },
+    {
+      "date": "2024-10-08",
+      "rating": 936,
+      "rounds": 16
+    },
+    {
+      "date": "2025-04-08",
+      "rating": 938,
+      "rounds": 12
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 941,
+      "rounds": 12
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 941,
+      "rounds": 14
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 938,
+      "rounds": 18
+    },
+    {
+      "date": "2025-11-11",
+      "rating": 935,
+      "rounds": 19
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 936,
+      "rounds": 21
+    },
+    {
+      "date": "2026-06-09",
+      "rating": 941,
+      "rounds": 23
+    },
+    {
+      "date": "2026-07-14",
+      "rating": 944,
+      "rounds": 21
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/112475"
+}

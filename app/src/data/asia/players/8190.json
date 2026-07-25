@@ -1,0 +1,403 @@
+{
+  "pdga": 8190,
+  "name": "Kazuhiko Gomibuchi #8190",
+  "country": "Japan",
+  "country_key": "JP",
+  "flag": "\ud83c\uddef\ud83c\uddf5",
+  "rating": 851,
+  "classification": "Professional",
+  "city": "Utsunomiya-shi",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 294.0,
+  "tour_weighted_points": 258.5,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 8,
+  "wins": 0,
+  "podiums": 1,
+  "top5": 3,
+  "top10": 6,
+  "top20": 6,
+  "avg_finish": 16.75,
+  "win_rate": 0.0,
+  "top10_rate": 0.75,
+  "cash_earned": 0.0,
+  "pdga_rank": 654,
+  "weighted_rank": 242,
+  "country_rank": 188,
+  "am_events": 2,
+  "am_wins": 0,
+  "am_podiums": 1,
+  "am_top10": 2,
+  "am_pdga_points": 19.0,
+  "last_active": "09-Jan to 11-Jan-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 2,
+      "points": 19.0,
+      "weighted": 220.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 4,
+      "points": 225.0,
+      "weighted": 30.5,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 2,
+      "points": 50.0,
+      "weighted": 8.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 6,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 1,
+      "top10": 4,
+      "top20": 4,
+      "pdga_points": 275.0,
+      "tour_weighted_points": 38.5,
+      "avg_finish": 21.33,
+      "win_rate": 0.0,
+      "top10_rate": 0.667
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 2,
+      "top10": 2,
+      "top20": 2,
+      "pdga_points": 19.0,
+      "tour_weighted_points": 220.0,
+      "avg_finish": 3.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 8,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 3,
+      "top10": 6,
+      "top20": 6,
+      "pdga_points": 294.0,
+      "tour_weighted_points": 258.5,
+      "avg_finish": 16.75,
+      "win_rate": 0.0,
+      "top10_rate": 0.75
+    }
+  },
+  "division_counts": {
+    "MA60": 2,
+    "MPO": 6
+  },
+  "results": [
+    {
+      "event_id": "96943",
+      "title": "2026 Asia Disc Golf Open - PDGA Asia Tour Event #1",
+      "dates": "09-Jan to 11-Jan-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "Kaohsiung, Kaohsiung City, Chinese Taipei",
+      "place": 4,
+      "pdga_points": 10.0,
+      "division": "MA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 70.0
+    },
+    {
+      "event_id": "97704",
+      "title": "The 14th Okinawa Open - PDGA  Asia Tour Event #6",
+      "dates": "06-Mar to 08-Mar-2026",
+      "year": "2026",
+      "tier": "B",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "Kunigami-gun, Okinawa, Japan",
+      "place": 2,
+      "pdga_points": 9.0,
+      "division": "MA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 150.0
+    },
+    {
+      "event_id": "61988",
+      "title": "Japan Series Disc Golf Championships",
+      "dates": "17-Sep to 19-Sep-2022",
+      "year": "2022",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Utsunomiya, Tochigi, Japan",
+      "place": 57,
+      "pdga_points": 90.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.5
+    },
+    {
+      "event_id": "40159",
+      "title": "National Team Championship - Mixed",
+      "dates": "13-Jan to 14-Jan-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Oyama, Tochigi, Japan",
+      "place": 6,
+      "pdga_points": 25.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "41245",
+      "title": "The 7th Asia Championship",
+      "dates": "03-Aug to 04-Aug-2019",
+      "year": "2019",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Fukuoka, Fukuoka, Japan",
+      "place": 42,
+      "pdga_points": 37.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.5
+    },
+    {
+      "event_id": "36362",
+      "title": "National Team Championship - Mixed Teams",
+      "dates": "07-Jan to 08-Jan-2018",
+      "year": "2018",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Oyama, Japan",
+      "place": 8,
+      "pdga_points": 25.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "17556",
+      "title": "Japan Mixed Team Championships",
+      "dates": "11-Jan to 12-Jan-2015",
+      "year": "2015",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Oyama, Tochigi, Japan",
+      "place": 5,
+      "pdga_points": 75.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "17610",
+      "title": "Japan Team Championships",
+      "dates": "12-Jan to 13-Jan-2014",
+      "year": "2014",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Oyama, Tochigi, Japan",
+      "place": 10,
+      "pdga_points": 22.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 10.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 2,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 2,
+      "pdga_points": 19.0,
+      "avg_finish": 3.0
+    },
+    {
+      "year": "2022",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 90.0,
+      "avg_finish": 57.0
+    },
+    {
+      "year": "2019",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 62.5,
+      "avg_finish": 24.0
+    },
+    {
+      "year": "2018",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 25.0,
+      "avg_finish": 8.0
+    },
+    {
+      "year": "2015",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 75.0,
+      "avg_finish": 5.0
+    },
+    {
+      "year": "2014",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 22.5,
+      "avg_finish": 10.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2023-10-10",
+      "rating": 883,
+      "rounds": 22
+    },
+    {
+      "date": "2024-02-13",
+      "rating": 869,
+      "rounds": 19
+    },
+    {
+      "date": "2024-03-12",
+      "rating": 871,
+      "rounds": 22
+    },
+    {
+      "date": "2024-06-11",
+      "rating": 875,
+      "rounds": 19
+    },
+    {
+      "date": "2024-07-09",
+      "rating": 874,
+      "rounds": 22
+    },
+    {
+      "date": "2024-08-13",
+      "rating": 874,
+      "rounds": 22
+    },
+    {
+      "date": "2024-09-10",
+      "rating": 873,
+      "rounds": 21
+    },
+    {
+      "date": "2024-10-08",
+      "rating": 872,
+      "rounds": 19
+    },
+    {
+      "date": "2024-11-12",
+      "rating": 863,
+      "rounds": 22
+    },
+    {
+      "date": "2025-03-11",
+      "rating": 854,
+      "rounds": 19
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 853,
+      "rounds": 19
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 851,
+      "rounds": 16
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 853,
+      "rounds": 19
+    },
+    {
+      "date": "2026-02-10",
+      "rating": 844,
+      "rounds": 15
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 851,
+      "rounds": 15
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 36.3,
+    "season_avg": 37.0,
+    "delta_pct": -1.8
+  },
+  "pdga_url": "https://www.pdga.com/player/8190"
+}

@@ -1,0 +1,245 @@
+{
+  "pdga": 191920,
+  "name": "Mike Rotter",
+  "country": "India",
+  "country_key": "IN",
+  "flag": "\ud83c\uddee\ud83c\uddf3",
+  "rating": null,
+  "classification": "Pro",
+  "city": "",
+  "nationality": "",
+  "division": "MA3",
+  "primary_class": "amateur",
+  "pdga_points": 18.0,
+  "tour_weighted_points": 4.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top5": 0,
+  "top10": 1,
+  "top20": 1,
+  "avg_finish": 8.0,
+  "win_rate": 0.0,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 2951,
+  "weighted_rank": 2898,
+  "country_rank": 1045,
+  "am_events": 1,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 1,
+  "am_pdga_points": 18.0,
+  "last_active": "30-Oct-2021",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 1,
+      "points": 18.0,
+      "weighted": 4.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 18.0,
+      "tour_weighted_points": 4.0,
+      "avg_finish": 8.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 18.0,
+      "tour_weighted_points": 4.0,
+      "avg_finish": 8.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA3": 1
+  },
+  "results": [
+    {
+      "event_id": "54061",
+      "title": "Fling for Hope",
+      "dates": "30-Oct-2021",
+      "year": "2021",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Winchester, Indiana, United States",
+      "place": 8,
+      "pdga_points": 18.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2021",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 18.0,
+      "avg_finish": 8.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2024-12-10",
+      "rating": 899,
+      "rounds": 85
+    },
+    {
+      "date": "2025-02-11",
+      "rating": 900,
+      "rounds": 84
+    },
+    {
+      "date": "2025-04-08",
+      "rating": 900,
+      "rounds": 79
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 902,
+      "rounds": 80
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 903,
+      "rounds": 77
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 905,
+      "rounds": 63
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 910,
+      "rounds": 68
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 910,
+      "rounds": 61
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 909,
+      "rounds": 62
+    },
+    {
+      "date": "2026-01-13",
+      "rating": 909,
+      "rounds": 60
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 909,
+      "rounds": 60
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 907,
+      "rounds": 62
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 908,
+      "rounds": 51
+    },
+    {
+      "date": "2026-06-09",
+      "rating": 905,
+      "rounds": 53
+    },
+    {
+      "date": "2026-07-14",
+      "rating": 908,
+      "rounds": 50
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/191920"
+}

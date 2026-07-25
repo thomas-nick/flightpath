@@ -1,0 +1,262 @@
+{
+  "pdga": 156463,
+  "name": "Javan Yarema #156463",
+  "country": "United States",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 869,
+  "classification": "Amateur",
+  "city": "Reelsville",
+  "nationality": "",
+  "division": "MA2",
+  "primary_class": "amateur",
+  "pdga_points": 71.0,
+  "tour_weighted_points": 24.5,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top5": 2,
+  "top10": 2,
+  "top20": 2,
+  "avg_finish": 4.5,
+  "win_rate": 0.0,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 2024,
+  "weighted_rank": 1285,
+  "country_rank": null,
+  "am_events": 2,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 2,
+  "am_pdga_points": 71.0,
+  "last_active": "18-Mar-2023",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 63.0,
+      "weighted": 17.5,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 1,
+      "points": 8.0,
+      "weighted": 7.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 2,
+      "top10": 2,
+      "top20": 2,
+      "pdga_points": 71.0,
+      "tour_weighted_points": 24.5,
+      "avg_finish": 4.5,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 2,
+      "top10": 2,
+      "top20": 2,
+      "pdga_points": 71.0,
+      "tour_weighted_points": 24.5,
+      "avg_finish": 4.5,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA2": 1,
+    "MA3": 1
+  },
+  "results": [
+    {
+      "event_id": "69291",
+      "title": "BC3 Fall Classic",
+      "dates": "21-Oct-2023",
+      "year": "2023",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Nashville, Indiana, United States",
+      "place": 5,
+      "pdga_points": 63.0,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "67449",
+      "title": "Walnut Cracker - WIFFS (CEP Charity - Rated)",
+      "dates": "18-Mar-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Greencastle, Indiana, United States",
+      "place": 4,
+      "pdga_points": 8.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2023",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 2,
+      "pdga_points": 71.0,
+      "avg_finish": 4.5
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2022-04-12",
+      "rating": 831,
+      "rounds": 35
+    },
+    {
+      "date": "2022-06-14",
+      "rating": 838,
+      "rounds": 32
+    },
+    {
+      "date": "2022-09-13",
+      "rating": 846,
+      "rounds": 29
+    },
+    {
+      "date": "2022-10-11",
+      "rating": 864,
+      "rounds": 24
+    },
+    {
+      "date": "2022-11-08",
+      "rating": 863,
+      "rounds": 22
+    },
+    {
+      "date": "2022-12-13",
+      "rating": 861,
+      "rounds": 25
+    },
+    {
+      "date": "2023-01-10",
+      "rating": 861,
+      "rounds": 27
+    },
+    {
+      "date": "2023-03-14",
+      "rating": 869,
+      "rounds": 27
+    },
+    {
+      "date": "2023-04-11",
+      "rating": 872,
+      "rounds": 29
+    },
+    {
+      "date": "2023-05-09",
+      "rating": 880,
+      "rounds": 25
+    },
+    {
+      "date": "2023-06-13",
+      "rating": 879,
+      "rounds": 28
+    },
+    {
+      "date": "2023-08-08",
+      "rating": 880,
+      "rounds": 28
+    },
+    {
+      "date": "2023-09-12",
+      "rating": 888,
+      "rounds": 29
+    },
+    {
+      "date": "2023-10-10",
+      "rating": 885,
+      "rounds": 26
+    },
+    {
+      "date": "2023-11-14",
+      "rating": 889,
+      "rounds": 31
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/156463"
+}

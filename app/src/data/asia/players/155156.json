@@ -1,0 +1,245 @@
+{
+  "pdga": 155156,
+  "name": "Blake Puskas",
+  "country": "India",
+  "country_key": "IN",
+  "flag": "\ud83c\uddee\ud83c\uddf3",
+  "rating": 915,
+  "classification": "Pro",
+  "city": "",
+  "nationality": "",
+  "division": "MA2",
+  "primary_class": "amateur",
+  "pdga_points": 44.0,
+  "tour_weighted_points": 4.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 0,
+  "top5": 0,
+  "top10": 1,
+  "top20": 1,
+  "avg_finish": 6.0,
+  "win_rate": 0.0,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 2380,
+  "weighted_rank": 2833,
+  "country_rank": 836,
+  "am_events": 1,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 1,
+  "am_pdga_points": 44.0,
+  "last_active": "06-Mar-2022",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 1,
+      "points": 44.0,
+      "weighted": 4.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 44.0,
+      "tour_weighted_points": 4.0,
+      "avg_finish": 6.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 44.0,
+      "tour_weighted_points": 4.0,
+      "avg_finish": 6.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA2": 1
+  },
+  "results": [
+    {
+      "event_id": "56370",
+      "title": "WIFFS #23 - MoRE Madness (CEP Charity - Rated)",
+      "dates": "06-Mar-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Rushville, Indiana, United States",
+      "place": 6,
+      "pdga_points": 44.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2022",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 44.0,
+      "avg_finish": 6.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2024-06-11",
+      "rating": 930,
+      "rounds": 29
+    },
+    {
+      "date": "2024-07-09",
+      "rating": 938,
+      "rounds": 33
+    },
+    {
+      "date": "2024-08-13",
+      "rating": 940,
+      "rounds": 34
+    },
+    {
+      "date": "2024-09-10",
+      "rating": 945,
+      "rounds": 33
+    },
+    {
+      "date": "2024-10-08",
+      "rating": 944,
+      "rounds": 34
+    },
+    {
+      "date": "2025-03-11",
+      "rating": 944,
+      "rounds": 33
+    },
+    {
+      "date": "2025-04-08",
+      "rating": 944,
+      "rounds": 33
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 946,
+      "rounds": 34
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 942,
+      "rounds": 36
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 942,
+      "rounds": 31
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 943,
+      "rounds": 24
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 943,
+      "rounds": 25
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 940,
+      "rounds": 20
+    },
+    {
+      "date": "2026-06-09",
+      "rating": 949,
+      "rounds": 18
+    },
+    {
+      "date": "2026-07-14",
+      "rating": 954,
+      "rounds": 22
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/155156"
+}

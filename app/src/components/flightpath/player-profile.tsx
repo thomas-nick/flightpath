@@ -6,7 +6,6 @@ import {
   type FinishView,
 } from "../../lib/player-analytics";
 import {
-  ACCENT_GRADIENTS,
   formatMoney,
   formatNumber,
   pdgaProfileUrl,
@@ -15,6 +14,7 @@ import {
   type Player,
 } from "../../lib/players";
 import { PlayerCharts } from "./player-charts";
+import { WinsPodium } from "./wins-podium";
 
 export function PlayerProfile({
   player,
@@ -33,11 +33,12 @@ export function PlayerProfile({
   const split = useMemo(() => getSplit(finishes, view), [finishes, view]);
   const f = split?.finishes;
   const careerPage = finishes?.career;
-  const g = ACCENT_GRADIENTS[(player.accent ?? 0) % ACCENT_GRADIENTS.length];
   const stats = [...player.stats].sort(
     (a, b) => Number(b.year) - Number(a.year),
   );
   const name = playerName(player);
+  const viewLabel =
+    view === "amateur" ? "Amateur" : view === "all" ? "All classes" : openLabel;
 
   return (
     <article className="fp-profile">
@@ -46,15 +47,15 @@ export function PlayerProfile({
       </Link>
 
       <header className="fp-profile-hero">
-        <div className="fp-profile-art" style={{ background: g }}>
-          <span className="fp-news-card-flare" aria-hidden />
-          <span className="fp-profile-initials">
-            {name
-              .split(" ")
-              .map((w) => w[0])
-              .join("")
-              .slice(0, 2)}
+        <div className="fp-profile-art">
+          <span className="fp-wins-podium-eyebrow" aria-hidden>
+            Wins podium · {viewLabel}
           </span>
+          <WinsPodium
+            wins={f ? formatNumber(f.wins) : "—"}
+            podiums={f ? formatNumber(f.podiums) : "—"}
+            top10={f ? formatNumber(f.top10) : "—"}
+          />
         </div>
         <div className="fp-profile-intro">
           <p className="fp-pill">
@@ -77,7 +78,7 @@ export function PlayerProfile({
       </header>
 
       <div className="fp-class-toggle-wrap">
-        <div className="fp-filters fp-class-toggle" role="tablist" aria-label="Finish class">
+        <div className="fp-filters fp-filters-segmented fp-class-toggle" role="tablist" aria-label="Finish class">
           <button
             type="button"
             role="tab"

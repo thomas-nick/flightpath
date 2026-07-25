@@ -1,0 +1,271 @@
+{
+  "pdga": 319192,
+  "name": "Yoko Watanabe #319192",
+  "country": "Japan",
+  "country_key": "JP",
+  "flag": "\ud83c\uddef\ud83c\uddf5",
+  "rating": 744,
+  "classification": "Amateur",
+  "city": "Haga-gun",
+  "nationality": "",
+  "division": "FA60",
+  "primary_class": "amateur",
+  "pdga_points": 6.5,
+  "tour_weighted_points": 115.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 4,
+  "wins": 2,
+  "podiums": 3,
+  "top5": 4,
+  "top10": 4,
+  "top20": 4,
+  "avg_finish": 2.25,
+  "win_rate": 0.5,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 2043,
+  "weighted_rank": 561,
+  "country_rank": 321,
+  "am_events": 4,
+  "am_wins": 2,
+  "am_podiums": 3,
+  "am_top10": 4,
+  "am_pdga_points": 6.5,
+  "last_active": "04-Apr to 05-Apr-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 3,
+      "points": 4.5,
+      "weighted": 95.0,
+      "wins": 1
+    },
+    "c_tier": {
+      "events": 1,
+      "points": 2.0,
+      "weighted": 20.0,
+      "wins": 1
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 4,
+      "wins": 2,
+      "podiums": 3,
+      "top5": 4,
+      "top10": 4,
+      "top20": 4,
+      "pdga_points": 6.5,
+      "tour_weighted_points": 115.0,
+      "avg_finish": 2.25,
+      "win_rate": 0.5,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 4,
+      "wins": 2,
+      "podiums": 3,
+      "top5": 4,
+      "top10": 4,
+      "top20": 4,
+      "pdga_points": 6.5,
+      "tour_weighted_points": 115.0,
+      "avg_finish": 2.25,
+      "win_rate": 0.5,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "FA60": 4
+  },
+  "results": [
+    {
+      "event_id": "99361",
+      "title": "The 21st Japan Masters National Championships",
+      "dates": "28-Feb to 01-Mar-2026",
+      "year": "2026",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Hitachinaka-shi, Ibaraki, Japan",
+      "place": 3,
+      "pdga_points": 1.5,
+      "division": "FA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 27.5
+    },
+    {
+      "event_id": "103589",
+      "title": "The 4th Michinoku Queen's Cup +WGE",
+      "dates": "23-May to 24-May-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Kitakami-shi, Iwate, Japan",
+      "place": 1,
+      "pdga_points": 2.0,
+      "division": "FA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "102933",
+      "title": "The 21st Kiyosatonomori Open",
+      "dates": "09-May to 10-May-2026",
+      "year": "2026",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Hokuto-shi, Yamanashi, Japan",
+      "place": 1,
+      "pdga_points": 1.5,
+      "division": "FA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 50.0
+    },
+    {
+      "event_id": "100641",
+      "title": "The 30th Kanto Open (Ama)",
+      "dates": "04-Apr to 05-Apr-2026",
+      "year": "2026",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Haga-gun, Tochigi, Japan",
+      "place": 4,
+      "pdga_points": 1.5,
+      "division": "FA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 17.5
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "103589",
+      "title": "The 4th Michinoku Queen's Cup +WGE",
+      "dates": "23-May to 24-May-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Kitakami-shi, Iwate, Japan",
+      "place": 1,
+      "pdga_points": 2.0,
+      "division": "FA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "102933",
+      "title": "The 21st Kiyosatonomori Open",
+      "dates": "09-May to 10-May-2026",
+      "year": "2026",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Hokuto-shi, Yamanashi, Japan",
+      "place": 1,
+      "pdga_points": 1.5,
+      "division": "FA60",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 50.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 4,
+      "wins": 2,
+      "podiums": 3,
+      "top10": 4,
+      "pdga_points": 6.5,
+      "avg_finish": 2.25
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2026-03-10",
+      "rating": 747,
+      "rounds": 3
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 739,
+      "rounds": 6
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 751,
+      "rounds": 9
+    },
+    {
+      "date": "2026-06-09",
+      "rating": 744,
+      "rounds": 12
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 1.7,
+    "season_avg": 1.5,
+    "delta_pct": 11.1
+  },
+  "pdga_url": "https://www.pdga.com/player/319192"
+}

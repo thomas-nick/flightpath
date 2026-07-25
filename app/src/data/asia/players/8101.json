@@ -1,0 +1,318 @@
+{
+  "pdga": 8101,
+  "name": "Nobuya Kawai #8101",
+  "country": "Japan",
+  "country_key": "JP",
+  "flag": "\ud83c\uddef\ud83c\uddf5",
+  "rating": 943,
+  "classification": "Amateur",
+  "city": "Funabashi",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 810.0,
+  "tour_weighted_points": 34.6,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 5,
+  "wins": 0,
+  "podiums": 0,
+  "top5": 0,
+  "top10": 3,
+  "top20": 4,
+  "avg_finish": 18.2,
+  "win_rate": 0.0,
+  "top10_rate": 0.6,
+  "cash_earned": 0.0,
+  "pdga_rank": 309,
+  "weighted_rank": 1111,
+  "country_rank": 123,
+  "am_events": 0,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 0,
+  "am_pdga_points": 0.0,
+  "last_active": "05-Mar to 06-Mar-2022",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 4,
+      "points": 195.0,
+      "weighted": 34.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 1,
+      "points": 615.0,
+      "weighted": 0.6,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 5,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 3,
+      "top20": 4,
+      "pdga_points": 810.0,
+      "tour_weighted_points": 34.6,
+      "avg_finish": 18.2,
+      "win_rate": 0.0,
+      "top10_rate": 0.6
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "all": {
+      "events": 5,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 3,
+      "top20": 4,
+      "pdga_points": 810.0,
+      "tour_weighted_points": 34.6,
+      "avg_finish": 18.2,
+      "win_rate": 0.0,
+      "top10_rate": 0.6
+    }
+  },
+  "division_counts": {
+    "MPO": 5
+  },
+  "results": [
+    {
+      "event_id": "56396",
+      "title": "National Doubles Championships",
+      "dates": "05-Mar to 06-Mar-2022",
+      "year": "2022",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Hitachinaka City, Ibaraki, Japan",
+      "place": 9,
+      "pdga_points": 15.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "10269",
+      "title": "21st Tokyo Open",
+      "dates": "24-Apr to 25-Apr-2010",
+      "year": "2010",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Tatsumi,Tokyo, Japan",
+      "place": 12,
+      "pdga_points": 22.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "10275",
+      "title": "14th Kanto Open",
+      "dates": "21-Aug to 22-Aug-2010",
+      "year": "2010",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Utsunomiya, Tochigi, Japan",
+      "place": 6,
+      "pdga_points": 75.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "9552",
+      "title": "2010 Japan Open (159.9 grams and under)",
+      "dates": "10-Jun to 12-Jun-2010",
+      "year": "2010",
+      "tier": "",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Tochigi, Nasu Highlands, Tochigi, Japan",
+      "place": 57,
+      "pdga_points": 615.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 0.6
+    },
+    {
+      "event_id": "10270",
+      "title": "21st National Championships",
+      "dates": "03-May to 05-May-2010",
+      "year": "2010",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Minamisoma, Fukushima, Japan",
+      "place": 7,
+      "pdga_points": 82.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 10.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2022",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 15.0,
+      "avg_finish": 9.0
+    },
+    {
+      "year": "2010",
+      "events": 4,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 2,
+      "pdga_points": 795.0,
+      "avg_finish": 20.5
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2002-07-28",
+      "rating": 832,
+      "rounds": 10
+    },
+    {
+      "date": "2002-12-31",
+      "rating": 834,
+      "rounds": 10
+    },
+    {
+      "date": "2003-03-15",
+      "rating": 832,
+      "rounds": 10
+    },
+    {
+      "date": "2003-09-15",
+      "rating": 876,
+      "rounds": 13
+    },
+    {
+      "date": "2003-12-15",
+      "rating": 874,
+      "rounds": 13
+    },
+    {
+      "date": "2004-02-15",
+      "rating": 874,
+      "rounds": 13
+    },
+    {
+      "date": "2004-09-15",
+      "rating": 902,
+      "rounds": 13
+    },
+    {
+      "date": "2005-02-15",
+      "rating": 895,
+      "rounds": 21
+    },
+    {
+      "date": "2005-05-15",
+      "rating": 896,
+      "rounds": 15
+    },
+    {
+      "date": "2006-12-19",
+      "rating": 963,
+      "rounds": 2
+    },
+    {
+      "date": "2007-06-26",
+      "rating": 923,
+      "rounds": 5
+    },
+    {
+      "date": "2008-11-25",
+      "rating": 913,
+      "rounds": 9
+    },
+    {
+      "date": "2009-12-15",
+      "rating": 923,
+      "rounds": 7
+    },
+    {
+      "date": "2010-06-22",
+      "rating": 933,
+      "rounds": 12
+    },
+    {
+      "date": "2010-10-26",
+      "rating": 943,
+      "rounds": 15
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 37.5,
+    "season_avg": 348.8,
+    "delta_pct": -89.2
+  },
+  "pdga_url": "https://www.pdga.com/player/8101"
+}

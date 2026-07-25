@@ -1,0 +1,232 @@
+{
+  "event_id": "38404",
+  "title": "2018 Shenzhen (China) Disc Golf Open",
+  "location": "Shenzhen CIty, Guangdong Sheng, China",
+  "dates": "24-Nov to 25-Nov-2018",
+  "year": "2018",
+  "tier": "C",
+  "level": "c_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 15,
+  "avg_mpo_rating": 881.1,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "count": 8
+    },
+    {
+      "flag": "\ud83c\udded\ud83c\uddf0",
+      "country": "Hong Kong",
+      "count": 2
+    },
+    {
+      "flag": "\ud83c\uddf9\ud83c\uddfc",
+      "country": "Chinese Taipei",
+      "count": 1
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 84274,
+      "name": "Tsz Ho Ming",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 1,
+      "pdga_points": 100.0,
+      "rating": 983,
+      "prize": "$360",
+      "flag": "\ud83c\udded\ud83c\uddf0",
+      "country": "Hong Kong",
+      "country_key": "HK"
+    },
+    {
+      "pdga": 53454,
+      "name": "Jason Hagan",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 2,
+      "pdga_points": 96.0,
+      "rating": 990,
+      "prize": "$216",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 8710,
+      "name": "Mac Hsiao",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 3,
+      "pdga_points": 92.0,
+      "rating": 936,
+      "prize": "$72",
+      "flag": "\ud83c\uddf9\ud83c\uddfc",
+      "country": "Chinese Taipei",
+      "country_key": "TW"
+    },
+    {
+      "pdga": 101832,
+      "name": "Jianchao Long",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 4,
+      "pdga_points": 88.0,
+      "rating": null,
+      "prize": "$36",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 78337,
+      "name": "Krzysztof Sadomski",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 5,
+      "pdga_points": 84.0,
+      "rating": 884,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "Poland",
+      "country_key": ""
+    },
+    {
+      "pdga": 114379,
+      "name": "Jordan Tanner",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 6,
+      "pdga_points": 80.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "Canada",
+      "country_key": ""
+    },
+    {
+      "pdga": 113124,
+      "name": "Mikko Kallanto",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 8,
+      "pdga_points": 72.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 49331,
+      "name": "Matthew Parker",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 10,
+      "pdga_points": 64.0,
+      "rating": 803,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 110420,
+      "name": "Tim Flanders",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 11,
+      "pdga_points": 60.0,
+      "rating": 793,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 113527,
+      "name": "Chan Chun Yin",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 13,
+      "pdga_points": 52.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\udded\ud83c\uddf0",
+      "country": "Hong Kong",
+      "country_key": "HK"
+    },
+    {
+      "pdga": 100741,
+      "name": "Felix Wang",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 14,
+      "pdga_points": 48.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 102246,
+      "name": "Jesse Bradford",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 15,
+      "pdga_points": 44.0,
+      "rating": 779,
+      "prize": "",
+      "flag": "\ud83c\udf10",
+      "country": "Canada",
+      "country_key": ""
+    },
+    {
+      "pdga": 113533,
+      "name": "Qing Xu",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 17,
+      "pdga_points": 36.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 101833,
+      "name": "Cong Chen",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 18,
+      "pdga_points": 32.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    },
+    {
+      "pdga": 113525,
+      "name": "Pak Him Chui",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 19,
+      "pdga_points": 28.0,
+      "rating": null,
+      "prize": "",
+      "flag": "\ud83c\udde8\ud83c\uddf3",
+      "country": "China",
+      "country_key": "CN"
+    }
+  ],
+  "fpo": [],
+  "amateur": [],
+  "divisions": [
+    "MPO"
+  ]
+}

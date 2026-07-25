@@ -1,0 +1,610 @@
+{
+  "pdga": 116158,
+  "name": "Kwangjoo Jung #116158",
+  "country": "South Korea",
+  "country_key": "KR",
+  "flag": "\ud83c\uddf0\ud83c\uddf7",
+  "rating": 946,
+  "classification": "Professional",
+  "city": "",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 1117.5,
+  "tour_weighted_points": 133.4,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 21,
+  "wins": 0,
+  "podiums": 4,
+  "top5": 7,
+  "top10": 15,
+  "top20": 21,
+  "avg_finish": 7.43,
+  "win_rate": 0.0,
+  "top10_rate": 0.714,
+  "cash_earned": 614.0,
+  "pdga_rank": 211,
+  "weighted_rank": 497,
+  "country_rank": 10,
+  "am_events": 0,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 0,
+  "am_pdga_points": 0.0,
+  "last_active": "12-Apr-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 5,
+      "points": 322.5,
+      "weighted": 38.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 16,
+      "points": 795.0,
+      "weighted": 95.4,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 21,
+      "wins": 0,
+      "podiums": 4,
+      "top5": 7,
+      "top10": 15,
+      "top20": 21,
+      "pdga_points": 1117.5,
+      "tour_weighted_points": 133.4,
+      "avg_finish": 7.43,
+      "win_rate": 0.0,
+      "top10_rate": 0.714
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "all": {
+      "events": 21,
+      "wins": 0,
+      "podiums": 4,
+      "top5": 7,
+      "top10": 15,
+      "top20": 21,
+      "pdga_points": 1117.5,
+      "tour_weighted_points": 133.4,
+      "avg_finish": 7.43,
+      "win_rate": 0.0,
+      "top10_rate": 0.714
+    }
+  },
+  "division_counts": {
+    "MPO": 21
+  },
+  "results": [
+    {
+      "event_id": "101295",
+      "title": "14th DAEGU OPEN",
+      "dates": "12-Apr-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "DAEGU, Daegu, South Korea",
+      "place": 10,
+      "pdga_points": 40.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "90272",
+      "title": "13th Daegu Open",
+      "dates": "26-Apr to 27-Apr-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Daegu, Daegu, South Korea",
+      "place": 6,
+      "pdga_points": 45.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "96085",
+      "title": "1st Yangju Art Valley International Open - MPO, FPO",
+      "dates": "25-Oct-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Yangju, Gyeonggi-do, South Korea",
+      "place": 13,
+      "pdga_points": 110.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "88635",
+      "title": "2nd Go for it Republic of Korea",
+      "dates": "23-Mar-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Yeongdong, Chungcheongbuk-do, South Korea",
+      "place": 3,
+      "pdga_points": 75.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$40",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "94576",
+      "title": "Chairman's Challenge 2025",
+      "dates": "14-Sep-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Daegu, Daegu, South Korea",
+      "place": 3,
+      "pdga_points": 50.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$89",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "91661",
+      "title": "2ND YeongDong OPEN",
+      "dates": "14-Jun to 15-Jun-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "yeongdong gun, Chungcheongbuk-do, South Korea",
+      "place": 7,
+      "pdga_points": 82.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$37",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "86185",
+      "title": "The 38th Kyushu Open",
+      "dates": "30-Nov to 01-Dec-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Fukuoka-shi, Fukuoka, Japan",
+      "place": 15,
+      "pdga_points": 60.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "80259",
+      "title": "12th Daegu International Open",
+      "dates": "18-May to 19-May-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Daegu, Daegu, South Korea",
+      "place": 11,
+      "pdga_points": 0.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "84879",
+      "title": "YEONGDONG OPEN",
+      "dates": "17-Nov-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "yeongdong gun, Chungcheongbuk-do, South Korea",
+      "place": 6,
+      "pdga_points": 40.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$36",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "84091",
+      "title": "Chairman's Challenge 2024",
+      "dates": "13-Oct-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Daegu, Daegu, South Korea",
+      "place": 5,
+      "pdga_points": 55.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$68",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "85021",
+      "title": "2024 National Foundation Days Cup",
+      "dates": "05-Oct to 06-Oct-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Youngdong, Chungcheongbuk-do, South Korea",
+      "place": 7,
+      "pdga_points": 65.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$35",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "68443",
+      "title": "11th Daegu International Open",
+      "dates": "30-Apr-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Daegu, Daegu, South Korea",
+      "place": 11,
+      "pdga_points": 40.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "73757",
+      "title": "2023 Chairman's Tournament",
+      "dates": "15-Oct-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Daegu, Daegu, South Korea",
+      "place": 4,
+      "pdga_points": 70.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$71",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "43511",
+      "title": "Inaugural Silla Open",
+      "dates": "22-Feb-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Gyeongju, Gyeongsangbuk-do, South Korea",
+      "place": 2,
+      "pdga_points": 35.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$96",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "43498",
+      "title": "2nd Best-of-Best Tourney",
+      "dates": "19-Jan-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Gyeongju, Chungcheongbuk-do, South Korea",
+      "place": 6,
+      "pdga_points": 40.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$40",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "40977",
+      "title": "Korea Open Championship",
+      "dates": "28-Sep to 29-Sep-2019",
+      "year": "2019",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Gyeongju Nasandeul Park, Gyeongsangbuk-do, South Korea",
+      "place": 8,
+      "pdga_points": 67.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "43199",
+      "title": "Episode 3 - Revenge of The Turtle Presented by Discraft",
+      "dates": "24-Nov-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Gimhae/Miryang, Gyeongsangnam-do, South Korea",
+      "place": 9,
+      "pdga_points": 10.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "42761",
+      "title": "Guryongpo Mountain Doubles Rumble",
+      "dates": "20-Oct-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Pohang, Gyeongsangbuk-do, South Korea",
+      "place": 3,
+      "pdga_points": 75.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$47",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "40827",
+      "title": "Episode 1 - The Phantom Turtle Presented by Discraft",
+      "dates": "19-May-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Gimhae/MIryang, Gyeongsangnam-do, South Korea",
+      "place": 11,
+      "pdga_points": 35.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "41267",
+      "title": "Episode 2 - Attack of The Turtles presented by Discraft",
+      "dates": "09-Jun-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Gimhae/MIryang, Gyeongsangnam-do, South Korea",
+      "place": 4,
+      "pdga_points": 55.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$55",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "39775",
+      "title": "8th Annual Daegu Open",
+      "dates": "06-Apr to 07-Apr-2019",
+      "year": "2019",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Daegu, Gyeongsangbuk-do, South Korea",
+      "place": 12,
+      "pdga_points": 67.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 40.0,
+      "avg_finish": 10.0
+    },
+    {
+      "year": "2025",
+      "events": 5,
+      "wins": 0,
+      "podiums": 2,
+      "top10": 4,
+      "pdga_points": 362.5,
+      "avg_finish": 6.4
+    },
+    {
+      "year": "2024",
+      "events": 5,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 3,
+      "pdga_points": 220.0,
+      "avg_finish": 8.8
+    },
+    {
+      "year": "2023",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 110.0,
+      "avg_finish": 7.5
+    },
+    {
+      "year": "2020",
+      "events": 2,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 2,
+      "pdga_points": 75.0,
+      "avg_finish": 4.0
+    },
+    {
+      "year": "2019",
+      "events": 6,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 4,
+      "pdga_points": 310.0,
+      "avg_finish": 7.83
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2019-12-10",
+      "rating": 924,
+      "rounds": 18
+    },
+    {
+      "date": "2020-02-11",
+      "rating": 916,
+      "rounds": 21
+    },
+    {
+      "date": "2020-03-10",
+      "rating": 916,
+      "rounds": 23
+    },
+    {
+      "date": "2021-02-09",
+      "rating": 923,
+      "rounds": 24
+    },
+    {
+      "date": "2023-05-09",
+      "rating": 892,
+      "rounds": 2
+    },
+    {
+      "date": "2023-11-14",
+      "rating": 924,
+      "rounds": 4
+    },
+    {
+      "date": "2024-06-11",
+      "rating": 910,
+      "rounds": 6
+    },
+    {
+      "date": "2024-10-08",
+      "rating": 939,
+      "rounds": 8
+    },
+    {
+      "date": "2024-11-12",
+      "rating": 941,
+      "rounds": 8
+    },
+    {
+      "date": "2024-12-10",
+      "rating": 933,
+      "rounds": 10
+    },
+    {
+      "date": "2025-04-08",
+      "rating": 935,
+      "rounds": 12
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 941,
+      "rounds": 14
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 942,
+      "rounds": 16
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 946,
+      "rounds": 18
+    },
+    {
+      "date": "2025-11-11",
+      "rating": 946,
+      "rounds": 15
+    }
+  ],
+  "streak": {
+    "direction": "up",
+    "recent_avg": 65.0,
+    "season_avg": 51.2,
+    "delta_pct": 26.8
+  },
+  "pdga_url": "https://www.pdga.com/player/116158"
+}

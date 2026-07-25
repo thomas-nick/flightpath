@@ -1,0 +1,316 @@
+{
+  "pdga": 129243,
+  "name": "Ace Hsiao #129243",
+  "country": "Chinese Taipei",
+  "country_key": "TW",
+  "flag": "\ud83c\uddf9\ud83c\uddfc",
+  "rating": null,
+  "classification": "Professional",
+  "city": "Taoyuan City",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 722.5,
+  "tour_weighted_points": 50.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 6,
+  "wins": 0,
+  "podiums": 1,
+  "top5": 2,
+  "top10": 6,
+  "top20": 6,
+  "avg_finish": 5.5,
+  "win_rate": 0.0,
+  "top10_rate": 1.0,
+  "cash_earned": 450.0,
+  "pdga_rank": 356,
+  "weighted_rank": 921,
+  "country_rank": 15,
+  "am_events": 0,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 0,
+  "am_pdga_points": 0.0,
+  "last_active": "14-Dec to 15-Dec-2024",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 2,
+      "points": 292.5,
+      "weighted": 20.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 4,
+      "points": 430.0,
+      "weighted": 30.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 6,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 2,
+      "top10": 6,
+      "top20": 6,
+      "pdga_points": 722.5,
+      "tour_weighted_points": 50.0,
+      "avg_finish": 5.5,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "all": {
+      "events": 6,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 2,
+      "top10": 6,
+      "top20": 6,
+      "pdga_points": 722.5,
+      "tour_weighted_points": 50.0,
+      "avg_finish": 5.5,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MPO": 6
+  },
+  "results": [
+    {
+      "event_id": "86338",
+      "title": "2024 the 29th Taiwan Disc Golf Championships",
+      "dates": "14-Dec to 15-Dec-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Kaohsiung City, Kaohsiung City, Chinese Taipei",
+      "place": 5,
+      "pdga_points": 70.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$77",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "67073",
+      "title": "2023 Formosa Disc Golf Championships supported by Innova",
+      "dates": "27-May to 28-May-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Houli Dist., Taichung City, Chinese Taipei",
+      "place": 6,
+      "pdga_points": 190.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$91",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "74058",
+      "title": "2023 Taiwan Disc Golf Championships",
+      "dates": "09-Dec to 10-Dec-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Taichung City, Taitung County, Chinese Taipei",
+      "place": 6,
+      "pdga_points": 90.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$43",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "48668",
+      "title": "Taiwan National / \u76df\u4e3b\u8cfd",
+      "dates": "09-Jan to 10-Jan-2021",
+      "year": "2021",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Gongliao District, New Taipei City, Chinese Taipei",
+      "place": 2,
+      "pdga_points": 80.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$140",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "43547",
+      "title": "2020 Asia Open",
+      "dates": "08-Feb to 09-Feb-2020",
+      "year": "2020",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Kaohsiung, Kaohsiung City, Chinese Taipei",
+      "place": 6,
+      "pdga_points": 247.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$99",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "36758",
+      "title": "The 30th National Championship",
+      "dates": "16-Sep to 17-Sep-2018",
+      "year": "2018",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Minamiuonuma, Niigata, Japan",
+      "place": 8,
+      "pdga_points": 45.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 10.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2024",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 70.0,
+      "avg_finish": 5.0
+    },
+    {
+      "year": "2023",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 2,
+      "pdga_points": 280.0,
+      "avg_finish": 6.0
+    },
+    {
+      "year": "2021",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 80.0,
+      "avg_finish": 2.0
+    },
+    {
+      "year": "2020",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 247.5,
+      "avg_finish": 6.0
+    },
+    {
+      "year": "2018",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 45.0,
+      "avg_finish": 8.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2020-02-11",
+      "rating": 997,
+      "rounds": 3
+    },
+    {
+      "date": "2021-04-13",
+      "rating": 978,
+      "rounds": 7
+    },
+    {
+      "date": "2023-02-14",
+      "rating": 927,
+      "rounds": 5
+    },
+    {
+      "date": "2023-03-14",
+      "rating": 927,
+      "rounds": 7
+    },
+    {
+      "date": "2023-06-13",
+      "rating": 942,
+      "rounds": 11
+    },
+    {
+      "date": "2024-01-09",
+      "rating": 941,
+      "rounds": 14
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 116.7,
+    "season_avg": 124.2,
+    "delta_pct": -6.0
+  },
+  "pdga_url": "https://www.pdga.com/player/129243"
+}

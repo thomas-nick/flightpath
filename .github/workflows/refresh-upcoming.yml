@@ -1,0 +1,40 @@
+name: Refresh upcoming events
+
+on:
+  schedule:
+    # Every Monday at 02:00 UTC — catches new PDGA schedule postings weekly
+    - cron: "0 2 * * 1"
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    name: Scrape PDGA upcoming Asia events
+    defaults:
+      run:
+        working-directory: app
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install scraper dependencies
+        run: pip install -r scripts/asia/requirements.txt
+
+      - name: Run upcoming-events scraper
+        run: python3 scripts/asia/scrape_upcoming.py
+
+      - name: Commit refreshed data
+        working-directory: .
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add app/src/data/asia/upcoming-events.json
+          if git diff --cached --quiet; then
+            echo "No changes — upcoming-events.json is already fresh."
+          else
+            git commit -m "data: refresh upcoming-events.json (weekly scrape)"
+            git push
+          fi

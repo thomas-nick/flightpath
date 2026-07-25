@@ -1,0 +1,234 @@
+{
+  "pdga": 104026,
+  "name": "Rett Edwards #104026",
+  "country": "United States",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 903,
+  "classification": "Professional",
+  "city": "Greensboro",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 162.5,
+  "tour_weighted_points": 169.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 3,
+  "wins": 0,
+  "podiums": 2,
+  "top5": 2,
+  "top10": 2,
+  "top20": 3,
+  "avg_finish": 7.0,
+  "win_rate": 0.0,
+  "top10_rate": 0.667,
+  "cash_earned": 0.0,
+  "pdga_rank": 919,
+  "weighted_rank": 401,
+  "country_rank": null,
+  "am_events": 2,
+  "am_wins": 0,
+  "am_podiums": 2,
+  "am_top10": 2,
+  "am_pdga_points": 147.5,
+  "last_active": "06-Mar to 08-Mar-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 1,
+      "points": 22.5,
+      "weighted": 150.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 15.0,
+      "weighted": 4.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 1,
+      "points": 125.0,
+      "weighted": 15.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 1,
+      "pdga_points": 15.0,
+      "tour_weighted_points": 4.0,
+      "avg_finish": 17.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 2,
+      "top5": 2,
+      "top10": 2,
+      "top20": 2,
+      "pdga_points": 147.5,
+      "tour_weighted_points": 165.0,
+      "avg_finish": 2.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 3,
+      "wins": 0,
+      "podiums": 2,
+      "top5": 2,
+      "top10": 2,
+      "top20": 3,
+      "pdga_points": 162.5,
+      "tour_weighted_points": 169.0,
+      "avg_finish": 7.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.667
+    }
+  },
+  "division_counts": {
+    "MA3": 1,
+    "MA1": 1,
+    "MPO": 1
+  },
+  "results": [
+    {
+      "event_id": "98312",
+      "title": "The 7th Kagoshima Open",
+      "dates": "24-Jan to 25-Jan-2026",
+      "year": "2026",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Kagoshima-shi, Kagoshima, Japan",
+      "place": 17,
+      "pdga_points": 15.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "97704",
+      "title": "The 14th Okinawa Open - PDGA  Asia Tour Event #6",
+      "dates": "06-Mar to 08-Mar-2026",
+      "year": "2026",
+      "tier": "B",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "Kunigami-gun, Okinawa, Japan",
+      "place": 2,
+      "pdga_points": 22.5,
+      "division": "MA3",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 150.0
+    },
+    {
+      "event_id": "104487",
+      "title": "The 3rd Minamata Open",
+      "dates": "06-Jun to 07-Jun-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Minamata-shi, Kumamoto, Japan",
+      "place": 2,
+      "pdga_points": 125.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 3,
+      "wins": 0,
+      "podiums": 2,
+      "top10": 2,
+      "pdga_points": 162.5,
+      "avg_finish": 7.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2018-03-13",
+      "rating": 826,
+      "rounds": 2
+    },
+    {
+      "date": "2018-07-31",
+      "rating": 809,
+      "rounds": 4
+    },
+    {
+      "date": "2018-11-28",
+      "rating": 800,
+      "rounds": 6
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 870,
+      "rounds": 3
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 885,
+      "rounds": 6
+    },
+    {
+      "date": "2026-07-14",
+      "rating": 903,
+      "rounds": 8
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/104026"
+}

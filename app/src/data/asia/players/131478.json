@@ -1,0 +1,271 @@
+{
+  "pdga": 131478,
+  "name": "Daniel Bounds #131478",
+  "country": "United States",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 935,
+  "classification": "Amateur",
+  "city": "Madison",
+  "nationality": "",
+  "division": "MA2",
+  "primary_class": "amateur",
+  "pdga_points": 3866.0,
+  "tour_weighted_points": 20.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 2,
+  "wins": 0,
+  "podiums": 0,
+  "top5": 0,
+  "top10": 0,
+  "top20": 0,
+  "avg_finish": 68.0,
+  "win_rate": 0.0,
+  "top10_rate": 0.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 100,
+  "weighted_rank": 1392,
+  "country_rank": null,
+  "am_events": 2,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 0,
+  "am_pdga_points": 3866.0,
+  "last_active": "21-Jun to 25-Jun-2022",
+  "by_level": {
+    "major": {
+      "events": 1,
+      "points": 3330.0,
+      "weighted": 12.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 1,
+      "points": 536.0,
+      "weighted": 8.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 3866.0,
+      "tour_weighted_points": 20.0,
+      "avg_finish": 68.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "all": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 3866.0,
+      "tour_weighted_points": 20.0,
+      "avg_finish": 68.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    }
+  },
+  "division_counts": {
+    "MA2": 1,
+    "MA1": 1
+  },
+  "results": [
+    {
+      "event_id": "55453",
+      "title": "2022 PDGA Amateur Disc Golf World Championships presented by Toyota",
+      "dates": "21-Jun to 25-Jun-2022",
+      "year": "2022",
+      "tier": "",
+      "level": "major",
+      "is_asia_tour": false,
+      "location": "Princeton, Indiana, United States",
+      "place": 114,
+      "pdga_points": 3330.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 12.0
+    },
+    {
+      "event_id": "47868",
+      "title": "Des Moines Challenge Presented by GEICO Des Moines",
+      "dates": "09-Jul to 11-Jul-2021",
+      "year": "2021",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Indianola, Iowa, United States",
+      "place": 22,
+      "pdga_points": 536.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 8.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2022",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 3330.0,
+      "avg_finish": 114.0
+    },
+    {
+      "year": "2021",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 536.0,
+      "avg_finish": 22.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2023-11-14",
+      "rating": 886,
+      "rounds": 21
+    },
+    {
+      "date": "2024-04-09",
+      "rating": 884,
+      "rounds": 22
+    },
+    {
+      "date": "2024-05-14",
+      "rating": 887,
+      "rounds": 24
+    },
+    {
+      "date": "2024-06-11",
+      "rating": 912,
+      "rounds": 22
+    },
+    {
+      "date": "2024-08-13",
+      "rating": 906,
+      "rounds": 21
+    },
+    {
+      "date": "2024-10-08",
+      "rating": 926,
+      "rounds": 25
+    },
+    {
+      "date": "2024-11-12",
+      "rating": 928,
+      "rounds": 24
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 943,
+      "rounds": 23
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 937,
+      "rounds": 27
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 940,
+      "rounds": 26
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 956,
+      "rounds": 27
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 953,
+      "rounds": 29
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 943,
+      "rounds": 25
+    },
+    {
+      "date": "2026-06-09",
+      "rating": 943,
+      "rounds": 23
+    },
+    {
+      "date": "2026-07-14",
+      "rating": 935,
+      "rounds": 27
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/131478"
+}

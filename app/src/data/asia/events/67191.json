@@ -1,0 +1,112 @@
+{
+  "event_id": "67191",
+  "title": "Holiday in Cambodia II",
+  "location": "Siem Reap, Cambodia",
+  "dates": "25-Mar to 26-Mar-2023",
+  "year": "2023",
+  "tier": "C",
+  "level": "c_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 6,
+  "avg_mpo_rating": 851.2,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddf0\ud83c\udded",
+      "country": "Cambodia",
+      "count": 4
+    },
+    {
+      "flag": "\ud83c\uddf8\ud83c\uddec",
+      "country": "Singapore",
+      "count": 1
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 99277,
+      "name": "Jacob Neff",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 1,
+      "pdga_points": 20.0,
+      "rating": 895,
+      "prize": "$80",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 20875,
+      "name": "Shane Egeland",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 2,
+      "pdga_points": 15.0,
+      "rating": 953,
+      "prize": "",
+      "flag": "\ud83c\uddf8\ud83c\uddec",
+      "country": "Singapore",
+      "country_key": "SG"
+    },
+    {
+      "pdga": 125037,
+      "name": "Pich Ban",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 3,
+      "pdga_points": 10.0,
+      "rating": 829,
+      "prize": "",
+      "flag": "\ud83c\uddf0\ud83c\udded",
+      "country": "Cambodia",
+      "country_key": "KH"
+    },
+    {
+      "pdga": 240808,
+      "name": "Penh Ban",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 4,
+      "pdga_points": 5.0,
+      "rating": 728,
+      "prize": "",
+      "flag": "\ud83c\uddf0\ud83c\udded",
+      "country": "Cambodia",
+      "country_key": "KH"
+    }
+  ],
+  "fpo": [],
+  "amateur": [
+    {
+      "pdga": 153943,
+      "name": "Jared Cahners",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 1,
+      "pdga_points": 15.0,
+      "rating": 820,
+      "prize": "",
+      "flag": "\ud83c\uddf0\ud83c\udded",
+      "country": "Cambodia",
+      "country_key": "KH"
+    },
+    {
+      "pdga": 240245,
+      "name": "John Kopp",
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "place": 2,
+      "pdga_points": 10.0,
+      "rating": 817,
+      "prize": "",
+      "flag": "\ud83c\uddf0\ud83c\udded",
+      "country": "Cambodia",
+      "country_key": "KH"
+    }
+  ],
+  "divisions": [
+    "MA1",
+    "MPO"
+  ]
+}

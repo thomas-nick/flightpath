@@ -1,0 +1,245 @@
+{
+  "pdga": 202969,
+  "name": "Joshua Slabaugh #202969",
+  "country": "Thailand",
+  "country_key": "TH",
+  "flag": "\ud83c\uddf9\ud83c\udded",
+  "rating": null,
+  "classification": "Amateur",
+  "city": "",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 100.0,
+  "tour_weighted_points": 28.6,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 3,
+  "wins": 1,
+  "podiums": 1,
+  "top5": 2,
+  "top10": 2,
+  "top20": 3,
+  "avg_finish": 6.33,
+  "win_rate": 0.333,
+  "top10_rate": 0.667,
+  "cash_earned": 0.0,
+  "pdga_rank": 1158,
+  "weighted_rank": 1194,
+  "country_rank": 71,
+  "am_events": 2,
+  "am_wins": 1,
+  "am_podiums": 1,
+  "am_top10": 2,
+  "am_pdga_points": 55.0,
+  "last_active": "22-Jan to 23-Jan-2022",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 3,
+      "points": 100.0,
+      "weighted": 28.6,
+      "wins": 1
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 1,
+      "pdga_points": 45.0,
+      "tour_weighted_points": 1.6,
+      "avg_finish": 13.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 2,
+      "wins": 1,
+      "podiums": 1,
+      "top5": 2,
+      "top10": 2,
+      "top20": 2,
+      "pdga_points": 55.0,
+      "tour_weighted_points": 27.0,
+      "avg_finish": 3.0,
+      "win_rate": 0.5,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 3,
+      "wins": 1,
+      "podiums": 1,
+      "top5": 2,
+      "top10": 2,
+      "top20": 3,
+      "pdga_points": 100.0,
+      "tour_weighted_points": 28.6,
+      "avg_finish": 6.33,
+      "win_rate": 0.333,
+      "top10_rate": 0.667
+    }
+  },
+  "division_counts": {
+    "MA1": 2,
+    "MPO": 1
+  },
+  "results": [
+    {
+      "event_id": "55116",
+      "title": "Guardians of the ChiangBang Part 2",
+      "dates": "22-Jan to 23-Jan-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Chiang Mai, Chiang Mai, Thailand",
+      "place": 5,
+      "pdga_points": 10.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "61511",
+      "title": "The Godfather Classic presented by Chiang Mai Disc Golf",
+      "dates": "20-Aug-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Chiang Mai, Thailand",
+      "place": 13,
+      "pdga_points": 45.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "58844",
+      "title": "Songkron Spectacular",
+      "dates": "16-Apr to 17-Apr-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Chiang Mai, Chiang Mai, Thailand",
+      "place": 1,
+      "pdga_points": 45.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "58844",
+      "title": "Songkron Spectacular",
+      "dates": "16-Apr to 17-Apr-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Chiang Mai, Chiang Mai, Thailand",
+      "place": 1,
+      "pdga_points": 45.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2022",
+      "events": 3,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 2,
+      "pdga_points": 100.0,
+      "avg_finish": 6.33
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2022-03-08",
+      "rating": 818,
+      "rounds": 2
+    },
+    {
+      "date": "2022-04-12",
+      "rating": 858,
+      "rounds": 3
+    },
+    {
+      "date": "2022-05-10",
+      "rating": 888,
+      "rounds": 5
+    },
+    {
+      "date": "2022-09-13",
+      "rating": 879,
+      "rounds": 7
+    },
+    {
+      "date": "2023-04-11",
+      "rating": 886,
+      "rounds": 8
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/202969"
+}

@@ -1,0 +1,235 @@
+{
+  "pdga": 120612,
+  "name": "Maehwa An #120612",
+  "country": "South Korea",
+  "country_key": "KR",
+  "flag": "\ud83c\uddf0\ud83c\uddf7",
+  "rating": null,
+  "classification": "Amateur",
+  "city": "Pohang / Gyeongsangbuk-do",
+  "nationality": "",
+  "division": "FA1",
+  "primary_class": "amateur",
+  "pdga_points": 28.5,
+  "tour_weighted_points": 63.5,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 4,
+  "wins": 1,
+  "podiums": 3,
+  "top5": 4,
+  "top10": 4,
+  "top20": 4,
+  "avg_finish": 2.75,
+  "win_rate": 0.25,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 1698,
+  "weighted_rank": 817,
+  "country_rank": 91,
+  "am_events": 4,
+  "am_wins": 1,
+  "am_podiums": 3,
+  "am_top10": 4,
+  "am_pdga_points": 28.5,
+  "last_active": "06-Apr to 07-Apr-2019",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 4.5,
+      "weighted": 17.5,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 3,
+      "points": 24.0,
+      "weighted": 46.0,
+      "wins": 1
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 4,
+      "wins": 1,
+      "podiums": 3,
+      "top5": 4,
+      "top10": 4,
+      "top20": 4,
+      "pdga_points": 28.5,
+      "tour_weighted_points": 63.5,
+      "avg_finish": 2.75,
+      "win_rate": 0.25,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 4,
+      "wins": 1,
+      "podiums": 3,
+      "top5": 4,
+      "top10": 4,
+      "top20": 4,
+      "pdga_points": 28.5,
+      "tour_weighted_points": 63.5,
+      "avg_finish": 2.75,
+      "win_rate": 0.25,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "FA1": 2,
+    "FA2": 2
+  },
+  "results": [
+    {
+      "event_id": "43199",
+      "title": "Episode 3 - Revenge of The Turtle Presented by Discraft",
+      "dates": "24-Nov-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Gimhae/Miryang, Gyeongsangnam-do, South Korea",
+      "place": 2,
+      "pdga_points": 0.0,
+      "division": "FA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "40827",
+      "title": "Episode 1 - The Phantom Turtle Presented by Discraft",
+      "dates": "19-May-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Gimhae/MIryang, Gyeongsangnam-do, South Korea",
+      "place": 3,
+      "pdga_points": 12.0,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "41267",
+      "title": "Episode 2 - Attack of The Turtles presented by Discraft",
+      "dates": "09-Jun-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Gimhae/MIryang, Gyeongsangnam-do, South Korea",
+      "place": 1,
+      "pdga_points": 12.0,
+      "division": "FA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "39775",
+      "title": "8th Annual Daegu Open",
+      "dates": "06-Apr to 07-Apr-2019",
+      "year": "2019",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Daegu, Gyeongsangbuk-do, South Korea",
+      "place": 5,
+      "pdga_points": 4.5,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 17.5
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "41267",
+      "title": "Episode 2 - Attack of The Turtles presented by Discraft",
+      "dates": "09-Jun-2019",
+      "year": "2019",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Gimhae/MIryang, Gyeongsangnam-do, South Korea",
+      "place": 1,
+      "pdga_points": 12.0,
+      "division": "FA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2019",
+      "events": 4,
+      "wins": 1,
+      "podiums": 3,
+      "top10": 4,
+      "pdga_points": 28.5,
+      "avg_finish": 2.75
+    }
+  ],
+  "rating_history": [],
+  "streak": {
+    "direction": "up",
+    "recent_avg": 8.0,
+    "season_avg": 4.5,
+    "delta_pct": 77.8
+  },
+  "pdga_url": "https://www.pdga.com/player/120612"
+}

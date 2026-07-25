@@ -1,0 +1,290 @@
+{
+  "pdga": 277447,
+  "name": "Zhe Yi Tai #277447",
+  "country": "Malaysia",
+  "country_key": "MY",
+  "flag": "\ud83c\uddf2\ud83c\uddfe",
+  "rating": 731,
+  "classification": "Amateur",
+  "city": "Kota Kinabalu",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 162.0,
+  "tour_weighted_points": 30.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 5,
+  "wins": 0,
+  "podiums": 1,
+  "top5": 2,
+  "top10": 5,
+  "top20": 5,
+  "avg_finish": 5.6,
+  "win_rate": 0.0,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 923,
+  "weighted_rank": 1173,
+  "country_rank": 26,
+  "am_events": 4,
+  "am_wins": 0,
+  "am_podiums": 1,
+  "am_top10": 4,
+  "am_pdga_points": 87.0,
+  "last_active": "30-Aug to 31-Aug-2025",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 5,
+      "points": 162.0,
+      "weighted": 30.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 75.0,
+      "tour_weighted_points": 4.0,
+      "avg_finish": 7.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 4,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 2,
+      "top10": 4,
+      "top20": 4,
+      "pdga_points": 87.0,
+      "tour_weighted_points": 26.0,
+      "avg_finish": 5.25,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 5,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 2,
+      "top10": 5,
+      "top20": 5,
+      "pdga_points": 162.0,
+      "tour_weighted_points": 30.0,
+      "avg_finish": 5.6,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MPO": 1,
+    "MA1": 2,
+    "MA2": 2
+  },
+  "results": [
+    {
+      "event_id": "94658",
+      "title": "MALAYSIA OPEN 2025",
+      "dates": "30-Aug to 31-Aug-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "JOHOR BAHRU, Johor, Malaysia",
+      "place": 8,
+      "pdga_points": 12.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "86342",
+      "title": "Crispy Original Disc Golf Tournament",
+      "dates": "23-Nov-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Iskandar Puteri, Johor, Malaysia",
+      "place": 3,
+      "pdga_points": 20.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "85079",
+      "title": "2024 Singapore Disc Golf Championships",
+      "dates": "21-Sep to 22-Sep-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 4,
+      "pdga_points": 20.0,
+      "division": "MA2",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "81349",
+      "title": "2024 PDGA Women's Global Event - Malaysia +WGE",
+      "dates": "17-May to 18-May-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 6,
+      "pdga_points": 35.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "78954",
+      "title": "6th Annual Malaysia National Disc Golf Championship",
+      "dates": "03-Aug to 04-Aug-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 7,
+      "pdga_points": 75.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2025",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 12.0,
+      "avg_finish": 8.0
+    },
+    {
+      "year": "2024",
+      "events": 4,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 4,
+      "pdga_points": 150.0,
+      "avg_finish": 5.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2024-02-13",
+      "rating": 659,
+      "rounds": 3
+    },
+    {
+      "date": "2024-04-09",
+      "rating": 645,
+      "rounds": 4
+    },
+    {
+      "date": "2024-05-14",
+      "rating": 697,
+      "rounds": 6
+    },
+    {
+      "date": "2024-06-11",
+      "rating": 731,
+      "rounds": 6
+    },
+    {
+      "date": "2024-08-13",
+      "rating": 817,
+      "rounds": 7
+    },
+    {
+      "date": "2024-10-08",
+      "rating": 801,
+      "rounds": 9
+    },
+    {
+      "date": "2024-12-10",
+      "rating": 799,
+      "rounds": 11
+    },
+    {
+      "date": "2025-02-11",
+      "rating": 826,
+      "rounds": 12
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 791,
+      "rounds": 9
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 17.3,
+    "season_avg": 55.0,
+    "delta_pct": -68.5
+  },
+  "pdga_url": "https://www.pdga.com/player/277447"
+}

@@ -1,0 +1,296 @@
+{
+  "pdga": 15316,
+  "name": "Jack Lowe #15316",
+  "country": "United States",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 838,
+  "classification": "Amateur",
+  "city": "Kansas City",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 1140.0,
+  "tour_weighted_points": 36.2,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 3,
+  "wins": 0,
+  "podiums": 0,
+  "top5": 1,
+  "top10": 1,
+  "top20": 1,
+  "avg_finish": 49.67,
+  "win_rate": 0.0,
+  "top10_rate": 0.333,
+  "cash_earned": 0.0,
+  "pdga_rank": 205,
+  "weighted_rank": 1078,
+  "country_rank": null,
+  "am_events": 1,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 1,
+  "am_pdga_points": 60.0,
+  "last_active": "29-Jan to 30-Jan-2020",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 1,
+      "points": 60.0,
+      "weighted": 35.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 2,
+      "points": 1080.0,
+      "weighted": 1.2,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 1080.0,
+      "tour_weighted_points": 1.2,
+      "avg_finish": 72.5,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 1,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 60.0,
+      "tour_weighted_points": 35.0,
+      "avg_finish": 4.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 3,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 1,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 1140.0,
+      "tour_weighted_points": 36.2,
+      "avg_finish": 49.67,
+      "win_rate": 0.0,
+      "top10_rate": 0.333
+    }
+  },
+  "division_counts": {
+    "MA50": 1,
+    "MPO": 2
+  },
+  "results": [
+    {
+      "event_id": "43198",
+      "title": "Samui Swine Classic VII - Ams - Presented by Innova",
+      "dates": "29-Jan to 30-Jan-2020",
+      "year": "2020",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 4,
+      "pdga_points": 60.0,
+      "division": "MA50",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 35.0
+    },
+    {
+      "event_id": "15768",
+      "title": "The 2014 Japan Open",
+      "dates": "05-Jun to 07-Jun-2014",
+      "year": "2014",
+      "tier": "",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Nasu Shiobara, Tochigi, Japan",
+      "place": 91,
+      "pdga_points": 420.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 0.6
+    },
+    {
+      "event_id": "9552",
+      "title": "2010 Japan Open (159.9 grams and under)",
+      "dates": "10-Jun to 12-Jun-2010",
+      "year": "2010",
+      "tier": "",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Tochigi, Nasu Highlands, Tochigi, Japan",
+      "place": 54,
+      "pdga_points": 660.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 0.6
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2020",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 60.0,
+      "avg_finish": 4.0
+    },
+    {
+      "year": "2014",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 420.0,
+      "avg_finish": 91.0
+    },
+    {
+      "year": "2010",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 660.0,
+      "avg_finish": 54.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2024-09-10",
+      "rating": 864,
+      "rounds": 31
+    },
+    {
+      "date": "2024-11-12",
+      "rating": 862,
+      "rounds": 27
+    },
+    {
+      "date": "2024-12-10",
+      "rating": 851,
+      "rounds": 30
+    },
+    {
+      "date": "2025-03-11",
+      "rating": 844,
+      "rounds": 28
+    },
+    {
+      "date": "2025-04-08",
+      "rating": 838,
+      "rounds": 28
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 850,
+      "rounds": 33
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 853,
+      "rounds": 36
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 852,
+      "rounds": 35
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 848,
+      "rounds": 31
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 841,
+      "rounds": 41
+    },
+    {
+      "date": "2025-12-09",
+      "rating": 841,
+      "rounds": 35
+    },
+    {
+      "date": "2026-01-13",
+      "rating": 841,
+      "rounds": 36
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 846,
+      "rounds": 34
+    },
+    {
+      "date": "2026-06-09",
+      "rating": 834,
+      "rounds": 29
+    },
+    {
+      "date": "2026-07-14",
+      "rating": 838,
+      "rounds": 26
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/15316"
+}

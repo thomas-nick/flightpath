@@ -1,0 +1,468 @@
+{
+  "pdga": 6053,
+  "name": "Jotaro Hirabayashi #6053",
+  "country": "Japan",
+  "country_key": "JP",
+  "flag": "\ud83c\uddef\ud83c\uddf5",
+  "rating": 912,
+  "classification": "Professional",
+  "city": "Ota-ku",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 977.5,
+  "tour_weighted_points": 186.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 11,
+  "wins": 0,
+  "podiums": 4,
+  "top5": 6,
+  "top10": 7,
+  "top20": 9,
+  "avg_finish": 12.64,
+  "win_rate": 0.0,
+  "top10_rate": 0.636,
+  "cash_earned": 44.0,
+  "pdga_rank": 254,
+  "weighted_rank": 368,
+  "country_rank": 104,
+  "am_events": 0,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 0,
+  "am_pdga_points": 0.0,
+  "last_active": "17-Sep to 19-Sep-2022",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 11,
+      "points": 977.5,
+      "weighted": 186.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 11,
+      "wins": 0,
+      "podiums": 4,
+      "top5": 6,
+      "top10": 7,
+      "top20": 9,
+      "pdga_points": 977.5,
+      "tour_weighted_points": 186.0,
+      "avg_finish": 12.64,
+      "win_rate": 0.0,
+      "top10_rate": 0.636
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "all": {
+      "events": 11,
+      "wins": 0,
+      "podiums": 4,
+      "top5": 6,
+      "top10": 7,
+      "top20": 9,
+      "pdga_points": 977.5,
+      "tour_weighted_points": 186.0,
+      "avg_finish": 12.64,
+      "win_rate": 0.0,
+      "top10_rate": 0.636
+    }
+  },
+  "division_counts": {
+    "MPO": 11
+  },
+  "results": [
+    {
+      "event_id": "62984",
+      "title": "The 1st. Maiko Classic",
+      "dates": "22-Oct to 23-Oct-2022",
+      "year": "2022",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Minamiuonuma, Niigata, Japan",
+      "place": 35,
+      "pdga_points": 97.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.5
+    },
+    {
+      "event_id": "61988",
+      "title": "Japan Series Disc Golf Championships",
+      "dates": "17-Sep to 19-Sep-2022",
+      "year": "2022",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Utsunomiya, Tochigi, Japan",
+      "place": 51,
+      "pdga_points": 135.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.5
+    },
+    {
+      "event_id": "39008",
+      "title": "The 5th Kagoshima Open",
+      "dates": "26-Jan to 27-Jan-2019",
+      "year": "2019",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Kagoshima, Kagoshima, Japan",
+      "place": 11,
+      "pdga_points": 22.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "31802",
+      "title": "National Mixed Team Championship",
+      "dates": "08-Jan to 09-Jan-2017",
+      "year": "2017",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Oyama, Tochigi, Japan",
+      "place": 2,
+      "pdga_points": 100.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$8",
+      "weighted_points": 37.5
+    },
+    {
+      "event_id": "26396",
+      "title": "National Team Championships Mixed",
+      "dates": "10-Jan to 11-Jan-2016",
+      "year": "2016",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Oyama, Tochigi, Japan",
+      "place": 5,
+      "pdga_points": 112.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "17556",
+      "title": "Japan Mixed Team Championships",
+      "dates": "11-Jan to 12-Jan-2015",
+      "year": "2015",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Oyama, Tochigi, Japan",
+      "place": 3,
+      "pdga_points": 150.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 27.5
+    },
+    {
+      "event_id": "17609",
+      "title": "Japan Mixed Team Championships",
+      "dates": "12-Jan to 13-Jan-2014",
+      "year": "2014",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Oyama, Tochigi, Japan",
+      "place": 2,
+      "pdga_points": 37.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$6",
+      "weighted_points": 37.5
+    },
+    {
+      "event_id": "17578",
+      "title": "16 Nippon Open",
+      "dates": "04-May to 05-May-2014",
+      "year": "2014",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Hirugano, Gifu, Japan",
+      "place": 16,
+      "pdga_points": 82.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "15450",
+      "title": "Japan Mixed Team Championships",
+      "dates": "13-Jan to 14-Jan-2013",
+      "year": "2013",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Oyama, Tochigi, Japan",
+      "place": 5,
+      "pdga_points": 120.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$18",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "15440",
+      "title": "Japan Doubles Championships",
+      "dates": "10-Feb to 11-Feb-2013",
+      "year": "2013",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Hitachi, Japan",
+      "place": 6,
+      "pdga_points": 22.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "13651",
+      "title": "8th Masters Championships",
+      "dates": "08-Dec to 09-Dec-2012",
+      "year": "2012",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Hitachi, Ibaraki, Japan",
+      "place": 3,
+      "pdga_points": 97.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$12",
+      "weighted_points": 27.5
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2022",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 232.5,
+      "avg_finish": 43.0
+    },
+    {
+      "year": "2019",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 0,
+      "pdga_points": 22.5,
+      "avg_finish": 11.0
+    },
+    {
+      "year": "2017",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 100.0,
+      "avg_finish": 2.0
+    },
+    {
+      "year": "2016",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 112.5,
+      "avg_finish": 5.0
+    },
+    {
+      "year": "2015",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 150.0,
+      "avg_finish": 3.0
+    },
+    {
+      "year": "2014",
+      "events": 2,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 120.0,
+      "avg_finish": 9.0
+    },
+    {
+      "year": "2013",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 2,
+      "pdga_points": 142.5,
+      "avg_finish": 5.5
+    },
+    {
+      "year": "2012",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 97.5,
+      "avg_finish": 3.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2019-03-19",
+      "rating": 948,
+      "rounds": 22
+    },
+    {
+      "date": "2019-07-09",
+      "rating": 944,
+      "rounds": 23
+    },
+    {
+      "date": "2019-08-13",
+      "rating": 950,
+      "rounds": 23
+    },
+    {
+      "date": "2022-01-11",
+      "rating": 954,
+      "rounds": 3
+    },
+    {
+      "date": "2022-06-14",
+      "rating": 954,
+      "rounds": 8
+    },
+    {
+      "date": "2022-07-12",
+      "rating": 948,
+      "rounds": 12
+    },
+    {
+      "date": "2022-09-13",
+      "rating": 955,
+      "rounds": 18
+    },
+    {
+      "date": "2022-10-11",
+      "rating": 947,
+      "rounds": 21
+    },
+    {
+      "date": "2022-11-08",
+      "rating": 941,
+      "rounds": 27
+    },
+    {
+      "date": "2024-09-10",
+      "rating": 922,
+      "rounds": 8
+    },
+    {
+      "date": "2024-11-12",
+      "rating": 929,
+      "rounds": 8
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 926,
+      "rounds": 8
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 925,
+      "rounds": 10
+    },
+    {
+      "date": "2025-11-11",
+      "rating": 920,
+      "rounds": 13
+    },
+    {
+      "date": "2026-03-10",
+      "rating": 912,
+      "rounds": 12
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 85.0,
+    "season_avg": 90.3,
+    "delta_pct": -5.9
+  },
+  "pdga_url": "https://www.pdga.com/player/6053"
+}

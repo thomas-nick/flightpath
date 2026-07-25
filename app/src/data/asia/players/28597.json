@@ -1,0 +1,506 @@
+{
+  "pdga": 28597,
+  "name": "Shasta Criss #28597",
+  "country": "United States",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 997,
+  "classification": "Professional",
+  "city": "Aptos",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 1162.5,
+  "tour_weighted_points": 395.0,
+  "asia_tour_points": 335.0,
+  "asia_tour_events": 2,
+  "events_played": 10,
+  "wins": 5,
+  "podiums": 10,
+  "top5": 10,
+  "top10": 10,
+  "top20": 10,
+  "avg_finish": 1.7,
+  "win_rate": 0.5,
+  "top10_rate": 1.0,
+  "cash_earned": 2108.0,
+  "pdga_rank": 197,
+  "weighted_rank": 142,
+  "country_rank": null,
+  "am_events": 0,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 0,
+  "am_pdga_points": 0.0,
+  "last_active": "30-Jan to 01-Feb-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 2,
+      "points": 335.0,
+      "weighted": 220.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 247.5,
+      "weighted": 50.0,
+      "wins": 1
+    },
+    "c_tier": {
+      "events": 7,
+      "points": 580.0,
+      "weighted": 125.0,
+      "wins": 4
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 10,
+      "wins": 5,
+      "podiums": 10,
+      "top5": 10,
+      "top10": 10,
+      "top20": 10,
+      "pdga_points": 1162.5,
+      "tour_weighted_points": 395.0,
+      "avg_finish": 1.7,
+      "win_rate": 0.5,
+      "top10_rate": 1.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "all": {
+      "events": 10,
+      "wins": 5,
+      "podiums": 10,
+      "top5": 10,
+      "top10": 10,
+      "top20": 10,
+      "pdga_points": 1162.5,
+      "tour_weighted_points": 395.0,
+      "avg_finish": 1.7,
+      "win_rate": 0.5,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MPO": 10
+  },
+  "results": [
+    {
+      "event_id": "95859",
+      "title": "Samui Swine Classic XIII - Pros. Presented by Latitude64 - PDGA Asia Tour Event #3",
+      "dates": "30-Jan to 01-Feb-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "Koh Samui, Thailand",
+      "place": 3,
+      "pdga_points": 185.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$341",
+      "weighted_points": 110.0
+    },
+    {
+      "event_id": "97037",
+      "title": "Chiang Mai Open IV - PDGA Asia Tour Event #4",
+      "dates": "06-Feb to 08-Feb-2026",
+      "year": "2026",
+      "tier": "B",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "Chiang Mai, Thailand",
+      "place": 3,
+      "pdga_points": 150.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$160",
+      "weighted_points": 110.0
+    },
+    {
+      "event_id": "85341",
+      "title": "Samui Swine Classic XII - MPO, MP40, MP50, FPO Presented by Latitude 64",
+      "dates": "31-Jan to 02-Feb-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 2,
+      "pdga_points": 170.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$353",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "86211",
+      "title": "3rd Annual Chiang Mai Open",
+      "dates": "07-Feb to 09-Feb-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "San Kamphaeng, Thailand",
+      "place": 1,
+      "pdga_points": 90.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$207",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "74984",
+      "title": "Chiang Mai Open",
+      "dates": "09-Feb to 11-Feb-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Chiang Mai, Thailand",
+      "place": 1,
+      "pdga_points": 65.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$123",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "73691",
+      "title": "Samui Swine Classic XI - MPO, FPO, MP40, MP50, MA1, FA1",
+      "dates": "02-Feb to 04-Feb-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 1,
+      "pdga_points": 247.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$559",
+      "weighted_points": 50.0
+    },
+    {
+      "event_id": "73650",
+      "title": "Festival of Flight I",
+      "dates": "18-Nov to 19-Nov-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Chiang Mai, Chiang Mai, Thailand",
+      "place": 1,
+      "pdga_points": 20.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$43",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "64802",
+      "title": "2022 Malaysia Disc Golf Tour (Stop #4 / Bale Club DGC)",
+      "dates": "14-Jan-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 1,
+      "pdga_points": 85.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$138",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "63765",
+      "title": "Chiang Mai Open",
+      "dates": "10-Feb to 12-Feb-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Chiang Mai, Thailand",
+      "place": 2,
+      "pdga_points": 90.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$119",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "63215",
+      "title": "Pattaya Disc Golf Open 2",
+      "dates": "03-Dec to 04-Dec-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Baan Lamung, Thailand",
+      "place": 2,
+      "pdga_points": 60.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$65",
+      "weighted_points": 15.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "86211",
+      "title": "3rd Annual Chiang Mai Open",
+      "dates": "07-Feb to 09-Feb-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "San Kamphaeng, Thailand",
+      "place": 1,
+      "pdga_points": 90.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$207",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "74984",
+      "title": "Chiang Mai Open",
+      "dates": "09-Feb to 11-Feb-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Chiang Mai, Thailand",
+      "place": 1,
+      "pdga_points": 65.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$123",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "73691",
+      "title": "Samui Swine Classic XI - MPO, FPO, MP40, MP50, MA1, FA1",
+      "dates": "02-Feb to 04-Feb-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 1,
+      "pdga_points": 247.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$559",
+      "weighted_points": 50.0
+    },
+    {
+      "event_id": "73650",
+      "title": "Festival of Flight I",
+      "dates": "18-Nov to 19-Nov-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Chiang Mai, Chiang Mai, Thailand",
+      "place": 1,
+      "pdga_points": 20.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$43",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "64802",
+      "title": "2022 Malaysia Disc Golf Tour (Stop #4 / Bale Club DGC)",
+      "dates": "14-Jan-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 1,
+      "pdga_points": 85.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$138",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 2,
+      "wins": 0,
+      "podiums": 2,
+      "top10": 2,
+      "pdga_points": 335.0,
+      "avg_finish": 3.0
+    },
+    {
+      "year": "2025",
+      "events": 2,
+      "wins": 1,
+      "podiums": 2,
+      "top10": 2,
+      "pdga_points": 260.0,
+      "avg_finish": 1.5
+    },
+    {
+      "year": "2024",
+      "events": 2,
+      "wins": 2,
+      "podiums": 2,
+      "top10": 2,
+      "pdga_points": 312.5,
+      "avg_finish": 1.0
+    },
+    {
+      "year": "2023",
+      "events": 3,
+      "wins": 2,
+      "podiums": 3,
+      "top10": 3,
+      "pdga_points": 195.0,
+      "avg_finish": 1.33
+    },
+    {
+      "year": "2022",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 60.0,
+      "avg_finish": 2.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2024-06-11",
+      "rating": 997,
+      "rounds": 72
+    },
+    {
+      "date": "2024-07-09",
+      "rating": 998,
+      "rounds": 71
+    },
+    {
+      "date": "2024-08-13",
+      "rating": 995,
+      "rounds": 71
+    },
+    {
+      "date": "2024-09-10",
+      "rating": 993,
+      "rounds": 76
+    },
+    {
+      "date": "2024-10-08",
+      "rating": 997,
+      "rounds": 83
+    },
+    {
+      "date": "2024-11-12",
+      "rating": 998,
+      "rounds": 77
+    },
+    {
+      "date": "2025-02-11",
+      "rating": 999,
+      "rounds": 76
+    },
+    {
+      "date": "2025-04-08",
+      "rating": 994,
+      "rounds": 66
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 994,
+      "rounds": 69
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 994,
+      "rounds": 69
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 992,
+      "rounds": 64
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 992,
+      "rounds": 63
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 994,
+      "rounds": 61
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 994,
+      "rounds": 50
+    },
+    {
+      "date": "2026-02-10",
+      "rating": 997,
+      "rounds": 48
+    }
+  ],
+  "streak": {
+    "direction": "up",
+    "recent_avg": 168.3,
+    "season_avg": 93.9,
+    "delta_pct": 79.2
+  },
+  "pdga_url": "https://www.pdga.com/player/28597"
+}

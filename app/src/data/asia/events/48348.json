@@ -1,0 +1,66 @@
+{
+  "event_id": "48348",
+  "title": "The Khmer Cup 2021",
+  "location": "Siem Reap, Cambodia",
+  "dates": "13-Feb to 14-Feb-2021",
+  "year": "2021",
+  "tier": "C",
+  "level": "c_tier",
+  "is_asia_tour": false,
+  "status": "Event complete; official ratings processed.",
+  "field_size": 3,
+  "avg_mpo_rating": 782.7,
+  "country_breakdown": [
+    {
+      "flag": "\ud83c\uddf0\ud83c\udded",
+      "country": "Cambodia",
+      "count": 2
+    }
+  ],
+  "mpo": [
+    {
+      "pdga": 125037,
+      "name": "Pich Ban",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 1,
+      "pdga_points": 20.0,
+      "rating": 808,
+      "prize": "$70",
+      "flag": "\ud83c\uddf0\ud83c\udded",
+      "country": "Cambodia",
+      "country_key": "KH"
+    },
+    {
+      "pdga": 16472,
+      "name": "Greg Hill",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 2,
+      "pdga_points": 15.0,
+      "rating": 766,
+      "prize": "$40",
+      "flag": "\ud83c\udf10",
+      "country": "United States",
+      "country_key": ""
+    },
+    {
+      "pdga": 129516,
+      "name": "Sam Allen",
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "place": 4,
+      "pdga_points": 0.0,
+      "rating": 774,
+      "prize": "",
+      "flag": "\ud83c\uddf0\ud83c\udded",
+      "country": "Cambodia",
+      "country_key": "KH"
+    }
+  ],
+  "fpo": [],
+  "amateur": [],
+  "divisions": [
+    "MPO"
+  ]
+}

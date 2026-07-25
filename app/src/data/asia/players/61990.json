@@ -1,0 +1,483 @@
+{
+  "pdga": 61990,
+  "name": "Katka Bo\u010fov\u00e1 #61990",
+  "country": "Slovakia",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 922,
+  "classification": "Professional",
+  "city": "Bratislava",
+  "nationality": "",
+  "division": "FPO",
+  "primary_class": "open_fpo",
+  "pdga_points": 197.0,
+  "tour_weighted_points": 297.6,
+  "asia_tour_points": 12.0,
+  "asia_tour_events": 1,
+  "events_played": 9,
+  "wins": 5,
+  "podiums": 7,
+  "top5": 8,
+  "top10": 8,
+  "top20": 9,
+  "avg_finish": 2.78,
+  "win_rate": 0.556,
+  "top10_rate": 0.889,
+  "cash_earned": 639.0,
+  "pdga_rank": 829,
+  "weighted_rank": 197,
+  "country_rank": null,
+  "am_events": 3,
+  "am_wins": 0,
+  "am_podiums": 1,
+  "am_top10": 2,
+  "am_pdga_points": 158.0,
+  "last_active": "30-Jan to 01-Feb-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 1,
+      "points": 12.0,
+      "weighted": 150.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 1,
+      "points": 48.0,
+      "weighted": 35.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 7,
+      "points": 137.0,
+      "weighted": 112.6,
+      "wins": 5
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 6,
+      "wins": 5,
+      "podiums": 6,
+      "top5": 6,
+      "top10": 6,
+      "top20": 6,
+      "pdga_points": 39.0,
+      "tour_weighted_points": 250.0,
+      "avg_finish": 1.17,
+      "win_rate": 0.833,
+      "top10_rate": 1.0
+    },
+    "amateur": {
+      "events": 3,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 2,
+      "top10": 2,
+      "top20": 3,
+      "pdga_points": 158.0,
+      "tour_weighted_points": 47.6,
+      "avg_finish": 6.0,
+      "win_rate": 0.0,
+      "top10_rate": 0.667
+    },
+    "all": {
+      "events": 9,
+      "wins": 5,
+      "podiums": 7,
+      "top5": 8,
+      "top10": 8,
+      "top20": 9,
+      "pdga_points": 197.0,
+      "tour_weighted_points": 297.6,
+      "avg_finish": 2.78,
+      "win_rate": 0.556,
+      "top10_rate": 0.889
+    }
+  },
+  "division_counts": {
+    "FPO": 6,
+    "MA1": 2,
+    "MA40": 1
+  },
+  "results": [
+    {
+      "event_id": "95859",
+      "title": "Samui Swine Classic XIII - Pros. Presented by Latitude64 - PDGA Asia Tour Event #3",
+      "dates": "30-Jan to 01-Feb-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "asia_tour",
+      "is_asia_tour": true,
+      "location": "Koh Samui, Thailand",
+      "place": 2,
+      "pdga_points": 12.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "$152",
+      "weighted_points": 150.0
+    },
+    {
+      "event_id": "84698",
+      "title": "Samui Swine Classic XII - MA1, MA2, MA3, MA40, MA50, MA60, FA1 Presented by Latitude 64",
+      "dates": "28-Jan to 30-Jan-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 11,
+      "pdga_points": 80.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "88309",
+      "title": "Hyzenbrownie X The Grin Reefer 2025 - Pros",
+      "dates": "25-Jan to 26-Jan-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Surrathani, Thailand",
+      "place": 1,
+      "pdga_points": 6.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "$60",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "63564",
+      "title": "Samui Swine Classic X Presented by Prodigy Discs- MA3, MA2, FA1, MA40, MA50, MA60",
+      "dates": "31-Jan to 02-Feb-2023",
+      "year": "2023",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 4,
+      "pdga_points": 48.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 35.0
+    },
+    {
+      "event_id": "63795",
+      "title": "Hyzenbrownie Dreamweaver Open 2023 Powered By Innova Discs",
+      "dates": "25-Jan to 29-Jan-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui Thailand, Thailand",
+      "place": 1,
+      "pdga_points": 3.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "$35",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "43184",
+      "title": "The 5th Annual Hyzenbrownie Open \"King Of The Island\" 2020",
+      "dates": "22-Jan to 26-Jan-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Namuang Koh Samui, Thailand",
+      "place": 1,
+      "pdga_points": 6.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "$200",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "42689",
+      "title": "Singapore Sling 2020",
+      "dates": "19-Jan-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 3,
+      "pdga_points": 30.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "43398",
+      "title": "Shipwrecked in Malaysia",
+      "dates": "18-Jan-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 1,
+      "pdga_points": 9.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "$139",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "43307",
+      "title": "Sizzlin Saigon Winter Open 2020",
+      "dates": "10-Jan to 12-Jan-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Ho Chi Minh City, Vietnam",
+      "place": 1,
+      "pdga_points": 3.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "$53",
+      "weighted_points": 20.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "88309",
+      "title": "Hyzenbrownie X The Grin Reefer 2025 - Pros",
+      "dates": "25-Jan to 26-Jan-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Surrathani, Thailand",
+      "place": 1,
+      "pdga_points": 6.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "$60",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "63795",
+      "title": "Hyzenbrownie Dreamweaver Open 2023 Powered By Innova Discs",
+      "dates": "25-Jan to 29-Jan-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui Thailand, Thailand",
+      "place": 1,
+      "pdga_points": 3.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "$35",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "43184",
+      "title": "The 5th Annual Hyzenbrownie Open \"King Of The Island\" 2020",
+      "dates": "22-Jan to 26-Jan-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Namuang Koh Samui, Thailand",
+      "place": 1,
+      "pdga_points": 6.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "$200",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "43398",
+      "title": "Shipwrecked in Malaysia",
+      "dates": "18-Jan-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 1,
+      "pdga_points": 9.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "$139",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "43307",
+      "title": "Sizzlin Saigon Winter Open 2020",
+      "dates": "10-Jan to 12-Jan-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Ho Chi Minh City, Vietnam",
+      "place": 1,
+      "pdga_points": 3.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "$53",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 12.0,
+      "avg_finish": 2.0
+    },
+    {
+      "year": "2025",
+      "events": 2,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 86.0,
+      "avg_finish": 6.0
+    },
+    {
+      "year": "2023",
+      "events": 2,
+      "wins": 1,
+      "podiums": 1,
+      "top10": 2,
+      "pdga_points": 51.0,
+      "avg_finish": 2.5
+    },
+    {
+      "year": "2020",
+      "events": 4,
+      "wins": 3,
+      "podiums": 4,
+      "top10": 4,
+      "pdga_points": 48.0,
+      "avg_finish": 1.5
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2024-09-10",
+      "rating": 918,
+      "rounds": 43
+    },
+    {
+      "date": "2024-10-08",
+      "rating": 920,
+      "rounds": 42
+    },
+    {
+      "date": "2024-11-12",
+      "rating": 922,
+      "rounds": 39
+    },
+    {
+      "date": "2025-02-11",
+      "rating": 920,
+      "rounds": 46
+    },
+    {
+      "date": "2025-03-11",
+      "rating": 921,
+      "rounds": 48
+    },
+    {
+      "date": "2025-04-08",
+      "rating": 916,
+      "rounds": 54
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 920,
+      "rounds": 54
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 920,
+      "rounds": 58
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 924,
+      "rounds": 55
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 928,
+      "rounds": 55
+    },
+    {
+      "date": "2025-09-09",
+      "rating": 928,
+      "rounds": 55
+    },
+    {
+      "date": "2025-10-14",
+      "rating": 927,
+      "rounds": 55
+    },
+    {
+      "date": "2026-02-10",
+      "rating": 924,
+      "rounds": 47
+    },
+    {
+      "date": "2026-04-14",
+      "rating": 923,
+      "rounds": 48
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 922,
+      "rounds": 48
+    }
+  ],
+  "streak": {
+    "direction": "up",
+    "recent_avg": 32.7,
+    "season_avg": 16.5,
+    "delta_pct": 98.0
+  },
+  "pdga_url": "https://www.pdga.com/player/61990"
+}

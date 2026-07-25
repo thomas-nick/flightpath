@@ -1,0 +1,350 @@
+{
+  "pdga": 114759,
+  "name": "Alex Lopez #114759",
+  "country": "United States",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 930,
+  "classification": "Professional",
+  "city": "San Diego",
+  "nationality": "",
+  "division": "MPO",
+  "primary_class": "open_mpo",
+  "pdga_points": 397.5,
+  "tour_weighted_points": 46.1,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 7,
+  "wins": 0,
+  "podiums": 1,
+  "top5": 2,
+  "top10": 4,
+  "top20": 7,
+  "avg_finish": 9.71,
+  "win_rate": 0.0,
+  "top10_rate": 0.571,
+  "cash_earned": 109.0,
+  "pdga_rank": 530,
+  "weighted_rank": 963,
+  "country_rank": null,
+  "am_events": 0,
+  "am_wins": 0,
+  "am_podiums": 0,
+  "am_top10": 0,
+  "am_pdga_points": 0.0,
+  "last_active": "26-Apr-2026",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 3,
+      "points": 142.5,
+      "weighted": 25.5,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 4,
+      "points": 255.0,
+      "weighted": 20.6,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 7,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 2,
+      "top10": 4,
+      "top20": 7,
+      "pdga_points": 397.5,
+      "tour_weighted_points": 46.1,
+      "avg_finish": 9.71,
+      "win_rate": 0.0,
+      "top10_rate": 0.571
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "all": {
+      "events": 7,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 2,
+      "top10": 4,
+      "top20": 7,
+      "pdga_points": 397.5,
+      "tour_weighted_points": 46.1,
+      "avg_finish": 9.71,
+      "win_rate": 0.0,
+      "top10_rate": 0.571
+    }
+  },
+  "division_counts": {
+    "MPO": 7
+  },
+  "results": [
+    {
+      "event_id": "103086",
+      "title": "Pump it up #4",
+      "dates": "26-Apr-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Yeongdong-gun, Chungcheongbuk-do, South Korea",
+      "place": 7,
+      "pdga_points": 35.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "99088",
+      "title": "Pump it up #1",
+      "dates": "25-Jan-2026",
+      "year": "2026",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Yeongdong-gun, Chungcheongbuk-do, South Korea",
+      "place": 9,
+      "pdga_points": 25.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "90272",
+      "title": "13th Daegu Open",
+      "dates": "26-Apr to 27-Apr-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Daegu, Daegu, South Korea",
+      "place": 5,
+      "pdga_points": 52.5,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$69",
+      "weighted_points": 17.5
+    },
+    {
+      "event_id": "96085",
+      "title": "1st Yangju Art Valley International Open - MPO, FPO",
+      "dates": "25-Oct-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Yangju, Gyeonggi-do, South Korea",
+      "place": 11,
+      "pdga_points": 120.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 1.6
+    },
+    {
+      "event_id": "88635",
+      "title": "2nd Go for it Republic of Korea",
+      "dates": "23-Mar-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Yeongdong, Chungcheongbuk-do, South Korea",
+      "place": 3,
+      "pdga_points": 75.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "$40",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "91661",
+      "title": "2ND YeongDong OPEN",
+      "dates": "14-Jun to 15-Jun-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "yeongdong gun, Chungcheongbuk-do, South Korea",
+      "place": 14,
+      "pdga_points": 30.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "92377",
+      "title": "The 27th Nippon Open Presented by DISCRAFT",
+      "dates": "05-Jul to 06-Jul-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Yasu-shi, Shiga, Japan",
+      "place": 19,
+      "pdga_points": 60.0,
+      "division": "MPO",
+      "class_bucket": "open_mpo",
+      "prize": "",
+      "weighted_points": 4.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2026",
+      "events": 2,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 2,
+      "pdga_points": 60.0,
+      "avg_finish": 8.0
+    },
+    {
+      "year": "2025",
+      "events": 5,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 2,
+      "pdga_points": 337.5,
+      "avg_finish": 10.4
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2024-03-12",
+      "rating": 909,
+      "rounds": 25
+    },
+    {
+      "date": "2024-04-09",
+      "rating": 909,
+      "rounds": 18
+    },
+    {
+      "date": "2024-05-14",
+      "rating": 916,
+      "rounds": 15
+    },
+    {
+      "date": "2024-07-09",
+      "rating": 922,
+      "rounds": 22
+    },
+    {
+      "date": "2024-08-13",
+      "rating": 919,
+      "rounds": 27
+    },
+    {
+      "date": "2024-11-12",
+      "rating": 915,
+      "rounds": 29
+    },
+    {
+      "date": "2024-12-10",
+      "rating": 916,
+      "rounds": 37
+    },
+    {
+      "date": "2025-01-14",
+      "rating": 913,
+      "rounds": 37
+    },
+    {
+      "date": "2025-04-08",
+      "rating": 918,
+      "rounds": 32
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 922,
+      "rounds": 31
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 914,
+      "rounds": 30
+    },
+    {
+      "date": "2025-08-12",
+      "rating": 915,
+      "rounds": 30
+    },
+    {
+      "date": "2025-11-11",
+      "rating": 920,
+      "rounds": 23
+    },
+    {
+      "date": "2026-02-10",
+      "rating": 931,
+      "rounds": 14
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 930,
+      "rounds": 14
+    }
+  ],
+  "streak": {
+    "direction": "down",
+    "recent_avg": 37.5,
+    "season_avg": 71.2,
+    "delta_pct": -47.4
+  },
+  "pdga_url": "https://www.pdga.com/player/114759"
+}

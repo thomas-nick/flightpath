@@ -1,0 +1,320 @@
+{
+  "pdga": 272308,
+  "name": "Ryusei Shida #272308",
+  "country": "Japan",
+  "country_key": "JP",
+  "flag": "\ud83c\uddef\ud83c\uddf5",
+  "rating": 904,
+  "classification": "Amateur",
+  "city": "Tamura-city",
+  "nationality": "",
+  "division": "MA1",
+  "primary_class": "amateur",
+  "pdga_points": 510.0,
+  "tour_weighted_points": 103.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 7,
+  "wins": 0,
+  "podiums": 2,
+  "top5": 2,
+  "top10": 5,
+  "top20": 7,
+  "avg_finish": 8.57,
+  "win_rate": 0.0,
+  "top10_rate": 0.714,
+  "cash_earned": 0.0,
+  "pdga_rank": 447,
+  "weighted_rank": 610,
+  "country_rank": 156,
+  "am_events": 7,
+  "am_wins": 0,
+  "am_podiums": 2,
+  "am_top10": 5,
+  "am_pdga_points": 510.0,
+  "last_active": "05-Apr to 06-Apr-2025",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 7,
+      "points": 510.0,
+      "weighted": 103.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 7,
+      "wins": 0,
+      "podiums": 2,
+      "top5": 2,
+      "top10": 5,
+      "top20": 7,
+      "pdga_points": 510.0,
+      "tour_weighted_points": 103.0,
+      "avg_finish": 8.57,
+      "win_rate": 0.0,
+      "top10_rate": 0.714
+    },
+    "all": {
+      "events": 7,
+      "wins": 0,
+      "podiums": 2,
+      "top5": 2,
+      "top10": 5,
+      "top20": 7,
+      "pdga_points": 510.0,
+      "tour_weighted_points": 103.0,
+      "avg_finish": 8.57,
+      "win_rate": 0.0,
+      "top10_rate": 0.714
+    }
+  },
+  "division_counts": {
+    "MA1": 7
+  },
+  "results": [
+    {
+      "event_id": "89556",
+      "title": "The 29th Kanto Open (Ama)",
+      "dates": "05-Apr to 06-Apr-2025",
+      "year": "2025",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Ichikai-machi, Tochigi, Japan",
+      "place": 6,
+      "pdga_points": 120.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "86185",
+      "title": "The 38th Kyushu Open",
+      "dates": "30-Nov to 01-Dec-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Fukuoka-shi, Fukuoka, Japan",
+      "place": 20,
+      "pdga_points": 75.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    },
+    {
+      "event_id": "79763",
+      "title": "The 8th Fukui Open",
+      "dates": "18-May to 19-May-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Sakai-shi , Fukui, Japan",
+      "place": 3,
+      "pdga_points": 37.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 27.5
+    },
+    {
+      "event_id": "85150",
+      "title": "The 24th Tohoku Open",
+      "dates": "13-Oct to 14-Oct-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Yurihonjo-shi, Akita, Japan",
+      "place": 2,
+      "pdga_points": 30.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 37.5
+    },
+    {
+      "event_id": "75533",
+      "title": "The 12th Okinawa Open",
+      "dates": "10-Feb to 11-Feb-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Nakijin, Okinawa, Japan",
+      "place": 10,
+      "pdga_points": 22.5,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "79194",
+      "title": "The 28th Kanto Open (Ama)",
+      "dates": "06-Apr to 07-Apr-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Haga-gun, Tochigi, Japan",
+      "place": 6,
+      "pdga_points": 165.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "81355",
+      "title": "The 36th National Championships (AM)",
+      "dates": "05-May to 06-May-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Minamisouma-shi, Fukushima, Japan",
+      "place": 13,
+      "pdga_points": 60.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 4.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2025",
+      "events": 1,
+      "wins": 0,
+      "podiums": 0,
+      "top10": 1,
+      "pdga_points": 120.0,
+      "avg_finish": 6.0
+    },
+    {
+      "year": "2024",
+      "events": 6,
+      "wins": 0,
+      "podiums": 2,
+      "top10": 4,
+      "pdga_points": 390.0,
+      "avg_finish": 9.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2024-03-12",
+      "rating": 828,
+      "rounds": 3
+    },
+    {
+      "date": "2024-05-14",
+      "rating": 868,
+      "rounds": 6
+    },
+    {
+      "date": "2024-06-11",
+      "rating": 877,
+      "rounds": 10
+    },
+    {
+      "date": "2024-09-10",
+      "rating": 865,
+      "rounds": 15
+    },
+    {
+      "date": "2024-11-12",
+      "rating": 882,
+      "rounds": 18
+    },
+    {
+      "date": "2024-12-10",
+      "rating": 879,
+      "rounds": 20
+    },
+    {
+      "date": "2025-03-11",
+      "rating": 881,
+      "rounds": 19
+    },
+    {
+      "date": "2025-05-13",
+      "rating": 894,
+      "rounds": 22
+    },
+    {
+      "date": "2025-11-11",
+      "rating": 904,
+      "rounds": 14
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 77.5,
+    "season_avg": 69.4,
+    "delta_pct": 11.7
+  },
+  "pdga_url": "https://www.pdga.com/player/272308"
+}

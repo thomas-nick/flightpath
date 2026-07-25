@@ -1,0 +1,596 @@
+{
+  "pdga": 149017,
+  "name": "Lyra Belga #149017",
+  "country": "Malaysia",
+  "country_key": "MY",
+  "flag": "\ud83c\uddf2\ud83c\uddfe",
+  "rating": null,
+  "classification": "Professional",
+  "city": "Nusajaya",
+  "nationality": "Philippines",
+  "division": "FPO",
+  "primary_class": "open_fpo",
+  "pdga_points": 118.5,
+  "tour_weighted_points": 217.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 19,
+  "wins": 1,
+  "podiums": 14,
+  "top5": 18,
+  "top10": 19,
+  "top20": 19,
+  "avg_finish": 3.32,
+  "win_rate": 0.053,
+  "top10_rate": 1.0,
+  "cash_earned": 40.0,
+  "pdga_rank": 1087,
+  "weighted_rank": 304,
+  "country_rank": 35,
+  "am_events": 5,
+  "am_wins": 1,
+  "am_podiums": 5,
+  "am_top10": 5,
+  "am_pdga_points": 51.0,
+  "last_active": "05-Jul to 06-Jul-2025",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 1,
+      "points": 13.5,
+      "weighted": 10.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 18,
+      "points": 105.0,
+      "weighted": 207.0,
+      "wins": 1
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 14,
+      "wins": 0,
+      "podiums": 9,
+      "top5": 13,
+      "top10": 14,
+      "top20": 14,
+      "pdga_points": 67.5,
+      "tour_weighted_points": 145.0,
+      "avg_finish": 3.71,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "amateur": {
+      "events": 5,
+      "wins": 1,
+      "podiums": 5,
+      "top5": 5,
+      "top10": 5,
+      "top20": 5,
+      "pdga_points": 51.0,
+      "tour_weighted_points": 72.0,
+      "avg_finish": 2.2,
+      "win_rate": 0.2,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 19,
+      "wins": 1,
+      "podiums": 14,
+      "top5": 18,
+      "top10": 19,
+      "top20": 19,
+      "pdga_points": 118.5,
+      "tour_weighted_points": 217.0,
+      "avg_finish": 3.32,
+      "win_rate": 0.053,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "FA1": 5,
+    "FPO": 14
+  },
+  "results": [
+    {
+      "event_id": "93957",
+      "title": "Johor Disc Golf Open 2025",
+      "dates": "05-Jul to 06-Jul-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 3,
+      "pdga_points": 6.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "74304",
+      "title": "SE Asia Disc Golf Championship 2024",
+      "dates": "26-Jan to 28-Jan-2024",
+      "year": "2024",
+      "tier": "B",
+      "level": "b_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 10,
+      "pdga_points": 13.5,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "",
+      "weighted_points": 10.0
+    },
+    {
+      "event_id": "75766",
+      "title": "Singapore Sling 2024",
+      "dates": "13-Jan-2024",
+      "year": "2024",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 3,
+      "pdga_points": 3.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "69861",
+      "title": "Malaysia Summer All-Star 2023",
+      "dates": "24-Jun to 25-Jun-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 2,
+      "pdga_points": 3.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "73464",
+      "title": "MDGT #1 (Pelangi Indah DGC)",
+      "dates": "21-Oct-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru , Johor, Malaysia",
+      "place": 3,
+      "pdga_points": 3.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "75119",
+      "title": "MDGT #2 (Ara Damansara DGC)",
+      "dates": "18-Nov-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Petaling Jaya, Selangor, Malaysia",
+      "place": 2,
+      "pdga_points": 6.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "$17",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "64802",
+      "title": "2022 Malaysia Disc Golf Tour (Stop #4 / Bale Club DGC)",
+      "dates": "14-Jan-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 3,
+      "pdga_points": 9.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "$23",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "68319",
+      "title": "3rd Annual Johor State Disc Golf Championship",
+      "dates": "08-Apr-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 4,
+      "pdga_points": 3.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "71095",
+      "title": "Dover Dash 2023",
+      "dates": "03-Jun-2023",
+      "year": "2023",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 3,
+      "pdga_points": 3.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "60442",
+      "title": "Fairfield High Tea",
+      "dates": "28-May-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 1,
+      "pdga_points": 18.0,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    },
+    {
+      "event_id": "63085",
+      "title": "2022 Singapore Disc Golf Championships",
+      "dates": "17-Sep to 18-Sep-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 3,
+      "pdga_points": 3.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "63886",
+      "title": "Trees",
+      "dates": "15-Oct-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahry, Johor, Malaysia",
+      "place": 4,
+      "pdga_points": 3.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "61687",
+      "title": "4th Annual 2022 Malaysia National Championship",
+      "dates": "13-Aug to 14-Aug-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 5,
+      "pdga_points": 3.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "64352",
+      "title": "2022 Malaysia Disc Golf Tour (Stop #2)",
+      "dates": "12-Nov-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Iskandar Puteri, Johor, Malaysia",
+      "place": 3,
+      "pdga_points": 6.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "61010",
+      "title": "Out-of-Bounds",
+      "dates": "11-Jun-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 3,
+      "pdga_points": 18.0,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    },
+    {
+      "event_id": "64657",
+      "title": "2022 Malaysia Disc Golf Tour (Stop #3 / Lakes of Pelangi Indah DGC)",
+      "dates": "10-Dec-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 4,
+      "pdga_points": 3.0,
+      "division": "FPO",
+      "class_bucket": "open_fpo",
+      "prize": "",
+      "weighted_points": 7.0
+    },
+    {
+      "event_id": "59454",
+      "title": "2022 Johor State Disc Golf Championships",
+      "dates": "07-May-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 2,
+      "pdga_points": 6.0,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "54648",
+      "title": "2021 Malaysia Disc Golf National Championship",
+      "dates": "16-Oct-2021",
+      "year": "2021",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 2,
+      "pdga_points": 3.0,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    },
+    {
+      "event_id": "47699",
+      "title": "Ho-Ho-Hole in One",
+      "dates": "26-Dec-2020",
+      "year": "2020",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Johor Bahru, Johor, Malaysia",
+      "place": 3,
+      "pdga_points": 6.0,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 11.0
+    }
+  ],
+  "wins_ledger": [
+    {
+      "event_id": "60442",
+      "title": "Fairfield High Tea",
+      "dates": "28-May-2022",
+      "year": "2022",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Singapore",
+      "place": 1,
+      "pdga_points": 18.0,
+      "division": "FA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 20.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": "2025",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 6.0,
+      "avg_finish": 3.0
+    },
+    {
+      "year": "2024",
+      "events": 2,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 2,
+      "pdga_points": 16.5,
+      "avg_finish": 6.5
+    },
+    {
+      "year": "2023",
+      "events": 6,
+      "wins": 0,
+      "podiums": 5,
+      "top10": 6,
+      "pdga_points": 27.0,
+      "avg_finish": 2.83
+    },
+    {
+      "year": "2022",
+      "events": 8,
+      "wins": 1,
+      "podiums": 5,
+      "top10": 8,
+      "pdga_points": 60.0,
+      "avg_finish": 3.12
+    },
+    {
+      "year": "2021",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 3.0,
+      "avg_finish": 2.0
+    },
+    {
+      "year": "2020",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 6.0,
+      "avg_finish": 3.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2022-05-10",
+      "rating": 706,
+      "rounds": 18
+    },
+    {
+      "date": "2022-06-14",
+      "rating": 708,
+      "rounds": 19
+    },
+    {
+      "date": "2022-08-09",
+      "rating": 712,
+      "rounds": 19
+    },
+    {
+      "date": "2022-09-13",
+      "rating": 712,
+      "rounds": 21
+    },
+    {
+      "date": "2022-10-11",
+      "rating": 705,
+      "rounds": 20
+    },
+    {
+      "date": "2022-11-08",
+      "rating": 702,
+      "rounds": 20
+    },
+    {
+      "date": "2022-12-13",
+      "rating": 727,
+      "rounds": 18
+    },
+    {
+      "date": "2023-02-14",
+      "rating": 728,
+      "rounds": 20
+    },
+    {
+      "date": "2023-04-11",
+      "rating": 722,
+      "rounds": 22
+    },
+    {
+      "date": "2023-06-13",
+      "rating": 726,
+      "rounds": 26
+    },
+    {
+      "date": "2023-07-11",
+      "rating": 728,
+      "rounds": 27
+    },
+    {
+      "date": "2023-11-14",
+      "rating": 734,
+      "rounds": 20
+    },
+    {
+      "date": "2023-12-12",
+      "rating": 737,
+      "rounds": 20
+    },
+    {
+      "date": "2024-02-13",
+      "rating": 734,
+      "rounds": 20
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 735,
+      "rounds": 7
+    }
+  ],
+  "streak": {
+    "direction": "up",
+    "recent_avg": 7.5,
+    "season_avg": 6.0,
+    "delta_pct": 25.0
+  },
+  "pdga_url": "https://www.pdga.com/player/149017"
+}

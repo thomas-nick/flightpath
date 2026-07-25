@@ -1,0 +1,245 @@
+{
+  "pdga": 86820,
+  "name": "Petri Huumonen #86820",
+  "country": "Finland",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 910,
+  "classification": "Amateur",
+  "city": "Kerava",
+  "nationality": "",
+  "division": "MA40",
+  "primary_class": "amateur",
+  "pdga_points": 112.0,
+  "tour_weighted_points": 75.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 1,
+  "top5": 1,
+  "top10": 1,
+  "top20": 1,
+  "avg_finish": 2.0,
+  "win_rate": 0.0,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 1114,
+  "weighted_rank": 741,
+  "country_rank": null,
+  "am_events": 1,
+  "am_wins": 0,
+  "am_podiums": 1,
+  "am_top10": 1,
+  "am_pdga_points": 112.0,
+  "last_active": "29-Jan to 30-Jan-2020",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 1,
+      "points": 112.0,
+      "weighted": 75.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 112.0,
+      "tour_weighted_points": 75.0,
+      "avg_finish": 2.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 112.0,
+      "tour_weighted_points": 75.0,
+      "avg_finish": 2.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA40": 1
+  },
+  "results": [
+    {
+      "event_id": "43198",
+      "title": "Samui Swine Classic VII - Ams - Presented by Innova",
+      "dates": "29-Jan to 30-Jan-2020",
+      "year": "2020",
+      "tier": "A",
+      "level": "a_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 2,
+      "pdga_points": 112.0,
+      "division": "MA40",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 75.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2020",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 112.0,
+      "avg_finish": 2.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2016-09-20",
+      "rating": 884,
+      "rounds": 4
+    },
+    {
+      "date": "2017-06-27",
+      "rating": 884,
+      "rounds": 9
+    },
+    {
+      "date": "2017-07-25",
+      "rating": 897,
+      "rounds": 12
+    },
+    {
+      "date": "2017-09-26",
+      "rating": 899,
+      "rounds": 15
+    },
+    {
+      "date": "2017-10-25",
+      "rating": 896,
+      "rounds": 17
+    },
+    {
+      "date": "2017-12-12",
+      "rating": 890,
+      "rounds": 21
+    },
+    {
+      "date": "2018-07-31",
+      "rating": 891,
+      "rounds": 16
+    },
+    {
+      "date": "2020-02-11",
+      "rating": 903,
+      "rounds": 5
+    },
+    {
+      "date": "2020-06-09",
+      "rating": 903,
+      "rounds": 6
+    },
+    {
+      "date": "2020-07-14",
+      "rating": 924,
+      "rounds": 7
+    },
+    {
+      "date": "2020-09-08",
+      "rating": 921,
+      "rounds": 10
+    },
+    {
+      "date": "2021-07-13",
+      "rating": 923,
+      "rounds": 9
+    },
+    {
+      "date": "2021-09-14",
+      "rating": 926,
+      "rounds": 7
+    },
+    {
+      "date": "2022-07-12",
+      "rating": 914,
+      "rounds": 6
+    },
+    {
+      "date": "2022-08-09",
+      "rating": 910,
+      "rounds": 7
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/86820"
+}

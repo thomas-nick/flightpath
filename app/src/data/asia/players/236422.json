@@ -1,0 +1,245 @@
+{
+  "pdga": 236422,
+  "name": "Kevin Carpenter #236422",
+  "country": "New Zealand",
+  "country_key": "",
+  "flag": "\ud83c\udf10",
+  "rating": 932,
+  "classification": "Amateur",
+  "city": "Christchurch",
+  "nationality": "",
+  "division": "MA1",
+  "primary_class": "amateur",
+  "pdga_points": 125.0,
+  "tour_weighted_points": 15.0,
+  "asia_tour_points": 0.0,
+  "asia_tour_events": 0,
+  "events_played": 1,
+  "wins": 0,
+  "podiums": 1,
+  "top5": 1,
+  "top10": 1,
+  "top20": 1,
+  "avg_finish": 2.0,
+  "win_rate": 0.0,
+  "top10_rate": 1.0,
+  "cash_earned": 0.0,
+  "pdga_rank": 1055,
+  "weighted_rank": 1490,
+  "country_rank": null,
+  "am_events": 1,
+  "am_wins": 0,
+  "am_podiums": 1,
+  "am_top10": 1,
+  "am_pdga_points": 125.0,
+  "last_active": "28-Jan to 30-Jan-2025",
+  "by_level": {
+    "major": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "elite": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "asia_tour": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "a_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "b_tier": {
+      "events": 0,
+      "points": 0.0,
+      "weighted": 0.0,
+      "wins": 0
+    },
+    "c_tier": {
+      "events": 1,
+      "points": 125.0,
+      "weighted": 15.0,
+      "wins": 0
+    }
+  },
+  "by_class": {
+    "open_mpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "open_fpo": {
+      "events": 0,
+      "wins": 0,
+      "podiums": 0,
+      "top5": 0,
+      "top10": 0,
+      "top20": 0,
+      "pdga_points": 0.0,
+      "tour_weighted_points": 0.0,
+      "avg_finish": null,
+      "win_rate": 0.0,
+      "top10_rate": 0.0
+    },
+    "amateur": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 125.0,
+      "tour_weighted_points": 15.0,
+      "avg_finish": 2.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    },
+    "all": {
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top5": 1,
+      "top10": 1,
+      "top20": 1,
+      "pdga_points": 125.0,
+      "tour_weighted_points": 15.0,
+      "avg_finish": 2.0,
+      "win_rate": 0.0,
+      "top10_rate": 1.0
+    }
+  },
+  "division_counts": {
+    "MA1": 1
+  },
+  "results": [
+    {
+      "event_id": "84698",
+      "title": "Samui Swine Classic XII - MA1, MA2, MA3, MA40, MA50, MA60, FA1 Presented by Latitude 64",
+      "dates": "28-Jan to 30-Jan-2025",
+      "year": "2025",
+      "tier": "C",
+      "level": "c_tier",
+      "is_asia_tour": false,
+      "location": "Koh Samui, Thailand",
+      "place": 2,
+      "pdga_points": 125.0,
+      "division": "MA1",
+      "class_bucket": "amateur",
+      "prize": "",
+      "weighted_points": 15.0
+    }
+  ],
+  "wins_ledger": [],
+  "by_year": [
+    {
+      "year": "2025",
+      "events": 1,
+      "wins": 0,
+      "podiums": 1,
+      "top10": 1,
+      "pdga_points": 125.0,
+      "avg_finish": 2.0
+    }
+  ],
+  "rating_history": [
+    {
+      "date": "2023-11-14",
+      "rating": 909,
+      "rounds": 12
+    },
+    {
+      "date": "2023-12-12",
+      "rating": 900,
+      "rounds": 13
+    },
+    {
+      "date": "2024-03-12",
+      "rating": 898,
+      "rounds": 13
+    },
+    {
+      "date": "2024-04-09",
+      "rating": 908,
+      "rounds": 16
+    },
+    {
+      "date": "2024-07-09",
+      "rating": 912,
+      "rounds": 16
+    },
+    {
+      "date": "2024-09-10",
+      "rating": 900,
+      "rounds": 18
+    },
+    {
+      "date": "2024-10-08",
+      "rating": 903,
+      "rounds": 20
+    },
+    {
+      "date": "2024-12-10",
+      "rating": 909,
+      "rounds": 22
+    },
+    {
+      "date": "2025-02-11",
+      "rating": 924,
+      "rounds": 25
+    },
+    {
+      "date": "2025-03-11",
+      "rating": 940,
+      "rounds": 26
+    },
+    {
+      "date": "2025-06-10",
+      "rating": 936,
+      "rounds": 27
+    },
+    {
+      "date": "2025-07-08",
+      "rating": 937,
+      "rounds": 30
+    },
+    {
+      "date": "2025-11-11",
+      "rating": 935,
+      "rounds": 31
+    },
+    {
+      "date": "2025-12-09",
+      "rating": 936,
+      "rounds": 30
+    },
+    {
+      "date": "2026-05-12",
+      "rating": 932,
+      "rounds": 18
+    }
+  ],
+  "streak": {
+    "direction": "flat",
+    "recent_avg": 0.0,
+    "season_avg": 0.0,
+    "delta_pct": 0.0
+  },
+  "pdga_url": "https://www.pdga.com/player/236422"
+}
