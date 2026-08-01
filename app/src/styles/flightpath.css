@@ -572,17 +572,6 @@ details.fp-collapsible[open] > summary .fp-collapsible-chevron {
   letter-spacing: -0.03em;
 }
 
-.fp-upcoming-card {
-  justify-content: flex-start;
-}
-
-.fp-upcoming-top {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 0.5rem;
-}
-
 .fp-upcoming-chip {
   display: inline-flex;
   align-items: center;
@@ -600,6 +589,122 @@ details.fp-collapsible[open] > summary .fp-collapsible-chevron {
 .fp-upcoming-chip-tour {
   background: var(--fp-lime);
   color: var(--fp-pine);
+}
+
+/* Upcoming events — detail card grid (replaces horizontal rail) */
+.fp-event-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1rem;
+}
+
+.fp-event-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  padding: 1.15rem 1.2rem 1.25rem;
+  border-radius: var(--fp-radius);
+  background: #fff;
+  border: 1px solid rgba(22, 56, 44, 0.12);
+  transition: border-color 0.15s ease, transform 0.15s ease;
+}
+
+.fp-event-card:hover {
+  border-color: rgba(22, 56, 44, 0.28);
+  transform: translateY(-1px);
+}
+
+.fp-event-card-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+}
+
+.fp-event-tier {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.2rem 0.55rem;
+  border-radius: 0.35rem;
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  background: var(--fp-mist);
+  color: var(--fp-pine);
+}
+
+.fp-event-tier-a {
+  background: var(--fp-pine);
+  color: var(--fp-chalk);
+}
+
+.fp-event-tier-b {
+  background: rgba(22, 56, 44, 0.16);
+  color: var(--fp-pine);
+}
+
+.fp-event-card-title {
+  margin: 0;
+  font-family: Syne, sans-serif;
+  font-size: 1.05rem;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  line-height: 1.25;
+  color: var(--fp-ink);
+  text-decoration: none;
+}
+
+.fp-event-card-title:hover {
+  color: var(--fp-pine);
+}
+
+.fp-event-card-meta {
+  margin: 0;
+  display: grid;
+  gap: 0.4rem;
+  padding-top: 0.15rem;
+  border-top: 1px solid rgba(22, 56, 44, 0.08);
+}
+
+.fp-event-card-meta > div {
+  display: grid;
+  grid-template-columns: 4.2rem 1fr;
+  gap: 0.55rem;
+  align-items: baseline;
+  font-size: 0.84rem;
+  line-height: 1.35;
+}
+
+.fp-event-card-meta dt {
+  margin: 0;
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-size: 0.68rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--fp-muted);
+}
+
+.fp-event-card-meta dd {
+  margin: 0;
+  color: var(--fp-ink);
+}
+
+.fp-event-card-course {
+  color: var(--fp-pine);
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.fp-event-card-course:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 640px) {
+  .fp-event-cards {
+    grid-template-columns: 1fr;
+  }
 }
 
 .fp-country-upcoming .fp-post-meta strong {
