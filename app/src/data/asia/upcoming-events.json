@@ -1,33 +1,7 @@
 {
-  "updated_at": "2026-07-25T16:56:52+00:00",
+  "updated_at": "2026-07-27T05:51:03+00:00",
   "seeded": false,
   "events": [
-    {
-      "event_id": "105198",
-      "title": "CDGT Championship Harbin - China Disc Golf Course Tour Event #3",
-      "tier": "C",
-      "location": "Harbin, Heilongjiang Sheng, China",
-      "dates": "July 25 - 26, 2026",
-      "start_date": "2026-07-25",
-      "end_date": "2026-07-26",
-      "url": "https://www.pdga.com/tour/event/105198",
-      "country_key": "CN",
-      "is_asia_tour": false,
-      "level": "Tournament"
-    },
-    {
-      "event_id": "104360",
-      "title": "ARA DAMANSARA CUP 2026",
-      "tier": "C",
-      "location": "Petaling Jaya, Selangor, Malaysia",
-      "dates": "July 25 - 26, 2026",
-      "start_date": "2026-07-25",
-      "end_date": "2026-07-26",
-      "url": "https://www.pdga.com/tour/event/104360",
-      "country_key": "MY",
-      "is_asia_tour": false,
-      "level": "Tournament"
-    },
     {
       "event_id": "103744",
       "title": "Ulaanbaatar open 2026",
