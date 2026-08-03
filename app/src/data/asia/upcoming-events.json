@@ -1,20 +1,7 @@
 {
-  "updated_at": "2026-07-27T05:51:03+00:00",
+  "updated_at": "2026-08-03T05:42:43+00:00",
   "seeded": false,
   "events": [
-    {
-      "event_id": "103744",
-      "title": "Ulaanbaatar open 2026",
-      "tier": "C",
-      "location": "Ulaanbaatar, Chingeltei, Mongolia",
-      "dates": "August 1 - 2, 2026",
-      "start_date": "2026-08-01",
-      "end_date": "2026-08-02",
-      "url": "https://www.pdga.com/tour/event/103744",
-      "country_key": "MN",
-      "is_asia_tour": false,
-      "level": "Tournament"
-    },
     {
       "event_id": "105914",
       "title": "The 21st Michinoku Open",
